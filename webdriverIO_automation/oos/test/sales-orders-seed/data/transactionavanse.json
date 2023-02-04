@@ -1,0 +1,581 @@
+{"loanDetails": {
+    "totalPaidAmount": 0,
+    "emi": 2000,
+    "tenure": 12,
+    "disbursedAt": "2021-04-15T09:09:01.089Z",
+    "emiCycle": 7
+},
+"nachDetails": {
+    "hasBorder": "no",
+    "isFilledNachUploaded": true,
+    "relaunch": "STARTED",
+    "relaunchCount": 2,
+    "nachAgent": "digio",
+    "nachId": "ENA210507115120160DZERIVGMXMMTPH",
+    "signStatus": "signed",
+    "sponsorBankStatus": "",
+    "umrn": "",
+    "registrationStatus": "",
+    "rejectedReason": null,
+    "autoRelaunch": false,
+    "isPnachUploaded": false,
+    "generatedNachCount": 0,
+    "picGeneratedNachCount": 0,
+    "bankDetails": {
+        "accountNumber": "0026053000013189",
+        "ifsc": "SIBL0000026",
+        "bankName": "SOUTH INDIAN BANK",
+        "accountType": "savings",
+        "name": "NISHA  NANDAN"
+    },
+    "corporateConfigId": "TSE1812101802485453WEX6HUG3W8VJS",
+    "nachStartDate": "2021-06-07T00:00:00.000Z",
+    "signAt": "2021-05-07T06:21:23.947Z",
+    "signedAmount": 24000,
+    "sponsorBank": "Yes Bank Ltd",
+    "updatedAt": "2021-05-07T05:24:55.125Z",
+    "updatedBy": "chethan.y@byjus.com",
+    "utilityCode": "NACH00000000021789",
+    "filledNachMandate": {
+        "url": "https://byjus-oms.s3.ap-southeast-1.amazonaws.com/avanseloandocuments/94917642413588/filledNachMandate-20210507_10545960.jpg",
+        "format": "jpeg"
+    },
+    "remarks": "Auto-Generated filled mandate submitted to digio",
+    "sponsorBankAt": "",
+    "umrnAt": "",
+    "tat": 5,
+    "registrationAt": "",
+    "rejectionCode": "M003",
+    "nachHistory": [
+        {
+            "hasBorder": "no",
+            "isFilledNachUploaded": true,
+            "relaunch": "SUBMITTED",
+            "relaunchCount": 1,
+            "nachAgent": "digio",
+            "nachId": "ENA2104301151252134P3A3CWVZWIHPH",
+            "signStatus": "signed",
+            "sponsorBankStatus": "spo_accepted",
+            "umrn": "SIBL0000000001422991",
+            "registrationStatus": "dest_register_failed",
+            "rejectedReason": "Drawers signature differs",
+            "autoRelaunch": false,
+            "isPnachUploaded": false,
+            "generatedNachCount": 0,
+            "picGeneratedNachCount": 0,
+            "bankDetails": {
+                "accountNumber": "0026053000013189",
+                "ifsc": "SIBL0000026",
+                "bankName": "SOUTH INDIAN BANK",
+                "accountType": "savings",
+                "name": "NISHA  NANDAN"
+            },
+            "corporateConfigId": "TSE1812101802485453WEX6HUG3W8VJS",
+            "nachStartDate": "2021-06-07T00:00:00.000Z",
+            "signAt": "2021-04-30T06:21:33.007Z",
+            "signedAmount": 24000,
+            "sponsorBank": "Yes Bank Ltd",
+            "updatedAt": "2021-05-07T05:24:55.125Z",
+            "updatedBy": "chethan.y@byjus.com",
+            "utilityCode": "NACH00000000021789",
+            "filledNachMandate": {
+                "url": "https://byjus-oms.s3.ap-southeast-1.amazonaws.com/avanseloandocuments/94917642413588/filledNachMandate-20210507_10545960.jpg",
+                "format": "jpeg"
+            },
+            "remarks": "Auto-Generated filled mandate submitted to digio",
+            "sponsorBankAt": "2021-04-30T11:57:11.522Z",
+            "umrnAt": "2021-04-30T20:35:27.000Z",
+            "tat": 5,
+            "registrationAt": "2021-05-05T21:48:49.517Z",
+            "rejectionCode": "M003",
+            "nachHistory": [
+                {
+                    "hasBorder": "no",
+                    "isFilledNachUploaded": true,
+                    "relaunch": "SUBMITTED",
+                    "relaunchCount": 0,
+                    "nachAgent": "digio",
+                    "nachId": "ENA210414193002508UO68LFYRCIPLPH",
+                    "signStatus": "signed",
+                    "sponsorBankStatus": "spo_accepted",
+                    "umrn": "SIBL0000000001415393",
+                    "registrationStatus": "dest_register_failed",
+                    "rejectedReason": "Drawers signature differs",
+                    "autoRelaunch": false,
+                    "isPnachUploaded": false,
+                    "generatedNachCount": 0,
+                    "picGeneratedNachCount": 0,
+                    "bankDetails": {
+                        "accountNumber": "0026053000013189",
+                        "ifsc": "SIBL0000026",
+                        "bankName": "SOUTH INDIAN BANK",
+                        "accountType": "savings",
+                        "name": "NISHA  NANDAN"
+                    },
+                    "corporateConfigId": "TSE1812101802485453WEX6HUG3W8VJS",
+                    "nachStartDate": "2021-06-07T00:00:00.000Z",
+                    "signAt": "2021-04-22T04:20:53.408Z",
+                    "signedAmount": 24000,
+                    "sponsorBank": "Yes Bank Ltd",
+                    "updatedAt": "2021-04-30T06:10:21.862Z",
+                    "updatedBy": "chethan.y@byjus.com",
+                    "utilityCode": "NACH00000000021789",
+                    "filledNachMandate": {
+                        "url": "https://byjus-oms.s3.ap-southeast-1.amazonaws.com/avanseloandocuments/94917642413588/filledNachMandate-20210430_11403430.jpg",
+                        "format": "jpeg"
+                    },
+                    "remarks": "Auto-Generated filled mandate submitted to digio",
+                    "sponsorBankAt": "2021-04-22T11:50:53.867Z",
+                    "umrnAt": "2021-04-21T23:34:54.000Z",
+                    "tat": 7,
+                    "registrationAt": "2021-04-29T21:58:47.260Z",
+                    "rejectionCode": "M003"
+                }
+            ]
+        }
+    ]
+},
+"enachDetails": {
+    "relaunch": "NA",
+    "relaunchCount": 0,
+    "nachAgent": "digio",
+    "nachId": "",
+    "signStatus": "",
+    "umrn": "",
+    "registrationStatus": "",
+    "rejectedReason": ""
+},
+"emandateDetails": {
+    "relaunch": "NA",
+    "relaunchCount": 0,
+    "nachAgent": "digio",
+    "nachId": "ENA210414191219104AEOQRFSRA6OQAP",
+    "signStatus": "partial",
+    "umrn": "",
+    "registrationStatus": "dest_register_failed",
+    "rejectedReason": "Due to link expired relaunch option provided manually",
+    "signAt": "2021-04-14T19:12:19.000Z",
+    "updatedBy": "varsha.nair1@byjus.com",
+    "updatedAt": "2021-04-14T13:42:20.058Z",
+    "nachStartDate": "2021-06-07T00:00:00.000Z",
+    "source": "payment",
+    "sponsorBank": "Yes Bank Ltd",
+    "utilityCode": "NACH00000000021789",
+    "corporateConfigId": "TSE1812101802485453WEX6HUG3W8VJS",
+    "enachMandateUrl": "https://app.digio.in/#/gateway/login/ENA210414191219104AEOQRFSRA6OQAP/94917642413588/9544910040",
+    "enachMandateUrlGeneratedAt": "2021-04-14T13:42:20.059Z",
+    "signedAmount": 24000,
+    "bankDetails": {
+        "accountNumber": "0026053000013189",
+        "ifsc": "SIBL0000026",
+        "bankName": "SOUTH INDIAN BANK",
+        "accountType": "savings",
+        "name": "NISHA  NANDAN"
+    },
+    "remarks": "Due to link expired relaunch option provided manually"
+},
+"upiMandateDetails": {
+    "relaunch": "NA",
+    "relaunchCount": 0,
+    "nachAgent": "paytm",
+    "nachId": "",
+    "signStatus": "",
+    "umrn": "",
+    "registrationStatus": "",
+    "rejectedReason": ""
+},
+"documents": {
+    "pan": {
+        "badImageQualityReason": "",
+        "format": "jpeg",
+        "uploadedAt": "2021-04-14T13:48:32.769Z",
+        "uploadedBy": "varsha.nair1@byjus.com",
+        "url": "https://s3-ap-southeast-1.amazonaws.com/byjus-oms/avanse/94917642413588/pan-cibil-20210414_19183780.jpeg"
+    },
+    "aadharFrontSide": {
+        "badImageQualityReason": "",
+        "format": "jpeg",
+        "uploadedAt": "2021-04-14T13:49:31.453Z",
+        "uploadedBy": "varsha.nair1@byjus.com",
+        "url": "https://s3-ap-southeast-1.amazonaws.com/byjus-oms/avanse/94917642413588/aadharFrontSide-cibil-20210414_19190860.jpeg"
+    },
+    "aadharBackSide": {
+        "badImageQualityReason": "",
+        "format": "jpeg",
+        "uploadedAt": "2021-04-14T13:50:34.573Z",
+        "uploadedBy": "varsha.nair1@byjus.com",
+        "url": "https://s3-ap-southeast-1.amazonaws.com/byjus-oms/avanse/94917642413588/aadharBackSide-cibil-20210414_19201930.jpeg"
+    },
+    "cancelledChequeOrBankStatement": {
+        "badImageQualityReason": "",
+        "format": "jpeg",
+        "uploadedAt": "2021-04-14T13:52:21.411Z",
+        "uploadedBy": "varsha.nair1@byjus.com",
+        "url": "https://s3-ap-southeast-1.amazonaws.com/byjus-oms/avanse/94917642413588/cancelledChequeOrBankStatement-cibil-20210414_19220860.jpeg"
+    },
+    "applicantLivePhoto": {
+        "badImageQualityReason": "",
+        "format": "jpeg",
+        "uploadedAt": "2021-04-14T13:53:43.074Z",
+        "uploadedBy": "varsha.nair1@byjus.com",
+        "url": "https://s3-ap-southeast-1.amazonaws.com/byjus-oms/avanse/94917642413588/applicantLivePhoto-cibil-20210414_19235950.jpeg"
+    },
+    "generatedNachMandate": {
+        "url": "https://byjus-oms.s3.ap-southeast-1.amazonaws.com/cibil/94917642413588/generatedNachMandate-20210414_19308360.pdf",
+        "format": "pdf"
+    },
+    "poaBankStatement": {
+        "badImageQualityReason": "",
+        "format": "jpeg",
+        "uploadedAt": "2021-04-14T13:52:14.350Z",
+        "uploadedBy": "varsha.nair1@byjus.com",
+        "url": "https://s3-ap-southeast-1.amazonaws.com/byjus-oms/avanse/94917642413588/poaBankStatement-cibil-20210414_19220580.jpeg"
+    },
+    "passbook1": {
+        "badImageQualityReason": "",
+        "format": "jpeg",
+        "uploadedAt": "2021-04-14T13:28:58.482Z",
+        "uploadedBy": "varsha.nair1@byjus.com",
+        "url": "https://s3-ap-southeast-1.amazonaws.com/byjus-oms/avanse/94917642413588/passbook1-cibil-20210414_18580780.jpeg"
+    },
+    "passbook2": {
+        "badImageQualityReason": "",
+        "format": "jpeg",
+        "uploadedAt": "2021-04-14T13:29:32.809Z",
+        "uploadedBy": "varsha.nair1@byjus.com",
+        "url": "https://s3-ap-southeast-1.amazonaws.com/byjus-oms/avanse/94917642413588/passbook2-cibil-20210414_18593690.jpeg"
+    },
+    "passbook3": {
+        "badImageQualityReason": "",
+        "format": "jpeg",
+        "uploadedAt": "2021-04-14T13:31:31.672Z",
+        "uploadedBy": "varsha.nair1@byjus.com",
+        "url": "https://s3-ap-southeast-1.amazonaws.com/byjus-oms/avanse/94917642413588/passbook3-cibil-20210414_19012750.jpeg"
+    },
+    "passbook4": {
+        "badImageQualityReason": "",
+        "format": "jpeg",
+        "uploadedAt": "2021-04-14T13:33:07.408Z",
+        "uploadedBy": "varsha.nair1@byjus.com",
+        "url": "https://s3-ap-southeast-1.amazonaws.com/byjus-oms/avanse/94917642413588/passbook4-cibil-20210414_19039630.jpeg"
+    },
+    "esignedLoanAgreement": {
+        "url": "https://byjus-oms.s3.ap-southeast-1.amazonaws.com/cibil/94917642413588/esignedLoanAgreement-20210414_19263250.pdf",
+        "format": "pdf",
+        "uploadedBy": "SYSTEM",
+        "uploadedAt": "2021-04-14T13:56:22.761Z"
+    },
+    "filledNachMandate": {
+        "url": "https://byjus-oms.s3.ap-southeast-1.amazonaws.com/avanseloandocuments/94917642413588/filledNachMandate-20210507_10545960.jpg",
+        "format": "jpeg",
+        "uploadedBy": "chethan.y@byjus.com",
+        "uploadedAt": "2021-05-07T05:24:55.124Z"
+    },
+    "nachMandate": {
+        "url": "https://byjus-oms.s3.ap-southeast-1.amazonaws.com/avanse/94917642413588/filledNachMandate-lms-20210422_09497830.jpg",
+        "format": "jpeg"
+    }
+},
+"foreclosure": {
+    "principalOutstanding": 0,
+    "bounceCharges": 0,
+    "penalty": 0,
+    "excessAmount": 0,
+    "bpi": 0,
+    "perDayInterest": 0,
+    "perDayPenalInterest": 0,
+    "foreclosureCharges": 0,
+    "moratoriumCharges": 0
+},
+"crifLanDetails": {
+    "isSent": false
+},
+"isActive": true,
+"isManuallyAligned": false,
+"assignedTo": [],
+"appId": "94917642413588",
+"amount": 24000,
+"emiAmount": 2000,
+"status": "approved",
+"salesEmail": "varsha.nair1@byjus.com",
+"campaign": "Bangalore",
+"location": "Bangalore",
+"customerDetails": {
+    "firstName": "NISHA",
+    "lastName": "NANDAN",
+    "salutation": "Mrs",
+    "fatherName": "NANDAN",
+    "dateOfBirth": "1980-04-09T12:00:00",
+    "gender": "F",
+    "maritalStatus": "M",
+    "phoneNo": "9544910040",
+    "employer": "BEAUTICIAN",
+    "occupation": "SELF EMPLOYED NON PROFESSIONAL",
+    "emailAddress": "NANDANKADANGODAN@GMAIL.COM"
+},
+"addressDetails": [
+    {
+        "_id": "607802ad856b7203fad76935",
+        "addressLine1": "KIZHAKKOOTTU",
+        "addressLine2": "PARAMBIL,THEKKUMURI,KADANGODE,KADANGODE,",
+        "addressLine3": "KATUNGODE,THRISSUR,KERALA",
+        "city": "TRR",
+        "state": "KL",
+        "pincode": "680584",
+        "mobileNo": 9544910040
+    }
+],
+"bankDetails": {
+    "name": "NISHA  NANDAN",
+    "bankName": "SOUTH INDIAN BANK",
+    "accountType": "savings",
+    "accountNumber": "0026053000013189",
+    "ifsc": "SIBL0000026"
+},
+"identifierDetails": {
+    "panNo": "AJTPN6507D",
+    "aadhaarNo": "0005"
+},
+"approvedBy": "sujith.r@byjus.com",
+"cibilFirstEmiDate": "2021-06-07T00:00:00.000Z",
+"abb": 3086,
+"pennyDropResponse": {
+    "status": true,
+    "referenceId": "9MI66VSGDQY3TNN",
+    "providerName": "digio",
+    "receiverName": "NISHANANDAN",
+    "fuzzyScore": 96,
+    "accountNumber": "0026053000013189",
+    "ifsc": "SIBL0000026",
+    "errorReason": null
+},
+"productName": "CLASS",
+"studentClass": "9",
+"statusHistory": [
+    {
+        "_id": "6076fcc406f7880be850dfd0",
+        "status": "doc_approved",
+        "updatedBy": "sujith.r@byjus.com",
+        "updatedAt": "2021-04-14T14:31:32.478Z"
+    },
+    {
+        "_id": "6077fcbe2290b4684eb5cc3e",
+        "status": "fin_ops_approved",
+        "updatedBy": "pokkalla.hareesh@byjus.com",
+        "updatedAt": "2021-04-15T08:43:42.960Z"
+    },
+    {
+        "_id": "607801bc856b72414cd764bf",
+        "status": "pic_approved",
+        "updatedBy": "pokkalla.hareesh@byjus.com",
+        "updatedAt": "2021-04-15T09:05:00.793Z"
+    },
+    {
+        "_id": "607802ad856b728084d76934",
+        "status": "approved",
+        "updatedBy": "pokkalla.hareesh@byjus.com",
+        "updatedAt": "2021-04-15T09:09:01.089Z"
+    }
+],
+"actionDetails": {
+    "loanInitiatedAt": "2021-04-14T13:22:48.034Z",
+    "loanInitiatedBy": "varsha.nair1@byjus.com",
+    "softApprovedAt": "2021-04-14T13:56:45.849Z",
+    "softApprovedBy": "varsha.nair1@byjus.com",
+    "docApprovedAt": "2021-04-14T14:31:32.478Z",
+    "docApprovedBy": "sujith.r@byjus.com",
+    "finOpsApprovedAt": "2021-04-15T08:43:42.960Z",
+    "finOpsApprovedBy": "pokkalla.hareesh@byjus.com",
+    "picApprovedAt": "2021-04-15T09:05:00.793Z",
+    "picApprovedBy": "pokkalla.hareesh@byjus.com",
+    "disbursedAt": "2021-04-15T09:09:01.088Z",
+    "disbursedBy": "pokkalla.hareesh@byjus.com",
+    "loanCreatedAt": "2021-04-15T09:09:01.088Z",
+    "loanCreatedBy": "pokkalla.hareesh@byjus.com"
+},
+"assignedBy": "",
+"docVerifiedAt": "2021-04-14T14:31:32.491Z",
+"cibilStatus": "ntc",
+"pNachDeliveryAddress": {
+    "addressLine1": "thrissur",
+    "city": "thrissur",
+    "state": "kerala",
+    "pincode": "680584"
+},
+"eligibleForEmandate": "Yes",
+"eligibleForEnach": "No",
+"eligibleForUpiMandate": "No",
+"agNachEmailedAt": "2021-04-14T14:00:09.285Z",
+"leadId": "",
+"orders": [
+    
+],
+"emiSchedules": [
+    {
+        "_id": "607802ad856b724c80d76936",
+        "scheduledDate": "2021-06-07T00:00:00.000Z",
+        "amount": 2000,
+        "balanceAmount": 22000,
+        "status": "unpaid",
+        "internalStatus": "emi_unpaid",
+        "remarks": ""
+    },
+    {
+        "_id": "607802ad856b720238d76937",
+        "scheduledDate": "2021-07-07T00:00:00.000Z",
+        "amount": 2000,
+        "balanceAmount": 20000,
+        "status": "unpaid",
+        "internalStatus": "emi_unpaid",
+        "remarks": ""
+    },
+    {
+        "_id": "607802ad856b722fb4d76938",
+        "scheduledDate": "2021-08-07T00:00:00.000Z",
+        "amount": 2000,
+        "balanceAmount": 18000,
+        "status": "unpaid",
+        "internalStatus": "emi_unpaid",
+        "remarks": ""
+    },
+    {
+        "_id": "607802ad856b725ec4d76939",
+        "scheduledDate": "2021-09-07T00:00:00.000Z",
+        "amount": 2000,
+        "balanceAmount": 16000,
+        "status": "unpaid",
+        "internalStatus": "emi_unpaid",
+        "remarks": ""
+    },
+    {
+        "_id": "607802ad856b724045d7693a",
+        "scheduledDate": "2021-10-07T00:00:00.000Z",
+        "amount": 2000,
+        "balanceAmount": 14000,
+        "status": "unpaid",
+        "internalStatus": "emi_unpaid",
+        "remarks": ""
+    },
+    {
+        "_id": "607802ad856b723dd4d7693b",
+        "scheduledDate": "2021-11-07T00:00:00.000Z",
+        "amount": 2000,
+        "balanceAmount": 12000,
+        "status": "unpaid",
+        "internalStatus": "emi_unpaid",
+        "remarks": ""
+    },
+    {
+        "_id": "607802ad856b727eabd7693c",
+        "scheduledDate": "2021-12-07T00:00:00.000Z",
+        "amount": 2000,
+        "balanceAmount": 10000,
+        "status": "unpaid",
+        "internalStatus": "emi_unpaid",
+        "remarks": ""
+    },
+    {
+        "_id": "607802ad856b728672d7693d",
+        "scheduledDate": "2022-01-07T00:00:00.000Z",
+        "amount": 2000,
+        "balanceAmount": 8000,
+        "status": "unpaid",
+        "internalStatus": "emi_unpaid",
+        "remarks": ""
+    },
+    {
+        "_id": "607802ad856b7279a5d7693e",
+        "scheduledDate": "2022-02-07T00:00:00.000Z",
+        "amount": 2000,
+        "balanceAmount": 6000,
+        "status": "unpaid",
+        "internalStatus": "emi_unpaid",
+        "remarks": ""
+    },
+    {
+        "_id": "607802ad856b720e9cd7693f",
+        "scheduledDate": "2022-03-07T00:00:00.000Z",
+        "amount": 2000,
+        "balanceAmount": 4000,
+        "status": "unpaid",
+        "internalStatus": "emi_unpaid",
+        "remarks": ""
+    },
+    {
+        "_id": "607802ad856b721298d76940",
+        "scheduledDate": "2022-04-07T00:00:00.000Z",
+        "amount": 2000,
+        "balanceAmount": 2000,
+        "status": "unpaid",
+        "internalStatus": "emi_unpaid",
+        "remarks": ""
+    },
+    {
+        "_id": "607802ad856b7273c5d76941",
+        "scheduledDate": "2022-05-07T00:00:00.000Z",
+        "amount": 2000,
+        "balanceAmount": 0,
+        "status": "unpaid",
+        "internalStatus": "emi_unpaid",
+        "remarks": ""
+    }
+],
+"loanHistory": [],
+"manualPayments": [],
+"esign": [],
+"createdAt": "2021-04-14T14:31:32.521Z",
+"updatedAt": "2021-05-07T05:24:55.129Z",
+"__v": 0,
+"customerId": "CX-2104141510350515",
+"lvStage": "LV - Positive Verification",
+"createdBy": "pokkalla.hareesh@byjus.com",
+"cif": "409935",
+"disbursalAmount": 21805,
+"firstEmiDate": "2021-06-07T00:00:00.000Z",
+"lastEmiDate": "2022-05-07T00:00:00.000Z",
+"loanId": "COIDP00206768",
+"loanStartDate": "2021-04-15T09:09:01.089Z",
+"manualConfirmation": "yes",
+"subventionAmount": 2195,
+"eligibleForNewLoan": false,
+"pnlDetails": {
+    "chargesPaidByByjus": 0,
+    "dpdBucket": 0,
+    "emiPaidByByjus": 0,
+    "emiPaidByCx": 0,
+    "maturityPaidByByjus": 0,
+    "moratoriumMonthCount": 0,
+    "noOfBounce": 0,
+    "noOfEmiCrossed": 0,
+    "noOfEmiDue": 12,
+    "noOfEmiOverDue": 0,
+    "noOfEmiPaidByByjus": 0,
+    "noOfEmiPaidByCx": 0,
+    "noOfEmiToBeCollected": 1,
+    "outstandingLoanAmount": 24000,
+    "totalAmountToBeCollected": 2000,
+    "totalPaidAmount": 0,
+    "updatedAt": "2021-05-06T18:36:38.337Z"
+},
+"disbursalResponse": {
+    "paymentId": 221117,
+    "finReference": "COIDP00206768",
+    "disbParty": "CS",
+    "disbDate": "2021-04-15T05:30:00.000Z",
+    "disbType": "NEFT",
+    "disbAmount": 2180500,
+    "status": "PAID",
+    "transactionRef": "AXISCN0075937646",
+    "remarks": "Disbursing to BYJUS Account",
+    "branchCode": "ICIC0000357",
+    "city": "BNG",
+    "phoneNumber": "8050634122",
+    "partnerBankId": 46,
+    "ifsc": "ICIC0000357",
+    "bankCode": "ICIC",
+    "accountNo": "035705001241",
+    "acHolderName": "Think and Learn Pvt. Ltd"
+},
+"disbursalUtr": "AXISCN0075937646",
+"reconciliationStatus": "reconciled"
+}

@@ -1,0 +1,15 @@
+{
+	"meetingInstanceId" : 898269,
+	"actualDuration" : 3370,
+	"connectedCallCriteria" : 90,
+	"createdAt" : "1/11/2021",
+	"host" : "35-131-4736",
+	"date" : "2021-01-10",
+	"isConnectedCall" : true,
+	"meetingStartTime" : "2021-01-10T21:15:42.000+05:30",
+	"meetingEndTime" : "2021-01-11T13:47:57.000+05:30",
+	"numberOfAttendees" : 10,
+	"status" : "Completed",
+	"scheduledDuration" : 2769,
+	"schedule" : "From sep 26th 2020 4:15 pm IST - To sep 26th 2020 6:00 pm IST"
+}

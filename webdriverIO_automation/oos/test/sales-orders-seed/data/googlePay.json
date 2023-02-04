@@ -1,0 +1,58 @@
+
+{
+    "referenceId": "BYJGP4729898756",
+    "__v": 0,
+    "actionDetails": {
+      "notInitiatedAt": "2022-07-25T12:47:10.861Z",
+      "notInitiatedBy": "shruti.tapare@byjus.com"
+    },
+    "amount": 30000,
+    "campaign": "Bangalore",
+    "courseDescription": "Byjus Product Payment created from Kart",
+    "createdAt": {
+      "date": {
+        "numberLong": "1664448373450"
+      }
+    },
+    "createdBy": "deepa.reddy@byjus.com",
+    "customerEmail": "dilipkumar@gmail.com",
+    "customerName": "Bhumik",
+    "customerPhone": "7022651245",
+    "department": "business_development",
+    "gpayReferenceId": "ATC2209294434",
+    "location": "Bangalore",
+    "orders": [
+      {
+        "orderId": "SO-2209291045590731",
+        "orderStatus": "not_confirmed",
+        "orderType": "SPLIT",
+        "statusChangedAt": {
+          "date": {
+            "numberLong": "1664448420616"
+          }
+        },
+        "orderCreatedAt": {
+          "date": {
+            "numberLong": "1664448377942"
+          }
+        },
+        "orderUpdatedAt": {
+          "date": {
+            "numberLong": "1664449514266"
+          }
+        }
+      }
+    ],
+    "orgFormattedName": [
+      "byjus"
+    ],
+    "salesEmail": "sanjay.karkera@byjus.com",
+    "status": "success",
+    "subDepartment": "sales",
+    "updatedAt": {
+      "date": {
+        "numberLong": "1664449514266"
+      }
+    },
+    "customerId": "CX-2209291045546192"
+  }

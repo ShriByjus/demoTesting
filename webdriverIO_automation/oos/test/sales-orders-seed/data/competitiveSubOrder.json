@@ -1,0 +1,631 @@
+{
+    "orderType": "SINGLE",
+    "courseType": "IAS",
+    "lineItems": [
+        {
+            "sku": "IAS 2021 HYD CLASSROOM-BYJUS",
+            "course": "CRP IAS",
+            "grade": null,
+            "board": null,
+            "productId": "1498352",
+            "productType": "course",
+            "name": "IAS 2021 HYD CLASSROOM-BYJUS",
+            "validity": "MAY 2021",
+            "type": "New",
+            "continousPrice": "0",
+            "basePrice": "50625",
+            "createdAt": "2019-08-20T11:43:30.848Z",
+            "__v": 0,
+            "studentId": "Raju Reddy-1",
+            "salesSubOrderId": "SSO1-2101210850070168",
+            "itemType": "New",
+            "price": 13214.285714285714,
+            "itemStatus": "mapping_pending",
+            "invoicePrice": 0
+        },
+        {
+            "sku": "IAS 2021 CURRENT AFFAIRS",
+            "productId": "1186301",
+            "basePrice": "5000",
+            "continousPrice": "0",
+            "name": "IAS 2021 CURRENT AFFAIRS",
+            "course": "IAS",
+            "type": "New",
+            "validity": "DECEMBER 2021",
+            "optional": "Current Affairs",
+            "productType": "course",
+            "price": 13214.285714285714,
+            "studentId": "Raju Reddy-1",
+            "salesSubOrderId": "SSO1-2101210850070168",
+            "itemType": "New",
+            "itemStatus": "mapping_pending",
+            "invoicePrice": 0
+        },
+        {
+            "sku": "IAS 2021 Mains Test series",
+            "productId": "1186293",
+            "basePrice": "5000",
+            "continousPrice": 0,
+            "name": "IAS 2021 Mains Test series",
+            "course": "IAS",
+            "type": "New",
+            "validity": "DECEMBER 2021",
+            "optional": "Mains Test Series",
+            "price": 13214.285714285714,
+            "studentId": "Raju Reddy-1",
+            "salesSubOrderId": "SSO1-2101210850070168",
+            "itemType": "New",
+            "itemStatus": "mapping_pending",
+            "invoicePrice": 0
+        },
+        {
+            "sku": "IAS 2021 (SD Card-Byjus)",
+            "productId": "1242859",
+            "basePrice": "35000",
+            "continousPrice": "0",
+            "name": "IAS 2021 (SD Card-Byjus)",
+            "course": "IAS",
+            "type": "New",
+            "validity": "DECEMBER 2021",
+            "optional": null,
+            "productType": "course",
+            "price": 13214.285714285714,
+            "studentId": "Raju Reddy-1",
+            "salesSubOrderId": "SSO1-2101210850070168",
+            "itemType": "sd_card",
+            "itemStatus": "mapping_pending",
+            "invoicePrice": "92500.00"
+        },
+        {
+            "sku": "IAS 2021 Prelims Test series",
+            "productId": "1186298",
+            "basePrice": "5000",
+            "continousPrice": "0",
+            "name": "IAS 2021 Prelims Test series",
+            "course": "IAS",
+            "type": "New",
+            "validity": "DECEMBER 2021",
+            "optional": "Prelims Test Series",
+            "productType": "course",
+            "itemType": "optional",
+            "price": 13214.285714285714,
+            "studentId": "Raju Reddy-1",
+            "salesSubOrderId": "SSO1-2101210850070168",
+            "itemStatus": "mapping_pending",
+            "invoicePrice": 0
+        },
+        {
+            "sku": "IAS Misc All India Prelims Test series English Dec 2021",
+            "productId": "1951326",
+            "basePrice": "10000",
+            "continousPrice": "0",
+            "name": "IAS Misc All India Prelims Test series English Dec 2021",
+            "course": "IAS",
+            "type": "New",
+            "validity": "DECEMBER 2021",
+            "optional": "Misc Prelims Test Series - English",
+            "productType": "course",
+            "price": 13214.285714285714,
+            "studentId": "Raju Reddy-1",
+            "salesSubOrderId": "SSO1-2101210850070168",
+            "itemType": "New",
+            "itemStatus": "mapping_pending",
+            "invoicePrice": 0
+        },
+        {
+            "sku": "IAS MATERIAL (Printed Books)",
+            "productId": "1023594",
+            "basePrice": "0",
+            "continousPrice": "0",
+            "name": "IAS MATERIAL (Printed Books)",
+            "course": "IAS",
+            "type": "Book",
+            "validity": "DECEMBER 2021",
+            "optional": null,
+            "productType": "course",
+            "studentId": "Raju Reddy-1",
+            "salesSubOrderId": "SSO1-2101210850070168",
+            "itemType": "Book",
+            "price": 13214.285714285714,
+            "itemStatus": "mapping_pending",
+            "invoicePrice": 0
+        },
+        {
+            "sku": "Lenovo Tablet Add-on-BYJUS (10 inch)",
+            "course": "",
+            "grade": null,
+            "board": null,
+            "productType": "course",
+            "productId": "1030538",
+            "name": "Lenovo Tablet Add-on-BYJUS (10 inch)",
+            "type": "tablet",
+            "validity": "MAY 2020",
+            "continousPrice": "12500",
+            "basePrice": "12500",
+            "size": 10,
+            "skuId": "TLXMZZ",
+            "price": "12500",
+            "itemType": "tablet",
+            "studentId": "Raju Reddy-1",
+            "salesSubOrderId": "SSO1-2101210850070168",
+            "itemStatus": "mapping_pending",
+            "invoicePrice": "12500"
+        }
+    ],
+    "shipmentLineItems": [
+        {
+            "skuId": "TLXMZZIS",
+            "properties": {
+                "warehouse": "IBC",
+                "inventoryLocation": "FI IBC",
+                "manufacturer": "Lenovo",
+                "brand": "Lenovo"
+            },
+            "skuName": "IAS Lenovo 10 inch Tablet Mobile Data",
+            "type": "tablet",
+            "price": 13000,
+            "studentId": "Raju Reddy-1",
+            "itemStatus": "delivered",
+            "createdAt": "2020-08-01T09:20:25.273Z",
+            "createdBy": "dinesh.m@byjus.com",
+            "status": "active",
+            "versionLogs": [],
+            "itemId": "TLXMZZIS002843",
+            "actionDetails": {
+                "setupDoneAt": "2021-01-21T10:26:29.189Z",
+                "setupDoneBy": "manohar.reddy@byjus.com",
+                "packedAt": "2021-01-23T08:09:40.579Z",
+                "packedBy": "kumar.praveen@byjus.com"
+            }
+        },
+        {
+            "skuId": "BKISTPEN0320",
+            "properties": {
+                "warehouse": "IBC",
+                "inventoryLocation": "FI IBC",
+                "course": "IAS",
+                "language": "English"
+            },
+            "skuName": "IAS English Printed Books",
+            "type": "book",
+            "studentId": "Raju Reddy-1",
+            "price": 46000,
+            "itemStatus": "delivered",
+            "createdAt": "2020-08-01T09:20:25.316Z",
+            "createdBy": "dinesh.m@byjus.com",
+            "status": "active",
+            "versionLogs": [],
+            "itemId": "BKISTPEN0320205100",
+            "actionDetails": {
+                "packedAt": "2021-02-03T11:03:00.559Z",
+                "packedBy": "kanhaiya.kumar@byjus.com"
+            }
+        },
+        {
+            "skuId": "S4EUP",
+            "studentId": "Raju Reddy-1",
+            "createdAt": "2020-10-01T09:11:51.324Z",
+            "createdBy": "johnson.cherian@byjus.com",
+            "properties": {
+                "course": "IAS",
+                "subscriptionType": "full",
+                "language": "english",
+                "validity": "NA"
+            },
+            "skuName": "UPSC English SD Card - New",
+            "status": "active",
+            "type": "sd_card",
+            "versionLogs": [],
+            "price": 46000,
+            "itemStatus": "delivered",
+            "itemId": "S4EUP017059",
+            "actionDetails": {
+                "packedAt": "2021-01-23T08:09:40.579Z",
+                "packedBy": "kumar.praveen@byjus.com"
+            }
+        }
+    ],
+    "salesDetails": {
+        "typeOfSales": "NonDSSales",
+        "directSalesBy": "mohnish@thinkandlearn.in",
+        "directSalesByCampaign": "Bangalore",
+        "salesAppointmentBy": "mohnish@thinkandlearn.in",
+        "salesAppointmentByCampaign": "Bangalore",
+        "incentiveDate": "2021-01-21T08:46:33.232Z",
+        "salesIndex": 80
+    },
+    "customerDetails": {
+        "customerId": "",
+        "name": "Invoice Inba",
+        "alternateName": "Nidhi Singh",
+        "mobileNo": "+91-7488173804",
+        "alternateMobileNo": "",
+        "email": "nidhisingh.n@icloud.com",
+        "alternateEmail": null,
+        "type": null
+    },
+    "addressDetails": {
+        "billing": {
+            "addressLine1": "2nd floor.Prime Plaza,",
+            "addressLine2": "Above woodland showroom,",
+            "addressLine3": "Himayatnagar,",
+            "country": "India",
+            "zipcode": "500029",
+            "state": "Telangana (TS)",
+            "city": "Hyderabad",
+            "address": "2nd floor.Prime Plaza\n\n Above woodland showroom\n\n Himayatnagar"
+        },
+        "shipping": {
+            "addressLine1": "2nd floor.Prime Plaza,",
+            "addressLine2": "Above woodland showroom,",
+            "addressLine3": "Himayatnagar,",
+            "country": "India",
+            "zipcode": "500029",
+            "state": "Telangana (TS)",
+            "city": "Hyderabad",
+            "address": "2nd floor.Prime Plaza\n\n Above woodland showroom\n\n Himayatnagar"
+        }
+    },
+    "attachments": [],
+    "studentDetails": [
+        {
+            "studentProfileDetails": {
+                "isExistingProfile": false,
+                "existingPremiumId": "",
+                "existingFamilyId": ""
+            },
+            "hlpDetails": {
+                "courseDetails": [],
+                "sessionDetails": []
+            },
+            "courseType": [
+                "IAS"
+            ],
+            "workshops": [],
+            "items": [
+                {
+                    "auditLogs": [],
+                    "_id": "5d5bdce209bb4c564cb62f12",
+                    "sku": "IAS 2021 HYD CLASSROOM-BYJUS",
+                    "course": "CRP IAS",
+                    "grade": null,
+                    "board": null,
+                    "city": "HYD",
+                    "productId": "1498352",
+                    "productType": "course",
+                    "name": "IAS 2021 HYD CLASSROOM-BYJUS",
+                    "validity": "MAY 2021",
+                    "type": "New",
+                    "continousPrice": "0",
+                    "cohort_id": 0,
+                    "basePrice": "50625",
+                    "updatedBy": "ayushi.sinha@byjus.com",
+                    "createdAt": "2019-08-20T11:43:30.848Z",
+                    "updatedAt": "2019-08-20T11:45:38.494Z",
+                    "__v": 0,
+                    "studentId": "Raju Reddy-1"
+                },
+                {
+                    "_id": "5b4d9c68f308d3dc994f726a",
+                    "sku": "IAS 2021 CURRENT AFFAIRS",
+                    "productId": "1186301",
+                    "basePrice": "5000",
+                    "continousPrice": "0",
+                    "name": "IAS 2021 CURRENT AFFAIRS",
+                    "course": "IAS",
+                    "type": "New",
+                    "validity": "DECEMBER 2021",
+                    "optional": "Current Affairs",
+                    "city": null,
+                    "updatedAt": "2020-06-19T14:11:38.322Z",
+                    "cohort_id": 0,
+                    "productType": "course",
+                    "updatedBy": "ayushi.sinha@byjus.com",
+                    "auditLogs": [
+                        {
+                            "changes": {
+                                "basePrice": {
+                                    "oldValue": "2500",
+                                    "newValue": "5000"
+                                },
+                                "isVerified": {
+                                    "oldValue": null,
+                                    "newValue": true
+                                }
+                            },
+                            "updatedBy": "ayushi.sinha@byjus.com",
+                            "updatedAt": "2020-06-19T14:11:38.321Z"
+                        }
+                    ],
+                    "isVerified": true,
+                    "price": 5000,
+                    "studentId": "Raju Reddy-1"
+                },
+                {
+                    "_id": "5b4d9c68f308d3dc994f726f",
+                    "sku": "IAS 2021 Mains Test series",
+                    "productId": "1186293",
+                    "basePrice": "5000",
+                    "continousPrice": 0,
+                    "name": "IAS 2021 Mains Test series",
+                    "course": "IAS",
+                    "type": "New",
+                    "validity": "DECEMBER 2021",
+                    "optional": "Mains Test Series",
+                    "city": null,
+                    "price": 5000,
+                    "studentId": "Raju Reddy-1"
+                },
+                {
+                    "_id": "5bbcc935bdf7b054ee11cc38",
+                    "sku": "IAS 2021 (SD Card-Byjus)",
+                    "productId": "1242859",
+                    "basePrice": "35000",
+                    "continousPrice": "0",
+                    "name": "IAS 2021 (SD Card-Byjus)",
+                    "course": "IAS",
+                    "type": "New",
+                    "validity": "DECEMBER 2021",
+                    "optional": null,
+                    "city": null,
+                    "updatedAt": "2020-06-19T14:08:13.591Z",
+                    "cohort_id": 24,
+                    "productType": "course",
+                    "updatedBy": "ayushi.sinha@byjus.com",
+                    "auditLogs": [
+                        {
+                            "changes": {
+                                "basePrice": {
+                                    "oldValue": "46250",
+                                    "newValue": "25000"
+                                },
+                                "isVerified": {
+                                    "oldValue": null,
+                                    "newValue": true
+                                }
+                            },
+                            "updatedBy": "ayushi.sinha@byjus.com",
+                            "updatedAt": "2020-06-19T14:08:13.590Z"
+                        }
+                    ],
+                    "isVerified": true,
+                    "price": 35000,
+                    "studentId": "Raju Reddy-1"
+                },
+                {
+                    "_id": "5eedfc30ef30a1329565a190",
+                    "sku": "IAS 2021 Prelims Test series",
+                    "productId": "1186298",
+                    "basePrice": "5000",
+                    "continousPrice": "0",
+                    "name": "IAS 2021 Prelims Test series",
+                    "course": "IAS",
+                    "type": "New",
+                    "validity": "DECEMBER 2021",
+                    "optional": "Prelims Test Series",
+                    "city": null,
+                    "cohort_id": 0,
+                    "productType": "course",
+                    "updatedBy": "ayushi.sinha@byjus.com",
+                    "isVerified": true,
+                    "itemType": "optional",
+                    "price": 5000,
+                    "studentId": "Raju Reddy-1"
+                },
+                {
+                    "_id": "5ff78b9b39ce3d001af3217c",
+                    "sku": "IAS Misc All India Prelims Test series English Dec 2021",
+                    "productId": "1951326",
+                    "basePrice": "10000",
+                    "continousPrice": "0",
+                    "name": "IAS Misc All India Prelims Test series English Dec 2021",
+                    "course": "IAS",
+                    "type": "New",
+                    "validity": "DECEMBER 2021",
+                    "optional": "Misc Prelims Test Series - English",
+                    "city": null,
+                    "cohort_id": 0,
+                    "productType": "course",
+                    "updatedBy": "ayushi.sinha@byjus.com",
+                    "price": 10000,
+                    "studentId": "Raju Reddy-1"
+                },
+                {
+                    "auditLogs": [
+                        {
+                            "changes": {
+                                "basePrice": {
+                                    "oldValue": "1250",
+                                    "newValue": "10000"
+                                },
+                                "isVerified": {
+                                    "oldValue": null,
+                                    "newValue": true
+                                }
+                            },
+                            "updatedBy": "ayushi.sinha@byjus.com",
+                            "updatedAt": "2020-06-19T14:06:45.705Z"
+                        }
+                    ],
+                    "_id": "5b45a62df308d38e1fc3910b",
+                    "sku": "IAS MATERIAL (Printed Books)",
+                    "productId": "1023594",
+                    "basePrice": "0",
+                    "continousPrice": "0",
+                    "name": "IAS MATERIAL (Printed Books)",
+                    "course": "IAS",
+                    "type": "Book",
+                    "validity": "DECEMBER 2021",
+                    "optional": null,
+                    "city": null,
+                    "updatedAt": "2020-06-19T14:06:45.705Z",
+                    "cohort_id": 0,
+                    "productType": "course",
+                    "updatedBy": "ayushi.sinha@byjus.com",
+                    "isVerified": true,
+                    "studentId": "Raju Reddy-1"
+                },
+                {
+                    "_id": "5e886cfb08910332f62d4689",
+                    "sku": "Lenovo Tablet Add-on-BYJUS (10 inch)",
+                    "course": "",
+                    "grade": null,
+                    "board": null,
+                    "city": null,
+                    "cohort_id": null,
+                    "productType": "course",
+                    "productId": "1030538",
+                    "name": "Lenovo Tablet Add-on-BYJUS (10 inch)",
+                    "type": "tablet",
+                    "validity": "MAY 2020",
+                    "continousPrice": "12500",
+                    "basePrice": "12500",
+                    "updatedBy": "ayushi.sinha@byjus.com",
+                    "isVerified": true,
+                    "size": 10,
+                    "skuId": "TLXMZZ",
+                    "price": "12500",
+                    "itemType": "tablet",
+                    "studentId": "Raju Reddy-1"
+                }
+            ],
+            "addOnItems": [],
+            "mentoringDetails": [],
+            "bhlpCourseDetails": [],
+            "_id": "60093f0cd2d912001f92ddd0",
+            "course": "IAS",
+            "validity": "2021",
+            "tablet": "1030538",
+            "formValues": {
+                "crpCity": "HYD",
+                "course": "IAS",
+                "validity": 2021,
+                "tablet": "1030538"
+            },
+            "studentName": "Raju Reddy",
+            "studentId": "Raju Reddy-1",
+            "premiumAccount": "1025014108"
+        }
+    ],
+    "paymentDetails": {
+        "payments": [
+            {
+                "isPrepaid": false,
+                "_id": "60093f3a4507d60019d508c2",
+                "provider": "BYJUS_DIRECT",
+                "referenceId": "92054958602730",
+                "amount": 70000,
+                "additionalDetails": {
+                    "umrn": "",
+                    "provider": "BYJUS_DIRECT",
+                    "referenceId": "92054958602730",
+                    "registrationStatus": [
+                        "",
+                        "dest_register_success"
+                    ],
+                    "filledNachMandate": "https://byjus-oms.s3.ap-southeast-1.amazonaws.com/byjusdirectloandocuments/92054958602730/filledNachMandate-200130094829238.jpg"
+                },
+                "type": "EMI",
+                "mobileNo": "7287831964",
+                "attachments": [],
+                "isActive": true
+            },
+            {
+                "isPrepaid": true,
+                "_id": "60093f3a4507d60019d508c3",
+                "provider": "PAYU",
+                "referenceId": "BYJUS0002001220413032567",
+                "amount": 35000,
+                "type": "DOWN_PAYMENT",
+                "mobileNo": "7287831964",
+                "attachments": [],
+                "isActive": true
+            }
+        ],
+        "paymentMethod": "LP_GP",
+        "paymentStatus": "PARTIAL_PAID",
+        "paymentMode": "BYJUS_DIRECT:PAYU",
+        "paymentAmountSplit": "70000:35000",
+        "totalAmount": 105000
+    },
+    "leadDetails": {
+        "prospectId": "78ac52ce-ae89-11e8-9415-0a3f89e00c4e",
+        "accountNo": "24693",
+        "loggedInEmailId": "hitesh.patel@byjus.com",
+        "leadCreatedBy": "",
+        "leadCreatedAt": null,
+        "leadMobileNo": "+91-7287831964",
+        "isLeadMobileUsed": false,
+        "leadLink": "https://run.leadsquared.com/LeadManagement/LeadDetails?LeadID=78ac52ce-ae89-11e8-9415-0a3f89e00c4e"
+    },
+    "contactDetails": {
+        "orderPunchingContact": "8801780257",
+        "cxProvidedContact": "",
+        "leadContact": "7287831964",
+        "gpContact": "7287831964",
+        "ngpContact": "",
+        "lpContact": "7287831964"
+    },
+    "type": "product",
+    "subType": "course",
+    "status": "delivered",
+    "actionDetails": {
+        "createdAt": "2021-01-21T08:50:08.165Z",
+        "createdBy": "hitesh.patel@byjus.com",
+        "confirmedAt": "2021-01-21T08:50:08.165Z",
+        "confirmedBy": "system",
+        "partialSetupDoneAt": "2021-01-21T10:26:11.560Z",
+        "partialSetupDoneBy": "manohar.reddy@byjus.com",
+        "setupDoneAt": "2021-01-21T10:26:29.506Z",
+        "setupDoneBy": "manohar.reddy@byjus.com",
+        "partialPackedAt": "2021-01-23T08:09:40.732Z",
+        "partialPackedBy": "kumar.praveen@byjus.com",
+        "partialShippedAt": "2021-01-23T08:09:55.452Z",
+        "partialShippedBy": "kumar.praveen@byjus.com",
+        "partialManifestedAt": "2021-01-25T08:49:00.937Z",
+        "partialManifestedBy": "subha.chandan@byjus.com",
+        "partialDeliveredAt": "2021-01-27T19:53:46.000Z",
+        "partialDeliveredBy": "system",
+        "deliveredAt": "2021-02-07T15:19:02.002Z",
+        "deliveredBy": "system"
+    },
+    "createdAt": "2021-01-21T08:46:33.232Z",
+    "updatedat": "2021-01-21T08:50:08.165Z",
+    "updatedAt": "2021-02-07T13:06:47.037Z",
+    "salesOrderStatus": "delivered",
+    "assignmentDetails": {
+        "presentOwner": "kanhaiya.kumar@byjus.com",
+        "presentOwnerType": "shipmentUser",
+        "setupUser": "manohar.reddy@byjus.com",
+        "setupUserAt": "2021-01-21T10:02:21.587Z",
+        "status": "assigned",
+        "inventoryUser": "alok.d@byjus.com",
+        "inventoryUserAt": "2021-01-23T05:42:10.898Z",
+        "shipmentUser": "kanhaiya.kumar@byjus.com",
+        "shipmentUserAt": "2021-01-23T08:10:23.901Z"
+    },
+    "updatedBy": "system",
+    "inventoryDetails": {
+        "isRequestRaised": false,
+        "requestRaisedAt": "2021-01-21T10:12:49.140Z",
+        "requestRaisedBy": "manohar.reddy@byjus.com"
+    },
+    "packageIds": [
+        "P1-SSO1-2101210850070168",
+        "P2-SSO1-2101210850070168"
+    ],
+    "packageDetails": [
+        {
+            "packageId": "P1-SSO1-2101210850070168",
+            "awbNumber": 200821239,
+            "shipmentOrderId": "SHO1-SSO1-2101210850070168",
+            "status": "delivered"
+        },
+        {
+            "packageId": "P2-SSO1-2101210850070168",
+            "awbNumber": "4388212324556",
+            "shipmentOrderId": "SHO2-SSO1-2101210850070168",
+            "status": "delivered"
+        }
+    ]
+}

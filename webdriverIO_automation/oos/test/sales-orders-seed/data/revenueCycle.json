@@ -1,0 +1,11 @@
+{
+    "cycleName": "2021_week03_jan14_jan20",
+    "createdAt": "2021-01-14T05:30:00.612Z",
+    "createdBy": "mongodb_trigger",
+    "cycleStart": "2021-01-14T00:00:00.000Z",
+    "cycleEnd": "2021-01-21T00:00:00.000Z",
+    "cycleType": "weekly",
+    "isLocked": false,
+    "isWfhCycle": true,
+    "updatedAt": "2021-01-17T15:06:35.704Z"
+}

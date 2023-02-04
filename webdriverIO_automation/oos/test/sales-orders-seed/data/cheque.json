@@ -1,0 +1,538 @@
+
+{
+    "attachments": [
+      {
+        "url": "https://byjus-oms.s3.ap-southeast-1.amazonaws.com/development/upload/2.png/2.png-2001310155154708.png",
+        "uploadedBy": "johnson.cherian@byjus.com",
+        "uploadedAt": "2020-01-31T13:55:15.829Z",
+        "verified": "true"
+      }
+    ],
+    "history": [
+      {
+        "ds_repload_requestedAt": {
+          "date": {
+            "numberLong": "1581228504299"
+          }
+        },
+        "updatedBy": "johnson.cherian@byjus.com",
+        "changes": {
+          "status": "ds_repload_requested"
+        },
+        "updatedAt": {
+          "date": {
+            "numberLong": "1581228504299"
+          }
+        }
+      },
+      {
+        "updatedBy": "johnson.cherian@byjus.com",
+        "ds_uploadedAt": {
+          "date": {
+            "numberLong": "1581228531302"
+          }
+        },
+        "changes": {
+          "status": "ds_uploaded"
+        },
+        "updatedAt": {
+          "date": {
+            "numberLong": "1581228531302"
+          }
+        }
+      },
+      {
+        "updatedBy": "johnson.cherian@byjus.com",
+        "verifiedAt": {
+          "date": {
+            "numberLong": "1581235910251"
+          }
+        },
+        "changes": {
+          "staus": "verified"
+        },
+        "updatedAt": {
+          "date": {
+            "numberLong": "1581235910251"
+          }
+        }
+      },
+      {
+        "reconciledAt": {
+          "date": {
+            "numberLong": "1581239927383"
+          }
+        },
+        "updatedBy": "johnson.cherian@byjus.com",
+        "changes": {
+          "status": "reconciled"
+        },
+        "updatedAt": {
+          "date": {
+            "numberLong": "1581239927383"
+          }
+        }
+      },
+      {
+        "reconciledAt": {
+          "date": {
+            "numberLong": "1581240069901"
+          }
+        },
+        "updatedBy": "johnson.cherian@byjus.com",
+        "changes": {
+          "status": "reconciled"
+        },
+        "updatedAt": {
+          "date": {
+            "numberLong": "1581240069901"
+          }
+        }
+      },
+      {
+        "reconciledAt": {
+          "date": {
+            "numberLong": "1581240275610"
+          }
+        },
+        "updatedBy": "johnson.cherian@byjus.com",
+        "changes": {
+          "status": "reconciled"
+        },
+        "updatedAt": {
+          "date": {
+            "numberLong": "1581240275610"
+          }
+        }
+      },
+      {
+        "reconciledAt": {
+          "date": {
+            "numberLong": "1581240503536"
+          }
+        },
+        "updatedBy": "johnson.cherian@byjus.com",
+        "changes": {
+          "status": "reconciled"
+        },
+        "updatedAt": {
+          "date": {
+            "numberLong": "1581240503536"
+          }
+        }
+      },
+      {
+        "reconciledAt": {
+          "date": {
+            "numberLong": "1581240844843"
+          }
+        },
+        "updatedBy": "johnson.cherian@byjus.com",
+        "changes": {
+          "status": "reconciled"
+        },
+        "updatedAt": {
+          "date": {
+            "numberLong": "1581240844843"
+          }
+        }
+      },
+      {
+        "reconciledAt": {
+          "date": {
+            "numberLong": "1581241500835"
+          }
+        },
+        "updatedBy": "johnson.cherian@byjus.com",
+        "changes": {
+          "status": "reconciled"
+        },
+        "updatedAt": {
+          "date": {
+            "numberLong": "1581241500835"
+          }
+        }
+      },
+      {
+        "ds_reupload_requestedAt": {
+          "date": {
+            "numberLong": "1646905478947"
+          }
+        },
+        "updatedBy": "rashmitha.r@byjus.com",
+        "updatedAt": {
+          "date": {
+            "numberLong": "1646905478947"
+          }
+        }
+      },
+      {
+        "updatedBy": "rashmitha.r@byjus.com",
+        "ds_uploadedAt": "2022-03-10T09:45:09.594Z"
+      },
+      {
+        "ds_reupload_requestedAt": {
+          "date": {
+            "numberLong": "1646905519849"
+          }
+        },
+        "updatedBy": "rashmitha.r@byjus.com",
+        "updatedAt": {
+          "date": {
+            "numberLong": "1646905519849"
+          }
+        }
+      },
+      {
+        "rejectedAt": {
+          "date": {
+            "numberLong": "1646986132881"
+          }
+        },
+        "updatedBy": "jeevanantham.d@byjus.com",
+        "updatedAt": {
+          "date": {
+            "numberLong": "1646986132881"
+          }
+        }
+      },
+      {
+        "updatedBy": "jeevanantham.d@byjus.com",
+        "verifiedAt": {
+          "date": {
+            "numberLong": "1647860980668"
+          }
+        }
+      },
+      {
+        "rejectedAt": {
+          "date": {
+            "numberLong": "1648091598579"
+          }
+        },
+        "updatedBy": "kavyashree.r@byjus.com",
+        "updatedAt": {
+          "date": {
+            "numberLong": "1648091598579"
+          }
+        }
+      }
+    ],
+    "salesEmail": "parantap.chowdhury@byjus.com",
+    "customerName": "Dinesh M",
+    "customerPhone": "8489501070",
+    "txnId": "923886",
+    "chequeDate": {
+      "date": {
+        "numberLong": "1579910400000"
+      }
+    },
+    "amount": 30000,
+    "byjusAccountNumber": "035705001237",
+    "byjusBankName": "ICICI",
+    "createdBy": "dinesh.m@byjus.com",
+    "referenceId": "CCR3101202087971",
+    "documents": {
+      "cheque": {
+        "url": "https://byjus-oms.s3.ap-southeast-1.amazonaws.com/development/upload/Cheque.jpg/Cheque.jpg-2001310953147679.jpg",
+        "uploadedBy": "dinesh.m@byjus.com",
+        "uploadedAt": {
+          "date": {
+            "numberLong": "1580464395322"
+          }
+        }
+      },
+      "depositSlip": {
+        "uploadedAt": "2022-03-10T09:45:09.594Z",
+        "updoadedBy": "rashmitha.r@byjus.com",
+        "url": "https://byjus-oms.s3.ap-southeast-1.amazonaws.com/development/upload/CCR310120208797/file-20220310_15155950.png"
+      }
+    },
+    "status": "ds_uploaded",
+    "orders": [
+      {
+        "orderId": "100533039",
+        "orderStatus": "notconfirmed",
+        "orderType": "SINGLE",
+        "statusChangedAt": {
+          "date": {
+            "numberLong": "1591554722338"
+          }
+        },
+        "orderCreatedAt": {
+          "date": {
+            "numberLong": "1591554708284"
+          }
+        }
+      },
+      {
+        "orderId": "100534496",
+        "orderStatus": "confirmed",
+        "orderType": "SINGLE",
+        "statusChangedAt": {
+          "date": {
+            "numberLong": "1591556648115"
+          }
+        },
+        "orderCreatedAt": {
+          "date": {
+            "numberLong": "1591556582316"
+          }
+        }
+      },
+      {
+        "orderId": "100534502",
+        "orderStatus": "confirmed",
+        "orderType": "SINGLE",
+        "statusChangedAt": {
+          "date": {
+            "numberLong": "1591559702509"
+          }
+        },
+        "orderCreatedAt": {
+          "date": {
+            "numberLong": "1591559667606"
+          }
+        }
+      }
+    ],
+    "createdAt": {
+      "date": {
+        "numberLong": "1643622795335"
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "numberLong": "1656498844192"
+      }
+    },
+    "__v": 0,
+    "otpDetails": {
+      "otp": "7681",
+      "createdAt": {
+        "date": {
+          "numberLong": "1581228056090"
+        }
+      },
+      "message": "Otp for the verification of Cheque numbered CCR310120208798 is 7681 against orderId(s) - 1234556. Please share otp with your PIC to handover cheque"
+    },
+    "comments": [
+      {
+        "comment": "ds_repload_requested by johnson.cherian@byjus.com",
+        "commentedBy": "system",
+        "commentedAt": {
+          "date": {
+            "numberLong": "1581228504299"
+          }
+        }
+      },
+      {
+        "comment": "reconciled by johnson.cherian@byjus.com",
+        "commentedBy": "system",
+        "commentedAt": {
+          "date": {
+            "numberLong": "1581239927383"
+          }
+        }
+      },
+      {
+        "comment": "reconciled by johnson.cherian@byjus.com",
+        "commentedBy": "system",
+        "commentedAt": {
+          "date": {
+            "numberLong": "1581240069901"
+          }
+        }
+      },
+      {
+        "comment": "reconciled by johnson.cherian@byjus.com",
+        "commentedBy": "system",
+        "commentedAt": {
+          "date": {
+            "numberLong": "1581240275610"
+          }
+        }
+      },
+      {
+        "comment": "reconciled by johnson.cherian@byjus.com",
+        "commentedBy": "system",
+        "commentedAt": {
+          "date": {
+            "numberLong": "1581240503536"
+          }
+        }
+      },
+      {
+        "comment": "reconciled by johnson.cherian@byjus.com",
+        "commentedBy": "system",
+        "commentedAt": {
+          "date": {
+            "numberLong": "1581240844843"
+          }
+        }
+      },
+      {
+        "comment": "reconciled by johnson.cherian@byjus.com",
+        "commentedBy": "system",
+        "commentedAt": {
+          "date": {
+            "numberLong": "1581241500835"
+          }
+        }
+      },
+      {
+        "comment": "ds_reupload_requested by rashmitha.r@byjus.com",
+        "commentedBy": "system",
+        "commentedAt": {
+          "date": {
+            "numberLong": "1646905478947"
+          }
+        }
+      },
+      {
+        "comment": "ds_reupload_requested by rashmitha.r@byjus.com",
+        "commentedBy": "system",
+        "commentedAt": {
+          "date": {
+            "numberLong": "1646905519849"
+          }
+        }
+      },
+      {
+        "comment": "hold set by jeevanantham.d@byjus.com",
+        "commentedBy": "system",
+        "commentedAt": {
+          "date": {
+            "numberLong": "1646986001936"
+          }
+        }
+      },
+      {
+        "comment": "rejected by jeevanantham.d@byjus.com",
+        "commentedBy": "system",
+        "commentedAt": {
+          "date": {
+            "numberLong": "1646986132881"
+          }
+        }
+      },
+      {
+        "comment": "Verified by jeevanantham.d@byjus.com",
+        "commentedBy": "system",
+        "commentedAt": {
+          "date": {
+            "numberLong": "1647860980668"
+          }
+        }
+      },
+      {
+        "comment": "rejected by kavyashree.r@byjus.com",
+        "commentedBy": "system",
+        "commentedAt": {
+          "date": {
+            "numberLong": "1648091598579"
+          }
+        }
+      },
+      {
+        "comment": "hold set by kavyashree.r@byjus.com",
+        "commentedBy": "system",
+        "commentedAt": {
+          "date": {
+            "numberLong": "1649860124819"
+          }
+        },
+        "remarks": "hold"
+      }
+    ],
+    "updatedBy": "kavyashree.r@byjus.com",
+    "reconcilationDetails": {
+      "creditedDate": {
+        "date": {
+          "numberLong": "1581186600000"
+        }
+      },
+      "reconciledAt": {
+        "date": {
+          "numberLong": "1581241500834"
+        }
+      },
+      "reconciledBy": "johnson.cherian@byjus.com",
+      "referenceNo": null,
+      "remarks": null
+    },
+    "tat": {
+      "verified": 0,
+      "reconciled": 0,
+      "total": 8,
+      "cheque_handover": 387
+    },
+    "bouncedAt": null,
+    "chequeHandoverAt": null,
+    "dsReploadRequestedAt": {
+      "date": {
+        "numberLong": "1581228504299"
+      }
+    },
+    "dsUploadedAt": {
+      "date": {
+        "numberLong": "1656498844190"
+      }
+    },
+    "holdAt": null,
+    "reconciledAt": {
+      "date": {
+        "numberLong": "1581241500835"
+      }
+    },
+    "reconciledRepunchedAt": null,
+    "rejectedAt": {
+      "date": {
+        "numberLong": "1648091598579"
+      }
+    },
+    "verifiedAt": {
+      "date": {
+        "numberLong": "1647860980668"
+      }
+    },
+    "checkCollectedAt": null,
+    "checkHandoverAt": null,
+    "insertedObj": {
+      "reconciledAt": {
+        "date": {
+          "numberLong": "1581241500835"
+        }
+      },
+      "dsReploadRequestedAt": {
+        "date": {
+          "numberLong": "1581228504299"
+        }
+      },
+      "dsUploadedAt": {
+        "date": {
+          "numberLong": "1581228531302"
+        }
+      },
+      "verifiedAt": {
+        "date": {
+          "numberLong": "1581235910251"
+        }
+      },
+      "reconciledRepunchedAt": null,
+      "rejectedAt": null,
+      "holdAt": null,
+      "bouncedAt": null,
+      "checkHandoverAt": null,
+      "checkCollectedAt": null
+    },
+    "checkSoftDeletedAt": null,
+    "ststus": "handover",
+    "lastSyncedAt": 1646905519849,
+    "byjusAccountIfsc": "ICIC0000357",
+    "depositDate": {
+      "date": {
+        "numberLong": "1646870400000"
+      }
+    }
+  }

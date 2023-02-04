@@ -1,0 +1,361 @@
+{
+    "salesSubOrderId" : "SSO1-2105291822000431",
+    "salesOrderId" : "SO-2105291822000431",
+    "orgFormattedName" : "byjus",
+    "currency" : "INR",
+    "parkedOrderId" : "PO1-2105291822000431",
+    "status" : "parked",
+    "salesDetails" : {
+        "typeOfSales" : "DSSales",
+        "directSalesBy" : "pooja.a@byjus.com",
+        "directSalesByCampaign" : "DS Trainers",
+        "salesAppointmentBy" : null,
+        "salesAppointmentByCampaign" : null,
+        "incentiveDate" : {
+            "date" : "2021-05-29T18:21:40.909+0000"
+        },
+        "salesIndex" : 175
+    },
+    "customerDetails" : {
+        "customerId" : "CX-2101221028000302",
+        "name" : "sidtestorder",
+        "alternateName" : "Shubhamsingh",
+        "mobileNo" : "+91-9931338855",
+        "alternateMobileNo" : "",
+        "email" : "sonuthegreatest25@gmail.com",
+        "alternateEmail" : null,
+        "type" : null
+    },
+    "addressDetails" : {
+        "billing" : {
+            "addressLine1" : "910",
+            "addressLine2" : "Wave City",
+            "country" : "India",
+            "zipcode" : "110001",
+            "state" : "Delhi (DL)",
+            "city" : "Central Delhi",
+            "address" : "910\n Wave City"
+        },
+        "shipping" : {
+            "addressLine1" : "910",
+            "addressLine2" : "Wave City",
+            "country" : "India",
+            "zipcode" : "110001",
+            "state" : "Delhi (DL)",
+            "city" : "Central Delhi",
+            "address" : "910\n Wave City"
+        }
+    },
+    "paymentDetails" : {
+        "payments" : [
+         ],
+        "totalAmount" : 0
+    },
+    "lineItems" : [
+        {
+            "productId" : "1875295",
+            "basePrice" : "0",
+            "board" : "CBSE",
+            "grade" : "9",
+            "name" : "Class-9 CBSE (Printed Books)",
+            "sku" : "Class-9 CBSE (Printed Books)",
+            "skuId" : "BK09KXCB",
+            "type" : "Book",
+            "studentId" : "Shubhamsingh-1",
+            "price" : "0"
+        } 
+    ],
+    "studentDetails" : {
+        "studentProfileDetails" : {
+            "isExistingProfile" : true,
+            "existingPremiumId" : "1980736027",
+            "existingFamilyId" : "6758329371313831936"
+        },
+        "hlpDetails" : {
+            "courseDetails" : [
+             ],
+            "sessionDetails" : [
+             ]
+        },
+        "courseType" : [
+            "K10",
+            "K12" 
+        ],
+        "workshops" : [
+         ],
+        "items" : [
+            {
+                "_id" : "5aa0e3a38623875a0e3a164b",
+                "board" : "CBSE",
+                "course" : null,
+                "grade" : "9",
+                "name" : "9th CBSE (SD Card-Byjus) May-2021",
+                "productId" : "1068745",
+                "sku" : "9th CBSE (SD Card-Byjus) May-2021",
+                "validity" : "MAY 2021",
+                "basePrice" : "20000",
+                "continousPrice" : "15000",
+                "city" : null,
+                "cohort_id" : 15,
+                "cohort_id_number" : "tllms09marketing",
+                "isMultipleProfilesSupported" : true,
+                "updatedAt" : "2021-05-10T10:42:25.438Z",
+                "isVerified" : true,
+                "productType" : "course",
+                "updatedBy" : "hsnCodeNumber_datafix",
+                "skuId" : "SD09CB21",
+                "skuName" : "9th Grade CBSE SD Card May 2021",
+                "itemType" : "course",
+                "createdAt" : "2019-09-03T07:17:23.680Z",
+                "internationalBasePrice" : {
+                    "United Arab Emirates" : 1400,
+                    "Oman" : 145,
+                    "Kuwait" : 115,
+                    "Saudi Arabia" : 1430,
+                    "Qatar" : 1390
+                },
+                "internationalContinousPrice" : {
+                    "United Arab Emirates" : 400,
+                    "Oman" : 40,
+                    "Kuwait" : 35,
+                    "Saudi Arabia" : 400,
+                    "Qatar" : 400
+                },
+                "priceDetails" : {
+                    "united_arab_emirates" : {
+                        "basePrice" : 1460,
+                        "countinousPrice" : 800
+                    }
+                },
+                "hsnCode" : "852351",
+                "skuSubType" : "SD Card",
+                "skuType" : "Product",
+                "price" : 8000,
+                "combinationType" : "tlp",
+                "itemId" : "SD09CB212105291820310182",
+                "studentId" : "Shubhamsingh-1"
+            },
+            {
+                "_id" : "5aa0e3a08623875a0e3a163f",
+                "board" : "CBSE",
+                "course" : null,
+                "grade" : "10",
+                "name" : "10th CBSE (SD Card-Byjus) May-2022",
+                "productId" : "1069282",
+                "sku" : "10th CBSE (SD Card-Byjus) May-2022",
+                "validity" : "MAY 2022",
+                "basePrice" : "20000",
+                "continousPrice" : "15000",
+                "city" : null,
+                "cohort_id" : 16,
+                "cohort_id_number" : "tllms10marketing",
+                "isMultipleProfilesSupported" : true,
+                "updatedAt" : "2021-05-10T10:42:25.436Z",
+                "isVerified" : true,
+                "productType" : "course",
+                "updatedBy" : "hsnCodeNumber_datafix",
+                "skuId" : "SD10CB22",
+                "skuName" : "10th Grade CBSE SD Card May 2022",
+                "itemType" : "course",
+                "createdAt" : "2019-09-03T07:17:23.680Z",
+                "internationalBasePrice" : {
+                    "United Arab Emirates" : 1800,
+                    "Oman" : 185,
+                    "Kuwait" : 150,
+                    "Saudi Arabia" : 1830,
+                    "Qatar" : 1790
+                },
+                "internationalContinousPrice" : {
+                    "United Arab Emirates" : 400,
+                    "Oman" : 40,
+                    "Kuwait" : 35,
+                    "Saudi Arabia" : 400,
+                    "Qatar" : 400
+                },
+                "priceDetails" : {
+                    "united_arab_emirates" : {
+                        "basePrice" : 1460,
+                        "countinousPrice" : 800
+                    }
+                },
+                "hsnCode" : "852351",
+                "skuSubType" : "SD Card",
+                "skuType" : "Product",
+                "price" : 15000,
+                "combinationType" : "tlp",
+                "itemId" : "SD10CB222105291820310717",
+                "studentId" : "Shubhamsingh-1"
+            },
+            {
+                "_id" : "5b235a2c54dcca022af405da",
+                "productId" : "1124256",
+                "name" : "11+12 PCMB/JEE+NEET (SD Card-Byjus) May-2024",
+                "sku" : "11+12 PCMB/JEE+NEET (SD Card-Byjus) May-2024",
+                "basePrice" : "80000",
+                "continousPrice" : "80000",
+                "grade" : "11+12",
+                "course" : "JEE/NEET",
+                "validity" : "MAY 2024",
+                "cohort_id" : 53,
+                "cohort_number_id" : "11th12thcombined",
+                "cohort_id_number" : "11th and 12th",
+                "updatedAt" : "2021-05-10T10:42:25.392Z",
+                "itemType" : "course",
+                "updatedBy" : "hsnCodeNumber_datafix",
+                "createdAt" : "2019-09-03T07:17:23.680Z",
+                "internationalBasePrice" : {
+                    "United Arab Emirates" : 4400,
+                    "Oman" : 460,
+                    "Kuwait" : 360,
+                    "Saudi Arabia" : 4490,
+                    "Qatar" : 4360
+                },
+                "internationalContinousPrice" : {
+                    "United Arab Emirates" : 4400,
+                    "Oman" : 460,
+                    "Kuwait" : 360,
+                    "Saudi Arabia" : 4490,
+                    "Qatar" : 4360
+                },
+                "priceDetails" : {
+                    "united_arab_emirates" : {
+                        "basePrice" : 4000,
+                        "countinousPrice" : 4000
+                    }
+                },
+                "hsnCode" : "852351",
+                "skuSubType" : "SD Card",
+                "skuType" : "Product",
+                "__v" : 1,
+                "auditLogs" : [
+                 ],
+                "status" : "inactive",
+                "price" : 80000,
+                "combinationType" : "tlp",
+                "itemId" : "11242562105291820310281",
+                "studentId" : "Shubhamsingh-1"
+            },
+            {
+                "_id" : "5e73089cbe79e50019e199b5",
+                "auditLogs" : [
+                    {
+                        "changes" : {
+                            "course" : {
+                                "oldValue" : "LENOVO CALLING ADD-ON (BYJU'S)",
+                                "newValue" : ""
+                            },
+                            "isVerified" : {
+                                "oldValue" : null,
+                                "newValue" : true
+                            }
+                        },
+                        "updatedBy" : "ayushi.sinha@byjus.com",
+                        "updatedAt" : "2020-03-19T05:52:53.837Z"
+                    },
+                    {
+                        "changes" : {
+                            "course" : {
+                                "oldValue" : "",
+                                "newValue" : "k10"
+                            }
+                        },
+                        "updatedBy" : "ayushi.sinha@byjus.com",
+                        "updatedAt" : "2020-03-19T05:53:59.254Z"
+                    } 
+                ],
+                "sku" : "LENOVO CALLING ADD-ON (BYJU'S)",
+                "course" : "k10",
+                "grade" : null,
+                "board" : null,
+                "city" : null,
+                "cohort_id" : null,
+                "productType" : "course",
+                "productId" : "866186",
+                "name" : "LENOVO CALLING ADD-ON (BYJU'S)",
+                "type" : "tablet",
+                "validity" : "MAY 2020",
+                "continousPrice" : "7000",
+                "basePrice" : "8000",
+                "updatedBy" : "itemType_datafix",
+                "isVerified" : true,
+                "updatedAt" : "2021-05-10T10:42:25.502Z",
+                "size" : 7,
+                "skuId" : "TL7MZZ",
+                "skuName" : "LENOVO CALLING ADD-ON (BYJU'S)",
+                "itemType" : "tablet",
+                "createdAt" : "2019-09-03T07:17:23.680Z",
+                "skuSubType" : "Tablet",
+                "skuType" : "Product",
+                "price" : "8000",
+                "studentId" : "Shubhamsingh-1"
+            } 
+        ],
+        "addOnItems" : [
+         ],
+        "mentoringDetails" : [
+         ],
+        "bhlpCourseDetails" : [
+         ],
+        "_id" : {
+            "oid" : "60b285fcba1108001a8bd350"
+        },
+        "course" : "K10/K12",
+        "board" : "CBSE",
+        "validity" : "2021",
+        "tablet" : "866186",
+        "initialClass" : "9",
+        "finalClass" : "12",
+        "formValues" : {
+            "course" : "K10/K12",
+            "board" : "CBSE",
+            "byjusClassFinalGrade" : "",
+            "validity" : 2021,
+            "tablet" : "866186",
+            "userProfile" : "608fd59889c6e506a5f7649f",
+            "initialClass" : "9",
+            "finalClass" : "12",
+            "subCourse" : "JEE/NEET",
+            "selectD4SDCard" : false,
+            "tabletId" : "T-866186"
+        },
+        "productSelectionType" : "byjus_tlp",
+        "studentName" : "Shubhamsingh",
+        "studentId" : "Shubhamsingh-1"
+    },
+    "scheduedYear" : 2021,
+    "shipmentLineItems" : [
+        {
+            "skuId" : "BK09KXCB0820",
+            "properties" : {
+                "warehouse" : "MTL Warehouse Manipal",
+                "inventoryLocation" : "FI MTL",
+                "mtlProductId" : "1875295",
+                "grade" : "9",
+                "board" : "CBSE",
+                "mtlProductName" : "Class-9 CBSE (Printed Books)",
+                "dimensions" : {
+                    "length" : 30,
+                    "width" : 23.5,
+                    "height" : 12,
+                    "unit" : "cm"
+                },
+                "weight" : {
+                    "value" : 4.1,
+                    "unit" : "Kg"
+                }
+            },
+            "skuName" : "Class-9 CBSE (Printed Books)",
+            "type" : "book",
+            "studentId" : "Shubhamsingh-1"
+        } 
+    ],
+    "studentId" : "Shubhamsingh-1",
+    "type" : "product",
+    "subType" : "books",
+    "createdAt" : {
+        "date" : "2021-05-29T18:22:01.297+0000"
+    },
+    "updatedAt" : {
+        "date" : "2021-05-29T18:22:01.297+0000"
+    }
+}

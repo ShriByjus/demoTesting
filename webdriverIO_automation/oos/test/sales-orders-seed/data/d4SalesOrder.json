@@ -1,0 +1,1186 @@
+{
+    "orderType": "SINGLE",
+    "courseType": "K10",
+    "salesSubOrderIds": [],
+    "customerDetails": {
+        "customerId": "",
+        "name": "Inba Invoice",
+        "alternateName": "Nidhi Singh",
+        "mobileNo": "+91-7488173804",
+        "alternateMobileNo": "",
+        "email": "nidhisingh.n@icloud.com",
+        "alternateEmail": null,
+        "type": null
+    },
+    "lineItems": [
+        {
+            "name": "5th Grade D4 SD Card May 2022",
+            "skuName": "5th Grade D4 SD Card May 2022",
+            "sku": "5th Grade D4 SD Card May 2022",
+            "skuId": "DD05NA22",
+            "validity": "MAY 2022",
+            "type": "D4_TLP",
+            "basePrice": "20000",
+            "continousPrice": "15000",
+            "createdAt": "2021-01-04T05:46:07.086Z",
+            "grade": "5",
+            "productId": "1950360",
+            "course": "Maths/Science",
+            "itemType": "sd_card",
+            "price": 12750,
+            "studentId": "Zayan Mohamed-1",
+            "salesSubOrderId": "SSO1-2101231015150739",
+            "itemStatus": "mapping_pending",
+            "invoicePrice": "12750.00"
+        },
+        {
+            "name": "6th Grade D4 ICSE SD Card May 2023",
+            "skuName": "6th Grade D4 ICSE SD Card May 2023",
+            "sku": "6th Grade D4 ICSE SD Card May 2023",
+            "skuId": "DD06IC23",
+            "validity": "MAY 2023",
+            "type": "D4_TLP",
+            "basePrice": "35000",
+            "continousPrice": "15000",
+            "createdAt": "2021-01-04T05:46:07.086Z",
+            "grade": "6",
+            "productId": "1950399",
+            "board": "ICSE",
+            "itemType": "sd_card",
+            "price": 12750,
+            "studentId": "Zayan Mohamed-1",
+            "salesSubOrderId": "SSO1-2101231015150739",
+            "itemStatus": "mapping_pending",
+            "invoicePrice": "12750.00"
+        },
+        {
+            "name": "7th Grade D4 ICSE SD Card May 2024",
+            "skuName": "7th Grade D4 ICSE SD Card May 2024",
+            "sku": "7th Grade D4 ICSE SD Card May 2024",
+            "skuId": "DD07IC24",
+            "validity": "MAY 2024",
+            "type": "D4_TLP",
+            "basePrice": "50000",
+            "continousPrice": "15000",
+            "createdAt": "2021-01-04T05:46:07.086Z",
+            "grade": "7",
+            "productId": "1950506",
+            "board": "ICSE",
+            "itemType": "sd_card",
+            "price": 12750,
+            "studentId": "Zayan Mohamed-1",
+            "salesSubOrderId": "SSO1-2101231015150739",
+            "itemStatus": "mapping_pending",
+            "invoicePrice": "12750.00"
+        },
+        {
+            "name": "8th Grade D4 ICSE SD Card May 2025",
+            "skuName": "8th Grade D4 ICSE SD Card May 2025",
+            "sku": "8th Grade D4 ICSE SD Card May 2025",
+            "skuId": "DD08IC25",
+            "validity": "MAY 2025",
+            "type": "D4_TLP",
+            "basePrice": "65000",
+            "continousPrice": "15000",
+            "createdAt": "2021-01-04T05:46:07.086Z",
+            "grade": "8",
+            "productId": "1950603",
+            "board": "ICSE",
+            "itemType": "sd_card",
+            "price": 12750,
+            "studentId": "Zayan Mohamed-1",
+            "salesSubOrderId": "SSO1-2101231015150739",
+            "itemStatus": "mapping_pending",
+            "invoicePrice": "12750.00"
+        },
+        {
+            "name": "9th Grade D4 ICSE SD Card May 2026",
+            "skuName": "9th Grade D4 ICSE SD Card May 2026",
+            "sku": "9th Grade D4 ICSE SD Card May 2026",
+            "skuId": "DD09IC26",
+            "validity": "MAY 2026",
+            "type": "D4_TLP",
+            "basePrice": "80000",
+            "continousPrice": "15000",
+            "createdAt": "2021-01-04T05:46:07.086Z",
+            "grade": "9",
+            "productId": "1950881",
+            "board": "ICSE",
+            "itemType": "sd_card",
+            "price": 12750,
+            "studentId": "Zayan Mohamed-1",
+            "salesSubOrderId": "SSO1-2101231015150739",
+            "itemStatus": "mapping_pending",
+            "invoicePrice": "12750.00"
+        },
+        {
+            "name": "10th Grade D4 ICSE SD Card May 2027",
+            "skuName": "10th Grade D4 ICSE SD Card May 2027",
+            "sku": "10th Grade D4 ICSE SD Card May 2027",
+            "skuId": "DD10IC27",
+            "validity": "MAY 2027",
+            "type": "D4_TLP",
+            "basePrice": "95000",
+            "continousPrice": "15000",
+            "createdAt": "2021-01-04T05:46:07.086Z",
+            "grade": "10",
+            "productId": "1950210",
+            "board": "ICSE",
+            "itemType": "sd_card",
+            "price": 12750,
+            "studentId": "Zayan Mohamed-1",
+            "salesSubOrderId": "SSO1-2101231015150739",
+            "itemStatus": "mapping_pending",
+            "invoicePrice": "12750.00"
+        },
+        {
+            "sku": "BYJU'S Learn Station 10inch Wifi White Tablet",
+            "course": "",
+            "grade": null,
+            "board": null,
+            "productType": "tablet",
+            "productId": "1909200",
+            "name": "BYJU'S Learn Station 10inch Wifi White Tablet",
+            "type": "tablet",
+            "validity": "MAY 2023",
+            "continousPrice": "15000",
+            "basePrice": "12000",
+            "skuId": "SBXWWZ",
+            "size": 10,
+            "properties": {
+                "color": "white",
+                "size": "10"
+            },
+            "price": "12000",
+            "itemType": "tablet",
+            "studentId": "Zayan Mohamed-1",
+            "salesSubOrderId": "SSO1-2101231015150739",
+            "itemStatus": "mapping_pending",
+            "invoicePrice": "12000"
+        }
+    ],
+    "shipmentLineItems": [
+        {
+            "skuId": "SBXWWZUC",
+            "properties": {
+                "warehouse": "IBC",
+                "inventoryLocation": "FI IBC",
+                "manufacturer": "BYJUs",
+                "brand": "BYJUs"
+            },
+            "skuName": "BYJU'S LearnStation 10inch Wifi White Tablet",
+            "type": "tablet",
+            "price": 12000,
+            "studentId": "Zayan Mohamed-1",
+            "students": [
+                "Zayan Mohamed-1"
+            ],
+            "tabletId": "undefined",
+            "itemStatus": "mapping_pending"
+        },
+        {
+            "skuId": "D1NA0505",
+            "properties": {
+                "board": "NA",
+                "grade": "05-05",
+                "course": "NA",
+                "noOfCombos": "1",
+                "sdCardMemory": 16,
+                "appVersion": "NA",
+                "sdCardVersion": "NA",
+                "apkVersion": "NA",
+                "contentRelease": "NA",
+                "brand": "BYJUs",
+                "warehouse": [
+                    "IBC",
+                    "Lexington",
+                    "Croma"
+                ],
+                "location": [
+                    "FI IBC",
+                    "FI Lex",
+                    "FI CROMA"
+                ],
+                "comboDetails": [
+                    {
+                        "initialClass": 5,
+                        "finalClass": 5,
+                        "grades": "05-05"
+                    }
+                ],
+                "combinations": [
+                    "05-05"
+                ]
+            },
+            "skuName": "Learnstation Grade 05 SD Card",
+            "type": "sd_card",
+            "activeGrades": [
+                5
+            ],
+            "studentId": "Zayan Mohamed-1",
+            "students": [
+                "Zayan Mohamed-1"
+            ],
+            "tabletId": "undefined",
+            "price": 38250,
+            "itemStatus": "mapping_pending"
+        },
+        {
+            "skuId": "D4IC0610",
+            "properties": {
+                "board": "ICSE",
+                "grade": "06-10",
+                "course": "NA",
+                "noOfCombos": "6",
+                "sdCardMemory": 128,
+                "appVersion": "NA",
+                "sdCardVersion": "NA",
+                "apkVersion": "NA",
+                "contentRelease": "NA",
+                "brand": "BYJUs",
+                "warehouse": [
+                    "IBC",
+                    "Lexington",
+                    "Croma"
+                ],
+                "location": [
+                    "FI IBC",
+                    "FI Lex",
+                    "FI CROMA"
+                ],
+                "comboDetails": [
+                    {
+                        "initialClass": 6,
+                        "finalClass": 10,
+                        "grades": "06-10"
+                    },
+                    {
+                        "initialClass": 6,
+                        "finalClass": 8,
+                        "grades": "06-08"
+                    },
+                    {
+                        "initialClass": 6,
+                        "finalClass": 9,
+                        "grades": "06-09"
+                    },
+                    {
+                        "initialClass": 7,
+                        "finalClass": 9,
+                        "grades": "07-09"
+                    },
+                    {
+                        "initialClass": 7,
+                        "finalClass": 10,
+                        "grades": "07-10"
+                    },
+                    {
+                        "initialClass": 8,
+                        "finalClass": 10,
+                        "grades": "08-10"
+                    }
+                ],
+                "combinations": [
+                    "06-10",
+                    "06-08",
+                    "06-09",
+                    "07-09",
+                    "07-10",
+                    "08-10"
+                ]
+            },
+            "skuName": "Learnstation Grade 06-10 ICSE SD Card",
+            "type": "sd_card",
+            "activeGrades": [
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "studentId": "Zayan Mohamed-1",
+            "students": [
+                "Zayan Mohamed-1"
+            ],
+            "tabletId": "undefined",
+            "price": 38250,
+            "itemStatus": "mapping_pending"
+        }
+    ],
+    "addonLineItems": [
+        {
+            "basePrice": "0",
+            "name": "Class-5 (Printed Books)",
+            "sku": "Class-5 (Printed Books)",
+            "grade": "5",
+            "type": "Book",
+            "productId": "1520717",
+            "studentId": "Zayan Mohamed-1",
+            "price": "0",
+            "invoicePrice": "0"
+        },
+        {
+            "basePrice": "0",
+            "name": "Class-6 ICSE (Printed Books)",
+            "sku": "Class-6 ICSE (Printed Books)",
+            "grade": "6",
+            "type": "Book",
+            "productId": "1701667",
+            "studentId": "Zayan Mohamed-1",
+            "price": "0",
+            "invoicePrice": "0"
+        },
+        {
+            "basePrice": "0",
+            "name": "Class-7 ICSE (Printed Books)",
+            "sku": "Class-7 ICSE (Printed Books)",
+            "grade": "7",
+            "type": "Book",
+            "productId": "1875329",
+            "skuId": "BK07KXIC",
+            "studentId": "Zayan Mohamed-1",
+            "price": "0",
+            "invoicePrice": "0"
+        },
+        {
+            "basePrice": "0",
+            "name": "Class-8 ICSE (Printed Books)",
+            "sku": "Class-8 ICSE (Printed Books)",
+            "grade": "8",
+            "type": "Book",
+            "productId": "1875313",
+            "skuId": "BK08KXIC",
+            "studentId": "Zayan Mohamed-1",
+            "price": "0",
+            "invoicePrice": "0"
+        },
+        {
+            "basePrice": "0",
+            "name": "Class-9 ICSE (Printed Books)",
+            "sku": "Class-9 ICSE (Printed Books)",
+            "grade": "9",
+            "type": "Book",
+            "productId": "1875297",
+            "skuId": "BK09KXIC",
+            "studentId": "Zayan Mohamed-1",
+            "price": "0",
+            "invoicePrice": "0"
+        },
+        {
+            "basePrice": "0",
+            "name": "Class-10 ICSE (Printed Books)",
+            "sku": "Class-10 ICSE (Printed Books)",
+            "grade": "10",
+            "type": "Book",
+            "productId": "1875279",
+            "skuId": "BK10KXIC",
+            "studentId": "Zayan Mohamed-1",
+            "price": "0",
+            "invoicePrice": "0"
+        }
+    ],
+    "salesDetails": {
+        "typeOfSales": "DSSales",
+        "directSalesBy": "abhishek.chandak@byjus.com",
+        "directSalesByCampaign": "",
+        "salesAppointmentBy": null,
+        "salesAppointmentByCampaign": null,
+        "incentiveDate": "2021-02-11T04:21:07.001Z",
+        "salesIndex": 80
+    },
+    "addressDetails": {
+        "billing": {
+            "addressLine1": "Zayan Mohamed Zaiza 66A",
+            "addressLine2": "Nalanda nagar",
+            "addressLine3": "Athil PO kollam Kerala .",
+            "country": "India",
+            "zipcode": "691017",
+            "state": "Kerala (KL)",
+            "city": "kollam",
+            "address": "Zayan Mohamed Zaiza 66A\n Nalanda nagar\n Athil PO kollam Kerala ."
+        },
+        "shipping": {
+            "addressLine1": "Zayan Mohamed Zaiza 66A",
+            "addressLine2": "Nalanda nagar",
+            "addressLine3": "Athil PO kollam Kerala .",
+            "country": "India",
+            "zipcode": "691017",
+            "state": "Kerala (KL)",
+            "city": "kollam",
+            "address": "Zayan Mohamed Zaiza 66A\n Nalanda nagar\n Athil PO kollam Kerala ."
+        }
+    },
+    "paymentDetails": {
+        "type": "NON_EMI",
+        "totalAmount": 88500,
+        "totalEmiAmount": 0,
+        "totalPrepaidAmount": 88500,
+        "totalPostpaidAmount": 0,
+        "paymentMethod": "GP",
+        "payments": [
+            {
+                "isPrepaid": true,
+                "_id": "6024b0ab8e575e0023c19c85",
+                "provider": "PAYU",
+                "referenceId": "16130172600046-88500",
+                "amount": 88500,
+                "additionalDetails": {
+                    "bank": "federal"
+                },
+                "attachments": [
+                    {
+                        "_id": "6024b0ab8e575e0023c19c86",
+                        "name": "cheque",
+                        "url": "https://orderhive-payments.s3.ap-southeast-1.amazonaws.com/development/6024b04c8e575e0023c19c80/cheque/cheque-20210211_09508750.png"
+                    }
+                ],
+                "type": "DOWN_PAYMENT",
+                "isActive": true
+            }
+        ],
+        "minDownPaymentDetails": {
+            "isMatched": true,
+            "minDownPaymentAmount": 0
+        },
+        "isRepunchedCase": false,
+        "paymentMode": "PAYU",
+        "paymentAmountSplit": "88500",
+        "paymentStatus": "PAID"
+    },
+    "productDetails": {
+        "productType": "combo",
+        "mentoringDetails": [
+            null
+        ],
+        "bhlpCourseDetails": [],
+        "paymentType": "EMI",
+        "maxPrice": 107000,
+        "minPrice": 88000,
+        "discountedPrice": 0,
+        "students": [
+            {
+                "studentProfileDetails": {
+                    "isExistingProfile": false,
+                    "existingPremiumId": "",
+                    "existingFamilyId": ""
+                },
+                "hlpDetails": {
+                    "courseDetails": [],
+                    "sessionDetails": []
+                },
+                "courseType": [
+                    "K10"
+                ],
+                "workshops": [],
+                "items": [
+                    {
+                        "_id": "5ff2aba14ac24568d98d9cc6",
+                        "name": "5th Grade D4 SD Card May 2022",
+                        "skuName": "5th Grade D4 SD Card May 2022",
+                        "sku": "5th Grade D4 SD Card May 2022",
+                        "skuId": "DD05NA22",
+                        "validity": "MAY 2022",
+                        "type": "D4_TLP",
+                        "basePrice": "20000",
+                        "continousPrice": "15000",
+                        "updatedBy": "Manual_datafix_Mon_Jan_04_2021",
+                        "createdAt": "2021-01-04T05:46:07.086Z",
+                        "grade": "5",
+                        "cohort_id": 30,
+                        "productId": "1950360",
+                        "course": "Maths/Science",
+                        "itemType": "course",
+                        "price": 20000,
+                        "combinationType": "tlp",
+                        "studentId": "Zayan Mohamed-1"
+                    },
+                    {
+                        "_id": "5ff2aba34ac24568d98d9d02",
+                        "name": "6th Grade D4 ICSE SD Card May 2023",
+                        "skuName": "6th Grade D4 ICSE SD Card May 2023",
+                        "sku": "6th Grade D4 ICSE SD Card May 2023",
+                        "skuId": "DD06IC23",
+                        "validity": "MAY 2023",
+                        "type": "D4_TLP",
+                        "basePrice": "35000",
+                        "continousPrice": "15000",
+                        "updatedBy": "Manual_datafix_Mon_Jan_04_2021",
+                        "createdAt": "2021-01-04T05:46:07.086Z",
+                        "grade": "6",
+                        "cohort_id": 123,
+                        "productId": "1950399",
+                        "board": "ICSE",
+                        "itemType": "course",
+                        "price": 15000,
+                        "combinationType": "tlp",
+                        "studentId": "Zayan Mohamed-1"
+                    },
+                    {
+                        "_id": "5ff2aba54ac24568d98d9d48",
+                        "name": "7th Grade D4 ICSE SD Card May 2024",
+                        "skuName": "7th Grade D4 ICSE SD Card May 2024",
+                        "sku": "7th Grade D4 ICSE SD Card May 2024",
+                        "skuId": "DD07IC24",
+                        "validity": "MAY 2024",
+                        "type": "D4_TLP",
+                        "basePrice": "50000",
+                        "continousPrice": "15000",
+                        "updatedBy": "Manual_datafix_Mon_Jan_04_2021",
+                        "createdAt": "2021-01-04T05:46:07.086Z",
+                        "grade": "7",
+                        "cohort_id": 120,
+                        "productId": "1950506",
+                        "board": "ICSE",
+                        "itemType": "course",
+                        "price": 15000,
+                        "combinationType": "tlp",
+                        "studentId": "Zayan Mohamed-1"
+                    },
+                    {
+                        "_id": "5ff2aba74ac24568d98d9d8e",
+                        "name": "8th Grade D4 ICSE SD Card May 2025",
+                        "skuName": "8th Grade D4 ICSE SD Card May 2025",
+                        "sku": "8th Grade D4 ICSE SD Card May 2025",
+                        "skuId": "DD08IC25",
+                        "validity": "MAY 2025",
+                        "type": "D4_TLP",
+                        "basePrice": "65000",
+                        "continousPrice": "15000",
+                        "updatedBy": "Manual_datafix_Mon_Jan_04_2021",
+                        "createdAt": "2021-01-04T05:46:07.086Z",
+                        "grade": "8",
+                        "cohort_id": 110,
+                        "productId": "1950603",
+                        "board": "ICSE",
+                        "itemType": "course",
+                        "price": 15000,
+                        "combinationType": "tlp",
+                        "studentId": "Zayan Mohamed-1"
+                    },
+                    {
+                        "_id": "5ff2abaa4ac24568d98d9dd5",
+                        "name": "9th Grade D4 ICSE SD Card May 2026",
+                        "skuName": "9th Grade D4 ICSE SD Card May 2026",
+                        "sku": "9th Grade D4 ICSE SD Card May 2026",
+                        "skuId": "DD09IC26",
+                        "validity": "MAY 2026",
+                        "type": "D4_TLP",
+                        "basePrice": "80000",
+                        "continousPrice": "15000",
+                        "updatedBy": "Manual_datafix_Mon_Jan_04_2021",
+                        "createdAt": "2021-01-04T05:46:07.086Z",
+                        "grade": "9",
+                        "cohort_id": 111,
+                        "productId": "1950881",
+                        "board": "ICSE",
+                        "itemType": "course",
+                        "price": 15000,
+                        "combinationType": "tlp",
+                        "studentId": "Zayan Mohamed-1"
+                    },
+                    {
+                        "_id": "5ff2abac4ac24568d98d9e1c",
+                        "name": "10th Grade D4 ICSE SD Card May 2027",
+                        "skuName": "10th Grade D4 ICSE SD Card May 2027",
+                        "sku": "10th Grade D4 ICSE SD Card May 2027",
+                        "skuId": "DD10IC27",
+                        "validity": "MAY 2027",
+                        "type": "D4_TLP",
+                        "basePrice": "95000",
+                        "continousPrice": "15000",
+                        "updatedBy": "Manual_datafix_Mon_Jan_04_2021",
+                        "createdAt": "2021-01-04T05:46:07.086Z",
+                        "grade": "10",
+                        "cohort_id": 113,
+                        "productId": "1950210",
+                        "board": "ICSE",
+                        "itemType": "course",
+                        "price": 15000,
+                        "combinationType": "tlp",
+                        "studentId": "Zayan Mohamed-1"
+                    },
+                    {
+                        "_id": "5f7d7c6db5f587001954da47",
+                        "sku": "BYJU'S Learn Station 10inch Wifi White Tablet",
+                        "course": "",
+                        "grade": null,
+                        "board": null,
+                        "city": null,
+                        "productType": "tablet",
+                        "productId": "1909200",
+                        "name": "BYJU'S Learn Station 10inch Wifi White Tablet",
+                        "type": "tablet",
+                        "validity": "MAY 2023",
+                        "continousPrice": "15000",
+                        "basePrice": "12000",
+                        "updatedBy": "manualDataFix",
+                        "isVerified": true,
+                        "cohort_id": null,
+                        "skuId": "SBXWWZ",
+                        "size": 10,
+                        "properties": {
+                            "color": "white",
+                            "size": "10"
+                        },
+                        "price": "12000",
+                        "itemType": "tablet",
+                        "studentId": "Zayan Mohamed-1"
+                    }
+                ],
+                "addOnItems": [],
+                "mentoringDetails": [],
+                "bhlpCourseDetails": [],
+                "_id": "600bf67226172a0028606b6b",
+                "course": "K10/K12",
+                "board": "ICSE",
+                "validity": "2022",
+                "tablet": "SBXWWZ",
+                "initialClass": "5",
+                "finalClass": "10",
+                "formValues": {
+                    "course": "K10/K12",
+                    "board": "ICSE",
+                    "byjusClassFinalGrade": "",
+                    "subCourse": "",
+                    "validity": 2022,
+                    "tablet": "SBXWWZ",
+                    "initialClass": "5",
+                    "finalClass": "10",
+                    "tabletId": "T-SBXWWZ"
+                },
+                "productSelectionType": "byjus_tlp",
+                "studentName": "Zayan Mohamed",
+                "studentId": "Zayan Mohamed-1"
+            }
+        ],
+        "products": [
+            {
+                "_id": "5ff2aba14ac24568d98d9cc6",
+                "name": "5th Grade D4 SD Card May 2022",
+                "skuName": "5th Grade D4 SD Card May 2022",
+                "sku": "5th Grade D4 SD Card May 2022",
+                "skuId": "DD05NA22",
+                "validity": "MAY 2022",
+                "type": "D4_TLP",
+                "basePrice": "20000",
+                "continousPrice": "15000",
+                "updatedBy": "Manual_datafix_Mon_Jan_04_2021",
+                "createdAt": "2021-01-04T05:46:07.086Z",
+                "grade": "5",
+                "cohort_id": 30,
+                "productId": "1950360",
+                "course": "Maths/Science",
+                "itemType": "course",
+                "price": 20000,
+                "combinationType": "tlp",
+                "studentId": "Zayan Mohamed-1"
+            },
+            {
+                "_id": "5ff2aba34ac24568d98d9d02",
+                "name": "6th Grade D4 ICSE SD Card May 2023",
+                "skuName": "6th Grade D4 ICSE SD Card May 2023",
+                "sku": "6th Grade D4 ICSE SD Card May 2023",
+                "skuId": "DD06IC23",
+                "validity": "MAY 2023",
+                "type": "D4_TLP",
+                "basePrice": "35000",
+                "continousPrice": "15000",
+                "updatedBy": "Manual_datafix_Mon_Jan_04_2021",
+                "createdAt": "2021-01-04T05:46:07.086Z",
+                "grade": "6",
+                "cohort_id": 123,
+                "productId": "1950399",
+                "board": "ICSE",
+                "itemType": "course",
+                "price": 15000,
+                "combinationType": "tlp",
+                "studentId": "Zayan Mohamed-1"
+            },
+            {
+                "_id": "5ff2aba54ac24568d98d9d48",
+                "name": "7th Grade D4 ICSE SD Card May 2024",
+                "skuName": "7th Grade D4 ICSE SD Card May 2024",
+                "sku": "7th Grade D4 ICSE SD Card May 2024",
+                "skuId": "DD07IC24",
+                "validity": "MAY 2024",
+                "type": "D4_TLP",
+                "basePrice": "50000",
+                "continousPrice": "15000",
+                "updatedBy": "Manual_datafix_Mon_Jan_04_2021",
+                "createdAt": "2021-01-04T05:46:07.086Z",
+                "grade": "7",
+                "cohort_id": 120,
+                "productId": "1950506",
+                "board": "ICSE",
+                "itemType": "course",
+                "price": 15000,
+                "combinationType": "tlp",
+                "studentId": "Zayan Mohamed-1"
+            },
+            {
+                "_id": "5ff2aba74ac24568d98d9d8e",
+                "name": "8th Grade D4 ICSE SD Card May 2025",
+                "skuName": "8th Grade D4 ICSE SD Card May 2025",
+                "sku": "8th Grade D4 ICSE SD Card May 2025",
+                "skuId": "DD08IC25",
+                "validity": "MAY 2025",
+                "type": "D4_TLP",
+                "basePrice": "65000",
+                "continousPrice": "15000",
+                "updatedBy": "Manual_datafix_Mon_Jan_04_2021",
+                "createdAt": "2021-01-04T05:46:07.086Z",
+                "grade": "8",
+                "cohort_id": 110,
+                "productId": "1950603",
+                "board": "ICSE",
+                "itemType": "course",
+                "price": 15000,
+                "combinationType": "tlp",
+                "studentId": "Zayan Mohamed-1"
+            },
+            {
+                "_id": "5ff2abaa4ac24568d98d9dd5",
+                "name": "9th Grade D4 ICSE SD Card May 2026",
+                "skuName": "9th Grade D4 ICSE SD Card May 2026",
+                "sku": "9th Grade D4 ICSE SD Card May 2026",
+                "skuId": "DD09IC26",
+                "validity": "MAY 2026",
+                "type": "D4_TLP",
+                "basePrice": "80000",
+                "continousPrice": "15000",
+                "updatedBy": "Manual_datafix_Mon_Jan_04_2021",
+                "createdAt": "2021-01-04T05:46:07.086Z",
+                "grade": "9",
+                "cohort_id": 111,
+                "productId": "1950881",
+                "board": "ICSE",
+                "itemType": "course",
+                "price": 15000,
+                "combinationType": "tlp",
+                "studentId": "Zayan Mohamed-1"
+            },
+            {
+                "_id": "5ff2abac4ac24568d98d9e1c",
+                "name": "10th Grade D4 ICSE SD Card May 2027",
+                "skuName": "10th Grade D4 ICSE SD Card May 2027",
+                "sku": "10th Grade D4 ICSE SD Card May 2027",
+                "skuId": "DD10IC27",
+                "validity": "MAY 2027",
+                "type": "D4_TLP",
+                "basePrice": "95000",
+                "continousPrice": "15000",
+                "updatedBy": "Manual_datafix_Mon_Jan_04_2021",
+                "createdAt": "2021-01-04T05:46:07.086Z",
+                "grade": "10",
+                "cohort_id": 113,
+                "productId": "1950210",
+                "board": "ICSE",
+                "itemType": "course",
+                "price": 15000,
+                "combinationType": "tlp",
+                "studentId": "Zayan Mohamed-1"
+            },
+            {
+                "_id": "5f7d7c6db5f587001954da47",
+                "sku": "BYJU'S Learn Station 10inch Wifi White Tablet",
+                "course": "",
+                "grade": null,
+                "board": null,
+                "city": null,
+                "productType": "tablet",
+                "productId": "1909200",
+                "name": "BYJU'S Learn Station 10inch Wifi White Tablet",
+                "type": "tablet",
+                "validity": "MAY 2023",
+                "continousPrice": "15000",
+                "basePrice": "12000",
+                "updatedBy": "manualDataFix",
+                "isVerified": true,
+                "cohort_id": null,
+                "skuId": "SBXWWZ",
+                "size": 10,
+                "properties": {
+                    "color": "white",
+                    "size": "10"
+                },
+                "price": "12000",
+                "itemType": "tablet",
+                "studentId": "Zayan Mohamed-1"
+            }
+        ],
+        "mentoring": {
+            "count": 0,
+            "items": [
+                null
+            ]
+        },
+        "finalPrice": 88500
+    },
+    "attachments": [],
+    "cashbackDetails": {
+        "unutilizedCashbacks": []
+    },
+    "comments": [
+        {
+            "_id": "600bf6ccc9b7db00202f999b",
+            "category": "payment",
+            "type": "refIds",
+            "comment": "User Comment: Initial Class: 5th \n    Final Class: 10th\n    Initial Validity: 2022.\n    Final Validity-2027.\n    Tablet: New Byjus Learn Station Tablet",
+            "commentedBy": "ganesh.hegde1@byjus.com",
+            "commentedAt": "2021-01-23T10:13:32.702Z",
+            "source": "kart"
+        },
+        {
+            "_id": "600bf6ccc9b7db00202f999c",
+            "category": "lead",
+            "type": "ls_account_no",
+            "comment": "Initial Class: 5th \n    Final Class: 10th\n    Initial Validity: 2022.\n    Final Validity-2027.\n    Tablet: New Byjus Learn Station Tablet",
+            "commentedBy": "system",
+            "commentedAt": "2021-01-23T10:13:32.703Z",
+            "source": "kart"
+        },
+        {
+            "_id": "600bf6ccc9b7db00202f999d",
+            "category": "lead",
+            "type": "ls_mobile_no",
+            "comment": "Leadsquared Mobile no: +91-9611480479",
+            "commentedBy": "system",
+            "commentedAt": "2021-01-23T10:13:32.703Z",
+            "source": "kart"
+        },
+        {
+            "_id": "600bf6ccc9b7db00202f999e",
+            "category": "lead",
+            "type": "leadCreatedBy",
+            "comment": "LeadsCreatedAy: abhishek.j1@byjus.com",
+            "commentedBy": "system",
+            "commentedAt": "2021-01-23T10:13:32.703Z",
+            "source": "kart"
+        },
+        {
+            "_id": "600bf6ccc9b7db00202f999f",
+            "category": "details",
+            "type": "sales",
+            "comment": "Order punched By: ganesh.hegde1@byjus.com",
+            "commentedBy": "system",
+            "commentedAt": "2021-01-23T10:13:32.703Z",
+            "source": "kart"
+        },
+        {
+            "_id": "600bf6ccc9b7db00202f99a0",
+            "category": "details",
+            "type": "customer",
+            "comment": "Parent Name: Zayan Mohamed Parent Mobile No:+91-9611480479",
+            "commentedBy": "system",
+            "commentedAt": "2021-01-23T10:13:32.703Z",
+            "source": "kart"
+        },
+        {
+            "_id": "600bf6ccc9b7db00202f99a1",
+            "category": "address",
+            "type": "shipping",
+            "comment": "Address : Zayan Mohamed Zaiza 66A\n Nalanda nagar\n Athil PO kollam Kerala .",
+            "commentedBy": "system",
+            "commentedAt": "2021-01-23T10:13:32.703Z",
+            "source": "kart"
+        },
+        {
+            "_id": "600bf6ccc9b7db00202f99a2",
+            "category": "product",
+            "type": "type",
+            "comment": "Product Type : COMBO",
+            "commentedBy": "system",
+            "commentedAt": "2021-01-23T10:13:32.703Z",
+            "source": "kart"
+        },
+        {
+            "_id": "600bf6ccc9b7db00202f99a3",
+            "category": "product",
+            "type": "details",
+            "comment": "Student Details :  Course Details : K10/K12 ICSE : 5 - 10 , Initial Validity : 2022",
+            "commentedBy": "system",
+            "commentedAt": "2021-01-23T10:13:32.703Z",
+            "source": "kart"
+        },
+        {
+            "_id": "600bf6ccc9b7db00202f99a4",
+            "category": "price",
+            "type": "range",
+            "comment": "Price Range : 88000 - 107000",
+            "commentedBy": "system",
+            "commentedAt": "2021-01-23T10:13:32.703Z",
+            "source": "kart"
+        },
+        {
+            "_id": "600bf6ccc9b7db00202f99a5",
+            "category": "price",
+            "type": "final",
+            "comment": "Final Price : 88500",
+            "commentedBy": "system",
+            "commentedAt": "2021-01-23T10:13:32.703Z",
+            "source": "kart"
+        },
+        {
+            "_id": "600bf6ccc9b7db00202f99a6",
+            "category": "payment",
+            "type": "refIds",
+            "comment": "Payment Details : , Method:PAYU Amount: 88500 ReferenceId:BYJUS0002101230632293110",
+            "commentedBy": "system",
+            "commentedAt": "2021-01-23T10:13:32.703Z",
+            "source": "kart"
+        },
+        {
+            "_id": "600bf6d7c9b7db00202f99a7",
+            "comment": "ganesh.hegde1@byjus.com opted to move this order to OMS. Reason - D4",
+            "commentedBy": "ganesh.hegde1@byjus.com",
+            "commentedAt": "2021-01-23T10:13:43.069Z",
+            "source": "kart"
+        }
+    ],
+    "orderPunchingType": "NORMAL_ORDER",
+    "status": "delivered",
+    "leadDetails": {
+        "prospectId": "672f53d3-a675-42b0-97e7-2167ad381e27",
+        "accountNo": "24692",
+        "loggedInEmailId": "ganesh.hegde1@byjus.com",
+        "leadCreatedBy": "abhishek.j1@byjus.com",
+        "leadCreatedAt": null,
+        "leadMobileNo": "+91-9611480479",
+        "isLeadMobileUsed": true,
+        "leadLink": "https://run.leadsquared.com/LeadManagement/LeadDetails?LeadID=672f53d3-a675-42b0-97e7-2167ad381e27"
+    },
+    "contactDetails": {
+        "orderPunchingContact": "9611480479",
+        "cxProvidedContact": "",
+        "leadContact": "9611480479",
+        "gpContact": "9980563479",
+        "ngpContact": "",
+        "lpContact": ""
+    },
+    "createdAt": "2021-01-23T10:13:43.123Z",
+    "updatedAt": "2021-01-30T09:06:32.261Z",
+    "studentDetails": [
+        {
+            "studentProfileDetails": {
+                "isExistingProfile": false,
+                "existingPremiumId": "",
+                "existingFamilyId": ""
+            },
+            "hlpDetails": {
+                "courseDetails": [],
+                "sessionDetails": []
+            },
+            "courseType": [
+                "K10"
+            ],
+            "workshops": [],
+            "items": [
+                {
+                    "_id": "5ff2aba14ac24568d98d9cc6",
+                    "name": "5th Grade D4 SD Card May 2022",
+                    "skuName": "5th Grade D4 SD Card May 2022",
+                    "sku": "5th Grade D4 SD Card May 2022",
+                    "skuId": "DD05NA22",
+                    "validity": "MAY 2022",
+                    "type": "D4_TLP",
+                    "basePrice": "20000",
+                    "continousPrice": "15000",
+                    "updatedBy": "Manual_datafix_Mon_Jan_04_2021",
+                    "createdAt": "2021-01-04T05:46:07.086Z",
+                    "grade": "5",
+                    "cohort_id": 30,
+                    "productId": "1950360",
+                    "course": "Maths/Science",
+                    "itemType": "course",
+                    "price": 20000,
+                    "combinationType": "tlp",
+                    "studentId": "Zayan Mohamed-1"
+                },
+                {
+                    "_id": "5ff2aba34ac24568d98d9d02",
+                    "name": "6th Grade D4 ICSE SD Card May 2023",
+                    "skuName": "6th Grade D4 ICSE SD Card May 2023",
+                    "sku": "6th Grade D4 ICSE SD Card May 2023",
+                    "skuId": "DD06IC23",
+                    "validity": "MAY 2023",
+                    "type": "D4_TLP",
+                    "basePrice": "35000",
+                    "continousPrice": "15000",
+                    "updatedBy": "Manual_datafix_Mon_Jan_04_2021",
+                    "createdAt": "2021-01-04T05:46:07.086Z",
+                    "grade": "6",
+                    "cohort_id": 123,
+                    "productId": "1950399",
+                    "board": "ICSE",
+                    "itemType": "course",
+                    "price": 15000,
+                    "combinationType": "tlp",
+                    "studentId": "Zayan Mohamed-1"
+                },
+                {
+                    "_id": "5ff2aba54ac24568d98d9d48",
+                    "name": "7th Grade D4 ICSE SD Card May 2024",
+                    "skuName": "7th Grade D4 ICSE SD Card May 2024",
+                    "sku": "7th Grade D4 ICSE SD Card May 2024",
+                    "skuId": "DD07IC24",
+                    "validity": "MAY 2024",
+                    "type": "D4_TLP",
+                    "basePrice": "50000",
+                    "continousPrice": "15000",
+                    "updatedBy": "Manual_datafix_Mon_Jan_04_2021",
+                    "createdAt": "2021-01-04T05:46:07.086Z",
+                    "grade": "7",
+                    "cohort_id": 120,
+                    "productId": "1950506",
+                    "board": "ICSE",
+                    "itemType": "course",
+                    "price": 15000,
+                    "combinationType": "tlp",
+                    "studentId": "Zayan Mohamed-1"
+                },
+                {
+                    "_id": "5ff2aba74ac24568d98d9d8e",
+                    "name": "8th Grade D4 ICSE SD Card May 2025",
+                    "skuName": "8th Grade D4 ICSE SD Card May 2025",
+                    "sku": "8th Grade D4 ICSE SD Card May 2025",
+                    "skuId": "DD08IC25",
+                    "validity": "MAY 2025",
+                    "type": "D4_TLP",
+                    "basePrice": "65000",
+                    "continousPrice": "15000",
+                    "updatedBy": "Manual_datafix_Mon_Jan_04_2021",
+                    "createdAt": "2021-01-04T05:46:07.086Z",
+                    "grade": "8",
+                    "cohort_id": 110,
+                    "productId": "1950603",
+                    "board": "ICSE",
+                    "itemType": "course",
+                    "price": 15000,
+                    "combinationType": "tlp",
+                    "studentId": "Zayan Mohamed-1"
+                },
+                {
+                    "_id": "5ff2abaa4ac24568d98d9dd5",
+                    "name": "9th Grade D4 ICSE SD Card May 2026",
+                    "skuName": "9th Grade D4 ICSE SD Card May 2026",
+                    "sku": "9th Grade D4 ICSE SD Card May 2026",
+                    "skuId": "DD09IC26",
+                    "validity": "MAY 2026",
+                    "type": "D4_TLP",
+                    "basePrice": "80000",
+                    "continousPrice": "15000",
+                    "updatedBy": "Manual_datafix_Mon_Jan_04_2021",
+                    "createdAt": "2021-01-04T05:46:07.086Z",
+                    "grade": "9",
+                    "cohort_id": 111,
+                    "productId": "1950881",
+                    "board": "ICSE",
+                    "itemType": "course",
+                    "price": 15000,
+                    "combinationType": "tlp",
+                    "studentId": "Zayan Mohamed-1"
+                },
+                {
+                    "_id": "5ff2abac4ac24568d98d9e1c",
+                    "name": "10th Grade D4 ICSE SD Card May 2027",
+                    "skuName": "10th Grade D4 ICSE SD Card May 2027",
+                    "sku": "10th Grade D4 ICSE SD Card May 2027",
+                    "skuId": "DD10IC27",
+                    "validity": "MAY 2027",
+                    "type": "D4_TLP",
+                    "basePrice": "95000",
+                    "continousPrice": "15000",
+                    "updatedBy": "Manual_datafix_Mon_Jan_04_2021",
+                    "createdAt": "2021-01-04T05:46:07.086Z",
+                    "grade": "10",
+                    "cohort_id": 113,
+                    "productId": "1950210",
+                    "board": "ICSE",
+                    "itemType": "course",
+                    "price": 15000,
+                    "combinationType": "tlp",
+                    "studentId": "Zayan Mohamed-1"
+                },
+                {
+                    "_id": "5f7d7c6db5f587001954da47",
+                    "sku": "BYJU'S Learn Station 10inch Wifi White Tablet",
+                    "course": "",
+                    "grade": null,
+                    "board": null,
+                    "city": null,
+                    "productType": "tablet",
+                    "productId": "1909200",
+                    "name": "BYJU'S Learn Station 10inch Wifi White Tablet",
+                    "type": "tablet",
+                    "validity": "MAY 2023",
+                    "continousPrice": "15000",
+                    "basePrice": "12000",
+                    "updatedBy": "manualDataFix",
+                    "isVerified": true,
+                    "cohort_id": null,
+                    "skuId": "SBXWWZ",
+                    "size": 10,
+                    "properties": {
+                        "color": "white",
+                        "size": "10"
+                    },
+                    "price": "12000",
+                    "itemType": "tablet",
+                    "studentId": "Zayan Mohamed-1"
+                }
+            ],
+            "addOnItems": [],
+            "mentoringDetails": [],
+            "bhlpCourseDetails": [],
+            "_id": "600bf67226172a0028606b6b",
+            "course": "K10/K12",
+            "board": "ICSE",
+            "validity": "2022",
+            "tablet": "SBXWWZ",
+            "initialClass": "5",
+            "finalClass": "10",
+            "formValues": {
+                "course": "K10/K12",
+                "board": "ICSE",
+                "byjusClassFinalGrade": "",
+                "subCourse": "",
+                "validity": 2022,
+                "tablet": "SBXWWZ",
+                "initialClass": "5",
+                "finalClass": "10",
+                "tabletId": "T-SBXWWZ"
+            },
+            "productSelectionType": "byjus_tlp",
+            "studentName": "Zayan Mohamed",
+            "studentId": "Zayan Mohamed-1",
+            "premiumAccount": "1553820374"
+        }
+    ],
+    "actionDetails": {
+        "createdAt": "2021-01-23T10:15:15.913Z",
+        "createdBy": "ganesh.hegde1@byjus.com",
+        "confirmedAt": "2021-01-23T10:15:16.010Z",
+        "confirmedBy": "system",
+        "packagingInProgressAt": "2021-01-27T10:27:48.561Z",
+        "packagingInProgressBy": "system",
+        "shippedAt": "2021-01-27T11:06:42.521Z",
+        "shippedBy": "system",
+        "dispatchedAt": "2021-01-27T13:01:32.496Z",
+        "dispatchedBy": "system",
+        "deliveredAt": "2021-01-30T12:10:29.002Z",
+        "deliveredBy": "system"
+    },
+    "type": "product",
+    "subType": "course",
+    "timestamps": {
+        "createdAt": "2021-01-23T10:15:15.913Z"
+    },
+    "revenueOrderValue": 88500,
+    "orderValue": 88500,
+    "voucherDetails": null,
+    "smsDetails": {
+        "confirmedAt": "2021-01-23T10:15:17.096Z",
+        "confirmedBy": "system"
+    },
+    "updatedBy": "shrinath.mirashi@byjus.com"
+}
