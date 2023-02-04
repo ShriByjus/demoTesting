@@ -1,0 +1,210 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1673522523599' stop='1673522744134'>
+    <name>btlp workflow</name>
+    <title>btlp workflow</title>
+    <test-cases>
+        <test-case start='1673522523599' status='passed' stop='1673522529023'>
+            <name>Adding json to collections for generating the Order Id</name>
+            <title>Adding json to collections for generating the Order Id</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-108.0.5359.124'/>
+            </parameters>
+            <steps>
+                <step start='1673522523633' status='undefined'>
+                    <name>Adding order to Sales order Collection</name>
+                    <title>Adding order to Sales order Collection</title>
+                    <attachments/>
+                    <steps>
+                        <step start='1673522525686' status='undefined'>
+                            <name>Adding order to Sales Sub order Collection</name>
+                            <title>Adding order to Sales Sub order Collection</title>
+                            <attachments/>
+                            <steps>
+                                <step start='1673522527492' status='passed' stop='1673522529022'>
+                                    <name>Adding order to draft order Collection</name>
+                                    <title>Adding order to draft order Collection</title>
+                                    <attachments/>
+                                    <steps/>
+                                </step>
+                            </steps>
+                        </step>
+                    </steps>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1673522529024' status='passed' stop='1673522684508'>
+            <name>btlp forward workflow</name>
+            <title>btlp forward workflow</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-108.0.5359.124'/>
+            </parameters>
+            <steps>
+                <step start='1673522529024' status='undefined'>
+                    <name>Maximize the window</name>
+                    <title>Maximize the window</title>
+                    <attachments/>
+                    <steps>
+                        <step start='1673522529479' status='passed' stop='1673522532893'>
+                            <name>Open Byjus OMS page</name>
+                            <title>Open Byjus OMS page</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1673522532893' status='undefined'>
+                            <name>Login to the Home page</name>
+                            <title>Login to the Home page</title>
+                            <attachments/>
+                            <steps>
+                                <step start='1673522555411' status='undefined'>
+                                    <name>Open SSO Id</name>
+                                    <title>Open SSO Id</title>
+                                    <attachments/>
+                                    <steps>
+                                        <step start='1673522566317' status='undefined'>
+                                            <name>adding present owner</name>
+                                            <title>adding present owner</title>
+                                            <attachments/>
+                                            <steps>
+                                                <step start='1673522577728' status='undefined'>
+                                                    <name>impersonating set up user</name>
+                                                    <title>impersonating set up user</title>
+                                                    <attachments/>
+                                                    <steps>
+                                                        <step start='1673522592380' status='undefined'>
+                                                            <name>impersonating is done</name>
+                                                            <title>impersonating is done</title>
+                                                            <attachments/>
+                                                            <steps>
+                                                                <step start='1673522597965' status='undefined'>
+                                                                    <name>Open SSO Id and mapping inventory &amp; packaging</name>
+                                                                    <title>Open SSO Id and mapping inventory &amp; packaging</title>
+                                                                    <attachments/>
+                                                                    <steps>
+                                                                        <step start='1673522645146' status='undefined'>
+                                                                            <name>shipment creation</name>
+                                                                            <title>shipment creation</title>
+                                                                            <attachments/>
+                                                                            <steps>
+                                                                                <step start='1673522650077' status='undefined'>
+                                                                                    <name>Get AWB no from DB</name>
+                                                                                    <title>Get AWB no from DB</title>
+                                                                                    <attachments/>
+                                                                                    <steps>
+                                                                                        <step start='1673522651741' status='undefined'>
+                                                                                            <name>Wait for 5 sec to get AWB no from DB</name>
+                                                                                            <title>Wait for 5 sec to get AWB no from DB</title>
+                                                                                            <attachments/>
+                                                                                            <steps>
+                                                                                                <step start='1673522651741' status='undefined'>
+                                                                                                    <name>creation of dispatchBatch</name>
+                                                                                                    <title>creation of dispatchBatch</title>
+                                                                                                    <attachments/>
+                                                                                                    <steps>
+                                                                                                        <step start='1673522664805' status='undefined'>
+                                                                                                            <name>completed creation of dispatchBatch</name>
+                                                                                                            <title>completed creation of dispatchBatch</title>
+                                                                                                            <attachments/>
+                                                                                                            <steps/>
+                                                                                                        </step>
+                                                                                                    </steps>
+                                                                                                </step>
+                                                                                            </steps>
+                                                                                        </step>
+                                                                                    </steps>
+                                                                                </step>
+                                                                            </steps>
+                                                                        </step>
+                                                                    </steps>
+                                                                </step>
+                                                            </steps>
+                                                        </step>
+                                                    </steps>
+                                                </step>
+                                            </steps>
+                                        </step>
+                                    </steps>
+                                </step>
+                            </steps>
+                        </step>
+                    </steps>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1673522684510' status='broken' stop='1673522744134'>
+            <name>btlp reveres workflow</name>
+            <title>btlp reveres workflow</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-108.0.5359.124'/>
+            </parameters>
+            <steps>
+                <step start='1673522684512' status='broken' stop='1673522744134'>
+                    <name>Maximize the window</name>
+                    <title>Maximize the window</title>
+                    <attachments/>
+                    <steps>
+                        <step start='1673522690235' status='broken' stop='1673522744134'>
+                            <name>opening sales return module</name>
+                            <title>opening sales return module</title>
+                            <attachments/>
+                            <steps>
+                                <step start='1673522697134' status='broken' stop='1673522744134'>
+                                    <name>entering values is the amount fields</name>
+                                    <title>entering values is the amount fields</title>
+                                    <attachments/>
+                                    <steps>
+                                        <step start='1673522723955' status='broken' stop='1673522744134'>
+                                            <name>selecting sales return reason</name>
+                                            <title>selecting sales return reason</title>
+                                            <attachments/>
+                                            <steps>
+                                                <step start='1673522732674' status='broken' stop='1673522744134'>
+                                                    <name>selecting skip inventory option</name>
+                                                    <title>selecting skip inventory option</title>
+                                                    <attachments/>
+                                                    <steps>
+                                                        <step start='1673522737776' status='broken' stop='1673522744134'>
+                                                            <name>selecting sales return products and services</name>
+                                                            <title>selecting sales return products and services</title>
+                                                            <attachments>
+                                                                <attachment title='Screenshot' source='b39972b9-9efb-4ddc-8ce5-3ffa73e6a8b7-attachment.png' type='image/png' size='315024'/>
+                                                            </attachments>
+                                                            <steps/>
+                                                        </step>
+                                                    </steps>
+                                                </step>
+                                            </steps>
+                                        </step>
+                                    </steps>
+                                </step>
+                            </steps>
+                        </step>
+                    </steps>
+                </step>
+            </steps>
+            <attachments/>
+            <failure>
+                <message>element ("(//button[normalize-space()='Submit'])[1]") still not clickable after 5000ms</message>
+                <stack-trace>Error: element ("(//button[normalize-space()='Submit'])[1]") still not clickable after 5000ms
+                    at OMShomepages.selectProductsAndServices (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/omsSmokeData.js:1331:9)
+                    at Context.&lt;anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/order_types_testing/upgradeOrder/forwardFlow.js:89:9)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,144 @@
+{
+  "uid" : "9af08f14aea30e85",
+  "name" : "Verifying changing the status to Confirmed and Verify the order status history",
+  "fullName" : "Validating UKG Single order.Verifying changing the status to Confirmed and Verify the order status history",
+  "historyId" : "7d50b365cf594b480a777f0db2a73494",
+  "time" : {
+    "start" : 1669883068099,
+    "stop" : 1669883088367,
+    "duration" : 20268
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 7,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Verify change status to Confirmed and verify order status history",
+      "time" : {
+        "start" : 1669883068099,
+        "stop" : 1669883088367,
+        "duration" : 20268
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verifying changing the status to Confirmed and Verify the order status history"
+  }, {
+    "name" : "package",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.121"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6a708e324ebb1549",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669789679271,
+        "stop" : 1669789691794,
+        "duration" : 12523
+      }
+    }, {
+      "uid" : "7b171ccfafcae0fa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669789582661,
+        "stop" : 1669789595264,
+        "duration" : 12603
+      }
+    }, {
+      "uid" : "ef29e2e5eadc3242",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669789293703,
+        "stop" : 1669789305275,
+        "duration" : 11572
+      }
+    }, {
+      "uid" : "25aab21eda5b1e7a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669788441583,
+        "stop" : 1669788453534,
+        "duration" : 11951
+      }
+    }, {
+      "uid" : "6889b5527d2ccba9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669786652246,
+        "stop" : 1669786664345,
+        "duration" : 12099
+      }
+    }, {
+      "uid" : "2921c23c22d98ef4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669784245714,
+        "stop" : 1669784256723,
+        "duration" : 11009
+      }
+    }, {
+      "uid" : "61e0bbc97f550f2b",
+      "status" : "broken",
+      "statusDetails" : "no such window: target window already closed\n                from unknown error: web view not found\n                  (Session info: chrome=107.0.5304.121)",
+      "time" : {
+        "start" : 1669702924960,
+        "stop" : 1669702924977,
+        "duration" : 17
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9af08f14aea30e85.json",
+  "parameterValues" : [ "chrome-107.0.5304.121" ]
+}

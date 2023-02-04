@@ -1,0 +1,18 @@
+{
+    "status" : "success",
+    "customerName" : "Siddharth",
+    "customerEmail" : "sid@gmail.com",
+    "phone" : 9000000000,
+    "amount" : 5000,
+    "salesEmail" : "pooja.a@byjus.com",
+    "description" : "testing notification",
+    "referenceId" : "BPP988290374",
+    "paymentLink" : "http://preprod.phon.pe/iluz0poc",
+    "createdAt" : "2021-11-05T07:05:42.459Z",
+    "updatedAt" : "2021-11-05T07:10:56.135Z",
+    "__v" : 0,
+    "message" : "Payment success",
+    "successAt" : "2021-11-05T07:49:56.135Z",
+    "successBy" : "webhook",
+    "updatedBy" : "webhook"
+}

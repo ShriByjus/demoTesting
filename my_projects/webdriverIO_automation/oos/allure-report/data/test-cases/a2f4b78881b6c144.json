@@ -1,0 +1,115 @@
+{
+  "uid" : "a2f4b78881b6c144",
+  "name" : "Verify the sum of sku values should match the sub total amount",
+  "fullName" : "Validating UKG Single order.Verify the sum of sku values should match the sub total amount",
+  "historyId" : "959d8fe8affb8b8dae0c57a5238a4248",
+  "time" : {
+    "start" : 1669547272979,
+    "stop" : 1669547272987,
+    "duration" : 8
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Wait for Toggle button to be Clickable",
+      "time" : {
+        "start" : 1669547272979,
+        "stop" : 0,
+        "duration" : -1669547272979
+      },
+      "status" : "unknown",
+      "steps" : [ {
+        "name" : "Scroll to Toggle button",
+        "time" : {
+          "start" : 1669547272980,
+          "stop" : 0,
+          "duration" : -1669547272980
+        },
+        "status" : "unknown",
+        "steps" : [ {
+          "name" : "Click on Toggle button",
+          "time" : {
+            "start" : 1669547272980,
+            "stop" : 1669547272980,
+            "duration" : 0
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 2,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the sum of sku values should match the sub total amount"
+  }, {
+    "name" : "package",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.110"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a2f4b78881b6c144.json",
+  "parameterValues" : [ "chrome-107.0.5304.110" ]
+}

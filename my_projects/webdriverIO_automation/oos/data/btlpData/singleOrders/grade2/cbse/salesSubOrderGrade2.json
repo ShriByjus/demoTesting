@@ -1,0 +1,593 @@
+
+{
+    "salesSubOrderId": "SSO1-2211280333230044",
+    "salesOrderId": "SO-2211280333230044",
+    "orgFormattedName": "byjus",
+    "orgId": "ORG-1",
+    "currency": "INR",
+    "orderType": "SINGLE",
+    "courseType": "K3",
+    "lineItems": [
+      {
+        "id": 9878,
+        "skuId": "SD02DM04",
+        "imageUrl": "",
+        "skuName": "DM Training 03",
+        "status": "active",
+        "orgId": "ORG-1",
+        "basePrice": 10000,
+        "continuousPrice": 10000,
+        "hsnCode": "85235100",
+        "programId": "DBELK3AS0001",
+        "type": "product",
+        "subType": "sd_card",
+        "category": "demo_btlp",
+        "package": null,
+        "course": "K3",
+        "subCourse": "",
+        "grade": "2",
+        "subject": "",
+        "board": "cbse",
+        "language": "",
+        "validityType": "year",
+        "validity": "2023",
+        "validityMonth": "MAY",
+        "brand": "D4",
+        "size": "",
+        "model": "",
+        "scheme": "",
+        "skuSet": 1,
+        "cohortId": null,
+        "ohProductId": null,
+        "productState": null,
+        "isValidSku": true,
+        "remarks": "",
+        "validatedAt": "2022-05-09T05:08:36.543Z",
+        "financeCode": "DMDD01NA",
+        "sprId": null,
+        "orgFormattedName": "byjus",
+        "createdBy": "system",
+        "createdAt": "2022-05-17T11:29:39.561Z",
+        "deletedAt": null,
+        "continousPrice": 10000,
+        "skuSource": "SalesSkuMaster",
+        "itemType": "course",
+        "itemId": "UHmAlXhsucON2mg0T8dVtfSa",
+        "studentId": "Shubham singh-1",
+        "tabletId": "T-SCXMGJ-Shubham singh",
+        "pgItemId": 1526246,
+        "name": "DM Training 03",
+        "sku": "DM Training 03",
+        "salesSubOrderId": "SSO1-2211280333230044",
+        "itemStatus": "mapping_pending",
+        "invoicePrice": "10000.00"
+      },
+      {
+        "id": 15893,
+        "skuId": "SCXMGJ",
+        "imageUrl": "",
+        "skuName": "BYJU'S LearnStation Junior 10inch Mobile Data Grey Tablet",
+        "status": "active",
+        "orgId": "ORG-1",
+        "basePrice": 16000,
+        "continuousPrice": 16000,
+        "hsnCode": "84713010",
+        "programId": "TLP2UCHW0001",
+        "type": "product",
+        "subType": "tablet",
+        "category": "tablet",
+        "package": null,
+        "course": "",
+        "subCourse": "",
+        "grade": "",
+        "subject": "",
+        "board": "",
+        "language": "",
+        "validityType": "N/A",
+        "validity": "May 2023",
+        "validityMonth": "",
+        "brand": "",
+        "size": "",
+        "model": "",
+        "scheme": "",
+        "skuSet": 1,
+        "cohortId": null,
+        "ohProductId": "1993793",
+        "productState": "new",
+        "isValidSku": true,
+        "remarks": "",
+        "validatedAt": "2022-10-11T07:42:00.121Z",
+        "financeCode": "SBXMGJ",
+        "sprId": null,
+        "orgFormattedName": "byjus",
+        "createdBy": "system",
+        "createdAt": "2022-10-11T07:42:00.182Z",
+        "deletedAt": null,
+        "price": 16000,
+        "itemType": "tablet",
+        "skuSource": "SalesSkuMaster",
+        "itemId": "Z6NilM1gyb8wjON1_I8_PeuF",
+        "studentId": "Shubham singh-1",
+        "tabletId": "T-SCXMGJ-Shubham singh",
+        "pgItemId": 1526247,
+        "name": "BYJU'S LearnStation Junior 10inch Mobile Data Grey Tablet",
+        "sku": "BYJU'S LearnStation Junior 10inch Mobile Data Grey Tablet",
+        "salesSubOrderId": "SSO1-2211280333230044",
+        "itemStatus": "mapping_pending",
+        "invoicePrice": "16000.00",
+        "pgLineItemId": 1526248
+      }
+    ],
+    "shipmentLineItems": [
+      {
+        "skuId": "SCXMGZUC",
+        "skuName": "BYJU'S LearnStation Junior 10inch Mobile Data Grey Tablet",
+        "status": "active",
+        "type": "tablet",
+        "properties": {
+          "grade": null,
+          "course": null,
+          "board": null,
+          "color": "Grey",
+          "brand": null,
+          "manufacturer": null,
+          "warehouse": [],
+          "sdCardMemory": null,
+          "appVersion": null,
+          "sdCardVersion": null,
+          "apkRelease": {
+            "date": {
+              "numberLong": "1666076591681"
+            }
+          },
+          "contentRelease": {
+            "date": {
+              "numberLong": "1666076591681"
+            }
+          },
+          "location": null,
+          "comboDetails": [],
+          "userType": null,
+          "programId": null,
+          "size": null,
+          "model": null,
+          "skuSet": 1,
+          "subject": null,
+          "language": null,
+          "scheme": null
+        },
+        "dimensions": {
+          "length": null,
+          "width": null,
+          "height": null,
+          "unit": null
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "productionStrategy": "learnstation",
+        "financeMaterialCode": "SCXMGZUC",
+        "financeProductCode": null,
+        "createdBy": "system",
+        "updatedBy": "jamsheer.a@byjus.com",
+        "createdAt": {
+          "date": {
+            "numberLong": "1666076591637"
+          }
+        },
+        "updatedAt": {
+          "date": {
+            "numberLong": "1666076591682"
+          }
+        },
+        "deletedAt": null,
+        "productState": "new",
+        "activeSalesItems": [
+          "SCXMGJ"
+        ],
+        "activeLineItemIds": [
+          "Z6NilM1gyb8wjON1_I8_PeuF"
+        ],
+        "price": 16000,
+        "studentId": "Shubham singh-1",
+        "students": [
+          "Shubham singh-1"
+        ],
+        "tabletId": "T-SCXMGJ-Shubham singh",
+        "itemStatus": "mapping_pending",
+        "pgShipmentLineItemId": 16472531
+      },
+      {
+        "properties": {
+          "board": "CBSE",
+          "grade": "01-02",
+          "appVersion": "",
+          "sdCardVersion": "",
+          "sdCardMemory": 16,
+          "noOfGrade": "",
+          "apkRelease": null,
+          "contentRelease": null,
+          "inventoryRelease": null,
+          "manufacturer": "",
+          "brand": "",
+          "course": "",
+          "model": "",
+          "scheme": "",
+          "programId": "",
+          "userType": "",
+          "language": "",
+          "subject": "",
+          "skuSet": null,
+          "commodity": "",
+          "content": "",
+          "combinations": [
+            {
+              "label": "1-2",
+              "value": "1-2"
+            }
+          ],
+          "comboDetails": [
+            {
+              "_id": {
+                "oid": "62c43dfad233a58c5311ee93"
+              },
+              "initialClass": 1,
+              "finalClass": 2,
+              "updatedBy": "sandra.nair@byjus.com"
+            }
+          ]
+        },
+        "skuId": "test00445511",
+        "skuName": "test",
+        "type": "sd_card",
+        "productState": null,
+        "activeGrades": [
+          2
+        ],
+        "activeSalesItems": [
+          "SD02DM04"
+        ],
+        "activeLineItemIds": [
+          "UHmAlXhsucON2mg0T8dVtfSa"
+        ],
+        "studentId": "Shubham singh-1",
+        "tabletId": "T-SCXMGJ-Shubham singh",
+        "itemStatus": "mapping_pending",
+        "pgShipmentLineItemId": 16472532
+      }
+    ],
+    "returnLineItems": [],
+    "salesDetails": {
+      "typeOfSales": "DS Sales",
+      "directSalesBy": "sanjay.karkera@byjus.com",
+      "directSalesByCampaign": "Livechat Calling",
+      "salesAppointmentBy": null,
+      "salesAppointmentByCampaign": "Hyderabad",
+      "incentiveDate": {
+        "date": {
+          "numberLong": "1669606788026"
+        }
+      },
+      "salesAppointmentByRole": null,
+      "directSalesByDept": "business_development",
+      "salesAppointmentByDept": "",
+      "salesIndex": 175
+    },
+    "customerDetails": {
+      "customerId": "CX-2210280625062228",
+      "name": "sanjay",
+      "identifierDetails": [],
+      "alternateName": "Shubham singh",
+      "mobileNo": "+91-8736576846",
+      "alternateMobileNo": "+91-8736576846",
+      "email": "sd56uysfgdf@gmail.com",
+      "alternateEmail": null,
+      "type": "individual",
+      "communicationPreferences": {},
+      "isBooksOpted": true,
+      "billingCustomerId": null
+    },
+    "billingCustomerDetails": null,
+    "addressDetails": {
+      "billing": {
+        "zipcode": "600001",
+        "addressLine1": "Akshya Nagar 1st Block 1st Cro",
+        "country": "India",
+        "state": "Tamil Nadu",
+        "city": "Chennai",
+        "addressLine2": "Akshya Nagar 1st Block 1st Cro,",
+        "addressLine3": "Mannady S.O (Chennai)",
+        "address": "Akshya Nagar 1st Block 1st Cro\n Akshya Nagar 1st Block 1st Cro\n Mannady S.O (Chennai)",
+        "addressId": "496870"
+      },
+      "shipping": {
+        "zipcode": "600001",
+        "addressLine1": "Akshya Nagar 1st Block 1st Cro",
+        "country": "India",
+        "state": "Tamil Nadu",
+        "city": "Chennai",
+        "addressLine2": "Akshya Nagar 1st Block 1st Cro,",
+        "addressLine3": "Mannady S.O (Chennai)",
+        "address": "Akshya Nagar 1st Block 1st Cro\n Akshya Nagar 1st Block 1st Cro\n Mannady S.O (Chennai)",
+        "addressId": "496871"
+      }
+    },
+    "attachments": [
+      {
+        "_id": {
+          "oid": "63842d7b2412f30021aa7e5d"
+        },
+        "name": "cheque",
+        "url": "https://orderhive-payments.s3.ap-southeast-1.amazonaws.com/development/63842c032412f30021aa7e26/cheque/cheque-20221128_09083450.png"
+      }
+    ],
+    "studentDetails": [
+      {
+        "studentProfileDetails": {
+          "isExistingProfile": true,
+          "existingPremiumId": "1646786451",
+          "existingFamilyId": ""
+        },
+        "hlpDetails": {
+          "courseDetails": [],
+          "sessionDetails": []
+        },
+        "courseType": [
+          "K3"
+        ],
+        "electiveDetails": [],
+        "doubtClassDetails": [],
+        "workshops": [],
+        "items": [
+          {
+            "id": 9878,
+            "skuId": "SD02DM04",
+            "imageUrl": "",
+            "skuName": "DM Training 03",
+            "status": "active",
+            "orgId": "ORG-1",
+            "city": "",
+            "basePrice": 10000,
+            "continuousPrice": 10000,
+            "hsnCode": "85235100",
+            "programId": "DBELK3AS0001",
+            "type": "product",
+            "subType": "sd_card",
+            "category": "demo_btlp",
+            "package": null,
+            "course": "K3",
+            "subCourse": "",
+            "grade": "2",
+            "subject": "",
+            "board": "cbse",
+            "language": "",
+            "validityType": "year",
+            "validity": "2023",
+            "validityMonth": "MAY",
+            "brand": "D4",
+            "size": "",
+            "model": "",
+            "scheme": "",
+            "skuSet": 1,
+            "cohortId": null,
+            "ohProductId": null,
+            "productState": null,
+            "isValidSku": true,
+            "remarks": "",
+            "validatedAt": "2022-05-09T05:08:36.543Z",
+            "financeCode": "DMDD01NA",
+            "sprId": null,
+            "orgFormattedName": "byjus",
+            "createdBy": "system",
+            "updatedBy": "system",
+            "createdAt": "2022-05-17T11:29:39.561Z",
+            "updatedAt": "2022-08-16T10:52:23.794Z",
+            "deletedAt": null,
+            "continousPrice": 10000,
+            "skuSource": "SalesSkuMaster",
+            "itemType": "course",
+            "combinationType": "tlp",
+            "itemId": "UHmAlXhsucON2mg0T8dVtfSa",
+            "studentId": "Shubham singh-1",
+            "tabletId": "T-SCXMGJ-Shubham singh",
+            "name": "DM Training 03",
+            "sku": "DM Training 03"
+          },
+          {
+            "id": 15893,
+            "skuId": "SCXMGJ",
+            "imageUrl": "",
+            "skuName": "BYJU'S LearnStation Junior 10inch Mobile Data Grey Tablet",
+            "status": "active",
+            "orgId": "ORG-1",
+            "city": "",
+            "basePrice": 16000,
+            "continuousPrice": 16000,
+            "hsnCode": "84713010",
+            "programId": "TLP2UCHW0001",
+            "type": "product",
+            "subType": "tablet",
+            "category": "tablet",
+            "package": null,
+            "course": "",
+            "subCourse": "",
+            "grade": "",
+            "subject": "",
+            "board": "",
+            "language": "",
+            "validityType": "N/A",
+            "validity": "May 2023",
+            "validityMonth": "",
+            "brand": "",
+            "size": "",
+            "model": "",
+            "scheme": "",
+            "skuSet": 1,
+            "cohortId": null,
+            "ohProductId": "1993793",
+            "productState": "new",
+            "isValidSku": true,
+            "remarks": "",
+            "validatedAt": "2022-10-11T07:42:00.121Z",
+            "financeCode": "SBXMGJ",
+            "sprId": null,
+            "orgFormattedName": "byjus",
+            "createdBy": "system",
+            "updatedBy": "datafix",
+            "createdAt": "2022-10-11T07:42:00.182Z",
+            "updatedAt": "2022-10-20T09:13:45.479Z",
+            "deletedAt": null,
+            "price": 16000,
+            "itemType": "tablet",
+            "skuSource": "SalesSkuMaster",
+            "itemId": "Z6NilM1gyb8wjON1_I8_PeuF",
+            "studentId": "Shubham singh-1",
+            "tabletId": "T-SCXMGJ-Shubham singh",
+            "name": "BYJU'S LearnStation Junior 10inch Mobile Data Grey Tablet",
+            "sku": "BYJU'S LearnStation Junior 10inch Mobile Data Grey Tablet"
+          }
+        ],
+        "addOnItems": [],
+        "mentoringDetails": [],
+        "bhlpCourseDetails": [],
+        "featureTag": [
+          "victory-k4-9-india"
+        ],
+        "_id": {
+          "oid": "63842d072412f30021aa7e49"
+        },
+        "tablet": "SCXMGJ",
+        "course": "K10/K12",
+        "board": "CBSE",
+        "validity": "2023",
+        "initialClass": "2",
+        "formValues": {
+          "tablet": "SCXMGJ",
+          "course": "K10/K12",
+          "board": "CBSE",
+          "subCourse": "",
+          "validity": 2023,
+          "session": "",
+          "userProfile": "1646786451",
+          "initialClass": "2",
+          "selectD4SDCard": false,
+          "tabletId": "T-SCXMGJ",
+          "featureTag": [
+            "victory-k4-9-india"
+          ],
+          "isTabletLock": false
+        },
+        "tabletLock": "not_applicable",
+        "productSelectionType": "byjus_tlp",
+        "studentName": "Shubham singh",
+        "studentId": "Shubham singh-1",
+        "academicDetails": {
+          "mathPercent": null,
+          "sciencePercent": null,
+          "fotTrackId": null,
+          "proficiency": null,
+          "schoolDetails": {
+            "id": null,
+            "name": "",
+            "address": "",
+            "pincode": null
+          },
+          "languageOfInstruction": null,
+          "languageOfInstructionId": null
+        },
+        "premiumAccount": "1646786451"
+      }
+    ],
+    "orderPunchingType": "NORMAL_ORDER",
+    "orderPunchingCategory": "byjus_tlp",
+    "paymentDetails": {
+      "payments": [
+        {
+          "isPrepaid": true,
+          "_id": {
+            "oid": "63842d7b2412f30021aa7e5e"
+          },
+          "provider": "CHEQUE",
+          "referenceId": "16696067780256-345345345287897",
+          "amount": 26000,
+          "additionalDetails": {
+            "bank": "city"
+          },
+          "attachments": [
+            {
+              "_id": {
+                "oid": "63842d7b2412f30021aa7e5f"
+              },
+              "name": "cheque",
+              "url": "https://orderhive-payments.s3.ap-southeast-1.amazonaws.com/development/63842c032412f30021aa7e26/cheque/cheque-20221128_09083450.png"
+            }
+          ],
+          "type": "DOWN_PAYMENT",
+          "currency": "",
+          "isActive": true
+        }
+      ],
+      "paymentMethod": "NGP",
+      "paymentStatus": "NOT_PAID",
+      "paymentMode": "CHEQUE",
+      "paymentAmountSplit": "26000",
+      "totalAmount": 26000
+    },
+    "leadDetails": {
+      "prospectId": "sdf667sudfh",
+      "accountNo": "24692",
+      "loggedInEmailId": "praz@byjus.com",
+      "leadCreatedBy": "",
+      "leadCreatedAt": null,
+      "leadMobileNo": "+91-8736576846",
+      "isLeadMobileUsed": true,
+      "leadLink": "https://run.leadsquared.com/LeadManagement/LeadDetails?LeadID=sdf667sudfh"
+    },
+    "contactDetails": {
+      "orderPunchingContact": "8736576846",
+      "cxProvidedContact": "8736576846",
+      "leadContact": "8736576846",
+      "gpContact": "",
+      "ngpContact": "",
+      "lpContact": ""
+    },
+    "type": "product",
+    "subType": "course",
+    "status": "not_confirmed",
+    "category": "sales",
+    "statusReason": "AUTO_CONFIRMATION_PENDING",
+    "actionDetails": {
+      "createdAt": {
+        "date": {
+          "numberLong": "1669606860980"
+        }
+      },
+      "createdBy": "praz@byjus.com",
+      "notConfirmedAt": {
+        "date": {
+          "numberLong": "1669606861137"
+        }
+      },
+      "notConfirmedBy": "draft_order_job"
+    },
+    "createdAt": {
+      "date": {
+        "numberLong": "1669606788026"
+      }
+    },
+    "updatedat": {
+      "date": {
+        "numberLong": "1669606860981"
+      }
+    },
+    "sourceDetails": {},
+    "assignmentCategory": "ls_k3",
+    "orderBatchId": "",
+    "updatedAt": {
+      "date": {
+        "numberLong": "1669606861166"
+      }
+    },
+    "salesOrderStatus": "not_confirmed"
+  }

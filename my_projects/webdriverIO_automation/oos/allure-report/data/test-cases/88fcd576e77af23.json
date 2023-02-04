@@ -1,0 +1,147 @@
+{
+  "uid" : "88fcd576e77af23",
+  "name" : "Verify sales and customer details",
+  "fullName" : "Validating Byjus classes single order for 6th standard.Verify sales and customer details",
+  "historyId" : "3db0f14b65586babc8d1303eee301dc3",
+  "time" : {
+    "start" : 1670482692138,
+    "stop" : 1670482696513,
+    "duration" : 4375
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Get address details from draft order Id collection",
+      "time" : {
+        "start" : 1670482692139,
+        "stop" : 0,
+        "duration" : -1670482692139
+      },
+      "status" : "unknown",
+      "steps" : [ {
+        "name" : "Get customer details from draft order Id collection",
+        "time" : {
+          "start" : 1670482693446,
+          "stop" : 0,
+          "duration" : -1670482693446
+        },
+        "status" : "unknown",
+        "steps" : [ {
+          "name" : "Copy sales and customer details from UI",
+          "time" : {
+            "start" : 1670482695253,
+            "stop" : 0,
+            "duration" : -1670482695253
+          },
+          "status" : "unknown",
+          "steps" : [ {
+            "name" : "Validate the address details from UI matches with details from draft order collection",
+            "time" : {
+              "start" : 1670482696513,
+              "stop" : 0,
+              "duration" : -1670482696513
+            },
+            "status" : "unknown",
+            "steps" : [ {
+              "name" : "Validate the customer details from UI matches with details from draft order collection",
+              "time" : {
+                "start" : 1670482696513,
+                "stop" : 1670482696513,
+                "duration" : 0
+              },
+              "status" : "passed",
+              "steps" : [ ],
+              "attachments" : [ ],
+              "parameters" : [ ],
+              "stepsCount" : 0,
+              "attachmentsCount" : 0,
+              "shouldDisplayMessage" : false,
+              "hasContent" : false
+            } ],
+            "attachments" : [ ],
+            "parameters" : [ ],
+            "stepsCount" : 1,
+            "attachmentsCount" : 0,
+            "shouldDisplayMessage" : false,
+            "hasContent" : true
+          } ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 2,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 3,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 4,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 5,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Byjus classes single order for 6th standard"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Byjus classes single order for 6th standard"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify sales and customer details"
+  }, {
+    "name" : "package",
+    "value" : "Validating Byjus classes single order for 6th standard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-108.0.5359.94"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "88fcd576e77af23.json",
+  "parameterValues" : [ "chrome-108.0.5359.94" ]
+}

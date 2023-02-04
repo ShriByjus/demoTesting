@@ -1,0 +1,532 @@
+
+{
+  "salesSubOrderId": "SSO1-2209291112100621",
+  "salesOrderId": "SO-2209291112100621",
+  "orgFormattedName": "byjus",
+  "orgId": "ORG-1",
+  "currency": "INR",
+  "orderType": "SINGLE",
+  "courseType": "K10",
+  "lineItems": [
+    {
+      "sku": "6th CBSE (SD Card-Byjus) May-2023",
+      "name": "6th CBSE (SD Card-Byjus) May-2023",
+      "skuName": "6th CBSE (SD Card-Byjus) May-2023",
+      "grade": "6",
+      "board": "CBSE",
+      "productId": "1147403",
+      "type": "btlp",
+      "validity": "MAY 2023",
+      "continousPrice": "17000",
+      "basePrice": "22000",
+      "createdBy": "keerthana.ravichandran@byjus.com",
+      "skuId": "SD06CB23",
+      "priceDetails": {
+        "united_arab_emirates": {
+          "basePrice": 1050,
+          "continousPrice": 800
+        }
+      },
+      "skuSubType": "SD Card",
+      "skuType": "Product",
+      "programId": "BTLAKXAS0001",
+      "financeCode": "SD06CB",
+      "itemType": "sd_card",
+      "itemId": "M0dtfWP4mcZCcL-jRVUE_Xyv",
+      "studentId": "Shubham singh-1",
+      "tabletId": "T-866186-Shubham singh",
+      "pgItemId": 1240532,
+      "course": "",
+      "orgId": "byjus",
+      "salesSubOrderId": "SSO1-2209291112100621",
+      "itemStatus": "mapping_pending",
+      "invoicePrice": "22000.00"
+    },
+    {
+      "sku": "LENOVO CALLING ADD-ON (BYJU'S)",
+      "course": "k10",
+      "grade": null,
+      "board": null,
+      "productType": "course",
+      "productId": "866186",
+      "name": "LENOVO CALLING ADD-ON (BYJU'S)",
+      "type": "tablet",
+      "validity": "MAY 2020",
+      "continousPrice": "7000",
+      "basePrice": "8000",
+      "size": 7,
+      "skuId": "TL7MZZ",
+      "skuName": "LENOVO CALLING ADD-ON (BYJU'S)",
+      "itemType": "tablet",
+      "createdAt": "2019-09-03T07:17:23.680Z",
+      "skuSubType": "Tablet",
+      "skuType": "Product",
+      "isValidSku": true,
+      "remarks": null,
+      "validatedAt": "2021-10-19T06:26:15.039Z",
+      "programId": "TLP1UCHW0001",
+      "financeCode": "TL7MZZ",
+      "hsnCode": "84713010",
+      "price": "8000",
+      "itemId": "CXK8w41VubnkH4hfM2nI9RIB",
+      "studentId": "Shubham singh-1",
+      "tabletId": "T-866186-Shubham singh",
+      "pgItemId": 1240533,
+      "orgId": "byjus",
+      "salesSubOrderId": "SSO1-2209291112100621",
+      "itemStatus": "mapping_pending",
+      "invoicePrice": "8000.00",
+      "pgLineItemId": 1240624
+    }
+  ],
+  "shipmentLineItems": [
+    {
+      "skuId": "TL7MZZKX",
+      "skuName": "K12 Lenovo 7 inch Tablet Mobile Data",
+      "status": "active",
+      "type": "tablet",
+      "properties": {
+        "grade": null,
+        "course": null,
+        "board": null,
+        "color": null,
+        "brand": "Lenovo",
+        "manufacturer": "Lenovo",
+        "warehouse": [],
+        "sdCardMemory": null,
+        "appVersion": null,
+        "sdCardVersion": null,
+        "apkRelease": {
+          "date": {
+            "numberLong": "1642564123606"
+          }
+        },
+        "contentRelease": {
+          "date": {
+            "numberLong": "1642564123606"
+          }
+        },
+        "location": null,
+        "comboDetails": [],
+        "userType": null,
+        "programId": "TLP1UCAS0001",
+        "size": null,
+        "model": null,
+        "skuSet": null,
+        "subject": null,
+        "language": null,
+        "scheme": null
+      },
+      "dimensions": {
+        "length": null,
+        "width": null,
+        "height": null,
+        "unit": null
+      },
+      "weight": {
+        "value": null,
+        "unit": null
+      },
+      "productionStrategy": null,
+      "financeMaterialCode": "TL7MZZKX",
+      "financeProductCode": "TL7M",
+      "createdBy": "dinesh.m@byjus.com",
+      "updatedBy": "system",
+      "createdAt": {
+        "date": {
+          "numberLong": "1596273625257"
+        }
+      },
+      "updatedAt": {
+        "date": {
+          "numberLong": "1660833194737"
+        }
+      },
+      "deletedAt": null,
+      "productState": null,
+      "activeSalesItems": [
+        "TL7MZZ"
+      ],
+      "activeLineItemIds": [
+        "CXK8w41VubnkH4hfM2nI9RIB"
+      ],
+      "price": 8000,
+      "studentId": "Shubham singh-1",
+      "students": [
+        "Shubham singh-1"
+      ],
+      "tabletId": "T-866186-Shubham singh",
+      "itemStatus": "mapping_pending",
+      "pgShipmentLineItemId": 13169021
+    },
+    {
+      "properties": {
+        "part": 1,
+        "warehouse": [
+          "IBC"
+        ],
+        "combinations": [
+          "05-06"
+        ],
+        "board": "CBSE",
+        "grade": "05-06",
+        "appVersion": "NA",
+        "sdCardVersion": "",
+        "sdCardMemory": 16,
+        "location": "",
+        "noOfGrade": "",
+        "apkRelease": {
+          "date": {
+            "numberLong": "1652095977184"
+          }
+        },
+        "contentRelease": {
+          "date": {
+            "numberLong": "1652095977184"
+          }
+        },
+        "inventoryRelease": {
+          "date": {
+            "numberLong": "1652095977184"
+          }
+        },
+        "comboDetails": [
+          {
+            "_id": {
+              "oid": "61c07a3b0bbd1abb09edaf49"
+            },
+            "initialClass": 5,
+            "finalClass": 6,
+            "updatedBy": "divya.g@byjus.com"
+          }
+        ],
+        "programId": "UBEPTPSY0001",
+        "scheme": "paper_cut"
+      },
+      "skuId": "S4JM0506",
+      "skuName": "SD Card",
+      "type": "sd_card",
+      "productState": null,
+      "activeGrades": [
+        6
+      ],
+      "activeSalesItems": [
+        "SD06CB23"
+      ],
+      "activeLineItemIds": [
+        "M0dtfWP4mcZCcL-jRVUE_Xyv"
+      ],
+      "studentId": "Shubham singh-1",
+      "tabletId": "T-866186-Shubham singh",
+      "itemStatus": "mapping_pending",
+      "pgShipmentLineItemId": 13169022
+    }
+  ],
+  "returnLineItems": [],
+  "salesDetails": {
+    "typeOfSales": "DS Sales",
+    "directSalesBy": "sanjay.karkera@byjus.com",
+    "directSalesByCampaign": "Livechat Calling",
+    "salesAppointmentBy": null,
+    "salesAppointmentByCampaign": "Hyderabad",
+    "incentiveDate": {
+      "date": {
+        "numberLong": "1664450382514"
+      }
+    },
+    "salesAppointmentByRole": null,
+    "directSalesByDept": "business_development",
+    "salesAppointmentByDept": "",
+    "salesIndex": 175
+  },
+  "customerDetails": {
+    "customerId": "CX-2209291111485419",
+    "name": "sanjay",
+    "identifierDetails": [],
+    "alternateName": "Shubham singh",
+    "mobileNo": "+91-7569900001",
+    "alternateMobileNo": "+91-7569900001",
+    "email": "sonuthegasfzvreatest25@gmail.com",
+    "alternateEmail": null,
+    "type": null,
+    "communicationPreferences": {},
+    "isBooksOpted": true,
+    "billingCustomerId": null
+  },
+  "billingCustomerDetails": null,
+  "addressDetails": {
+    "billing": {
+      "zipcode": "600001",
+      "addressLine1": "Akshya Nagar 1st Block 1st Cro",
+      "country": "India",
+      "state": "Tamil Nadu",
+      "city": "Chennai",
+      "addressLine2": "Akshya Nagar 1st Block 1st Cro,",
+      "addressLine3": "Govt Stanley Hospital S.O",
+      "address": "Akshya Nagar 1st Block 1st Cro\n Akshya Nagar 1st Block 1st Cro\n Govt Stanley Hospital S.O",
+      "addressId": "318644"
+    },
+    "shipping": {
+      "zipcode": "600001",
+      "addressLine1": "Akshya Nagar 1st Block 1st Cro",
+      "country": "India",
+      "state": "Tamil Nadu",
+      "city": "Chennai",
+      "addressLine2": "Akshya Nagar 1st Block 1st Cro,",
+      "addressLine3": "Govt Stanley Hospital S.O",
+      "address": "Akshya Nagar 1st Block 1st Cro\n Akshya Nagar 1st Block 1st Cro\n Govt Stanley Hospital S.O",
+      "addressId": "318649"
+    }
+  },
+  "attachments": [],
+  "studentDetails": [
+    {
+      "studentProfileDetails": {
+        "isExistingProfile": false,
+        "existingPremiumId": "",
+        "existingFamilyId": ""
+      },
+      "hlpDetails": {
+        "courseDetails": [],
+        "sessionDetails": []
+      },
+      "courseType": [
+        "K10"
+      ],
+      "electiveDetails": [],
+      "doubtClassDetails": [],
+      "workshops": [],
+      "items": [
+        {
+          "_id": "630753f977fdf04fbc83bbf4",
+          "sku": "6th CBSE (SD Card-Byjus) May-2023",
+          "name": "6th CBSE (SD Card-Byjus) May-2023",
+          "skuName": "6th CBSE (SD Card-Byjus) May-2023",
+          "grade": "6",
+          "board": "CBSE",
+          "city": null,
+          "cohort_id": 22,
+          "productId": "1147403",
+          "type": "btlp",
+          "validity": "MAY 2023",
+          "continousPrice": "17000",
+          "basePrice": "22000",
+          "createdBy": "keerthana.ravichandran@byjus.com",
+          "isVerified": true,
+          "skuId": "SD06CB23",
+          "priceDetails": {
+            "united_arab_emirates": {
+              "basePrice": 1050,
+              "continousPrice": 800
+            }
+          },
+          "skuSubType": "SD Card",
+          "skuType": "Product",
+          "programId": "BTLAKXAS0001",
+          "financeCode": "SD06CB",
+          "itemType": "course",
+          "combinationType": "tlp",
+          "itemId": "M0dtfWP4mcZCcL-jRVUE_Xyv",
+          "studentId": "Shubham singh-1",
+          "tabletId": "T-866186-Shubham singh",
+          "course": "",
+          "orgId": "byjus"
+        },
+        {
+          "_id": "5e73089cbe79e50019e199b5",
+          "auditLogs": [
+            {
+              "changes": {
+                "course": {
+                  "oldValue": "LENOVO CALLING ADD-ON (BYJU'S)",
+                  "newValue": ""
+                },
+                "isVerified": {
+                  "oldValue": null,
+                  "newValue": true
+                }
+              },
+              "updatedBy": "ayushi.sinha@byjus.com",
+              "updatedAt": "2020-03-19T05:52:53.837Z"
+            },
+            {
+              "changes": {
+                "course": {
+                  "oldValue": "",
+                  "newValue": "k10"
+                }
+              },
+              "updatedBy": "ayushi.sinha@byjus.com",
+              "updatedAt": "2020-03-19T05:53:59.254Z"
+            }
+          ],
+          "sku": "LENOVO CALLING ADD-ON (BYJU'S)",
+          "course": "k10",
+          "grade": null,
+          "board": null,
+          "city": null,
+          "cohort_id": null,
+          "productType": "course",
+          "productId": "866186",
+          "name": "LENOVO CALLING ADD-ON (BYJU'S)",
+          "type": "tablet",
+          "validity": "MAY 2020",
+          "continousPrice": "7000",
+          "basePrice": "8000",
+          "updatedBy": "finance_code_datafix_19-04-2022",
+          "isVerified": true,
+          "updatedAt": "2021-05-10T10:42:25.502Z",
+          "size": 7,
+          "skuId": "TL7MZZ",
+          "skuName": "LENOVO CALLING ADD-ON (BYJU'S)",
+          "itemType": "tablet",
+          "createdAt": "2019-09-03T07:17:23.680Z",
+          "skuSubType": "Tablet",
+          "skuType": "Product",
+          "isValidSku": true,
+          "remarks": null,
+          "validatedAt": "2021-10-19T06:26:15.039Z",
+          "programId": "TLP1UCHW0001",
+          "financeCode": "TL7MZZ",
+          "hsnCode": "84713010",
+          "price": "8000",
+          "itemId": "CXK8w41VubnkH4hfM2nI9RIB",
+          "studentId": "Shubham singh-1",
+          "tabletId": "T-866186-Shubham singh",
+          "orgId": "byjus"
+        }
+      ],
+      "addOnItems": [],
+      "mentoringDetails": [],
+      "bhlpCourseDetails": [],
+      "featureTag": [],
+      "_id": {
+        "oid": "63357de6445015001ba766f6"
+      },
+      "tablet": "866186",
+      "course": "K10/K12",
+      "board": "CBSE",
+      "validity": "2023",
+      "initialClass": "6",
+      "deviceType": "Tablet(Lenovo/Samsung)",
+      "formValues": {
+        "tablet": "866186",
+        "course": "K10/K12",
+        "board": "CBSE",
+        "subCourse": "",
+        "validity": 2023,
+        "session": "",
+        "initialClass": "6",
+        "selectD4SDCard": false,
+        "userProfile": "newProfile",
+        "tabletId": "T-866186",
+        "deviceType": "Tablet(Lenovo/Samsung)",
+        "featureTag": [],
+        "isTableLock": false
+      },
+      "tabletLock": "not_applicable",
+      "productSelectionType": "byjus_tlp",
+      "studentName": "Shubham singh",
+      "studentId": "Shubham singh-1",
+      "academicDetails": {
+        "mathPercent": null,
+        "sciencePercent": null,
+        "fotTrackId": null,
+        "proficiency": null,
+        "schoolDetails": {
+          "id": null,
+          "name": "",
+          "address": "",
+          "pincode": null
+        },
+        "languageOfInstruction": null,
+        "languageOfInstructionId": null
+      },
+      "premiumAccount": "1608898745"
+    }
+  ],
+  "orderPunchingType": "NORMAL_ORDER",
+  "orderPunchingCategory": "byjus_tlp",
+  "paymentDetails": {
+    "payments": [
+      {
+        "isPrepaid": true,
+        "_id": {
+          "oid": "63357f45445015001ba76814"
+        },
+        "provider": "GPAY",
+        "referenceId": "BYJGP4729898756",
+        "amount": 30000,
+        "type": "DOWN_PAYMENT",
+        "currency": "",
+        "attachments": [],
+        "isActive": true
+      }
+    ],
+    "paymentMethod": "NGP",
+    "paymentStatus": "NOT_PAID",
+    "paymentMode": "GPAY",
+    "paymentAmountSplit": "30000",
+    "totalAmount": 30000
+  },
+  "leadDetails": {
+    "prospectId": "aging1gfhg",
+    "accountNo": "24692",
+    "loggedInEmailId": "praz@byjus.com",
+    "leadCreatedBy": "",
+    "leadCreatedAt": null,
+    "leadMobileNo": "+91-7569900001",
+    "isLeadMobileUsed": true,
+    "leadLink": "https://run.leadsquared.com/LeadManagement/LeadDetails?LeadID=aging1gfhg"
+  },
+  "contactDetails": {
+    "orderPunchingContact": "7569900001",
+    "cxProvidedContact": "7569900001",
+    "leadContact": "7569900001",
+    "gpContact": "",
+    "ngpContact": "",
+    "lpContact": ""
+  },
+  "type": "product",
+  "subType": "course",
+  "status": "not_confirmed",
+  "category": "sales",
+  "statusReason": "AUTO_CONFIRMATION_PENDING",
+  "actionDetails": {
+    "createdAt": {
+      "date": {
+        "numberLong": "1664450485551"
+      }
+    },
+    "createdBy": "praz@byjus.com",
+    "notConfirmedAt": {
+      "date": {
+        "numberLong": "1664450485609"
+      }
+    },
+    "notConfirmedBy": "system"
+  },
+  "createdAt": {
+    "date": {
+      "numberLong": "1664450382514"
+    }
+  },
+  "updatedat": {
+    "date": {
+      "numberLong": "1664450485551"
+    }
+  },
+  "sourceDetails": {},
+  "assignmentCategory": "k10",
+  "updatedAt": {
+    "date": {
+      "numberLong": "1664450485633"
+    }
+  },
+  "estimatedDispatchDate": {
+    "date": {
+      "numberLong": "1664536885617"
+    }
+  },
+  "salesOrderStatus": "not_confirmed"
+}

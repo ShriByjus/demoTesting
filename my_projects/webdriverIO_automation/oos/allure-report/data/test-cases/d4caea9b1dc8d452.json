@@ -1,0 +1,144 @@
+{
+  "uid" : "d4caea9b1dc8d452",
+  "name" : "Verify the sum of sku values should match the sub total amount",
+  "fullName" : "Validating UKG Single order.Verify the sum of sku values should match the sub total amount",
+  "historyId" : "959d8fe8affb8b8dae0c57a5238a4248",
+  "time" : {
+    "start" : 1669545933957,
+    "stop" : 1669545934234,
+    "duration" : 277
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "File does not exist. Check to make sure the file path to your csv is correct.",
+  "statusTrace" : "Error: File does not exist. Check to make sure the file path to your csv is correct.\n                    at /Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/node_modules/csvtojson/src/Converter.ts:52:28\n                    at suppressedCallback (node:fs:263:5)\n                    at FSReqCallback.oncomplete (node:fs:188:23)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "File does not exist. Check to make sure the file path to your csv is correct.",
+    "statusTrace" : "Error: File does not exist. Check to make sure the file path to your csv is correct.\n                    at /Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/node_modules/csvtojson/src/Converter.ts:52:28\n                    at suppressedCallback (node:fs:263:5)\n                    at FSReqCallback.oncomplete (node:fs:188:23)",
+    "steps" : [ {
+      "name" : "Wait for Toggle button to be Clickable",
+      "time" : {
+        "start" : 1669545933958,
+        "stop" : 1669545934234,
+        "duration" : 276
+      },
+      "status" : "broken",
+      "statusMessage" : "Error: File does not exist. Check to make sure the file path to your csv is correct.\n                    at /Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/node_modules/csvtojson/src/Converter.ts:52:28\n                    at suppressedCallback (node:fs:263:5)\n                    at FSReqCallback.oncomplete (node:fs:188:23)",
+      "steps" : [ {
+        "name" : "Scroll to Toggle button",
+        "time" : {
+          "start" : 1669545933989,
+          "stop" : 1669545934234,
+          "duration" : 245
+        },
+        "status" : "broken",
+        "statusMessage" : "Error: File does not exist. Check to make sure the file path to your csv is correct.\n                    at /Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/node_modules/csvtojson/src/Converter.ts:52:28\n                    at suppressedCallback (node:fs:263:5)\n                    at FSReqCallback.oncomplete (node:fs:188:23)",
+        "steps" : [ {
+          "name" : "Click on Toggle button",
+          "time" : {
+            "start" : 1669545934000,
+            "stop" : 1669545934234,
+            "duration" : 234
+          },
+          "status" : "broken",
+          "statusMessage" : "Error: File does not exist. Check to make sure the file path to your csv is correct.\n                    at /Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/node_modules/csvtojson/src/Converter.ts:52:28\n                    at suppressedCallback (node:fs:263:5)\n                    at FSReqCallback.oncomplete (node:fs:188:23)",
+          "steps" : [ {
+            "name" : "Copy shipment skus from Csv file",
+            "time" : {
+              "start" : 1669545934047,
+              "stop" : 1669545934234,
+              "duration" : 187
+            },
+            "status" : "broken",
+            "statusMessage" : "Error: File does not exist. Check to make sure the file path to your csv is correct.\n                    at /Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/node_modules/csvtojson/src/Converter.ts:52:28\n                    at suppressedCallback (node:fs:263:5)\n                    at FSReqCallback.oncomplete (node:fs:188:23)",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "e8e58410fa516fdc",
+              "name" : "Screenshot",
+              "source" : "e8e58410fa516fdc.png",
+              "type" : "image/png",
+              "size" : 322438
+            } ],
+            "parameters" : [ ],
+            "stepsCount" : 0,
+            "attachmentsCount" : 1,
+            "shouldDisplayMessage" : true,
+            "hasContent" : true
+          } ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 1,
+          "attachmentsCount" : 1,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 2,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 3,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the sum of sku values should match the sub total amount"
+  }, {
+    "name" : "package",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.110"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d4caea9b1dc8d452.json",
+  "parameterValues" : [ "chrome-107.0.5304.110" ]
+}

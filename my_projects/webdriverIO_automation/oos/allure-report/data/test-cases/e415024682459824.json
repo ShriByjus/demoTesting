@@ -1,0 +1,128 @@
+{
+  "uid" : "e415024682459824",
+  "name" : "Verify the sum of sku values should match the sub total amount",
+  "fullName" : "Validating UKG Single order.Verify the sum of sku values should match the sub total amount",
+  "historyId" : "959d8fe8affb8b8dae0c57a5238a4248",
+  "time" : {
+    "start" : 1669549751725,
+    "stop" : 1669549752014,
+    "duration" : 289
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "skuName.replace is not a function",
+  "statusTrace" : "TypeError: skuName.replace is not a function\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:159:34)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "skuName.replace is not a function",
+    "statusTrace" : "TypeError: skuName.replace is not a function\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:159:34)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+    "steps" : [ {
+      "name" : "Wait for Toggle button to be Clickable",
+      "time" : {
+        "start" : 1669549751726,
+        "stop" : 1669549752014,
+        "duration" : 288
+      },
+      "status" : "broken",
+      "statusMessage" : "TypeError: skuName.replace is not a function\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:159:34)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+      "steps" : [ {
+        "name" : "Scroll to Toggle button",
+        "time" : {
+          "start" : 1669549751756,
+          "stop" : 1669549752014,
+          "duration" : 258
+        },
+        "status" : "broken",
+        "statusMessage" : "TypeError: skuName.replace is not a function\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:159:34)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+        "steps" : [ {
+          "name" : "Click on Toggle button",
+          "time" : {
+            "start" : 1669549751770,
+            "stop" : 1669549752014,
+            "duration" : 244
+          },
+          "status" : "broken",
+          "statusMessage" : "TypeError: skuName.replace is not a function\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:159:34)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "bd94276bdd481b5b",
+            "name" : "Screenshot",
+            "source" : "bd94276bdd481b5b.png",
+            "type" : "image/png",
+            "size" : 321856
+          } ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 1,
+          "shouldDisplayMessage" : true,
+          "hasContent" : true
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 2,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the sum of sku values should match the sub total amount"
+  }, {
+    "name" : "package",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.110"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e415024682459824.json",
+  "parameterValues" : [ "chrome-107.0.5304.110" ]
+}

@@ -1,0 +1,29 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1674128238409' stop='1674128297100'>
+    <name>btlp workflow</name>
+    <title>btlp workflow</title>
+    <test-cases>
+        <test-case start='1674128238409' status='broken' stop='1674128297100'>
+            <name>byjusPay</name>
+            <title>byjusPay</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-109.0.5414.87'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='b72ad118-fd4f-419a-994e-c90f4f3e6f70-attachment.png' type='image/png' size='75316'/>
+            </attachments>
+            <failure>
+                <message>element ("//div[@class='page-body'] / div [1] /p [12] /span[2] /div/div/div") still not displayed after 5000ms</message>
+                <stack-trace>Error: element ("//div[@class='page-body'] / div [1] /p [12] /span[2] /div/div/div") still not displayed after 5000ms
+                    at verifyOmsOrderDetails.switchToPaymentUrl (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:626:9)
+                    at Context.&lt;anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/test.js:43:32)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

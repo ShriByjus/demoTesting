@@ -1,0 +1,94 @@
+{
+  "uid" : "6a2ed30fec9eab24",
+  "name" : "Verify the add on line items",
+  "fullName" : "Validating UKG Single order.Verify the add on line items",
+  "historyId" : "ca1b70aba3889491b4e4f0b6b0b643ea",
+  "time" : {
+    "start" : 1669211321187,
+    "stop" : 1669211321187,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 4,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the add on line items"
+  }, {
+    "name" : "package",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.110"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "fa7f93d94c0936ff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669209781300,
+        "stop" : 1669209781301,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "8a215510d9003b92",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669209559304,
+        "stop" : 1669209559305,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "8396391f1e6589b8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669208809459,
+        "stop" : 1669208809459,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "164af3eab79c22c2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669208110055,
+        "stop" : 1669208110056,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6a2ed30fec9eab24.json",
+  "parameterValues" : [ "chrome-107.0.5304.110" ]
+}

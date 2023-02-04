@@ -1,0 +1,1163 @@
+{
+    "draftOrderRefId" : "63a13b2a671cb6001bdea093",
+    "draftOrderId" : "DO-2212200433460380",
+    "salesOrderId" : "SO-2212200433460380",
+    "baseOrderId" : "",
+    "orderType" : "SINGLE",
+    "courseType" : "PRE_K3,K3",
+    "orgFormattedName" : "byjus",
+    "orgId" : "ORG-1",
+    "currency" : "INR",
+    "salesSubOrderIds" : [
+        "SSO1-2212200433460380"
+    ],
+    "customerDetails" : {
+        "customerId" : "CX-2212200427057132",
+        "name" : "Bhim",
+        "identifierDetails" : [
+
+        ],
+        "alternateName" : "Shubham singh",
+        "mobileNo" : "+91-8432707984",
+        "alternateMobileNo" : "+91-8432707984",
+        "email" : "sonuthegrest25@gmail.com",
+        "alternateEmail" : null,
+        "type" : "individual",
+        "communicationPreferences" : {
+
+        },
+        "isBooksOpted" : true,
+        "billingCustomerId" : null
+    },
+    "billingCustomerDetails" : null,
+    "lineItems" : [
+        {
+            "name" : "LKG Grade D4 SD Card May 2023",
+            "skuName" : "LKG Grade D4 SD Card May 2023",
+            "sku" : "LKG Grade D4 SD Card May 2023",
+            "skuId" : "DDLKNA23",
+            "validity" : "MAY 2023",
+            "type" : "D4_TLP",
+            "basePrice" : "22000",
+            "continousPrice" : "17000",
+            "createdAt" : "2021-03-25T07:27:26.137Z",
+            "grade" : "-1",
+            "productId" : "DDLKNA23",
+            "hsnCode" : "85235100",
+            "skuSubType" : "SD Card",
+            "skuType" : "Product",
+            "isValidSku" : true,
+            "remarks" : null,
+            "validatedAt" : "2021-10-19T07:18:40.764Z",
+            "programId" : "DBELK3AS0001",
+            "financeCode" : "DDLKNA",
+            "continuousPrice" : "17000",
+            "itemType" : "sd_card",
+            "price" : 9500,
+            "itemId" : "PZm6Hq4NZCNnUdLlO8902lOc",
+            "studentId" : "Shubham singh-1",
+            "tabletId" : "T-SCXMGJ-Shubham singh",
+            "course" : "",
+            "orgId" : "byjus",
+            "salesSubOrderId" : "SSO1-2212200433460380",
+            "itemStatus" : "mapping_pending",
+            "invoicePrice" : "12666.67",
+            "pgLineItemId" : 1544306
+        },
+        {
+            "name" : "UKG Grade D4 SD Card May 2024",
+            "skuName" : "UKG Grade D4 SD Card May 2024",
+            "sku" : "UKG Grade D4 SD Card May 2024",
+            "skuId" : "DDUKNA24",
+            "validity" : "MAY 2024",
+            "type" : "D4_TLP",
+            "basePrice" : "22000",
+            "continousPrice" : "17000",
+            "createdAt" : "2021-03-25T07:27:26.137Z",
+            "grade" : "0",
+            "productId" : "DDUKNA24",
+            "hsnCode" : "85235100",
+            "skuSubType" : "SD Card",
+            "skuType" : "Product",
+            "isValidSku" : true,
+            "remarks" : null,
+            "validatedAt" : "2021-10-19T07:18:42.166Z",
+            "programId" : "DBELK3AS0001",
+            "financeCode" : "DDUKNA",
+            "continuousPrice" : "17000",
+            "itemType" : "sd_card",
+            "price" : 22000,
+            "itemId" : "zRAXJSTdqpYt1LvPyF50dcXn",
+            "studentId" : "Shubham singh-1",
+            "tabletId" : "T-SCXMGJ-Shubham singh",
+            "course" : "",
+            "orgId" : "byjus",
+            "salesSubOrderId" : "SSO1-2212200433460380",
+            "itemStatus" : "mapping_pending",
+            "invoicePrice" : "12666.67",
+            "pgLineItemId" : 1544307
+        },
+        {
+            "name" : "1st Grade D4 SD Card May 2025",
+            "skuName" : "1st Grade D4 SD Card May 2025",
+            "sku" : "1st Grade D4 SD Card May 2025",
+            "skuId" : "DD01NA25",
+            "validity" : "MAY 2025",
+            "type" : "D4_TLP",
+            "basePrice" : "22000",
+            "continousPrice" : "17000",
+            "createdAt" : "2020-12-11T11:43:08.737Z",
+            "grade" : "1",
+            "productId" : "1950328",
+            "hsnCode" : "85235100",
+            "skuSubType" : "SD Card",
+            "skuType" : "Product",
+            "isValidSku" : true,
+            "remarks" : null,
+            "validatedAt" : "2021-10-19T07:13:28.306Z",
+            "programId" : "DBELK3AS0001",
+            "financeCode" : "DD01NA",
+            "continuousPrice" : "17000",
+            "itemType" : "sd_card",
+            "price" : 17000,
+            "itemId" : "ik4hpT3a0oZon-lByB2x2x-8",
+            "studentId" : "Shubham singh-1",
+            "tabletId" : "T-SCXMGJ-Shubham singh",
+            "course" : "",
+            "orgId" : "byjus",
+            "salesSubOrderId" : "SSO1-2212200433460380",
+            "itemStatus" : "mapping_pending",
+            "invoicePrice" : "12666.67",
+            "pgLineItemId" : 1544308
+        },
+        {
+            "sku" : "BYJU'S LearnStation Junior 10inch Mobile Data Grey Tablet",
+            "course" : "",
+            "grade" : null,
+            "board" : null,
+            "productType" : "course",
+            "productId" : "1993793",
+            "name" : "BYJU'S LearnStation Junior 10inch Mobile Data Grey Tablet",
+            "type" : "tablet",
+            "validity" : "MAY 2023",
+            "continousPrice" : "16000",
+            "basePrice" : "16000",
+            "skuId" : "SCXMGJ",
+            "properties" : {
+                "color" : "grey",
+                "size" : "10"
+            },
+            "skuName" : "BYJU'S LearnStation Junior 10inch Mobile Data Grey Tablet",
+            "itemType" : "tablet",
+            "hsnCode" : "84713010",
+            "skuSubType" : "Tablet",
+            "skuType" : "Product",
+            "isValidSku" : true,
+            "remarks" : null,
+            "validatedAt" : "2022-10-11T10:53:32.770Z",
+            "programId" : "TLP2UCHW0001",
+            "financeCode" : "SBXMGJ",
+            "createdAt" : "2022-10-11T10:53:32.770Z",
+            "price" : "16000",
+            "itemId" : "efqC_LNZRbx_XvZCXhyKMBgu",
+            "studentId" : "Shubham singh-1",
+            "tabletId" : "T-SCXMGJ-Shubham singh",
+            "orgId" : "byjus",
+            "salesSubOrderId" : "SSO1-2212200433460380",
+            "itemStatus" : "mapping_pending",
+            "invoicePrice" : "16000.00",
+            "pgLineItemId" : 1544309
+        }
+    ],
+    "shipmentLineItems" : [
+        {
+            "skuId" : "SCXMGZUC",
+            "skuName" : "BYJU'S LearnStation Junior 10inch Mobile Data Grey Tablet",
+            "status" : "active",
+            "type" : "tablet",
+            "properties" : {
+                "grade" : null,
+                "course" : null,
+                "board" : null,
+                "color" : "Grey",
+                "brand" : null,
+                "manufacturer" : null,
+                "warehouse" : [
+
+                ],
+                "sdCardMemory" : null,
+                "appVersion" : null,
+                "sdCardVersion" : null,
+                "apkRelease" : "2022-10-18T07:03:11.681+0000",
+                "contentRelease" : "2022-10-18T07:03:11.681+0000",
+                "location" : null,
+                "comboDetails" : [
+
+                ],
+                "userType" : null,
+                "programId" : null,
+                "size" : null,
+                "model" : null,
+                "skuSet" : 1,
+                "subject" : null,
+                "language" : null,
+                "scheme" : null
+            },
+            "dimensions" : {
+                "length" : null,
+                "width" : null,
+                "height" : null,
+                "unit" : null
+            },
+            "weight" : {
+                "value" : null,
+                "unit" : null
+            },
+            "productionStrategy" : "learnstation",
+            "financeMaterialCode" : "SCXMGZUC",
+            "financeProductCode" : null,
+            "createdBy" : "system",
+            "updatedBy" : "jamsheer.a@byjus.com",
+            "createdAt" : "2022-10-18T07:03:11.637+0000",
+            "updatedAt" : "2022-10-18T07:03:11.682+0000",
+            "deletedAt" : null,
+            "productState" : null,
+            "activeSalesItems" : [
+                "SCXMGJ"
+            ],
+            "activeLineItemIds" : [
+                "efqC_LNZRbx_XvZCXhyKMBgu"
+            ],
+            "price" : 16000,
+            "studentId" : "Shubham singh-1",
+            "students" : [
+                "Shubham singh-1"
+            ],
+            "tabletId" : "T-SCXMGJ-Shubham singh",
+            "itemStatus" : "mapping_pending",
+            "pgShipmentLineItemId" : 17722540
+        },
+        {
+            "skuId" : "D3NALK01",
+            "properties" : {
+                "manufacturer" : null,
+                "brand" : "BYJUs",
+                "color" : null,
+                "size" : null,
+                "unit" : null,
+                "board" : "NA",
+                "grade" : "LK-01",
+                "course" : null,
+                "noOfCombos" : "1",
+                "sdCardMemory" : 64,
+                "appVersion" : "K3_V4.0.0.576_BTLA_v5.2.0.11979",
+                "sdCardVersion" : "Version 1",
+                "apkRelease" : "2022-05-09T11:32:57.013+0000",
+                "contentRelease" : "2022-05-09T11:32:57.013+0000",
+                "inventoryRelease" : "2022-05-09T11:32:57.013+0000",
+                "warehouse" : "IBC Knowledge Park, Lexington, Croma",
+                "location" : "FI Lex, FI Croma, FI IBC",
+                "comboDetails" : [
+                    {
+                        "initialClass" : -1,
+                        "finalClass" : 1,
+                        "grades" : "LK-01"
+                    }
+                ],
+                "combinations" : [
+                    "LK-01"
+                ]
+            },
+            "skuName" : "Learnstation Grade LK-01 SD Card",
+            "type" : "sd_card",
+            "productState" : null,
+            "activeGrades" : [
+                -1,
+                0,
+                1
+            ],
+            "activeSalesItems" : [
+                "DDLKNA23",
+                "DDUKNA24",
+                "DD01NA25"
+            ],
+            "activeLineItemIds" : [
+                "PZm6Hq4NZCNnUdLlO8902lOc",
+                "zRAXJSTdqpYt1LvPyF50dcXn",
+                "ik4hpT3a0oZon-lByB2x2x-8"
+            ],
+            "studentId" : "Shubham singh-1",
+            "tabletId" : "T-SCXMGJ-Shubham singh",
+            "itemStatus" : "mapping_pending",
+            "pgShipmentLineItemId" : 17722541
+        }
+    ],
+    "returnLineItems" : [
+
+    ],
+    "addonLineItems" : [
+        {
+            "basePrice" : "1050",
+            "name" : "Class-LKG Printed Books",
+            "sku" : "Class-LKG Printed Books",
+            "grade" : "-1",
+            "type" : "Book",
+            "productId" : "1883827",
+            "skuId" : "BKLKPKEL",
+            "programId" : "BTLAKXAS0001",
+            "skuSet" : 1,
+            "studentId" : "Shubham singh-1",
+            "price" : "1050",
+            "validity" : "MAY 2023",
+            "scheduledYear" : 2023,
+            "invoicePrice" : "0.00"
+        },
+        {
+            "basePrice" : "1250",
+            "name" : "Class-UKG Printed Books",
+            "sku" : "Class-UKG Printed Books",
+            "grade" : "0",
+            "type" : "Book",
+            "productId" : "1883829",
+            "skuId" : "BKUKPKEL",
+            "programId" : "BTLAKXAS0001",
+            "skuSet" : 1,
+            "studentId" : "Shubham singh-1",
+            "price" : "1250",
+            "validity" : "MAY 2024",
+            "scheduledYear" : 2024,
+            "invoicePrice" : "0.00"
+        },
+        {
+            "basePrice" : "1200",
+            "name" : "Class-1 Printed Books",
+            "sku" : "Class-1 Printed Books",
+            "grade" : "1",
+            "type" : "Book",
+            "productId" : "1518531",
+            "skuId" : "BK01K3EL",
+            "programId" : "DBELK3AS0001",
+            "skuSet" : 1,
+            "studentId" : "Shubham singh-1",
+            "price" : "1200",
+            "validity" : "MAY 2025",
+            "scheduledYear" : 2025,
+            "invoicePrice" : "0.00"
+        }
+    ],
+    "salesDetails" : {
+        "typeOfSales" : "DS Sales",
+        "directSalesBy" : "prashuk.jain@byjus.com",
+        "directSalesByCampaign" : null,
+        "salesAppointmentBy" : null,
+        "salesAppointmentByCampaign" : "Hyderabad",
+        "incentiveDate" : "2022-12-20T04:41:46.456+0000",
+        "salesAppointmentByRole" : null,
+        "directSalesByDept" : "business_development",
+        "salesAppointmentByDept" : "",
+        "salesIndex" : 175
+    },
+    "addressDetails" : {
+        "billing" : {
+            "zipcode" : "560098",
+            "addressLine1" : "sanjay nagar",
+            "country" : "India",
+            "state" : "Karnataka",
+            "city" : "Bengaluru",
+            "addressLine2" : "white field, jhgfderty kiuygtfc kijhgf",
+            "addressLine3" : "Rajarajeshwarinagar S.O",
+            "address" : "sanjay nagar\n white field\n jhgfderty kiuygtfc kijhgf\n Rajarajeshwarinagar S.O",
+            "addressId" : "514111"
+        },
+        "shipping" : {
+            "zipcode" : "560098",
+            "addressLine1" : "sanjay nagar",
+            "country" : "India",
+            "state" : "Karnataka",
+            "city" : "Bengaluru",
+            "addressLine2" : "white field, jhgfderty kiuygtfc kijhgf",
+            "addressLine3" : "Rajarajeshwarinagar S.O",
+            "address" : "sanjay nagar\n white field\n jhgfderty kiuygtfc kijhgf\n Rajarajeshwarinagar S.O",
+            "addressId" : "514112"
+        }
+    },
+    "paymentDetails" : {
+        "type" : "NON_EMI",
+        "totalAmount" : 54000,
+        "totalEmiAmount" : 0,
+        "totalPrepaidAmount" : 54000,
+        "totalPostpaidAmount" : 0,
+        "paymentMethod" : "NGP",
+        "payments" : [
+            {
+                "isPrepaid" : true,
+                "_id" : "63a13cfcf66d73001c577349",
+                "provider" : "CHEQUE",
+                "referenceId" : "16715112913135-2210130517387225",
+                "amount" : 54000,
+                "additionalDetails" : {
+                    "bank" : "icici"
+                },
+                "attachments" : [
+                    {
+                        "_id" : "63a13cfcf66d73001c57734a",
+                        "name" : "cheque",
+                        "url" : "https://orderhive-payments.s3.ap-southeast-1.amazonaws.com/development/63a13b2a671cb6001bdea093/cheque/cheque-20221220_10118380.png"
+                    }
+                ],
+                "type" : "DOWN_PAYMENT",
+                "currency" : "",
+                "isActive" : true
+            }
+        ],
+        "minDownPaymentDetails" : {
+            "isMatched" : true,
+            "minDownPaymentAmount" : 0
+        },
+        "isRepunchedCase" : false,
+        "paymentMode" : "CHEQUE",
+        "paymentAmountSplit" : "54000",
+        "subscriptionDetails" : {
+
+        }
+    },
+    "financeOrderId" : "a1e73a050aef4fd897feb86877c11dc4",
+    "productDetails" : {
+        "productType" : "combo",
+        "mentoringDetails" : [
+            null
+        ],
+        "bhlpCourseDetails" : [
+
+        ],
+        "paymentType" : "NON_EMI",
+        "maxPrice" : 64500,
+        "minPrice" : 54000,
+        "discountedPrice" : 0,
+        "students" : [
+            {
+                "studentProfileDetails" : {
+                    "isExistingProfile" : false,
+                    "existingPremiumId" : "",
+                    "existingFamilyId" : ""
+                },
+                "hlpDetails" : {
+                    "courseDetails" : [
+
+                    ],
+                    "sessionDetails" : [
+
+                    ]
+                },
+                "courseType" : [
+                    "PRE_K3",
+                    "K3"
+                ],
+                "electiveDetails" : [
+
+                ],
+                "doubtClassDetails" : [
+
+                ],
+                "workshops" : [
+
+                ],
+                "items" : [
+                    {
+                        "_id" : "62600e4a60d364356f0d10f7",
+                        "name" : "LKG Grade D4 SD Card May 2023",
+                        "skuName" : "LKG Grade D4 SD Card May 2023",
+                        "sku" : "LKG Grade D4 SD Card May 2023",
+                        "skuId" : "DDLKNA23",
+                        "validity" : "MAY 2023",
+                        "type" : "D4_TLP",
+                        "basePrice" : "22000",
+                        "continousPrice" : "17000",
+                        "updatedBy" : "price_update_datafix",
+                        "createdAt" : "2021-03-25T07:27:26.137Z",
+                        "grade" : "-1",
+                        "cohort_id" : -2,
+                        "productId" : "DDLKNA23",
+                        "hsnCode" : "85235100",
+                        "skuSubType" : "SD Card",
+                        "skuType" : "Product",
+                        "updatedAt" : "2021-05-10T10:42:25.687Z",
+                        "isValidSku" : true,
+                        "remarks" : null,
+                        "validatedAt" : "2021-10-19T07:18:40.764Z",
+                        "programId" : "DBELK3AS0001",
+                        "financeCode" : "DDLKNA",
+                        "continuousPrice" : "17000",
+                        "itemType" : "course",
+                        "price" : 9500,
+                        "combinationType" : "tlp",
+                        "itemId" : "PZm6Hq4NZCNnUdLlO8902lOc",
+                        "studentId" : "Shubham singh-1",
+                        "tabletId" : "T-SCXMGJ-Shubham singh",
+                        "course" : "",
+                        "orgId" : "byjus"
+                    },
+                    {
+                        "_id" : "605c3b7115f6303c8a0300a0",
+                        "name" : "UKG Grade D4 SD Card May 2024",
+                        "skuName" : "UKG Grade D4 SD Card May 2024",
+                        "sku" : "UKG Grade D4 SD Card May 2024",
+                        "skuId" : "DDUKNA24",
+                        "validity" : "MAY 2024",
+                        "type" : "D4_TLP",
+                        "basePrice" : "22000",
+                        "continousPrice" : "17000",
+                        "updatedBy" : "price_update_datafix",
+                        "createdAt" : "2021-03-25T07:27:26.137Z",
+                        "grade" : "0",
+                        "cohort_id" : -1,
+                        "productId" : "DDUKNA24",
+                        "hsnCode" : "85235100",
+                        "skuSubType" : "SD Card",
+                        "skuType" : "Product",
+                        "updatedAt" : "2021-05-10T10:42:25.687Z",
+                        "isValidSku" : true,
+                        "remarks" : null,
+                        "validatedAt" : "2021-10-19T07:18:42.166Z",
+                        "programId" : "DBELK3AS0001",
+                        "financeCode" : "DDUKNA",
+                        "continuousPrice" : "17000",
+                        "itemType" : "course",
+                        "price" : 22000,
+                        "combinationType" : "tlp",
+                        "itemId" : "zRAXJSTdqpYt1LvPyF50dcXn",
+                        "studentId" : "Shubham singh-1",
+                        "tabletId" : "T-SCXMGJ-Shubham singh",
+                        "course" : "",
+                        "orgId" : "byjus"
+                    },
+                    {
+                        "_id" : "62986bcfeb26ac6ca12c6101",
+                        "name" : "1st Grade D4 SD Card May 2025",
+                        "skuName" : "1st Grade D4 SD Card May 2025",
+                        "sku" : "1st Grade D4 SD Card May 2025",
+                        "skuId" : "DD01NA25",
+                        "validity" : "MAY 2025",
+                        "type" : "D4_TLP",
+                        "basePrice" : "22000",
+                        "continousPrice" : "17000",
+                        "updatedBy" : "price_update_datafix",
+                        "createdAt" : "2020-12-11T11:43:08.737Z",
+                        "grade" : "1",
+                        "cohort_id" : 1,
+                        "productId" : "1950328",
+                        "hsnCode" : "85235100",
+                        "skuSubType" : "SD Card",
+                        "skuType" : "Product",
+                        "updatedAt" : "2021-05-10T10:42:25.650Z",
+                        "isValidSku" : true,
+                        "remarks" : null,
+                        "validatedAt" : "2021-10-19T07:13:28.306Z",
+                        "programId" : "DBELK3AS0001",
+                        "financeCode" : "DD01NA",
+                        "continuousPrice" : "17000",
+                        "itemType" : "course",
+                        "price" : 17000,
+                        "combinationType" : "tlp",
+                        "itemId" : "ik4hpT3a0oZon-lByB2x2x-8",
+                        "studentId" : "Shubham singh-1",
+                        "tabletId" : "T-SCXMGJ-Shubham singh",
+                        "course" : "",
+                        "orgId" : "byjus"
+                    },
+                    {
+                        "_id" : "63454b2c2092b249a88c81d4",
+                        "sku" : "BYJU'S LearnStation Junior 10inch Mobile Data Grey Tablet",
+                        "course" : "",
+                        "grade" : null,
+                        "board" : null,
+                        "city" : null,
+                        "cohort_id" : null,
+                        "productType" : "course",
+                        "productId" : "1993793",
+                        "name" : "BYJU'S LearnStation Junior 10inch Mobile Data Grey Tablet",
+                        "type" : "tablet",
+                        "validity" : "MAY 2023",
+                        "continousPrice" : "16000",
+                        "basePrice" : "16000",
+                        "updatedBy" : "datafix",
+                        "isVerified" : true,
+                        "skuId" : "SCXMGJ",
+                        "properties" : {
+                            "color" : "grey",
+                            "size" : "10"
+                        },
+                        "skuName" : "BYJU'S LearnStation Junior 10inch Mobile Data Grey Tablet",
+                        "itemType" : "tablet",
+                        "hsnCode" : "84713010",
+                        "skuSubType" : "Tablet",
+                        "skuType" : "Product",
+                        "updatedAt" : "2022-10-20T09:13:45.435Z",
+                        "isValidSku" : true,
+                        "remarks" : null,
+                        "validatedAt" : "2022-10-11T10:53:32.770Z",
+                        "programId" : "TLP2UCHW0001",
+                        "financeCode" : "SBXMGJ",
+                        "createdAt" : "2022-10-11T10:53:32.770Z",
+                        "price" : "16000",
+                        "itemId" : "efqC_LNZRbx_XvZCXhyKMBgu",
+                        "studentId" : "Shubham singh-1",
+                        "tabletId" : "T-SCXMGJ-Shubham singh",
+                        "orgId" : "byjus"
+                    }
+                ],
+                "addOnItems" : [
+
+                ],
+                "mentoringDetails" : [
+
+                ],
+                "bhlpCourseDetails" : [
+
+                ],
+                "featureTag" : [
+                    "victory-k4-9-india"
+                ],
+                "_id" : "63a13cc5671cb6001bdea0f1",
+                "course" : "K10/K12",
+                "board" : "CBSE",
+                "validity" : "2023",
+                "tablet" : "SCXMGJ",
+                "initialClass" : "-1",
+                "finalClass" : "1",
+                "productSelectionType" : "byjus_tlp",
+                "formValues" : {
+                    "course" : "K10/K12",
+                    "board" : "CBSE",
+                    "byjusClassFinalGrade" : "",
+                    "subCourse" : "",
+                    "validity" : 2023,
+                    "tablet" : "SCXMGJ",
+                    "userProfile" : "newProfile",
+                    "initialClass" : "-1",
+                    "finalClass" : "1",
+                    "selectD4SDCard" : false,
+                    "tabletId" : "T-SCXMGJ",
+                    "featureTag" : [
+                        "victory-k4-9-india"
+                    ],
+                    "studentProfileDetails" : {
+                        "isExistingProfile" : false,
+                        "existingPremiumId" : "",
+                        "existingFamilyId" : ""
+                    },
+                    "productSelectionType" : "tlp",
+                    "isTabletLock" : false
+                },
+                "tabletLock" : "not_applicable",
+                "studentName" : "Shubham singh",
+                "studentId" : "Shubham singh-1",
+                "academicDetails" : {
+                    "mathPercent" : null,
+                    "sciencePercent" : null,
+                    "fotTrackId" : null,
+                    "proficiency" : null,
+                    "schoolDetails" : {
+                        "id" : null,
+                        "name" : "",
+                        "address" : "",
+                        "pincode" : null
+                    },
+                    "languageOfInstruction" : null,
+                    "languageOfInstructionId" : null
+                }
+            }
+        ],
+        "products" : [
+            {
+                "_id" : "62600e4a60d364356f0d10f7",
+                "name" : "LKG Grade D4 SD Card May 2023",
+                "skuName" : "LKG Grade D4 SD Card May 2023",
+                "sku" : "LKG Grade D4 SD Card May 2023",
+                "skuId" : "DDLKNA23",
+                "validity" : "MAY 2023",
+                "type" : "D4_TLP",
+                "basePrice" : "22000",
+                "continousPrice" : "17000",
+                "updatedBy" : "price_update_datafix",
+                "createdAt" : "2021-03-25T07:27:26.137Z",
+                "grade" : "-1",
+                "cohort_id" : -2,
+                "productId" : "DDLKNA23",
+                "hsnCode" : "85235100",
+                "skuSubType" : "SD Card",
+                "skuType" : "Product",
+                "updatedAt" : "2021-05-10T10:42:25.687Z",
+                "isValidSku" : true,
+                "remarks" : null,
+                "validatedAt" : "2021-10-19T07:18:40.764Z",
+                "programId" : "DBELK3AS0001",
+                "financeCode" : "DDLKNA",
+                "continuousPrice" : "17000",
+                "itemType" : "course",
+                "price" : 9500,
+                "combinationType" : "tlp",
+                "itemId" : "PZm6Hq4NZCNnUdLlO8902lOc",
+                "studentId" : "Shubham singh-1",
+                "tabletId" : "T-SCXMGJ-Shubham singh",
+                "course" : "",
+                "orgId" : "byjus"
+            },
+            {
+                "_id" : "605c3b7115f6303c8a0300a0",
+                "name" : "UKG Grade D4 SD Card May 2024",
+                "skuName" : "UKG Grade D4 SD Card May 2024",
+                "sku" : "UKG Grade D4 SD Card May 2024",
+                "skuId" : "DDUKNA24",
+                "validity" : "MAY 2024",
+                "type" : "D4_TLP",
+                "basePrice" : "22000",
+                "continousPrice" : "17000",
+                "updatedBy" : "price_update_datafix",
+                "createdAt" : "2021-03-25T07:27:26.137Z",
+                "grade" : "0",
+                "cohort_id" : -1,
+                "productId" : "DDUKNA24",
+                "hsnCode" : "85235100",
+                "skuSubType" : "SD Card",
+                "skuType" : "Product",
+                "updatedAt" : "2021-05-10T10:42:25.687Z",
+                "isValidSku" : true,
+                "remarks" : null,
+                "validatedAt" : "2021-10-19T07:18:42.166Z",
+                "programId" : "DBELK3AS0001",
+                "financeCode" : "DDUKNA",
+                "continuousPrice" : "17000",
+                "itemType" : "course",
+                "price" : 22000,
+                "combinationType" : "tlp",
+                "itemId" : "zRAXJSTdqpYt1LvPyF50dcXn",
+                "studentId" : "Shubham singh-1",
+                "tabletId" : "T-SCXMGJ-Shubham singh",
+                "course" : "",
+                "orgId" : "byjus"
+            },
+            {
+                "_id" : "62986bcfeb26ac6ca12c6101",
+                "name" : "1st Grade D4 SD Card May 2025",
+                "skuName" : "1st Grade D4 SD Card May 2025",
+                "sku" : "1st Grade D4 SD Card May 2025",
+                "skuId" : "DD01NA25",
+                "validity" : "MAY 2025",
+                "type" : "D4_TLP",
+                "basePrice" : "22000",
+                "continousPrice" : "17000",
+                "updatedBy" : "price_update_datafix",
+                "createdAt" : "2020-12-11T11:43:08.737Z",
+                "grade" : "1",
+                "cohort_id" : 1,
+                "productId" : "1950328",
+                "hsnCode" : "85235100",
+                "skuSubType" : "SD Card",
+                "skuType" : "Product",
+                "updatedAt" : "2021-05-10T10:42:25.650Z",
+                "isValidSku" : true,
+                "remarks" : null,
+                "validatedAt" : "2021-10-19T07:13:28.306Z",
+                "programId" : "DBELK3AS0001",
+                "financeCode" : "DD01NA",
+                "continuousPrice" : "17000",
+                "itemType" : "course",
+                "price" : 17000,
+                "combinationType" : "tlp",
+                "itemId" : "ik4hpT3a0oZon-lByB2x2x-8",
+                "studentId" : "Shubham singh-1",
+                "tabletId" : "T-SCXMGJ-Shubham singh",
+                "course" : "",
+                "orgId" : "byjus"
+            },
+            {
+                "_id" : "63454b2c2092b249a88c81d4",
+                "sku" : "BYJU'S LearnStation Junior 10inch Mobile Data Grey Tablet",
+                "course" : "",
+                "grade" : null,
+                "board" : null,
+                "city" : null,
+                "cohort_id" : null,
+                "productType" : "course",
+                "productId" : "1993793",
+                "name" : "BYJU'S LearnStation Junior 10inch Mobile Data Grey Tablet",
+                "type" : "tablet",
+                "validity" : "MAY 2023",
+                "continousPrice" : "16000",
+                "basePrice" : "16000",
+                "updatedBy" : "datafix",
+                "isVerified" : true,
+                "skuId" : "SCXMGJ",
+                "properties" : {
+                    "color" : "grey",
+                    "size" : "10"
+                },
+                "skuName" : "BYJU'S LearnStation Junior 10inch Mobile Data Grey Tablet",
+                "itemType" : "tablet",
+                "hsnCode" : "84713010",
+                "skuSubType" : "Tablet",
+                "skuType" : "Product",
+                "updatedAt" : "2022-10-20T09:13:45.435Z",
+                "isValidSku" : true,
+                "remarks" : null,
+                "validatedAt" : "2022-10-11T10:53:32.770Z",
+                "programId" : "TLP2UCHW0001",
+                "financeCode" : "SBXMGJ",
+                "createdAt" : "2022-10-11T10:53:32.770Z",
+                "price" : "16000",
+                "itemId" : "efqC_LNZRbx_XvZCXhyKMBgu",
+                "studentId" : "Shubham singh-1",
+                "tabletId" : "T-SCXMGJ-Shubham singh",
+                "orgId" : "byjus"
+            }
+        ],
+        "mentoring" : {
+            "count" : 0,
+            "items" : [
+                null
+            ]
+        },
+        "finalPrice" : 54000
+    },
+    "attachments" : [
+        {
+            "_id" : "63a13cfcf66d73001c577348",
+            "name" : "cheque",
+            "url" : "https://orderhive-payments.s3.ap-southeast-1.amazonaws.com/development/63a13b2a671cb6001bdea093/cheque/cheque-20221220_10118380.png"
+        }
+    ],
+    "cashbackDetails" : {
+        "unutilizedCashbacks" : [
+
+        ]
+    },
+    "comments" : [
+        {
+            "_id" : "63a13cfcf66d73001c577350",
+            "category" : "product",
+            "type" : "details",
+            "comment" : "Student Details :  Course Details : K10/K12 CBSE : -1 - 1 , Initial Validity : 2023",
+            "commentedBy" : "system",
+            "commentedAt" : "2022-12-20T04:41:32.952+0000",
+            "source" : "kart"
+        },
+        {
+            "_id" : "63a13cfcf66d73001c577351",
+            "category" : "price",
+            "type" : "range",
+            "comment" : "Price Range : 54000 - 64500\n Final Price : 54000",
+            "commentedBy" : "system",
+            "commentedAt" : "2022-12-20T04:41:32.952+0000",
+            "source" : "kart"
+        },
+        {
+            "_id" : "63a13cfcf66d73001c577352",
+            "category" : "payment",
+            "type" : "refIds",
+            "comment" : "Payment Details : , Method:CHEQUE Amount: 54000 ReferenceId:16715112913135-2210130517387225",
+            "commentedBy" : "system",
+            "commentedAt" : "2022-12-20T04:41:32.952+0000",
+            "source" : "kart"
+        },
+        {
+            "_id" : "63a13cfcf66d73001c577353",
+            "category" : "salesDetails",
+            "type" : "for_OH_order_reference",
+            "comment" : "Direct Sales Conducted By is prashuk.jain@byjus.com",
+            "commentedBy" : "system",
+            "commentedAt" : "2022-12-20T04:41:32.952+0000",
+            "source" : "kart"
+        },
+        {
+            "_id" : "63a13d0af66d73001c57735f",
+            "comment" : "praz@byjus.com opted to move this order to OMS. Reason - undefined",
+            "commentedBy" : "praz@byjus.com",
+            "commentedAt" : "2022-12-20T04:41:46.446+0000",
+            "source" : "kart"
+        }
+    ],
+    "orderPunchingType" : "NORMAL_ORDER",
+    "orderPunchingCategory" : "byjus_tlp",
+    "orderBatchId" : "",
+    "status" : "not_confirmed",
+    "leadDetails" : {
+        "prospectId" : "ijhgfdxsdrt6yuikjh",
+        "accountNo" : "50476",
+        "loggedInEmailId" : "praz@byjus.com",
+        "leadCreatedBy" : "",
+        "leadCreatedAt" : null,
+        "leadMobileNo" : "+91-8432707984",
+        "isLeadMobileUsed" : true,
+        "leadLink" : "https://run.leadsquared.com/LeadManagement/LeadDetails?LeadID=ijhgfdxsdrt6yuikjh"
+    },
+    "contactDetails" : {
+        "orderPunchingContact" : "8432707984",
+        "cxProvidedContact" : "8432707984",
+        "leadContact" : "8432707984",
+        "gpContact" : "",
+        "ngpContact" : "",
+        "lpContact" : ""
+    },
+    "createdAt" : "2022-12-20T04:41:46.456+0000",
+    "updatedAt" : "2022-12-20T04:42:01.041+0000",
+    "studentDetails" : [
+        {
+            "studentProfileDetails" : {
+                "isExistingProfile" : false,
+                "existingPremiumId" : "",
+                "existingFamilyId" : ""
+            },
+            "hlpDetails" : {
+                "courseDetails" : [
+
+                ],
+                "sessionDetails" : [
+
+                ]
+            },
+            "courseType" : [
+                "PRE_K3",
+                "K3"
+            ],
+            "electiveDetails" : [
+
+            ],
+            "doubtClassDetails" : [
+
+            ],
+            "workshops" : [
+
+            ],
+            "items" : [
+                {
+                    "_id" : "62600e4a60d364356f0d10f7",
+                    "name" : "LKG Grade D4 SD Card May 2023",
+                    "skuName" : "LKG Grade D4 SD Card May 2023",
+                    "sku" : "LKG Grade D4 SD Card May 2023",
+                    "skuId" : "DDLKNA23",
+                    "validity" : "MAY 2023",
+                    "type" : "D4_TLP",
+                    "basePrice" : "22000",
+                    "continousPrice" : "17000",
+                    "updatedBy" : "price_update_datafix",
+                    "createdAt" : "2021-03-25T07:27:26.137Z",
+                    "grade" : "-1",
+                    "cohort_id" : -2,
+                    "productId" : "DDLKNA23",
+                    "hsnCode" : "85235100",
+                    "skuSubType" : "SD Card",
+                    "skuType" : "Product",
+                    "updatedAt" : "2021-05-10T10:42:25.687Z",
+                    "isValidSku" : true,
+                    "remarks" : null,
+                    "validatedAt" : "2021-10-19T07:18:40.764Z",
+                    "programId" : "DBELK3AS0001",
+                    "financeCode" : "DDLKNA",
+                    "continuousPrice" : "17000",
+                    "itemType" : "course",
+                    "price" : 9500,
+                    "combinationType" : "tlp",
+                    "itemId" : "PZm6Hq4NZCNnUdLlO8902lOc",
+                    "studentId" : "Shubham singh-1",
+                    "tabletId" : "T-SCXMGJ-Shubham singh",
+                    "course" : "",
+                    "orgId" : "byjus"
+                },
+                {
+                    "_id" : "605c3b7115f6303c8a0300a0",
+                    "name" : "UKG Grade D4 SD Card May 2024",
+                    "skuName" : "UKG Grade D4 SD Card May 2024",
+                    "sku" : "UKG Grade D4 SD Card May 2024",
+                    "skuId" : "DDUKNA24",
+                    "validity" : "MAY 2024",
+                    "type" : "D4_TLP",
+                    "basePrice" : "22000",
+                    "continousPrice" : "17000",
+                    "updatedBy" : "price_update_datafix",
+                    "createdAt" : "2021-03-25T07:27:26.137Z",
+                    "grade" : "0",
+                    "cohort_id" : -1,
+                    "productId" : "DDUKNA24",
+                    "hsnCode" : "85235100",
+                    "skuSubType" : "SD Card",
+                    "skuType" : "Product",
+                    "updatedAt" : "2021-05-10T10:42:25.687Z",
+                    "isValidSku" : true,
+                    "remarks" : null,
+                    "validatedAt" : "2021-10-19T07:18:42.166Z",
+                    "programId" : "DBELK3AS0001",
+                    "financeCode" : "DDUKNA",
+                    "continuousPrice" : "17000",
+                    "itemType" : "course",
+                    "price" : 22000,
+                    "combinationType" : "tlp",
+                    "itemId" : "zRAXJSTdqpYt1LvPyF50dcXn",
+                    "studentId" : "Shubham singh-1",
+                    "tabletId" : "T-SCXMGJ-Shubham singh",
+                    "course" : "",
+                    "orgId" : "byjus"
+                },
+                {
+                    "_id" : "62986bcfeb26ac6ca12c6101",
+                    "name" : "1st Grade D4 SD Card May 2025",
+                    "skuName" : "1st Grade D4 SD Card May 2025",
+                    "sku" : "1st Grade D4 SD Card May 2025",
+                    "skuId" : "DD01NA25",
+                    "validity" : "MAY 2025",
+                    "type" : "D4_TLP",
+                    "basePrice" : "22000",
+                    "continousPrice" : "17000",
+                    "updatedBy" : "price_update_datafix",
+                    "createdAt" : "2020-12-11T11:43:08.737Z",
+                    "grade" : "1",
+                    "cohort_id" : 1,
+                    "productId" : "1950328",
+                    "hsnCode" : "85235100",
+                    "skuSubType" : "SD Card",
+                    "skuType" : "Product",
+                    "updatedAt" : "2021-05-10T10:42:25.650Z",
+                    "isValidSku" : true,
+                    "remarks" : null,
+                    "validatedAt" : "2021-10-19T07:13:28.306Z",
+                    "programId" : "DBELK3AS0001",
+                    "financeCode" : "DD01NA",
+                    "continuousPrice" : "17000",
+                    "itemType" : "course",
+                    "price" : 17000,
+                    "combinationType" : "tlp",
+                    "itemId" : "ik4hpT3a0oZon-lByB2x2x-8",
+                    "studentId" : "Shubham singh-1",
+                    "tabletId" : "T-SCXMGJ-Shubham singh",
+                    "course" : "",
+                    "orgId" : "byjus"
+                },
+                {
+                    "_id" : "63454b2c2092b249a88c81d4",
+                    "sku" : "BYJU'S LearnStation Junior 10inch Mobile Data Grey Tablet",
+                    "course" : "",
+                    "grade" : null,
+                    "board" : null,
+                    "city" : null,
+                    "cohort_id" : null,
+                    "productType" : "course",
+                    "productId" : "1993793",
+                    "name" : "BYJU'S LearnStation Junior 10inch Mobile Data Grey Tablet",
+                    "type" : "tablet",
+                    "validity" : "MAY 2023",
+                    "continousPrice" : "16000",
+                    "basePrice" : "16000",
+                    "updatedBy" : "datafix",
+                    "isVerified" : true,
+                    "skuId" : "SCXMGJ",
+                    "properties" : {
+                        "color" : "grey",
+                        "size" : "10"
+                    },
+                    "skuName" : "BYJU'S LearnStation Junior 10inch Mobile Data Grey Tablet",
+                    "itemType" : "tablet",
+                    "hsnCode" : "84713010",
+                    "skuSubType" : "Tablet",
+                    "skuType" : "Product",
+                    "updatedAt" : "2022-10-20T09:13:45.435Z",
+                    "isValidSku" : true,
+                    "remarks" : null,
+                    "validatedAt" : "2022-10-11T10:53:32.770Z",
+                    "programId" : "TLP2UCHW0001",
+                    "financeCode" : "SBXMGJ",
+                    "createdAt" : "2022-10-11T10:53:32.770Z",
+                    "price" : "16000",
+                    "itemId" : "efqC_LNZRbx_XvZCXhyKMBgu",
+                    "studentId" : "Shubham singh-1",
+                    "tabletId" : "T-SCXMGJ-Shubham singh",
+                    "orgId" : "byjus"
+                }
+            ],
+            "addOnItems" : [
+
+            ],
+            "mentoringDetails" : [
+
+            ],
+            "bhlpCourseDetails" : [
+
+            ],
+            "featureTag" : [
+                "victory-k4-9-india"
+            ],
+            "_id" : "63a13cc5671cb6001bdea0f1",
+            "course" : "K10/K12",
+            "board" : "CBSE",
+            "validity" : "2023",
+            "tablet" : "SCXMGJ",
+            "initialClass" : "-1",
+            "finalClass" : "1",
+            "productSelectionType" : "byjus_tlp",
+            "formValues" : {
+                "course" : "K10/K12",
+                "board" : "CBSE",
+                "byjusClassFinalGrade" : "",
+                "subCourse" : "",
+                "validity" : 2023,
+                "tablet" : "SCXMGJ",
+                "userProfile" : "newProfile",
+                "initialClass" : "-1",
+                "finalClass" : "1",
+                "selectD4SDCard" : false,
+                "tabletId" : "T-SCXMGJ",
+                "featureTag" : [
+                    "victory-k4-9-india"
+                ],
+                "studentProfileDetails" : {
+                    "isExistingProfile" : false,
+                    "existingPremiumId" : "",
+                    "existingFamilyId" : ""
+                },
+                "productSelectionType" : "tlp",
+                "isTabletLock" : false
+            },
+            "tabletLock" : "not_applicable",
+            "studentName" : "Shubham singh",
+            "studentId" : "Shubham singh-1",
+            "academicDetails" : {
+                "mathPercent" : null,
+                "sciencePercent" : null,
+                "fotTrackId" : null,
+                "proficiency" : null,
+                "schoolDetails" : {
+                    "id" : null,
+                    "name" : "",
+                    "address" : "",
+                    "pincode" : null
+                },
+                "languageOfInstruction" : null,
+                "languageOfInstructionId" : null
+            },
+            "premiumAccount" : "1400030643"
+        }
+    ],
+    "actionDetails" : {
+        "createdAt" : "2022-12-20T04:42:00.798+0000",
+        "createdBy" : "praz@byjus.com",
+        "notConfirmedAt" : "2022-12-20T04:42:01.012+0000",
+        "notConfirmedBy" : "system"
+    },
+    "type" : "product",
+    "subType" : "course",
+    "timestamps" : {
+        "createdAt" : "2022-12-20T04:42:00.798+0000"
+    },
+    "sacCommand" : "applicable",
+    "poaCommand" : "applicable",
+    "revenueOrderValue" : 54000,
+    "orderValue" : 54000,
+    "voucherDetails" : null,
+    "sourceDetails" : {
+
+    },
+    "assignmentCategory" : "ls_pre_k3",
+    "smsDetails" : {
+        "notConfirmedAt" : "2022-12-20T04:42:01.967+0000",
+        "notConfirmedBy" : "draft_order_job"
+    }
+}

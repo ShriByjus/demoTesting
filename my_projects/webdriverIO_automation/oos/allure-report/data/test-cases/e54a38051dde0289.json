@@ -1,0 +1,206 @@
+{
+  "uid" : "e54a38051dde0289",
+  "name" : "Adding json to collections for generating the Order Id",
+  "fullName" : "btlp workflow.Adding json to collections for generating the Order Id",
+  "historyId" : "20bc222bd871334cfc2b3969fa37e0c8",
+  "time" : {
+    "start" : 1670504809868,
+    "stop" : 1670504813417,
+    "duration" : 3549
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 13,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Adding order to Sales order Collection",
+      "time" : {
+        "start" : 1670504809889,
+        "stop" : 0,
+        "duration" : -1670504809889
+      },
+      "status" : "unknown",
+      "steps" : [ {
+        "name" : "Adding order to Sales Sub order Collection",
+        "time" : {
+          "start" : 1670504811704,
+          "stop" : 1670504813416,
+          "duration" : 1712
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "btlp workflow"
+  }, {
+    "name" : "testClass",
+    "value" : "btlp workflow"
+  }, {
+    "name" : "testMethod",
+    "value" : "Adding json to collections for generating the Order Id"
+  }, {
+    "name" : "package",
+    "value" : "btlp workflow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-108.0.5359.94"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "979ded32796212e9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670504793498,
+        "stop" : 1670504797230,
+        "duration" : 3732
+      }
+    }, {
+      "uid" : "6ebc499d233a4e46",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670311338499,
+        "stop" : 1670311341809,
+        "duration" : 3310
+      }
+    }, {
+      "uid" : "158bfcb20f6b9200",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670311293634,
+        "stop" : 1670311297189,
+        "duration" : 3555
+      }
+    }, {
+      "uid" : "697256a4a85ae94f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670305943370,
+        "stop" : 1670305947586,
+        "duration" : 4216
+      }
+    }, {
+      "uid" : "cd16d1d2fcf5ced2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670305932538,
+        "stop" : 1670305937059,
+        "duration" : 4521
+      }
+    }, {
+      "uid" : "b64cbf3591c68500",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670305920305,
+        "stop" : 1670305926644,
+        "duration" : 6339
+      }
+    }, {
+      "uid" : "6298c4d81eeb1b86",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670305905993,
+        "stop" : 1670305914230,
+        "duration" : 8237
+      }
+    }, {
+      "uid" : "3f3ade8915a6664f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670305894846,
+        "stop" : 1670305900526,
+        "duration" : 5680
+      }
+    }, {
+      "uid" : "28d214be8fbad925",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670239396951,
+        "stop" : 1670239400725,
+        "duration" : 3774
+      }
+    }, {
+      "uid" : "e43d733fd0a2736d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670238628135,
+        "stop" : 1670238631332,
+        "duration" : 3197
+      }
+    }, {
+      "uid" : "539cca8b7fdff112",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670228829696,
+        "stop" : 1670228832941,
+        "duration" : 3245
+      }
+    }, {
+      "uid" : "a21d00c5f8d2a59",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670228811658,
+        "stop" : 1670228815420,
+        "duration" : 3762
+      }
+    }, {
+      "uid" : "151f27a870f938ac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670223216063,
+        "stop" : 1670223220070,
+        "duration" : 4007
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e54a38051dde0289.json",
+  "parameterValues" : [ "chrome-108.0.5359.94" ]
+}

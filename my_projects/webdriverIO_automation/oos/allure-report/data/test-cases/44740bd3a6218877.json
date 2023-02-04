@@ -1,0 +1,363 @@
+{
+  "uid" : "44740bd3a6218877",
+  "name" : "Verifying changing the status to Confirmed and Verify the order status history",
+  "fullName" : "Validating UKG Single order.Verifying changing the status to Confirmed and Verify the order status history",
+  "historyId" : "5d6c0a2364b46c6ce48f83625fae1558",
+  "time" : {
+    "start" : 1669625320113,
+    "stop" : 1669625339902,
+    "duration" : 19789
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 33,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Verify change status to Confirmed and verify order status history",
+      "time" : {
+        "start" : 1669625320114,
+        "stop" : 1669625339901,
+        "duration" : 19787
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verifying changing the status to Confirmed and Verify the order status history"
+  }, {
+    "name" : "package",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.110"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "62e46933b562b842",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669618459673,
+        "stop" : 1669618476747,
+        "duration" : 17074
+      }
+    }, {
+      "uid" : "10f04275f33d14a4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669615931055,
+        "stop" : 1669615943886,
+        "duration" : 12831
+      }
+    }, {
+      "uid" : "6b93555f8da27020",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669611349460,
+        "stop" : 1669611359758,
+        "duration" : 10298
+      }
+    }, {
+      "uid" : "603287b38d817798",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669611019152,
+        "stop" : 1669611029752,
+        "duration" : 10600
+      }
+    }, {
+      "uid" : "3263970146d23900",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669610740130,
+        "stop" : 1669610750839,
+        "duration" : 10709
+      }
+    }, {
+      "uid" : "30f64cac13cbece1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669610535356,
+        "stop" : 1669610547143,
+        "duration" : 11787
+      }
+    }, {
+      "uid" : "3bea9118d8e85d8f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669609457836,
+        "stop" : 1669609467498,
+        "duration" : 9662
+      }
+    }, {
+      "uid" : "8bf5d7a340df49fe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669609298484,
+        "stop" : 1669609308905,
+        "duration" : 10421
+      }
+    }, {
+      "uid" : "26fd702685edd79b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669609074641,
+        "stop" : 1669609084686,
+        "duration" : 10045
+      }
+    }, {
+      "uid" : "893bdde93e6e5ac0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669608898347,
+        "stop" : 1669608909209,
+        "duration" : 10862
+      }
+    }, {
+      "uid" : "e25ac6484ff631cd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669608688470,
+        "stop" : 1669608709849,
+        "duration" : 21379
+      }
+    }, {
+      "uid" : "a758971c7214579d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669380224115,
+        "stop" : 1669380234651,
+        "duration" : 10536
+      }
+    }, {
+      "uid" : "16ae266c9ab4eac8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669299218907,
+        "stop" : 1669299244357,
+        "duration" : 25450
+      }
+    }, {
+      "uid" : "494bfe58debd87ca",
+      "status" : "broken",
+      "statusDetails" : "this.subOrdersTab.click is not a function",
+      "time" : {
+        "start" : 1669285716172,
+        "stop" : 1669285721823,
+        "duration" : 5651
+      }
+    }, {
+      "uid" : "eb4f5f7f52b2de65",
+      "status" : "broken",
+      "statusDetails" : "this.ordersTab.waitForDisplayed is not a function",
+      "time" : {
+        "start" : 1669274098499,
+        "stop" : 1669274098675,
+        "duration" : 176
+      }
+    }, {
+      "uid" : "46a5a350acbbe0",
+      "status" : "broken",
+      "statusDetails" : "element.waitForExist is not a function",
+      "time" : {
+        "start" : 1669273977661,
+        "stop" : 1669273977834,
+        "duration" : 173
+      }
+    }, {
+      "uid" : "86fd24c5fcbc28cc",
+      "status" : "broken",
+      "statusDetails" : "this.ordersTab.waitForDisplayed is not a function",
+      "time" : {
+        "start" : 1669273233586,
+        "stop" : 1669273233773,
+        "duration" : 187
+      }
+    }, {
+      "uid" : "178e9d2e21b46dcd",
+      "status" : "broken",
+      "statusDetails" : "this.ordersTab.waitForDisplayed is not a function",
+      "time" : {
+        "start" : 1669273141391,
+        "stop" : 1669273141572,
+        "duration" : 181
+      }
+    }, {
+      "uid" : "fe19b61903db8973",
+      "status" : "broken",
+      "statusDetails" : "this.ordersTab.waitForDisplayed is not a function",
+      "time" : {
+        "start" : 1669272984777,
+        "stop" : 1669272984965,
+        "duration" : 188
+      }
+    }, {
+      "uid" : "cd49f6db76f6c88b",
+      "status" : "broken",
+      "statusDetails" : "this.ordersTab.waitForDisplayed is not a function",
+      "time" : {
+        "start" : 1669272931922,
+        "stop" : 1669272932082,
+        "duration" : 160
+      }
+    }, {
+      "uid" : "1e18414b06fd7f0e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669271561885,
+        "stop" : 1669271573447,
+        "duration" : 11562
+      }
+    }, {
+      "uid" : "b2b92bbd3c92a1be",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element <i class=\"fa fa-bars\"></i> is not clickable at point (1164, 146). Other element would receive the click: <div tabindex=\"-1\" class=\"overlay\">...</div>\n                  (Session info: chrome=107.0.5304.110)",
+      "time" : {
+        "start" : 1669271424017,
+        "stop" : 1669271431619,
+        "duration" : 7602
+      }
+    }, {
+      "uid" : "26bda45fa3d53347",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669270809132,
+        "stop" : 1669270822106,
+        "duration" : 12974
+      }
+    }, {
+      "uid" : "4be9814a5c380cd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669270244601,
+        "stop" : 1669270254687,
+        "duration" : 10086
+      }
+    }, {
+      "uid" : "1ab4d07342c84691",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669269220698,
+        "stop" : 1669269231314,
+        "duration" : 10616
+      }
+    }, {
+      "uid" : "bcc86ed80292f40a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669269085792,
+        "stop" : 1669269096481,
+        "duration" : 10689
+      }
+    }, {
+      "uid" : "ea78e1dec410fb97",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669268709290,
+        "stop" : 1669268722070,
+        "duration" : 12780
+      }
+    }, {
+      "uid" : "6a7f46a2b8c23589",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669266834881,
+        "stop" : 1669266846396,
+        "duration" : 11515
+      }
+    }, {
+      "uid" : "744ef33bf734fa16",
+      "status" : "broken",
+      "statusDetails" : "\"keys\" command requires a string or array of strings as parameter",
+      "time" : {
+        "start" : 1669266728038,
+        "stop" : 1669266733945,
+        "duration" : 5907
+      }
+    }, {
+      "uid" : "f3b6d74966cb86ab",
+      "status" : "broken",
+      "statusDetails" : "element not interactable\n                  (Session info: chrome=107.0.5304.110)",
+      "time" : {
+        "start" : 1669266020861,
+        "stop" : 1669266058192,
+        "duration" : 37331
+      }
+    }, {
+      "uid" : "ecb543ace7cd5326",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669265666637,
+        "stop" : 1669265668522,
+        "duration" : 1885
+      }
+    }, {
+      "uid" : "1d3ddcfdb4b000b1",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"//button[text()='Confirm Order']\" because element wasn't found",
+      "time" : {
+        "start" : 1669265002937,
+        "stop" : 1669265053195,
+        "duration" : 50258
+      }
+    }, {
+      "uid" : "36ff4fd58caa1975",
+      "status" : "broken",
+      "statusDetails" : "element (\"//div[@title='Actions']/button\") still not clickable after 30000ms",
+      "time" : {
+        "start" : 1668765021260,
+        "stop" : 1668765057863,
+        "duration" : 36603
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "44740bd3a6218877.json",
+  "parameterValues" : [ "chrome-107.0.5304.110" ]
+}

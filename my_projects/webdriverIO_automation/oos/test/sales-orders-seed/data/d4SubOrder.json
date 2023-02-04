@@ -1,0 +1,641 @@
+{
+    "orderType": "SINGLE",
+    "courseType": "K10,K12",
+    "lineItems": [
+        {
+            "name": "5th Grade D4 SD Card May 2022",
+            "skuName": "5th Grade D4 SD Card May 2022",
+            "sku": "5th Grade D4 SD Card May 2022",
+            "skuId": "DD05NA22",
+            "validity": "MAY 2022",
+            "type": "D4_TLP",
+            "basePrice": "20000",
+            "continousPrice": "15000",
+            "createdAt": "2021-01-04T05:46:07.086Z",
+            "grade": "5",
+            "productId": "1950360",
+            "course": "Maths/Science",
+            "itemType": "sd_card",
+            "price": 12750,
+            "studentId": "Zayan Mohamed-1",
+            "salesSubOrderId": "SSO1-2101231015150739",
+            "itemStatus": "mapping_pending",
+            "invoicePrice": "12750.00"
+        },
+        {
+            "name": "6th Grade D4 ICSE SD Card May 2023",
+            "skuName": "6th Grade D4 ICSE SD Card May 2023",
+            "sku": "6th Grade D4 ICSE SD Card May 2023",
+            "skuId": "DD06IC23",
+            "validity": "MAY 2023",
+            "type": "D4_TLP",
+            "basePrice": "35000",
+            "continousPrice": "15000",
+            "createdAt": "2021-01-04T05:46:07.086Z",
+            "grade": "6",
+            "productId": "1950399",
+            "board": "ICSE",
+            "itemType": "sd_card",
+            "price": 12750,
+            "studentId": "Zayan Mohamed-1",
+            "salesSubOrderId": "SSO1-2101231015150739",
+            "itemStatus": "mapping_pending",
+            "invoicePrice": "12750.00"
+        },
+        {
+            "name": "7th Grade D4 ICSE SD Card May 2024",
+            "skuName": "7th Grade D4 ICSE SD Card May 2024",
+            "sku": "7th Grade D4 ICSE SD Card May 2024",
+            "skuId": "DD07IC24",
+            "validity": "MAY 2024",
+            "type": "D4_TLP",
+            "basePrice": "50000",
+            "continousPrice": "15000",
+            "createdAt": "2021-01-04T05:46:07.086Z",
+            "grade": "7",
+            "productId": "1950506",
+            "board": "ICSE",
+            "itemType": "sd_card",
+            "price": 12750,
+            "studentId": "Zayan Mohamed-1",
+            "salesSubOrderId": "SSO1-2101231015150739",
+            "itemStatus": "mapping_pending",
+            "invoicePrice": "12750.00"
+        },
+        {
+            "name": "8th Grade D4 ICSE SD Card May 2025",
+            "skuName": "8th Grade D4 ICSE SD Card May 2025",
+            "sku": "8th Grade D4 ICSE SD Card May 2025",
+            "skuId": "DD08IC25",
+            "validity": "MAY 2025",
+            "type": "D4_TLP",
+            "basePrice": "65000",
+            "continousPrice": "15000",
+            "createdAt": "2021-01-04T05:46:07.086Z",
+            "grade": "8",
+            "productId": "1950603",
+            "board": "ICSE",
+            "itemType": "sd_card",
+            "price": 12750,
+            "studentId": "Zayan Mohamed-1",
+            "salesSubOrderId": "SSO1-2101231015150739",
+            "itemStatus": "mapping_pending",
+            "invoicePrice": "12750.00"
+        },
+        {
+            "name": "9th Grade D4 ICSE SD Card May 2026",
+            "skuName": "9th Grade D4 ICSE SD Card May 2026",
+            "sku": "9th Grade D4 ICSE SD Card May 2026",
+            "skuId": "DD09IC26",
+            "validity": "MAY 2026",
+            "type": "D4_TLP",
+            "basePrice": "80000",
+            "continousPrice": "15000",
+            "createdAt": "2021-01-04T05:46:07.086Z",
+            "grade": "9",
+            "productId": "1950881",
+            "board": "ICSE",
+            "itemType": "sd_card",
+            "price": 12750,
+            "studentId": "Zayan Mohamed-1",
+            "salesSubOrderId": "SSO1-2101231015150739",
+            "itemStatus": "mapping_pending",
+            "invoicePrice": "12750.00"
+        },
+        {
+            "name": "10th Grade D4 ICSE SD Card May 2027",
+            "skuName": "10th Grade D4 ICSE SD Card May 2027",
+            "sku": "10th Grade D4 ICSE SD Card May 2027",
+            "skuId": "DD10IC27",
+            "validity": "MAY 2027",
+            "type": "D4_TLP",
+            "basePrice": "95000",
+            "continousPrice": "15000",
+            "createdAt": "2021-01-04T05:46:07.086Z",
+            "grade": "10",
+            "productId": "1950210",
+            "board": "ICSE",
+            "itemType": "sd_card",
+            "price": 12750,
+            "studentId": "Zayan Mohamed-1",
+            "salesSubOrderId": "SSO1-2101231015150739",
+            "itemStatus": "mapping_pending",
+            "invoicePrice": "12750.00"
+        },
+        {
+            "sku": "BYJU'S Learn Station 10inch Wifi White Tablet",
+            "course": "",
+            "grade": null,
+            "board": null,
+            "productType": "tablet",
+            "productId": "1909200",
+            "name": "BYJU'S Learn Station 10inch Wifi White Tablet",
+            "type": "tablet",
+            "validity": "MAY 2023",
+            "continousPrice": "15000",
+            "basePrice": "12000",
+            "skuId": "SBXWWZ",
+            "size": 10,
+            "properties": {
+                "color": "white",
+                "size": "10"
+            },
+            "price": "12000",
+            "itemType": "tablet",
+            "studentId": "Zayan Mohamed-1",
+            "salesSubOrderId": "SSO1-2101231015150739",
+            "itemStatus": "mapping_pending",
+            "invoicePrice": "12000"
+        }
+    ],
+    "shipmentLineItems": [
+        {
+            "skuId": "SBXWWZUC",
+            "properties": {
+                "warehouse": "IBC",
+                "inventoryLocation": "FI IBC",
+                "manufacturer": "BYJUs",
+                "brand": "BYJUs"
+            },
+            "skuName": "BYJU'S LearnStation 10inch Wifi White Tablet",
+            "type": "tablet",
+            "price": 12000,
+            "studentId": "Zayan Mohamed-1",
+            "students": [
+                "Zayan Mohamed-1"
+            ],
+            "tabletId": "undefined",
+            "itemStatus": "mapping_pending"
+        },
+        {
+            "skuId": "D1NA0505",
+            "properties": {
+                "board": "NA",
+                "grade": "05-05",
+                "course": "NA",
+                "noOfCombos": "1",
+                "sdCardMemory": 16,
+                "appVersion": "NA",
+                "sdCardVersion": "NA",
+                "apkVersion": "NA",
+                "contentRelease": "NA",
+                "brand": "BYJUs",
+                "warehouse": [
+                    "IBC",
+                    "Lexington",
+                    "Croma"
+                ],
+                "location": [
+                    "FI IBC",
+                    "FI Lex",
+                    "FI CROMA"
+                ],
+                "comboDetails": [
+                    {
+                        "initialClass": 5,
+                        "finalClass": 5,
+                        "grades": "05-05"
+                    }
+                ],
+                "combinations": [
+                    "05-05"
+                ]
+            },
+            "skuName": "Learnstation Grade 05 SD Card",
+            "type": "sd_card",
+            "activeGrades": [
+                5
+            ],
+            "studentId": "Zayan Mohamed-1",
+            "students": [
+                "Zayan Mohamed-1"
+            ],
+            "tabletId": "undefined",
+            "price": 38250,
+            "itemStatus": "mapping_pending"
+        },
+        {
+            "skuId": "D4IC0610",
+            "properties": {
+                "board": "ICSE",
+                "grade": "06-10",
+                "course": "NA",
+                "noOfCombos": "6",
+                "sdCardMemory": 128,
+                "appVersion": "NA",
+                "sdCardVersion": "NA",
+                "apkVersion": "NA",
+                "contentRelease": "NA",
+                "brand": "BYJUs",
+                "warehouse": [
+                    "IBC",
+                    "Lexington",
+                    "Croma"
+                ],
+                "location": [
+                    "FI IBC",
+                    "FI Lex",
+                    "FI CROMA"
+                ],
+                "comboDetails": [
+                    {
+                        "initialClass": 6,
+                        "finalClass": 10,
+                        "grades": "06-10"
+                    },
+                    {
+                        "initialClass": 6,
+                        "finalClass": 8,
+                        "grades": "06-08"
+                    },
+                    {
+                        "initialClass": 6,
+                        "finalClass": 9,
+                        "grades": "06-09"
+                    },
+                    {
+                        "initialClass": 7,
+                        "finalClass": 9,
+                        "grades": "07-09"
+                    },
+                    {
+                        "initialClass": 7,
+                        "finalClass": 10,
+                        "grades": "07-10"
+                    },
+                    {
+                        "initialClass": 8,
+                        "finalClass": 10,
+                        "grades": "08-10"
+                    }
+                ],
+                "combinations": [
+                    "06-10",
+                    "06-08",
+                    "06-09",
+                    "07-09",
+                    "07-10",
+                    "08-10"
+                ]
+            },
+            "skuName": "Learnstation Grade 06-10 ICSE SD Card",
+            "type": "sd_card",
+            "activeGrades": [
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "studentId": "Zayan Mohamed-1",
+            "students": [
+                "Zayan Mohamed-1"
+            ],
+            "tabletId": "undefined",
+            "price": 38250,
+            "itemStatus": "mapping_pending"
+        }
+    ],
+    "salesDetails": {
+        "typeOfSales": "DSSales",
+        "directSalesBy": "abhishek.chandak@byjus.com",
+        "directSalesByCampaign": "",
+        "salesAppointmentBy": null,
+        "salesAppointmentByCampaign": null,
+        "incentiveDate": "2021-02-11T04:21:07.001Z",
+        "salesIndex": 80
+    },
+    "customerDetails": {
+        "customerId": "",
+        "name": "Inba Invoice",
+        "alternateName": "Nidhi Singh",
+        "mobileNo": "+91-7488173804",
+        "alternateMobileNo": "",
+        "email": "nidhisingh.n@icloud.com",
+        "alternateEmail": null,
+        "type": null
+    },
+    "addressDetails": {
+        "billing": {
+            "addressLine1": "hubli",
+            "addressLine2": "hubli",
+            "country": "India",
+            "zipcode": "600001",
+            "state": "Tamil Nadu (TN)",
+            "city": "Chennai",
+            "address": "hubli\n hubli"
+        },
+        "shipping": {
+            "addressLine1": "hubli",
+            "addressLine2": "hubli",
+            "country": "India",
+            "zipcode": "600001",
+            "state": "Tamil Nadu (TN)",
+            "city": "Chennai",
+            "address": "hubli\n hubli"
+        }
+    },
+    "attachments": [
+        {
+            "_id": "6024b0ab8e575e0023c19c84",
+            "name": "cheque",
+            "url": "https://orderhive-payments.s3.ap-southeast-1.amazonaws.com/development/6024b04c8e575e0023c19c80/cheque/cheque-20210211_09508750.png"
+        }
+    ],
+    "studentDetails": [
+        {
+            "studentProfileDetails": {
+                "isExistingProfile": false,
+                "existingPremiumId": "",
+                "existingFamilyId": ""
+            },
+            "hlpDetails": {
+                "courseDetails": [],
+                "sessionDetails": []
+            },
+            "courseType": [
+                "K10",
+                "K12"
+            ],
+            "workshops": [],
+            "items": [
+                {
+                    "_id": "5aa0e3a68623875a0e3a1653",
+                    "board": "CBSE",
+                    "course": null,
+                    "grade": "8",
+                    "name": "8th CBSE (SD Card-Byjus) May-2021",
+                    "productId": "1068732",
+                    "sku": "8th CBSE (SD Card-Byjus) May-2021",
+                    "validity": "MAY 2021",
+                    "basePrice": "20000",
+                    "continousPrice": "15000",
+                    "city": null,
+                    "cohort_id": 14,
+                    "cohort_id_number": "tllms08marketing",
+                    "isMultipleProfilesSupported": true,
+                    "updatedAt": "2020-01-17T09:35:22.690Z",
+                    "isVerified": true,
+                    "productType": "course",
+                    "updatedBy": "sales_sku_migration_job",
+                    "skuId": "SD08CB21",
+                    "skuName": "8th Grade CBSE SD Card May 2021",
+                    "itemType": "course",
+                    "price": 8000,
+                    "combinationType": "tlp",
+                    "studentId": "Shubhamsingh-1"
+                },
+                {
+                    "_id": "5aa0e3a38623875a0e3a164a",
+                    "board": "CBSE",
+                    "course": null,
+                    "grade": "9",
+                    "name": "9th CBSE (SD Card-Byjus) May-2022",
+                    "productId": "1068746",
+                    "sku": "9th CBSE (SD Card-Byjus) May-2022",
+                    "validity": "MAY 2022",
+                    "basePrice": "20000",
+                    "continousPrice": "15000",
+                    "city": null,
+                    "cohort_id": 15,
+                    "cohort_id_number": "tllms09marketing",
+                    "isMultipleProfilesSupported": true,
+                    "updatedAt": "2020-01-17T08:53:10.246Z",
+                    "isVerified": true,
+                    "productType": "course",
+                    "updatedBy": "sales_sku_migration_job",
+                    "skuId": "SD09CB22",
+                    "skuName": "9th Grade CBSE SD Card May 2022",
+                    "itemType": "course",
+                    "price": 15000,
+                    "combinationType": "tlp",
+                    "studentId": "Shubhamsingh-1"
+                },
+                {
+                    "_id": "5aa0e3a08623875a0e3a163e",
+                    "board": "CBSE",
+                    "course": null,
+                    "grade": "10",
+                    "name": "10th CBSE (SD Card-Byjus) May-2023",
+                    "productId": "1069283",
+                    "sku": "10th CBSE (SD Card-Byjus) May-2023",
+                    "validity": "MAY 2023",
+                    "basePrice": "35000",
+                    "continousPrice": "15000",
+                    "city": null,
+                    "cohort_id": 16,
+                    "cohort_id_number": "tllms10marketing",
+                    "isMultipleProfilesSupported": true,
+                    "updatedAt": "2020-01-17T09:45:46.641Z",
+                    "isVerified": true,
+                    "productType": "course",
+                    "updatedBy": "sales_sku_migration_job",
+                    "skuId": "SD10CB23",
+                    "skuName": "10th Grade CBSE SD Card May 2023",
+                    "itemType": "course",
+                    "price": 15000,
+                    "combinationType": "tlp",
+                    "studentId": "Shubhamsingh-1"
+                },
+                {
+                    "_id": "5b235a2c54dcca022af405db",
+                    "productId": "1124257",
+                    "name": "11+12 PCMB/JEE+NEET (SD Card-Byjus) May-2025",
+                    "sku": "11+12 PCMB/JEE+NEET (SD Card-Byjus) May-2025",
+                    "basePrice": "80000",
+                    "continousPrice": "80000",
+                    "grade": "11+12",
+                    "course": "JEE/NEET",
+                    "validity": "MAY 2025",
+                    "cohort_id": 53,
+                    "cohort_number_id": "11th12thcombined",
+                    "cohort_id_number": "11th and 12th",
+                    "updatedAt": "2019-06-21T07:06:01.366Z",
+                    "itemType": "course",
+                    "updatedBy": "itemType_datafix",
+                    "price": 80000,
+                    "combinationType": "tlp",
+                    "studentId": "Shubhamsingh-1"
+                },
+                {
+                    "_id": "5e7319c6be79e50019e199b6",
+                    "auditLogs": [
+                        {
+                            "changes": {
+                                "course": {
+                                    "oldValue": "K-12 Lenovo Tablet (Add-on - BYJUS) (10 inch)",
+                                    "newValue": ""
+                                },
+                                "isVerified": {
+                                    "oldValue": null,
+                                    "newValue": true
+                                }
+                            },
+                            "updatedBy": "ayushi.sinha@byjus.com",
+                            "updatedAt": "2020-03-19T07:06:04.267Z"
+                        }
+                    ],
+                    "sku": "K-12 Lenovo Tablet (Add-on - BYJUS) (10 inch)",
+                    "course": "",
+                    "grade": null,
+                    "board": null,
+                    "city": null,
+                    "cohort_id": null,
+                    "productType": "course",
+                    "productId": "940166",
+                    "name": "Lenovo 10 Inch Wifi",
+                    "type": "tablet",
+                    "validity": "MAY 2020",
+                    "continousPrice": "13000",
+                    "basePrice": "13000",
+                    "updatedBy": "itemType_datafix",
+                    "isVerified": true,
+                    "updatedAt": "2020-03-19T07:06:04.268Z",
+                    "size": 10,
+                    "skuId": "TLXWZZ",
+                    "skuName": "Lenovo 10 Inch Wifi",
+                    "itemType": "tablet",
+                    "price": "13000",
+                    "studentId": "Shubhamsingh-1"
+                }
+            ],
+            "addOnItems": [
+                {
+                    "productId": "1875311",
+                    "basePrice": "6500",
+                    "board": "CBSE",
+                    "grade": "8",
+                    "name": "Class-8 CBSE (Printed Books)",
+                    "sku": "Class-8 CBSE (Printed Books)",
+                    "skuId": "BK08KXCB",
+                    "type": "Book",
+                    "studentId": "Shubhamsingh-1",
+                    "price": "6500"
+                }
+            ],
+            "mentoringDetails": [],
+            "bhlpCourseDetails": [],
+            "_id": "6024b096c64c1f0022b71962",
+            "course": "K10/K12",
+            "board": "CBSE",
+            "validity": "2021",
+            "tablet": "940166",
+            "initialClass": "8",
+            "finalClass": "12",
+            "formValues": {
+                "course": "K10/K12",
+                "board": "CBSE",
+                "byjusClassFinalGrade": "",
+                "validity": 2021,
+                "tablet": "940166",
+                "initialClass": "8",
+                "finalClass": "12",
+                "subCourse": "JEE/NEET",
+                "tabletId": "T-940166"
+            },
+            "productSelectionType": "byjus_tlp",
+            "studentName": "Shubhamsingh",
+            "studentId": "Shubhamsingh-1"
+        }
+    ],
+    "paymentDetails": {
+        "type": "NON_EMI",
+        "totalAmount": 88500,
+        "totalEmiAmount": 0,
+        "totalPrepaidAmount": 88500,
+        "totalPostpaidAmount": 0,
+        "paymentMethod": "GP",
+        "payments": [
+            {
+                "isPrepaid": true,
+                "_id": "6024b0ab8e575e0023c19c85",
+                "provider": "PAYU",
+                "referenceId": "16130172600046-88500",
+                "amount": 88500,
+                "additionalDetails": {
+                    "bank": "federal"
+                },
+                "attachments": [
+                    {
+                        "_id": "6024b0ab8e575e0023c19c86",
+                        "name": "cheque",
+                        "url": "https://orderhive-payments.s3.ap-southeast-1.amazonaws.com/development/6024b04c8e575e0023c19c80/cheque/cheque-20210211_09508750.png"
+                    }
+                ],
+                "type": "DOWN_PAYMENT",
+                "isActive": true
+            }
+        ],
+        "minDownPaymentDetails": {
+            "isMatched": true,
+            "minDownPaymentAmount": 0
+        },
+        "isRepunchedCase": false,
+        "paymentMode": "PAYU",
+        "paymentAmountSplit": "88500",
+        "paymentStatus": "PAID"
+    },
+    "leadDetails": {
+        "prospectId": "akjkqo5hgvytvblekhg_jhcx",
+        "accountNo": "24692",
+        "loggedInEmailId": "praz@byjus.com",
+        "leadCreatedBy": "",
+        "leadCreatedAt": null,
+        "leadMobileNo": "91-7973190364,8728981217",
+        "isLeadMobileUsed": false,
+        "leadLink": "https://run.leadsquared.com/LeadManagement/LeadDetails?LeadID=akjkqo5hgvytvblekhg_jhcx"
+    },
+    "contactDetails": {
+        "orderPunchingContact": "9731903645",
+        "cxProvidedContact": "",
+        "leadContact": "91-7973190364,8728981217",
+        "gpContact": "",
+        "ngpContact": "",
+        "lpContact": ""
+    },
+    "type": "product",
+    "subType": "course",
+    "status": "delivered",
+    "actionDetails": {
+        "createdAt": "2021-02-11T04:22:00.584Z",
+        "createdBy": "praz@byjus.com",
+        "notConfirmedAt": "2021-02-11T04:22:00.584Z",
+        "notConfirmedBy": "system",
+        "confirmedAt": "2021-02-11T04:22:21.244Z",
+        "confirmedBy": "shrinath.mirashi@byjus.com",
+        "partialSetupDoneAt": "2021-02-11T04:31:31.692Z",
+        "partialSetupDoneBy": "akshay.kulkarni1@byjus.com",
+        "setupDoneAt": "2021-02-11T04:31:37.234Z",
+        "setupDoneBy": "akshay.kulkarni1@byjus.com",
+        "packedAt": "2021-02-11T04:31:48.095Z",
+        "packedBy": "akshay.kulkarni1@byjus.com",
+        "shippedAt": "2021-02-11T04:32:19.368Z",
+        "shippedBy": "shrinath.mirashi@byjus.com",
+        "manifestedAt": "2021-02-11T04:32:42.361Z",
+        "manifestedBy": "shrinath.mirashi@byjus.com",
+        "deliveredAt": "2021-02-11T04:33:37.093Z",
+        "deliveredBy": "shrinath.mirashi@byjus.com"
+    },
+    "createdAt": "2021-02-11T04:21:07.001Z",
+    "updatedat": "2021-02-11T04:22:00.584Z",
+    "updatedAt": "2021-02-11T04:33:37.134Z",
+    "salesOrderStatus": "delivered",
+    "updatedBy": "shrinath.mirashi@byjus.com",
+    "assignmentDetails": {
+        "presentOwner": "akshay.kulkarni1@byjus.com",
+        "presentOwnerType": "setupUser",
+        "setupUser": "akshay.kulkarni1@byjus.com",
+        "setupUserAt": "2021-02-11T04:22:29.496Z"
+    },
+    "packageIds": [
+        "P1-SSO1-2101231015150739"
+    ],
+    "packageDetails": [
+        {
+            "packageId": "P1-SSO1-2101231015150739",
+            "awbNumber": 200647316,
+            "shipmentOrderId": "SHO1-SSO1-2101231015150739",
+            "status": "delivered"
+        }
+    ]
+}

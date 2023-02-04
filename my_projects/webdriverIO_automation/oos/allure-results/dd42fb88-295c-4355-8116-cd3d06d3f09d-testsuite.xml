@@ -1,0 +1,30 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1672224098458' stop='1672224153087'>
+    <name>btlp workflow</name>
+    <title>btlp workflow</title>
+    <test-cases>
+        <test-case start='1672224098458' status='broken' stop='1672224153086'>
+            <name>byjusPay</name>
+            <title>byjusPay</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-108.0.5359.124'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='5d1bb840-a42c-4879-9cd8-6c379696ab7b-attachment.png' type='image/png' size='173640'/>
+            </attachments>
+            <failure>
+                <message>Cannot read properties of null (reading 'referenceId')</message>
+                <stack-trace>TypeError: Cannot read properties of null (reading 'referenceId')
+                    at mongoConnect.getByjusReferenceID (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/utils/mongoconnect.js:579:31)
+                    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                    at Context.&lt;anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/test.js:39:25)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

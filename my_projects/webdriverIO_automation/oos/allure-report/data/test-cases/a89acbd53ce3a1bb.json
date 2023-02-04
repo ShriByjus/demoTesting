@@ -1,0 +1,213 @@
+{
+  "uid" : "a89acbd53ce3a1bb",
+  "name" : "btlp reveres workflow",
+  "fullName" : "btlp workflow.btlp reveres workflow",
+  "historyId" : "d79b023699a47270a2347634662fc3ce",
+  "time" : {
+    "start" : 1670504822479,
+    "stop" : 1670504822484,
+    "duration" : 5
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "connect ECONNREFUSED 127.0.0.1:9515",
+  "statusTrace" : "RequestError: connect ECONNREFUSED 127.0.0.1:9515\n                    at ClientRequest.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/node_modules/got/dist/source/core/index.js:970:111)\n                    at Object.onceWrapper (node:events:642:26)\n                    at ClientRequest.emit (node:events:539:35)\n                    at ClientRequest.emit (node:domain:475:12)\n                    at ClientRequest.origin.emit (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)\n                    at Socket.socketErrorListener (node:_http_client:454:9)\n                    at Socket.emit (node:events:527:28)\n                    at Socket.emit (node:domain:475:12)\n                    at emitErrorNT (node:internal/streams/destroy:157:8)\n                    at emitErrorCloseNT (node:internal/streams/destroy:122:3)\n                    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 13,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "connect ECONNREFUSED 127.0.0.1:9515",
+    "statusTrace" : "RequestError: connect ECONNREFUSED 127.0.0.1:9515\n                    at ClientRequest.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/node_modules/got/dist/source/core/index.js:970:111)\n                    at Object.onceWrapper (node:events:642:26)\n                    at ClientRequest.emit (node:events:539:35)\n                    at ClientRequest.emit (node:domain:475:12)\n                    at ClientRequest.origin.emit (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)\n                    at Socket.socketErrorListener (node:_http_client:454:9)\n                    at Socket.emit (node:events:527:28)\n                    at Socket.emit (node:domain:475:12)\n                    at emitErrorNT (node:internal/streams/destroy:157:8)\n                    at emitErrorCloseNT (node:internal/streams/destroy:122:3)\n                    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)",
+    "steps" : [ {
+      "name" : "Maximize the window",
+      "time" : {
+        "start" : 1670504822479,
+        "stop" : 1670504822484,
+        "duration" : 5
+      },
+      "status" : "broken",
+      "statusMessage" : "RequestError: connect ECONNREFUSED 127.0.0.1:9515\n                    at ClientRequest.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/node_modules/got/dist/source/core/index.js:970:111)\n                    at Object.onceWrapper (node:events:642:26)\n                    at ClientRequest.emit (node:events:539:35)\n                    at ClientRequest.emit (node:domain:475:12)\n                    at ClientRequest.origin.emit (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)\n                    at Socket.socketErrorListener (node:_http_client:454:9)\n                    at Socket.emit (node:events:527:28)\n                    at Socket.emit (node:domain:475:12)\n                    at emitErrorNT (node:internal/streams/destroy:157:8)\n                    at emitErrorCloseNT (node:internal/streams/destroy:122:3)\n                    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "btlp workflow"
+  }, {
+    "name" : "testClass",
+    "value" : "btlp workflow"
+  }, {
+    "name" : "testMethod",
+    "value" : "btlp reveres workflow"
+  }, {
+    "name" : "package",
+    "value" : "btlp workflow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-108.0.5359.94"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a9fedcc4cacd5f3a",
+      "status" : "broken",
+      "statusDetails" : "connect ECONNREFUSED 127.0.0.1:9515",
+      "time" : {
+        "start" : 1670504805829,
+        "stop" : 1670504805835,
+        "duration" : 6
+      }
+    }, {
+      "uid" : "2d4b2099df0932dc",
+      "status" : "broken",
+      "statusDetails" : "connect ECONNREFUSED 127.0.0.1:9515",
+      "time" : {
+        "start" : 1670311344243,
+        "stop" : 1670311344248,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "239c0694bdaf51d9",
+      "status" : "broken",
+      "statusDetails" : "connect ECONNREFUSED 127.0.0.1:9515",
+      "time" : {
+        "start" : 1670311298904,
+        "stop" : 1670311298909,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "39c829e9e980ab59",
+      "status" : "broken",
+      "statusDetails" : "connect ECONNREFUSED 127.0.0.1:9515",
+      "time" : {
+        "start" : 1670305949603,
+        "stop" : 1670305949608,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "359d7df7c1e18c3b",
+      "status" : "broken",
+      "statusDetails" : "connect ECONNREFUSED 127.0.0.1:9515",
+      "time" : {
+        "start" : 1670305939512,
+        "stop" : 1670305939518,
+        "duration" : 6
+      }
+    }, {
+      "uid" : "93fc77a3f5c85efe",
+      "status" : "broken",
+      "statusDetails" : "connect ECONNREFUSED 127.0.0.1:9515",
+      "time" : {
+        "start" : 1670305928460,
+        "stop" : 1670305928466,
+        "duration" : 6
+      }
+    }, {
+      "uid" : "416439dd7b4d0cde",
+      "status" : "broken",
+      "statusDetails" : "connect ECONNREFUSED 127.0.0.1:9515",
+      "time" : {
+        "start" : 1670305916080,
+        "stop" : 1670305916086,
+        "duration" : 6
+      }
+    }, {
+      "uid" : "418d35a5a9d32fe9",
+      "status" : "broken",
+      "statusDetails" : "connect ECONNREFUSED 127.0.0.1:9515",
+      "time" : {
+        "start" : 1670305902007,
+        "stop" : 1670305902013,
+        "duration" : 6
+      }
+    }, {
+      "uid" : "8d7c1b09dfa0fe81",
+      "status" : "broken",
+      "statusDetails" : "connect ECONNREFUSED 127.0.0.1:9515",
+      "time" : {
+        "start" : 1670239401763,
+        "stop" : 1670239401767,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "637e17ed53bb788e",
+      "status" : "broken",
+      "statusDetails" : "connect ECONNREFUSED 127.0.0.1:9515",
+      "time" : {
+        "start" : 1670238632770,
+        "stop" : 1670238632774,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "361c2143afb48a6e",
+      "status" : "broken",
+      "statusDetails" : "connect ECONNREFUSED 127.0.0.1:9515",
+      "time" : {
+        "start" : 1670228834518,
+        "stop" : 1670228834523,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "14857cde63c26c90",
+      "status" : "broken",
+      "statusDetails" : "connect ECONNREFUSED 127.0.0.1:9515",
+      "time" : {
+        "start" : 1670228825493,
+        "stop" : 1670228825499,
+        "duration" : 6
+      }
+    }, {
+      "uid" : "ef61dea168f19d74",
+      "status" : "broken",
+      "statusDetails" : "connect ECONNREFUSED 127.0.0.1:9515",
+      "time" : {
+        "start" : 1670223221704,
+        "stop" : 1670223221709,
+        "duration" : 5
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "a89acbd53ce3a1bb.json",
+  "parameterValues" : [ "chrome-108.0.5359.94" ]
+}

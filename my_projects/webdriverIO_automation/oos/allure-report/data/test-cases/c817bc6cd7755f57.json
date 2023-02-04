@@ -1,0 +1,96 @@
+{
+  "uid" : "c817bc6cd7755f57",
+  "name" : "Adding json to collections for generating the Order Id",
+  "fullName" : "btlp workflow.Adding json to collections for generating the Order Id",
+  "historyId" : "7a7cf83415d308d3e5d28d8f3dee296c",
+  "time" : {
+    "start" : 1667559535798,
+    "stop" : 1667559537338,
+    "duration" : 1540
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "salesSubOrderId is not defined",
+  "statusTrace" : "ReferenceError: salesSubOrderId is not defined\n                    at mongoConnect.addOrderToSalesOrderCollectionForSmokeTest (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/utils/mongoconnect.js:253:34)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/Btlp_Smoke_Testings/forwardAndReveresFlow.js:33:9)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "salesSubOrderId is not defined",
+    "statusTrace" : "ReferenceError: salesSubOrderId is not defined\n                    at mongoConnect.addOrderToSalesOrderCollectionForSmokeTest (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/utils/mongoconnect.js:253:34)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/Btlp_Smoke_Testings/forwardAndReveresFlow.js:33:9)",
+    "steps" : [ {
+      "name" : "Adding order to Sales order Collection",
+      "time" : {
+        "start" : 1667559535856,
+        "stop" : 1667559537338,
+        "duration" : 1482
+      },
+      "status" : "broken",
+      "statusMessage" : "ReferenceError: salesSubOrderId is not defined\n                    at mongoConnect.addOrderToSalesOrderCollectionForSmokeTest (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/utils/mongoconnect.js:253:34)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/Btlp_Smoke_Testings/forwardAndReveresFlow.js:33:9)",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "4a97aa332c1a493c",
+        "name" : "Screenshot",
+        "source" : "4a97aa332c1a493c.png",
+        "type" : "image/png",
+        "size" : 14802
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "btlp workflow"
+  }, {
+    "name" : "testClass",
+    "value" : "btlp workflow"
+  }, {
+    "name" : "testMethod",
+    "value" : "Adding json to collections for generating the Order Id"
+  }, {
+    "name" : "package",
+    "value" : "btlp workflow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.87"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c817bc6cd7755f57.json",
+  "parameterValues" : [ "chrome-107.0.5304.87" ]
+}

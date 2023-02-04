@@ -1,0 +1,29 @@
+{
+    "_id": {
+      "$oid": "632b01c5389df180765727fe"
+    },
+    "comments": [],
+    "isUsed": true,
+    "log": [],
+    "isManuallyAligned": false,
+    "tags": [],
+    "method": "FOC",
+    "referenceId": "MLP_FOC_2209211221250149",
+    "amount": 1,
+    "orderId": "SSO1-2209211221250138",
+    "tran_date": "Wed Sep 21 2022 12:21:25 GMT+0000 (Coordinated Universal Time)",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1663762885869"
+      }
+    },
+    "createdBy": "system",
+    "attachments": [],
+    "history": [],
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1663762885869"
+      }
+    },
+    "__v": 0
+  }

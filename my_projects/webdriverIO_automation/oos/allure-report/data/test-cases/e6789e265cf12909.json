@@ -1,0 +1,270 @@
+{
+  "uid" : "e6789e265cf12909",
+  "name" : "Verify the sales skus",
+  "fullName" : "Validating UKG Single order.Verify the sales skus",
+  "historyId" : "22fe840c71d74f4ba2c7301e94e2ce6c",
+  "time" : {
+    "start" : 1669203977386,
+    "stop" : 1669203980499,
+    "duration" : 3113
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 19,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Validate the sales sku's",
+      "time" : {
+        "start" : 1669203980497,
+        "stop" : 0,
+        "duration" : -1669203980497
+      },
+      "status" : "unknown",
+      "steps" : [ {
+        "name" : "Validatation done for sales sku's",
+        "time" : {
+          "start" : 1669203980498,
+          "stop" : 1669203980498,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the sales skus"
+  }, {
+    "name" : "package",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.110"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "cbcbf873edd900a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669203474813,
+        "stop" : 1669203477979,
+        "duration" : 3166
+      }
+    }, {
+      "uid" : "3bd3510b19d20df4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669203391675,
+        "stop" : 1669203395034,
+        "duration" : 3359
+      }
+    }, {
+      "uid" : "aa81996a6fd696",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669203269014,
+        "stop" : 1669203272701,
+        "duration" : 3687
+      }
+    }, {
+      "uid" : "945f752f676d88a2",
+      "status" : "broken",
+      "statusDetails" : "elem[prop] is not a function",
+      "time" : {
+        "start" : 1669202621060,
+        "stop" : 1669202621282,
+        "duration" : 222
+      }
+    }, {
+      "uid" : "da34d858c18af6cb",
+      "status" : "broken",
+      "statusDetails" : "elem[prop] is not a function",
+      "time" : {
+        "start" : 1669202433688,
+        "stop" : 1669202433922,
+        "duration" : 234
+      }
+    }, {
+      "uid" : "f33350a0e3e96e51",
+      "status" : "broken",
+      "statusDetails" : "elem[prop] is not a function",
+      "time" : {
+        "start" : 1669202314333,
+        "stop" : 1669202314546,
+        "duration" : 213
+      }
+    }, {
+      "uid" : "d66e5a2a145b03f2",
+      "status" : "broken",
+      "statusDetails" : "elem[prop] is not a function",
+      "time" : {
+        "start" : 1669201896027,
+        "stop" : 1669201896232,
+        "duration" : 205
+      }
+    }, {
+      "uid" : "dac548adb8a233b6",
+      "status" : "broken",
+      "statusDetails" : "elem[prop] is not a function",
+      "time" : {
+        "start" : 1669201676480,
+        "stop" : 1669201676653,
+        "duration" : 173
+      }
+    }, {
+      "uid" : "d7e04cad4a5bf56",
+      "status" : "broken",
+      "statusDetails" : "elem[prop] is not a function",
+      "time" : {
+        "start" : 1669201080894,
+        "stop" : 1669201081133,
+        "duration" : 239
+      }
+    }, {
+      "uid" : "2c6830714f41e825",
+      "status" : "broken",
+      "statusDetails" : "elem[prop] is not a function",
+      "time" : {
+        "start" : 1669200974446,
+        "stop" : 1669200974665,
+        "duration" : 219
+      }
+    }, {
+      "uid" : "ddfc02ea1b87ba33",
+      "status" : "broken",
+      "statusDetails" : "elem[prop] is not a function",
+      "time" : {
+        "start" : 1669200761072,
+        "stop" : 1669200761277,
+        "duration" : 205
+      }
+    }, {
+      "uid" : "d714168988f9c70d",
+      "status" : "broken",
+      "statusDetails" : "elem[prop] is not a function",
+      "time" : {
+        "start" : 1669200570781,
+        "stop" : 1669200570980,
+        "duration" : 199
+      }
+    }, {
+      "uid" : "576033d281ef629f",
+      "status" : "broken",
+      "statusDetails" : "elem[prop] is not a function",
+      "time" : {
+        "start" : 1669183406357,
+        "stop" : 1669183406550,
+        "duration" : 193
+      }
+    }, {
+      "uid" : "3b718f46011e212",
+      "status" : "broken",
+      "statusDetails" : "elem[prop] is not a function",
+      "time" : {
+        "start" : 1669182988523,
+        "stop" : 1669182988716,
+        "duration" : 193
+      }
+    }, {
+      "uid" : "ee286eac11b5d01c",
+      "status" : "broken",
+      "statusDetails" : "elem[prop] is not a function",
+      "time" : {
+        "start" : 1669182931840,
+        "stop" : 1669182932029,
+        "duration" : 189
+      }
+    }, {
+      "uid" : "5d04785f537a88f7",
+      "status" : "broken",
+      "statusDetails" : "elem[prop] is not a function",
+      "time" : {
+        "start" : 1669182476912,
+        "stop" : 1669182477120,
+        "duration" : 208
+      }
+    }, {
+      "uid" : "db355d483bcadeae",
+      "status" : "broken",
+      "statusDetails" : "elem[prop] is not a function",
+      "time" : {
+        "start" : 1669181827196,
+        "stop" : 1669181827400,
+        "duration" : 204
+      }
+    }, {
+      "uid" : "a16846ae78737881",
+      "status" : "broken",
+      "statusDetails" : "elem[prop] is not a function",
+      "time" : {
+        "start" : 1669181540347,
+        "stop" : 1669181540548,
+        "duration" : 201
+      }
+    }, {
+      "uid" : "77d27a8e104ef756",
+      "status" : "broken",
+      "statusDetails" : "elem[prop] is not a function",
+      "time" : {
+        "start" : 1669181427017,
+        "stop" : 1669181427237,
+        "duration" : 220
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e6789e265cf12909.json",
+  "parameterValues" : [ "chrome-107.0.5304.110" ]
+}

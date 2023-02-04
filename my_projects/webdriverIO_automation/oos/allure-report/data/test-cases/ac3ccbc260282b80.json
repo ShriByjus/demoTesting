@@ -1,0 +1,238 @@
+{
+  "uid" : "ac3ccbc260282b80",
+  "name" : "Verify the Addon Items Skus",
+  "fullName" : "Validating UKG Single order.Verify the Addon Items Skus",
+  "historyId" : "f2a943798beb5c065768b443abafa5f1",
+  "time" : {
+    "start" : 1668765012166,
+    "stop" : 1668765021260,
+    "duration" : 9094
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "The \"path\" argument must be of type string. Received undefined",
+  "statusTrace" : "TypeError: The \"path\" argument must be of type string. Received undefined\n                    at new NodeError (node:internal/errors:372:5)\n                    at validateString (node:internal/validators:120:11)\n                    at Object.join (node:path:1172:7)\n                    at verifyOmsOrderDetails.copyingAddOnItemsSkusFromCsv (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:186:31)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderUkg.js:57:61)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "The \"path\" argument must be of type string. Received undefined",
+    "statusTrace" : "TypeError: The \"path\" argument must be of type string. Received undefined\n                    at new NodeError (node:internal/errors:372:5)\n                    at validateString (node:internal/validators:120:11)\n                    at Object.join (node:path:1172:7)\n                    at verifyOmsOrderDetails.copyingAddOnItemsSkusFromCsv (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:186:31)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderUkg.js:57:61)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+    "steps" : [ {
+      "name" : "\"before each\" hook for Validating UKG Single order",
+      "time" : {
+        "start" : 1668765012166,
+        "stop" : 1668765021260,
+        "duration" : 9094
+      },
+      "status" : "broken",
+      "statusMessage" : "TypeError: The \"path\" argument must be of type string. Received undefined\n                    at new NodeError (node:internal/errors:372:5)\n                    at validateString (node:internal/validators:120:11)\n                    at Object.join (node:path:1172:7)\n                    at verifyOmsOrderDetails.copyingAddOnItemsSkusFromCsv (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:186:31)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderUkg.js:57:61)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+      "steps" : [ {
+        "name" : "Maximize the window",
+        "time" : {
+          "start" : 1668765012166,
+          "stop" : 1668765021260,
+          "duration" : 9094
+        },
+        "status" : "broken",
+        "statusMessage" : "TypeError: The \"path\" argument must be of type string. Received undefined\n                    at new NodeError (node:internal/errors:372:5)\n                    at validateString (node:internal/validators:120:11)\n                    at Object.join (node:path:1172:7)\n                    at verifyOmsOrderDetails.copyingAddOnItemsSkusFromCsv (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:186:31)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderUkg.js:57:61)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+        "steps" : [ {
+          "name" : "Open Byjus OMS page",
+          "time" : {
+            "start" : 1668765012273,
+            "stop" : 1668765012273,
+            "duration" : 0
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        }, {
+          "name" : "Login to the Home page",
+          "time" : {
+            "start" : 1668765012273,
+            "stop" : 1668765017311,
+            "duration" : 5038
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        }, {
+          "name" : "Wait for the orders tab to be clickable",
+          "time" : {
+            "start" : 1668765017311,
+            "stop" : 1668765021260,
+            "duration" : 3949
+          },
+          "status" : "broken",
+          "statusMessage" : "TypeError: The \"path\" argument must be of type string. Received undefined\n                    at new NodeError (node:internal/errors:372:5)\n                    at validateString (node:internal/validators:120:11)\n                    at Object.join (node:path:1172:7)\n                    at verifyOmsOrderDetails.copyingAddOnItemsSkusFromCsv (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:186:31)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderUkg.js:57:61)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+          "steps" : [ {
+            "name" : "Click on orders tab",
+            "time" : {
+              "start" : 1668765017334,
+              "stop" : 1668765021260,
+              "duration" : 3926
+            },
+            "status" : "broken",
+            "statusMessage" : "TypeError: The \"path\" argument must be of type string. Received undefined\n                    at new NodeError (node:internal/errors:372:5)\n                    at validateString (node:internal/validators:120:11)\n                    at Object.join (node:path:1172:7)\n                    at verifyOmsOrderDetails.copyingAddOnItemsSkusFromCsv (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:186:31)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderUkg.js:57:61)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+            "steps" : [ {
+              "name" : "Click on sales Orders Tab tab",
+              "time" : {
+                "start" : 1668765017379,
+                "stop" : 1668765021260,
+                "duration" : 3881
+              },
+              "status" : "broken",
+              "statusMessage" : "TypeError: The \"path\" argument must be of type string. Received undefined\n                    at new NodeError (node:internal/errors:372:5)\n                    at validateString (node:internal/validators:120:11)\n                    at Object.join (node:path:1172:7)\n                    at verifyOmsOrderDetails.copyingAddOnItemsSkusFromCsv (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:186:31)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderUkg.js:57:61)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+              "steps" : [ {
+                "name" : "Enter the Sales order Id ins search barch",
+                "time" : {
+                  "start" : 1668765017406,
+                  "stop" : 1668765021260,
+                  "duration" : 3854
+                },
+                "status" : "broken",
+                "statusMessage" : "TypeError: The \"path\" argument must be of type string. Received undefined\n                    at new NodeError (node:internal/errors:372:5)\n                    at validateString (node:internal/validators:120:11)\n                    at Object.join (node:path:1172:7)\n                    at verifyOmsOrderDetails.copyingAddOnItemsSkusFromCsv (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:186:31)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderUkg.js:57:61)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+                "steps" : [ {
+                  "name" : "Click on sales Orders Id",
+                  "time" : {
+                    "start" : 1668765021015,
+                    "stop" : 1668765021260,
+                    "duration" : 245
+                  },
+                  "status" : "broken",
+                  "statusMessage" : "TypeError: The \"path\" argument must be of type string. Received undefined\n                    at new NodeError (node:internal/errors:372:5)\n                    at validateString (node:internal/validators:120:11)\n                    at Object.join (node:path:1172:7)\n                    at verifyOmsOrderDetails.copyingAddOnItemsSkusFromCsv (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:186:31)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderUkg.js:57:61)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+                  "steps" : [ {
+                    "name" : "Copy Add On Items skus from Csv file",
+                    "time" : {
+                      "start" : 1668765021077,
+                      "stop" : 1668765021260,
+                      "duration" : 183
+                    },
+                    "status" : "broken",
+                    "statusMessage" : "TypeError: The \"path\" argument must be of type string. Received undefined\n                    at new NodeError (node:internal/errors:372:5)\n                    at validateString (node:internal/validators:120:11)\n                    at Object.join (node:path:1172:7)\n                    at verifyOmsOrderDetails.copyingAddOnItemsSkusFromCsv (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:186:31)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderUkg.js:57:61)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+                    "steps" : [ ],
+                    "attachments" : [ {
+                      "uid" : "93415ab17a7e6123",
+                      "name" : "Screenshot",
+                      "source" : "93415ab17a7e6123.png",
+                      "type" : "image/png",
+                      "size" : 236747
+                    } ],
+                    "parameters" : [ ],
+                    "stepsCount" : 0,
+                    "attachmentsCount" : 1,
+                    "shouldDisplayMessage" : true,
+                    "hasContent" : true
+                  } ],
+                  "attachments" : [ ],
+                  "parameters" : [ ],
+                  "stepsCount" : 1,
+                  "attachmentsCount" : 1,
+                  "shouldDisplayMessage" : false,
+                  "hasContent" : true
+                } ],
+                "attachments" : [ ],
+                "parameters" : [ ],
+                "stepsCount" : 2,
+                "attachmentsCount" : 1,
+                "shouldDisplayMessage" : false,
+                "hasContent" : true
+              } ],
+              "attachments" : [ ],
+              "parameters" : [ ],
+              "stepsCount" : 3,
+              "attachmentsCount" : 1,
+              "shouldDisplayMessage" : false,
+              "hasContent" : true
+            } ],
+            "attachments" : [ ],
+            "parameters" : [ ],
+            "stepsCount" : 4,
+            "attachmentsCount" : 1,
+            "shouldDisplayMessage" : false,
+            "hasContent" : true
+          } ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 5,
+          "attachmentsCount" : 1,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 8,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 9,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 10,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the Addon Items Skus"
+  }, {
+    "name" : "package",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.110"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ac3ccbc260282b80.json",
+  "parameterValues" : [ "chrome-107.0.5304.110" ]
+}

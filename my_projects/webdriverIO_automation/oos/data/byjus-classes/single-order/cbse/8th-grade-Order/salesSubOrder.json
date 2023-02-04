@@ -1,0 +1,1370 @@
+
+{
+    "salesSubOrderId": "SSO1-2212080704040514",
+    "salesOrderId": "SO-2212080704040514",
+    "orgFormattedName": "byjus",
+    "orgId": "ORG-1",
+    "currency": "INR",
+    "orderType": "SPLIT_PARENT",
+    "courseType": "K10",
+    "lineItems": [
+      {
+        "id": 4789,
+        "skuId": "SD08CB23",
+        "imageUrl": null,
+        "skuName": "8th CBSE (SD Card-Byjus) May-2023",
+        "status": "active",
+        "orgId": "ORG-1",
+        "basePrice": 22000,
+        "continuousPrice": 17000,
+        "hsnCode": "852351",
+        "programId": "BTLAKXAS0001",
+        "type": "product",
+        "subType": "sd_card",
+        "category": "btlp",
+        "package": null,
+        "course": "K10",
+        "subCourse": null,
+        "grade": "8",
+        "subject": null,
+        "board": "CBSE",
+        "language": null,
+        "validityType": "year",
+        "validity": "2023",
+        "validityMonth": "MAY",
+        "brand": null,
+        "size": null,
+        "model": null,
+        "scheme": null,
+        "skuSet": 1,
+        "cohortId": 14,
+        "ohProductId": "1039183",
+        "productState": null,
+        "isValidSku": true,
+        "remarks": null,
+        "validatedAt": "2021-11-09T14:28:13.124Z",
+        "financeCode": "SD08CB",
+        "sprId": null,
+        "orgFormattedName": "byjus",
+        "createdBy": "ayushi.bansal@byjus.com",
+        "createdAt": "2021-11-09T14:28:13.124Z",
+        "deletedAt": null,
+        "continousPrice": 17000,
+        "skuSource": "SalesSkuMaster",
+        "itemType": "sd_card",
+        "itemId": "z7dTi8VZEaZSi0VkDsSfBNuX",
+        "studentId": "Shubham singh-1",
+        "tabletId": "T-1923980-Shubham singh",
+        "pgItemId": 1538494,
+        "name": "8th CBSE (SD Card-Byjus) May-2023",
+        "sku": "8th CBSE (SD Card-Byjus) May-2023",
+        "salesSubOrderId": "SSO1-2212080704040514",
+        "itemStatus": "mapping_pending",
+        "invoicePrice": "17500.00"
+      },
+      {
+        "id": 3149,
+        "skuId": "TL8WZZ",
+        "imageUrl": null,
+        "skuName": "Lenovo Tablet (Add-on-BYJUS) (8 inch-WIFI)",
+        "status": "active",
+        "orgId": "ORG-1",
+        "basePrice": 8000,
+        "continuousPrice": 5000,
+        "hsnCode": "847130",
+        "programId": "TLP1UCHW0001",
+        "type": "product",
+        "subType": "tablet",
+        "category": "tablet",
+        "package": null,
+        "course": "",
+        "subCourse": null,
+        "grade": null,
+        "subject": null,
+        "board": null,
+        "language": null,
+        "validityType": "N/A",
+        "validity": null,
+        "validityMonth": null,
+        "brand": "lenovo",
+        "size": null,
+        "model": null,
+        "scheme": null,
+        "skuSet": 1,
+        "cohortId": null,
+        "ohProductId": "1923980",
+        "productState": "new",
+        "isValidSku": true,
+        "remarks": null,
+        "validatedAt": "2021-11-09T14:40:16.344Z",
+        "financeCode": "TL8WZZ",
+        "sprId": null,
+        "orgFormattedName": "byjus",
+        "createdBy": "ayushi.bansal@byjus.com",
+        "createdAt": "2021-11-09T14:40:16.344Z",
+        "deletedAt": null,
+        "price": 8000,
+        "itemType": "tablet",
+        "skuSource": "SalesSkuMaster",
+        "itemId": "EpasbPnOBS1j-gpqLDnGRSaa",
+        "studentId": "Shubham singh-1",
+        "tabletId": "T-1923980-Shubham singh",
+        "pgItemId": 1538495,
+        "name": "Lenovo Tablet (Add-on-BYJUS) (8 inch-WIFI)",
+        "sku": "Lenovo Tablet (Add-on-BYJUS) (8 inch-WIFI)",
+        "salesSubOrderId": "SSO1-2212080704040514",
+        "itemStatus": "mapping_pending",
+        "invoicePrice": "8000.00",
+        "pgLineItemId": 1538504
+      }
+    ],
+    "shipmentLineItems": [
+      {
+        "skuId": "TL8WZZKX",
+        "skuName": "K12 Lenovo 8 inch Tablet Wifi",
+        "status": "active",
+        "type": "tablet",
+        "properties": {
+          "grade": null,
+          "course": null,
+          "board": null,
+          "color": null,
+          "brand": "Lenovo",
+          "manufacturer": "Lenovo",
+          "warehouse": [],
+          "sdCardMemory": null,
+          "appVersion": null,
+          "sdCardVersion": null,
+          "apkRelease": {
+            "date": {
+              "numberLong": "1642564128593"
+            }
+          },
+          "contentRelease": {
+            "date": {
+              "numberLong": "1642564128593"
+            }
+          },
+          "location": null,
+          "comboDetails": [],
+          "userType": null,
+          "programId": "TLP1UCAS0001",
+          "size": null,
+          "model": null,
+          "skuSet": null,
+          "subject": null,
+          "language": null,
+          "scheme": null
+        },
+        "dimensions": {
+          "length": null,
+          "width": null,
+          "height": null,
+          "unit": null
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "productionStrategy": null,
+        "financeMaterialCode": "TL8WZZKX",
+        "financeProductCode": "TL8W",
+        "createdBy": "johnson.cherian@byjus.com",
+        "updatedBy": "system",
+        "createdAt": {
+          "date": {
+            "numberLong": "1602506484108"
+          }
+        },
+        "updatedAt": {
+          "date": {
+            "numberLong": "1660833194737"
+          }
+        },
+        "deletedAt": null,
+        "productState": "new",
+        "activeSalesItems": [
+          "TL8WZZ"
+        ],
+        "activeLineItemIds": [
+          "EpasbPnOBS1j-gpqLDnGRSaa"
+        ],
+        "price": 8000,
+        "studentId": "Shubham singh-1",
+        "students": [
+          "Shubham singh-1"
+        ],
+        "tabletId": "T-1923980-Shubham singh",
+        "itemStatus": "mapping_pending",
+        "pgShipmentLineItemId": 17053073
+      },
+      {
+        "skuId": "S2CB0808",
+        "skuName": "Grade 08 CBSE SD Card",
+        "type": "sd_card",
+        "properties": {
+          "board": "CBSE",
+          "grade": "08-08",
+          "course": "NA",
+          "noOfCombos": "1",
+          "sdCardMemory": 32,
+          "appVersion": "NA",
+          "sdCardVersion": "NA",
+          "apkVersion": "NA",
+          "contentRelease": {
+            "date": {
+              "numberLong": "1652095977640"
+            }
+          },
+          "warehouse": [
+            "IBC",
+            "Lexington",
+            "Croma"
+          ],
+          "location": [
+            "FI IBC",
+            "FI Lex",
+            "FI CROMA"
+          ],
+          "comboDetails": [
+            {
+              "initialClass": 8,
+              "finalClass": 8,
+              "grades": "08-08"
+            }
+          ],
+          "combinations": [
+            "08-08"
+          ],
+          "programId": "BTLAKXAS0001",
+          "apkRelease": {
+            "date": {
+              "numberLong": "1652095977640"
+            }
+          },
+          "inventoryRelease": {
+            "date": {
+              "numberLong": "1652095977640"
+            }
+          }
+        },
+        "productState": null,
+        "activeGrades": [
+          8
+        ],
+        "activeSalesItems": [
+          "SD08CB23",
+          "UB08CB23"
+        ],
+        "activeLineItemIds": [
+          "z7dTi8VZEaZSi0VkDsSfBNuX",
+          "Jc6qJ4AQSbQyxcuTc_fW21NZ"
+        ],
+        "studentId": "Shubham singh-1",
+        "tabletId": "T-1923980-Shubham singh",
+        "itemStatus": "mapping_pending",
+        "pgShipmentLineItemId": 17053074
+      }
+    ],
+    "returnLineItems": [],
+    "salesDetails": {
+      "typeOfSales": "DS Sales",
+      "directSalesBy": "sanjay.karkera@byjus.com",
+      "directSalesByCampaign": "Livechat Calling",
+      "salesAppointmentBy": null,
+      "salesAppointmentByCampaign": "Hyderabad",
+      "incentiveDate": {
+        "date": {
+          "numberLong": "1670371200000"
+        }
+      },
+      "salesAppointmentByRole": null,
+      "directSalesByDept": "business_development",
+      "salesAppointmentByDept": "",
+      "salesIndex": 175
+    },
+    "customerDetails": {
+      "customerId": "CX-2210280625062228",
+      "name": "sanjay",
+      "identifierDetails": [],
+      "alternateName": "Shubham singh",
+      "mobileNo": "+91-8736576846",
+      "alternateMobileNo": "+91-8736576846",
+      "email": "sd56uysfgdf@gmail.com",
+      "alternateEmail": null,
+      "type": "individual",
+      "communicationPreferences": {},
+      "isBooksOpted": true,
+      "billingCustomerId": null
+    },
+    "billingCustomerDetails": null,
+    "addressDetails": {
+      "billing": {
+        "zipcode": "600001",
+        "addressLine1": "Akshya Nagar 1st Block 1st Cro",
+        "country": "India",
+        "state": "Tamil Nadu",
+        "city": "Chennai",
+        "addressLine2": "Akshya Nagar 1st Block 1st Cro,",
+        "addressLine3": "Mint Building S.O",
+        "address": "Akshya Nagar 1st Block 1st Cro\n Akshya Nagar 1st Block 1st Cro\n Mint Building S.O",
+        "addressId": "496870"
+      },
+      "shipping": {
+        "zipcode": "600001",
+        "addressLine1": "Akshya Nagar 1st Block 1st Cro",
+        "country": "India",
+        "state": "Tamil Nadu",
+        "city": "Chennai",
+        "addressLine2": "Akshya Nagar 1st Block 1st Cro,",
+        "addressLine3": "Mint Building S.O",
+        "address": "Akshya Nagar 1st Block 1st Cro\n Akshya Nagar 1st Block 1st Cro\n Mint Building S.O",
+        "addressId": "496871"
+      }
+    },
+    "attachments": [
+      {
+        "_id": {
+          "oid": "63918d0af43976001acae1d6"
+        },
+        "name": "cheque",
+        "url": "https://orderhive-payments.s3.ap-southeast-1.amazonaws.com/development/63918c64be5a4f001b13a735/cheque/cheque-20221208_12363000.png"
+      }
+    ],
+    "studentDetails": [
+      {
+        "studentProfileDetails": {
+          "isExistingProfile": true,
+          "existingPremiumId": "1139099521",
+          "existingFamilyId": ""
+        },
+        "hlpDetails": {
+          "courseDetails": [
+            {
+              "id": 14863,
+              "name": "Mon.0.0.0.0.0.",
+              "is_active": true,
+              "time_zone": "IST",
+              "batch_country": "India",
+              "batch_start_date": "2022-10-18",
+              "batch_end_date": "2023-02-15",
+              "mandatory_sessions_count": 4,
+              "optional_sessions_count": 0,
+              "course_id": 5658,
+              "course_name": "A1 Proficiency migration 8th grade",
+              "course_fot_track_id": "cbse-8-1902-1881-lar",
+              "course_proficiency_id": 1,
+              "medium_of_instruction": "english",
+              "course_batch": null,
+              "cohort_id": 14,
+              "course_type": "neo",
+              "course_tag": "classroom",
+              "slot_group_id": 4904,
+              "tutor_language_enabled": true,
+              "slot_group_name": "Mo-Tu-We-Th-5:30pm",
+              "batch_type": "regular",
+              "available_subjects": [
+                "Mathematics",
+                "Science"
+              ],
+              "course_sub_tag": "Regular",
+              "clash": false,
+              "is_overloading": false,
+              "is_clashing": false,
+              "slots": [
+                {
+                  "id": 24027,
+                  "day": "Monday",
+                  "start_time": "17:30",
+                  "end_time": "18:30",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 24028,
+                  "day": "Tuesday",
+                  "start_time": "17:30",
+                  "end_time": "18:30",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 24029,
+                  "day": "Wednesday",
+                  "start_time": "17:30",
+                  "end_time": "18:30",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 24030,
+                  "day": "Thursday",
+                  "start_time": "17:30",
+                  "end_time": "18:30",
+                  "is_mandatory": true
+                }
+              ]
+            }
+          ],
+          "sessionDetails": [
+            {
+              "sessions": [
+                {
+                  "day": "Monday",
+                  "is_mandatory": true,
+                  "time": "17:30-18:30"
+                },
+                {
+                  "day": "Tuesday",
+                  "is_mandatory": true,
+                  "time": "17:30-18:30"
+                },
+                {
+                  "day": "Wednesday",
+                  "is_mandatory": true,
+                  "time": "17:30-18:30"
+                },
+                {
+                  "day": "Thursday",
+                  "is_mandatory": true,
+                  "time": "17:30-18:30"
+                }
+              ],
+              "_id": {
+                "oid": "63918ce3f43976001acae184"
+              },
+              "type": "neo"
+            }
+          ],
+          "initialClass": "8",
+          "initialValidity": "2023",
+          "batchCode": "Hlp_07-12-2022"
+        },
+        "courseType": [
+          "K10"
+        ],
+        "electiveDetails": [
+          {
+            "batch": {
+              "id": 13590,
+              "name": "E - 9",
+              "is_active": true,
+              "time_zone": "IST",
+              "batch_country": "India",
+              "batch_start_date": "2022-09-05",
+              "batch_end_date": "2023-12-31",
+              "mandatory_sessions_count": 1,
+              "optional_sessions_count": 0,
+              "course_id": 3965,
+              "course_name": "Electives VIII - Coding",
+              "course_fot_track_id": null,
+              "course_proficiency_id": null,
+              "medium_of_instruction": "english",
+              "course_batch": null,
+              "cohort_id": 14,
+              "course_type": "neo",
+              "course_tag": "elective",
+              "slot_group_id": 8691,
+              "tutor_language_enabled": true,
+              "slot_group_name": "Mon-9.00",
+              "batch_type": "regular",
+              "available_subjects": [
+                "English"
+              ],
+              "course_sub_tag": "Regular",
+              "clash": false,
+              "is_overloading": false,
+              "is_clashing": false,
+              "slots": [
+                {
+                  "id": 36460,
+                  "day": "Monday",
+                  "start_time": "21:00",
+                  "end_time": "22:00",
+                  "is_mandatory": true
+                }
+              ]
+            },
+            "subject": "English",
+            "slot": [
+              {
+                "id": 36460,
+                "day": "Monday",
+                "start_time": "21:00",
+                "end_time": "22:00",
+                "is_mandatory": true
+              }
+            ]
+          },
+          {
+            "batch": {
+              "id": 13589,
+              "name": "SS - 9",
+              "is_active": true,
+              "time_zone": "IST",
+              "batch_country": "India",
+              "batch_start_date": "2022-09-05",
+              "batch_end_date": "2023-12-31",
+              "mandatory_sessions_count": 1,
+              "optional_sessions_count": 0,
+              "course_id": 3965,
+              "course_name": "Electives VIII - Coding",
+              "course_fot_track_id": null,
+              "course_proficiency_id": null,
+              "medium_of_instruction": "english",
+              "course_batch": null,
+              "cohort_id": 14,
+              "course_type": "neo",
+              "course_tag": "elective",
+              "slot_group_id": 6284,
+              "tutor_language_enabled": true,
+              "slot_group_name": "Wed-9:00PM",
+              "batch_type": "regular",
+              "available_subjects": [
+                "Social Studies"
+              ],
+              "course_sub_tag": "Regular",
+              "clash": false,
+              "is_overloading": false,
+              "is_clashing": false,
+              "slots": [
+                {
+                  "id": 30140,
+                  "day": "Wednesday",
+                  "start_time": "21:00",
+                  "end_time": "22:00",
+                  "is_mandatory": true
+                }
+              ]
+            },
+            "subject": "Social Studies",
+            "slot": [
+              {
+                "id": 30140,
+                "day": "Wednesday",
+                "start_time": "21:00",
+                "end_time": "22:00",
+                "is_mandatory": true
+              }
+            ]
+          },
+          {
+            "batch": {
+              "id": 14864,
+              "name": "hcgvhbjvyuib",
+              "is_active": true,
+              "time_zone": "IST",
+              "batch_country": "India",
+              "batch_start_date": "2022-10-16",
+              "batch_end_date": "2023-12-15",
+              "mandatory_sessions_count": 1,
+              "optional_sessions_count": 0,
+              "course_id": 4078,
+              "course_name": "Coding - Grade 08",
+              "course_fot_track_id": null,
+              "course_proficiency_id": null,
+              "medium_of_instruction": "english",
+              "course_batch": null,
+              "cohort_id": 14,
+              "course_type": "neo",
+              "course_tag": "elective",
+              "slot_group_id": 9475,
+              "tutor_language_enabled": true,
+              "slot_group_name": "Tue-10AM",
+              "batch_type": "regular",
+              "available_subjects": [
+                "Coding"
+              ],
+              "course_sub_tag": "Regular",
+              "clash": false,
+              "is_overloading": false,
+              "is_clashing": false,
+              "slots": [
+                {
+                  "id": 37564,
+                  "day": "Tuesday",
+                  "start_time": "10:00",
+                  "end_time": "11:00",
+                  "is_mandatory": true
+                }
+              ]
+            },
+            "subject": "Coding",
+            "slot": [
+              {
+                "id": 37564,
+                "day": "Tuesday",
+                "start_time": "10:00",
+                "end_time": "11:00",
+                "is_mandatory": true
+              }
+            ]
+          }
+        ],
+        "doubtClassDetails": [
+          {
+            "batch": {
+              "id": 13077,
+              "name": "test scd1",
+              "is_active": true,
+              "time_zone": "IST",
+              "batch_country": "India",
+              "batch_start_date": "2022-08-29",
+              "batch_end_date": "2022-12-31",
+              "mandatory_sessions_count": 1,
+              "optional_sessions_count": 0,
+              "course_id": 4885,
+              "course_name": "8th Doubt CBSE",
+              "course_fot_track_id": null,
+              "course_proficiency_id": 2,
+              "medium_of_instruction": "english",
+              "course_batch": null,
+              "cohort_id": 14,
+              "course_type": "neo",
+              "course_tag": "doubt_resolution",
+              "slot_group_id": 7235,
+              "tutor_language_enabled": true,
+              "slot_group_name": "Th-8:00pm",
+              "batch_type": "regular",
+              "available_subjects": [
+                "Science",
+                "Mathematics"
+              ],
+              "course_sub_tag": "Regular",
+              "clash": false,
+              "is_overloading": false,
+              "is_clashing": false,
+              "slots": [
+                {
+                  "id": 33053,
+                  "day": "Thursday",
+                  "start_time": "20:00",
+                  "end_time": "21:00",
+                  "is_mandatory": true
+                }
+              ]
+            },
+            "subject": "Science",
+            "slot": [
+              {
+                "id": 33053,
+                "day": "Thursday",
+                "start_time": "20:00",
+                "end_time": "21:00",
+                "is_mandatory": true
+              }
+            ]
+          }
+        ],
+        "workshops": [],
+        "items": [
+          {
+            "id": 4789,
+            "skuId": "SD08CB23",
+            "imageUrl": null,
+            "skuName": "8th CBSE (SD Card-Byjus) May-2023",
+            "status": "active",
+            "orgId": "ORG-1",
+            "city": null,
+            "basePrice": 22000,
+            "continuousPrice": 17000,
+            "hsnCode": "852351",
+            "programId": "BTLAKXAS0001",
+            "type": "product",
+            "subType": "sd_card",
+            "category": "btlp",
+            "package": null,
+            "course": "K10",
+            "subCourse": null,
+            "grade": "8",
+            "subject": null,
+            "board": "CBSE",
+            "language": null,
+            "validityType": "year",
+            "validity": "2023",
+            "validityMonth": "MAY",
+            "brand": null,
+            "size": null,
+            "model": null,
+            "scheme": null,
+            "skuSet": 1,
+            "cohortId": 14,
+            "ohProductId": "1039183",
+            "productState": null,
+            "isValidSku": true,
+            "remarks": null,
+            "validatedAt": "2021-11-09T14:28:13.124Z",
+            "financeCode": "SD08CB",
+            "sprId": null,
+            "orgFormattedName": "byjus",
+            "createdBy": "ayushi.bansal@byjus.com",
+            "updatedBy": "price_update_datafix",
+            "createdAt": "2021-11-09T14:28:13.124Z",
+            "updatedAt": "2022-09-23T10:32:38.848Z",
+            "deletedAt": null,
+            "continousPrice": 17000,
+            "skuSource": "SalesSkuMaster",
+            "itemType": "course",
+            "combinationType": "tlp",
+            "itemId": "z7dTi8VZEaZSi0VkDsSfBNuX",
+            "studentId": "Shubham singh-1",
+            "tabletId": "T-1923980-Shubham singh",
+            "name": "8th CBSE (SD Card-Byjus) May-2023",
+            "sku": "8th CBSE (SD Card-Byjus) May-2023"
+          },
+          {
+            "id": 931,
+            "skuId": "UB08CB23",
+            "imageUrl": null,
+            "skuName": "8th Grade CBSE BYJU'S Classes May 2023",
+            "status": "active",
+            "orgId": "ORG-1",
+            "city": null,
+            "basePrice": 13000,
+            "continuousPrice": 13000,
+            "hsnCode": "999293",
+            "programId": "BCOPKXSY0002",
+            "type": "service",
+            "subType": "live",
+            "category": "byjus_classes_upgrade",
+            "package": null,
+            "course": "K10",
+            "subCourse": null,
+            "grade": "8",
+            "subject": null,
+            "board": "CBSE",
+            "language": null,
+            "validityType": "year",
+            "validity": "2023",
+            "validityMonth": "MAY",
+            "brand": null,
+            "size": null,
+            "model": null,
+            "scheme": null,
+            "skuSet": 1,
+            "cohortId": 14,
+            "ohProductId": "1817350",
+            "productState": null,
+            "isValidSku": true,
+            "remarks": null,
+            "validatedAt": "2021-11-09T14:38:33.213Z",
+            "financeCode": "UB08CB",
+            "sprId": null,
+            "orgFormattedName": "byjus",
+            "createdBy": "ayushi.bansal@byjus.com",
+            "updatedBy": "price_update_datafix",
+            "createdAt": "2021-11-09T14:38:33.213Z",
+            "updatedAt": "2022-06-09T05:05:37.058Z",
+            "deletedAt": null,
+            "continousPrice": 13000,
+            "skuSource": "SalesSkuMaster",
+            "itemType": "course",
+            "combinationType": "byjus_classes_upgrade",
+            "itemId": "Jc6qJ4AQSbQyxcuTc_fW21NZ",
+            "studentId": "Shubham singh-1",
+            "tabletId": "T-1923980-Shubham singh",
+            "name": "8th Grade CBSE BYJU'S Classes May 2023",
+            "sku": "8th Grade CBSE BYJU'S Classes May 2023"
+          },
+          {
+            "id": 3149,
+            "skuId": "TL8WZZ",
+            "imageUrl": null,
+            "skuName": "Lenovo Tablet (Add-on-BYJUS) (8 inch-WIFI)",
+            "status": "active",
+            "orgId": "ORG-1",
+            "city": null,
+            "basePrice": 8000,
+            "continuousPrice": 5000,
+            "hsnCode": "847130",
+            "programId": "TLP1UCHW0001",
+            "type": "product",
+            "subType": "tablet",
+            "category": "tablet",
+            "package": null,
+            "course": "",
+            "subCourse": null,
+            "grade": null,
+            "subject": null,
+            "board": null,
+            "language": null,
+            "validityType": "N/A",
+            "validity": null,
+            "validityMonth": null,
+            "brand": "lenovo",
+            "size": null,
+            "model": null,
+            "scheme": null,
+            "skuSet": 1,
+            "cohortId": null,
+            "ohProductId": "1923980",
+            "productState": "new",
+            "isValidSku": true,
+            "remarks": null,
+            "validatedAt": "2021-11-09T14:40:16.344Z",
+            "financeCode": "TL8WZZ",
+            "sprId": null,
+            "orgFormattedName": "byjus",
+            "createdBy": "ayushi.bansal@byjus.com",
+            "updatedBy": "price_update_datafix",
+            "createdAt": "2021-11-09T14:40:16.344Z",
+            "updatedAt": "2022-10-11T06:34:36.111Z",
+            "deletedAt": null,
+            "price": 8000,
+            "itemType": "tablet",
+            "skuSource": "SalesSkuMaster",
+            "itemId": "EpasbPnOBS1j-gpqLDnGRSaa",
+            "studentId": "Shubham singh-1",
+            "tabletId": "T-1923980-Shubham singh",
+            "name": "Lenovo Tablet (Add-on-BYJUS) (8 inch-WIFI)",
+            "sku": "Lenovo Tablet (Add-on-BYJUS) (8 inch-WIFI)"
+          }
+        ],
+        "addOnItems": [],
+        "mentoringDetails": [
+          {
+            "type": "neo",
+            "sessions": [
+              {
+                "day": "Monday",
+                "is_mandatory": true,
+                "time": "17:30-18:30"
+              },
+              {
+                "day": "Tuesday",
+                "is_mandatory": true,
+                "time": "17:30-18:30"
+              },
+              {
+                "day": "Wednesday",
+                "is_mandatory": true,
+                "time": "17:30-18:30"
+              },
+              {
+                "day": "Thursday",
+                "is_mandatory": true,
+                "time": "17:30-18:30"
+              }
+            ]
+          }
+        ],
+        "bhlpCourseDetails": [
+          {
+            "id": 14863,
+            "name": "Mon.0.0.0.0.0.",
+            "is_active": true,
+            "time_zone": "IST",
+            "batch_country": "India",
+            "batch_start_date": "2022-10-18",
+            "batch_end_date": "2023-02-15",
+            "mandatory_sessions_count": 4,
+            "optional_sessions_count": 0,
+            "course_id": 5658,
+            "course_name": "A1 Proficiency migration 8th grade",
+            "course_fot_track_id": "cbse-8-1902-1881-lar",
+            "course_proficiency_id": 1,
+            "medium_of_instruction": "english",
+            "course_batch": null,
+            "cohort_id": 14,
+            "course_type": "neo",
+            "course_tag": "classroom",
+            "slot_group_id": 4904,
+            "tutor_language_enabled": true,
+            "slot_group_name": "Mo-Tu-We-Th-5:30pm",
+            "batch_type": "regular",
+            "available_subjects": [
+              "Mathematics",
+              "Science"
+            ],
+            "course_sub_tag": "Regular",
+            "clash": false,
+            "is_overloading": false,
+            "is_clashing": false,
+            "slots": [
+              {
+                "id": 24027,
+                "day": "Monday",
+                "start_time": "17:30",
+                "end_time": "18:30",
+                "is_mandatory": true
+              },
+              {
+                "id": 24028,
+                "day": "Tuesday",
+                "start_time": "17:30",
+                "end_time": "18:30",
+                "is_mandatory": true
+              },
+              {
+                "id": 24029,
+                "day": "Wednesday",
+                "start_time": "17:30",
+                "end_time": "18:30",
+                "is_mandatory": true
+              },
+              {
+                "id": 24030,
+                "day": "Thursday",
+                "start_time": "17:30",
+                "end_time": "18:30",
+                "is_mandatory": true
+              }
+            ]
+          }
+        ],
+        "featureTag": [],
+        "_id": {
+          "oid": "63918ce3f43976001acae183"
+        },
+        "course": "K10/K12",
+        "board": "CBSE",
+        "validity": "2023",
+        "tablet": "1923980",
+        "initialClass": "8",
+        "deviceType": "Tablet(Lenovo/Samsung)",
+        "formValues": {
+          "course": "K10/K12",
+          "courseType": "regular",
+          "board": "CBSE",
+          "subCourse": "",
+          "yearSelection": "2023",
+          "validity": 2023,
+          "session": "",
+          "tablet": "1923980",
+          "initialClass": "8",
+          "selectD4SDCard": false,
+          "userProfile": "1139099521",
+          "tabletId": "T-1923980",
+          "deviceType": "Tablet(Lenovo/Samsung)",
+          "featureTag": [],
+          "mentoringDetails": [
+            {
+              "type": "neo",
+              "sessions": [
+                {
+                  "day": "Monday",
+                  "is_mandatory": true,
+                  "time": "17:30-18:30"
+                },
+                {
+                  "day": "Tuesday",
+                  "is_mandatory": true,
+                  "time": "17:30-18:30"
+                },
+                {
+                  "day": "Wednesday",
+                  "is_mandatory": true,
+                  "time": "17:30-18:30"
+                },
+                {
+                  "day": "Thursday",
+                  "is_mandatory": true,
+                  "time": "17:30-18:30"
+                }
+              ]
+            }
+          ],
+          "bhlpCourseDetails": {
+            "id": 14863,
+            "name": "Mon.0.0.0.0.0.",
+            "is_active": true,
+            "time_zone": "IST",
+            "batch_country": "India",
+            "batch_start_date": "2022-10-18",
+            "batch_end_date": "2023-02-15",
+            "mandatory_sessions_count": 4,
+            "optional_sessions_count": 0,
+            "course_id": 5658,
+            "course_name": "A1 Proficiency migration 8th grade",
+            "course_fot_track_id": "cbse-8-1902-1881-lar",
+            "course_proficiency_id": 1,
+            "medium_of_instruction": "english",
+            "course_batch": null,
+            "cohort_id": 14,
+            "course_type": "neo",
+            "course_tag": "classroom",
+            "slot_group_id": 4904,
+            "tutor_language_enabled": true,
+            "slot_group_name": "Mo-Tu-We-Th-5:30pm",
+            "batch_type": "regular",
+            "available_subjects": [
+              "Mathematics",
+              "Science"
+            ],
+            "course_sub_tag": "Regular",
+            "clash": false,
+            "is_overloading": false,
+            "is_clashing": false,
+            "slots": [
+              {
+                "id": 24027,
+                "day": "Monday",
+                "start_time": "17:30",
+                "end_time": "18:30",
+                "is_mandatory": true
+              },
+              {
+                "id": 24028,
+                "day": "Tuesday",
+                "start_time": "17:30",
+                "end_time": "18:30",
+                "is_mandatory": true
+              },
+              {
+                "id": 24029,
+                "day": "Wednesday",
+                "start_time": "17:30",
+                "end_time": "18:30",
+                "is_mandatory": true
+              },
+              {
+                "id": 24030,
+                "day": "Thursday",
+                "start_time": "17:30",
+                "end_time": "18:30",
+                "is_mandatory": true
+              }
+            ]
+          },
+          "electiveDetails": [
+            {
+              "batch": {
+                "id": 13590,
+                "name": "E - 9",
+                "is_active": true,
+                "time_zone": "IST",
+                "batch_country": "India",
+                "batch_start_date": "2022-09-05",
+                "batch_end_date": "2023-12-31",
+                "mandatory_sessions_count": 1,
+                "optional_sessions_count": 0,
+                "course_id": 3965,
+                "course_name": "Electives VIII - Coding",
+                "course_fot_track_id": null,
+                "course_proficiency_id": null,
+                "medium_of_instruction": "english",
+                "course_batch": null,
+                "cohort_id": 14,
+                "course_type": "neo",
+                "course_tag": "elective",
+                "slot_group_id": 8691,
+                "tutor_language_enabled": true,
+                "slot_group_name": "Mon-9.00",
+                "batch_type": "regular",
+                "available_subjects": [
+                  "English"
+                ],
+                "course_sub_tag": "Regular",
+                "clash": false,
+                "is_overloading": false,
+                "is_clashing": false,
+                "slots": [
+                  {
+                    "id": 36460,
+                    "day": "Monday",
+                    "start_time": "21:00",
+                    "end_time": "22:00",
+                    "is_mandatory": true
+                  }
+                ]
+              },
+              "subject": "English",
+              "slot": [
+                {
+                  "id": 36460,
+                  "day": "Monday",
+                  "start_time": "21:00",
+                  "end_time": "22:00",
+                  "is_mandatory": true
+                }
+              ]
+            },
+            {
+              "batch": {
+                "id": 13589,
+                "name": "SS - 9",
+                "is_active": true,
+                "time_zone": "IST",
+                "batch_country": "India",
+                "batch_start_date": "2022-09-05",
+                "batch_end_date": "2023-12-31",
+                "mandatory_sessions_count": 1,
+                "optional_sessions_count": 0,
+                "course_id": 3965,
+                "course_name": "Electives VIII - Coding",
+                "course_fot_track_id": null,
+                "course_proficiency_id": null,
+                "medium_of_instruction": "english",
+                "course_batch": null,
+                "cohort_id": 14,
+                "course_type": "neo",
+                "course_tag": "elective",
+                "slot_group_id": 6284,
+                "tutor_language_enabled": true,
+                "slot_group_name": "Wed-9:00PM",
+                "batch_type": "regular",
+                "available_subjects": [
+                  "Social Studies"
+                ],
+                "course_sub_tag": "Regular",
+                "clash": false,
+                "is_overloading": false,
+                "is_clashing": false,
+                "slots": [
+                  {
+                    "id": 30140,
+                    "day": "Wednesday",
+                    "start_time": "21:00",
+                    "end_time": "22:00",
+                    "is_mandatory": true
+                  }
+                ]
+              },
+              "subject": "Social Studies",
+              "slot": [
+                {
+                  "id": 30140,
+                  "day": "Wednesday",
+                  "start_time": "21:00",
+                  "end_time": "22:00",
+                  "is_mandatory": true
+                }
+              ]
+            },
+            {
+              "batch": {
+                "id": 14864,
+                "name": "hcgvhbjvyuib",
+                "is_active": true,
+                "time_zone": "IST",
+                "batch_country": "India",
+                "batch_start_date": "2022-10-16",
+                "batch_end_date": "2023-12-15",
+                "mandatory_sessions_count": 1,
+                "optional_sessions_count": 0,
+                "course_id": 4078,
+                "course_name": "Coding - Grade 08",
+                "course_fot_track_id": null,
+                "course_proficiency_id": null,
+                "medium_of_instruction": "english",
+                "course_batch": null,
+                "cohort_id": 14,
+                "course_type": "neo",
+                "course_tag": "elective",
+                "slot_group_id": 9475,
+                "tutor_language_enabled": true,
+                "slot_group_name": "Tue-10AM",
+                "batch_type": "regular",
+                "available_subjects": [
+                  "Coding"
+                ],
+                "course_sub_tag": "Regular",
+                "clash": false,
+                "is_overloading": false,
+                "is_clashing": false,
+                "slots": [
+                  {
+                    "id": 37564,
+                    "day": "Tuesday",
+                    "start_time": "10:00",
+                    "end_time": "11:00",
+                    "is_mandatory": true
+                  }
+                ]
+              },
+              "subject": "Coding",
+              "slot": [
+                {
+                  "id": 37564,
+                  "day": "Tuesday",
+                  "start_time": "10:00",
+                  "end_time": "11:00",
+                  "is_mandatory": true
+                }
+              ]
+            }
+          ],
+          "doubtClassDetails": [
+            {
+              "batch": {
+                "id": 13077,
+                "name": "test scd1",
+                "is_active": true,
+                "time_zone": "IST",
+                "batch_country": "India",
+                "batch_start_date": "2022-08-29",
+                "batch_end_date": "2022-12-31",
+                "mandatory_sessions_count": 1,
+                "optional_sessions_count": 0,
+                "course_id": 4885,
+                "course_name": "8th Doubt CBSE",
+                "course_fot_track_id": null,
+                "course_proficiency_id": 2,
+                "medium_of_instruction": "english",
+                "course_batch": null,
+                "cohort_id": 14,
+                "course_type": "neo",
+                "course_tag": "doubt_resolution",
+                "slot_group_id": 7235,
+                "tutor_language_enabled": true,
+                "slot_group_name": "Th-8:00pm",
+                "batch_type": "regular",
+                "available_subjects": [
+                  "Science",
+                  "Mathematics"
+                ],
+                "course_sub_tag": "Regular",
+                "clash": false,
+                "is_overloading": false,
+                "is_clashing": false,
+                "slots": [
+                  {
+                    "id": 33053,
+                    "day": "Thursday",
+                    "start_time": "20:00",
+                    "end_time": "21:00",
+                    "is_mandatory": true
+                  }
+                ]
+              },
+              "subject": "Science",
+              "slot": [
+                {
+                  "id": 33053,
+                  "day": "Thursday",
+                  "start_time": "20:00",
+                  "end_time": "21:00",
+                  "is_mandatory": true
+                }
+              ]
+            }
+          ],
+          "languageOfInstruction": "english",
+          "languageOfInstructionId": 1,
+          "mathPercent": "90",
+          "sciencePercent": "90",
+          "proficiency": "A1",
+          "schoolDetails": {
+            "schoolState": "Gujarat",
+            "city": "Dhandhuka",
+            "schoolAddress": "",
+            "newSchool": "GPT",
+            "schoolName": "other",
+            "otherSchoolName": "newSchool",
+            "schoolId": "",
+            "trackId": "cbse-8-1902-1881-lar"
+          },
+          "isTabletLock": false
+        },
+        "tabletLock": "not_applicable",
+        "productSelectionType": "byjus_classes",
+        "studentName": "Shubham singh",
+        "studentId": "Shubham singh-1",
+        "academicDetails": {
+          "mathPercent": "90",
+          "sciencePercent": "90",
+          "fotTrackId": "cbse-8-1902-1881-lar",
+          "proficiency": "A1",
+          "schoolDetails": {
+            "id": null,
+            "name": "GPT",
+            "city": "Dhandhuka",
+            "state": "Gujarat",
+            "address": "",
+            "pincode": null
+          },
+          "languageOfInstruction": "english",
+          "languageOfInstructionId": 1
+        },
+        "premiumAccount": "1139099521"
+      }
+    ],
+    "orderPunchingType": "NORMAL_ORDER",
+    "orderPunchingCategory": "byjus_classes",
+    "paymentDetails": {
+      "payments": [
+        {
+          "isPrepaid": true,
+          "_id": {
+            "oid": "63918d0af43976001acae1d7"
+          },
+          "provider": "CHEQUE",
+          "referenceId": "16704832074922-345345345243000",
+          "amount": 43000,
+          "additionalDetails": {
+            "bank": "city"
+          },
+          "attachments": [
+            {
+              "_id": {
+                "oid": "63918d0af43976001acae1d8"
+              },
+              "name": "cheque",
+              "url": "https://orderhive-payments.s3.ap-southeast-1.amazonaws.com/development/63918c64be5a4f001b13a735/cheque/cheque-20221208_12363000.png"
+            }
+          ],
+          "type": "DOWN_PAYMENT",
+          "currency": "",
+          "isActive": true
+        }
+      ],
+      "paymentMethod": "NGP",
+      "paymentStatus": "NOT_PAID",
+      "paymentMode": "CHEQUE",
+      "paymentAmountSplit": "43000",
+      "totalAmount": 43000
+    },
+    "leadDetails": {
+      "prospectId": "sdf667sudfh",
+      "accountNo": "24692",
+      "loggedInEmailId": "praz@byjus.com",
+      "leadCreatedBy": "",
+      "leadCreatedAt": null,
+      "leadMobileNo": "+91-8736576846",
+      "isLeadMobileUsed": true,
+      "leadLink": "https://run.leadsquared.com/LeadManagement/LeadDetails?LeadID=sdf667sudfh"
+    },
+    "contactDetails": {
+      "orderPunchingContact": "8736576846",
+      "cxProvidedContact": "8736576846",
+      "leadContact": "8736576846",
+      "gpContact": "",
+      "ngpContact": "",
+      "lpContact": ""
+    },
+    "type": "product",
+    "subType": "course",
+    "status": "not_confirmed",
+    "category": "sales",
+    "statusReason": "DP_NOT_CONFIRMED",
+    "actionDetails": {
+      "createdAt": {
+        "date": {
+          "numberLong": "1670483340381"
+        }
+      },
+      "createdBy": "praz@byjus.com",
+      "notConfirmedAt": {
+        "date": {
+          "numberLong": "1670483340742"
+        }
+      },
+      "notConfirmedBy": "draft_order_job"
+    },
+    "createdAt": {
+      "date": {
+        "numberLong": "1670483221510"
+      }
+    },
+    "updatedat": {
+      "date": {
+        "numberLong": "1670483340381"
+      }
+    },
+    "sourceDetails": {},
+    "assignmentCategory": "k10",
+    "orderBatchId": "",
+    "updatedAt": {
+      "date": {
+        "numberLong": "1670483342121"
+      }
+    },
+    "salesOrderStatus": "not_confirmed"
+  }

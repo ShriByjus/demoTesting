@@ -1,0 +1,141 @@
+{
+  "uid" : "25c917b490b978a2",
+  "name" : "log in into WMS",
+  "fullName" : "btlp workflow.log in into WMS",
+  "historyId" : "5bdf629acfb3141f179b8c8183c0b943",
+  "time" : {
+    "start" : 1667566352095,
+    "stop" : 1667566440897,
+    "duration" : 88802
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 6,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Maximize the window",
+      "time" : {
+        "start" : 1667566352096,
+        "stop" : 0,
+        "duration" : -1667566352096
+      },
+      "status" : "unknown",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "btlp workflow"
+  }, {
+    "name" : "testClass",
+    "value" : "btlp workflow"
+  }, {
+    "name" : "testMethod",
+    "value" : "log in into WMS"
+  }, {
+    "name" : "package",
+    "value" : "btlp workflow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.87"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ddca35bd9fcc34e1",
+      "status" : "broken",
+      "statusDetails" : "socket hang up",
+      "time" : {
+        "start" : 1667565937777,
+        "stop" : 1667565947028,
+        "duration" : 9251
+      }
+    }, {
+      "uid" : "83bcf8bb91384bc5",
+      "status" : "broken",
+      "statusDetails" : "Cannot read properties of null (reading 'packageDetails')",
+      "time" : {
+        "start" : 1667565672888,
+        "stop" : 1667565712857,
+        "duration" : 39969
+      }
+    }, {
+      "uid" : "921bc0c807dc9b33",
+      "status" : "broken",
+      "statusDetails" : "socket hang up",
+      "time" : {
+        "start" : 1667564800477,
+        "stop" : 1667564803137,
+        "duration" : 2660
+      }
+    }, {
+      "uid" : "b292c431f8a297de",
+      "status" : "broken",
+      "statusDetails" : "socket hang up",
+      "time" : {
+        "start" : 1667564762962,
+        "stop" : 1667564770719,
+        "duration" : 7757
+      }
+    }, {
+      "uid" : "637fd445b96d8669",
+      "status" : "broken",
+      "statusDetails" : "_mongoconnect.default.getTabletItemIdFromDB is not a function",
+      "time" : {
+        "start" : 1667563993495,
+        "stop" : 1667564034427,
+        "duration" : 40932
+      }
+    }, {
+      "uid" : "467ad2c6caee4305",
+      "status" : "broken",
+      "statusDetails" : "_omsSmokeData.default.openWMSPage is not a function",
+      "time" : {
+        "start" : 1667562158745,
+        "stop" : 1667562159044,
+        "duration" : 299
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "25c917b490b978a2.json",
+  "parameterValues" : [ "chrome-107.0.5304.87" ]
+}

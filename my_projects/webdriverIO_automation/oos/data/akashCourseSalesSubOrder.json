@@ -1,0 +1,922 @@
+
+{
+    "salesSubOrderId": "SSO1-2211150537440126",
+    "salesOrderId": "SO-2211150537440126",
+    "orgFormattedName": "aakash",
+    "orgId": "ORG-2",
+    "currency": "INR",
+    "orderType": "SINGLE",
+    "courseType": "K10",
+    "lineItems": [
+      {
+        "id": 3350,
+        "skuId": "TSXMZ1",
+        "imageUrl": null,
+        "skuName": "Samsung 10 Inch Tablet (Mobile Data)",
+        "status": "active",
+        "orgId": "ORG-1",
+        "basePrice": 18000,
+        "continuousPrice": 15000,
+        "hsnCode": "847130",
+        "programId": "TLP1UCHW0001",
+        "type": "product",
+        "subType": "tablet",
+        "category": "tablet",
+        "package": null,
+        "course": "",
+        "subCourse": null,
+        "grade": null,
+        "subject": null,
+        "board": null,
+        "language": null,
+        "validityType": "N/A",
+        "validity": null,
+        "validityMonth": null,
+        "brand": "samsung",
+        "size": null,
+        "model": null,
+        "scheme": null,
+        "skuSet": 1,
+        "cohortId": null,
+        "ohProductId": "1114687",
+        "productState": "new",
+        "isValidSku": true,
+        "remarks": null,
+        "validatedAt": "2021-11-09T14:46:49.119Z",
+        "financeCode": "TSXMZ1",
+        "sprId": null,
+        "orgFormattedName": "byjus",
+        "createdBy": "ayushi.bansal@byjus.com",
+        "createdAt": "2021-11-09T14:46:49.119Z",
+        "deletedAt": null,
+        "price": 18000,
+        "itemType": "tablet",
+        "itemId": "N-uJOyy_jE6WAirjZz0ersr9",
+        "studentId": "Shubham singh-1",
+        "tabletId": "T-TSXMZ1-Shubham singh",
+        "name": "Samsung 10 Inch Tablet (Mobile Data)",
+        "sku": "Samsung 10 Inch Tablet (Mobile Data)",
+        "salesSubOrderId": "SSO1-2211150537440126",
+        "itemStatus": "mapping_pending",
+        "invoicePrice": "18000.00",
+        "pgLineItemId": 1516844
+      },
+      {
+        "id": 9211,
+        "skuId": "FD08NA23",
+        "imageUrl": null,
+        "skuName": "Aakash Byjus 8th Grade Foundation SD Card 2023",
+        "status": "active",
+        "orgId": "ORG-2",
+        "basePrice": 25000,
+        "continuousPrice": 20000,
+        "hsnCode": "85235100",
+        "programId": "BALAKXAS0001",
+        "type": "product",
+        "subType": "sd_card",
+        "category": "aakash",
+        "package": null,
+        "course": "K10",
+        "subCourse": null,
+        "grade": "8",
+        "subject": null,
+        "board": "CBSE",
+        "language": null,
+        "validityType": "year",
+        "validity": "2023",
+        "validityMonth": "MAY",
+        "brand": null,
+        "size": null,
+        "model": null,
+        "scheme": null,
+        "skuSet": 1,
+        "cohortId": 252,
+        "ohProductId": "1985756",
+        "productState": null,
+        "isValidSku": true,
+        "remarks": null,
+        "validatedAt": null,
+        "financeCode": "FD08NA",
+        "sprId": null,
+        "orgFormattedName": "aakash",
+        "createdBy": "ijaz.shaik@byjus.com",
+        "createdAt": "2022-04-27T07:15:02.072Z",
+        "deletedAt": null,
+        "price": 25000,
+        "itemId": "pYlifw_EbIJa9HesRtS7ndhw",
+        "studentId": "Shubham singh-1",
+        "tabletId": "T-TSXMZ1-Shubham singh",
+        "name": "Aakash Byjus 8th Grade Foundation SD Card 2023",
+        "sku": "Aakash Byjus 8th Grade Foundation SD Card 2023",
+        "itemType": "sd_card",
+        "salesSubOrderId": "SSO1-2211150537440126",
+        "itemStatus": "mapping_pending",
+        "invoicePrice": "25000.00",
+        "pgLineItemId": 1516845
+      }
+    ],
+    "shipmentLineItems": [
+      {
+        "skuId": "TSXMZZKX",
+        "skuName": "K12 Samsung 10 inch Tablet Mobile Data",
+        "status": "active",
+        "type": "tablet",
+        "properties": {
+          "grade": null,
+          "course": null,
+          "board": null,
+          "color": null,
+          "brand": "Samsung",
+          "manufacturer": "Samsung",
+          "warehouse": [],
+          "sdCardMemory": null,
+          "appVersion": null,
+          "sdCardVersion": null,
+          "apkRelease": {
+            "date": {
+              "numberLong": "1642564121847"
+            }
+          },
+          "contentRelease": {
+            "date": {
+              "numberLong": "1642564121847"
+            }
+          },
+          "location": null,
+          "comboDetails": [],
+          "userType": null,
+          "programId": "TLP1UCAS0001",
+          "size": null,
+          "model": null,
+          "skuSet": null,
+          "subject": null,
+          "language": null,
+          "scheme": null
+        },
+        "dimensions": {
+          "length": null,
+          "width": null,
+          "height": null,
+          "unit": null
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "productionStrategy": null,
+        "financeMaterialCode": "TSXMZZKX",
+        "financeProductCode": "TSXM",
+        "createdBy": "dinesh.m@byjus.com",
+        "updatedBy": "system",
+        "createdAt": {
+          "date": {
+            "numberLong": "1596273625284"
+          }
+        },
+        "updatedAt": {
+          "date": {
+            "numberLong": "1660833194737"
+          }
+        },
+        "deletedAt": null,
+        "productState": "new",
+        "activeSalesItems": [
+          "TSXMZ1"
+        ],
+        "activeLineItemIds": [
+          "N-uJOyy_jE6WAirjZz0ersr9"
+        ],
+        "price": 18000,
+        "studentId": "Shubham singh-1",
+        "students": [
+          "Shubham singh-1"
+        ],
+        "tabletId": "T-TSXMZ1-Shubham singh",
+        "itemStatus": "mapping_pending",
+        "pgShipmentLineItemId": 15744497
+      },
+      {
+        "skuId": "F3CB0808",
+        "skuName": "Grade 08 Aakash Byju's Live Foundation SD Card",
+        "status": "active",
+        "type": "sd_card",
+        "properties": {
+          "grade": "08-08",
+          "course": "null",
+          "board": "CBSE",
+          "color": null,
+          "brand": "null",
+          "manufacturer": null,
+          "warehouse": [],
+          "sdCardMemory": 64,
+          "appVersion": null,
+          "sdCardVersion": "NA",
+          "apkRelease": {
+            "date": {
+              "numberLong": "1652095977126"
+            }
+          },
+          "contentRelease": {
+            "date": {
+              "numberLong": "1652095977126"
+            }
+          },
+          "location": null,
+          "comboDetails": [
+            {
+              "dataValues": {
+                "id": 11523,
+                "skuId": "F3CB0808",
+                "initialClass": 8,
+                "finalClass": 8,
+                "status": "active",
+                "activatedBy": "rittic.basu@byjus.com",
+                "activatedAt": {
+                  "date": {
+                    "numberLong": "1652361349771"
+                  }
+                },
+                "inactivatedBy": null,
+                "inactivatedAt": null,
+                "createdBy": "rittic.basu@byjus.com",
+                "updatedBy": "rittic.basu@byjus.com",
+                "createdAt": {
+                  "date": {
+                    "numberLong": "1652361349771"
+                  }
+                },
+                "updatedAt": {
+                  "date": {
+                    "numberLong": "1652361349771"
+                  }
+                },
+                "deletedAt": null,
+                "sku_id": "F3CB0808"
+              },
+              "_previousDataValues": {
+                "id": 11523,
+                "skuId": "F3CB0808",
+                "initialClass": 8,
+                "finalClass": 8,
+                "status": "active",
+                "activatedBy": "rittic.basu@byjus.com",
+                "activatedAt": {
+                  "date": {
+                    "numberLong": "1652361349771"
+                  }
+                },
+                "inactivatedBy": null,
+                "inactivatedAt": null,
+                "createdBy": "rittic.basu@byjus.com",
+                "updatedBy": "rittic.basu@byjus.com",
+                "createdAt": {
+                  "date": {
+                    "numberLong": "1652361349771"
+                  }
+                },
+                "updatedAt": {
+                  "date": {
+                    "numberLong": "1652361349771"
+                  }
+                },
+                "deletedAt": null,
+                "sku_id": "F3CB0808"
+              },
+              "uniqno": 1,
+              "_changed": {},
+              "_options": {
+                "isNewRecord": false,
+                "_schema": "oms",
+                "_schemaDelimiter": "",
+                "include": null,
+                "includeNames": null,
+                "includeMap": null,
+                "includeValidated": true,
+                "raw": true,
+                "attributes": null
+              },
+              "isNewRecord": false,
+              "_customGetters": {},
+              "_customSetters": {},
+              "validators": {},
+              "_hasCustomGetters": 0,
+              "_hasCustomSetters": 0,
+              "rawAttributes": {
+                "id": {
+                  "type": {
+                    "options": {},
+                    "_length": null,
+                    "_zerofill": null,
+                    "_decimals": null,
+                    "_precision": null,
+                    "_scale": null,
+                    "_unsigned": null,
+                    "key": "INTEGER",
+                    "dialectTypes": "https://dev.snowflake.com/doc/refman/5.7/en/data-types.html"
+                  },
+                  "autoIncrement": true,
+                  "primaryKey": true,
+                  "fieldName": "id",
+                  "_modelAttribute": true,
+                  "field": "id"
+                },
+                "skuId": {
+                  "type": {
+                    "options": {
+                      "length": null,
+                      "binary": null
+                    },
+                    "_binary": null,
+                    "_length": 255,
+                    "key": "STRING",
+                    "dialectTypes": "https://dev.snowflake.com/doc/refman/5.7/en/data-types.html"
+                  },
+                  "allowNull": false,
+                  "fieldName": "skuId",
+                  "_modelAttribute": true,
+                  "field": "sku_id"
+                },
+                "initialClass": {
+                  "type": {
+                    "options": {},
+                    "_length": null,
+                    "_zerofill": null,
+                    "_decimals": null,
+                    "_precision": null,
+                    "_scale": null,
+                    "_unsigned": null,
+                    "key": "INTEGER",
+                    "dialectTypes": "https://dev.snowflake.com/doc/refman/5.7/en/data-types.html"
+                  },
+                  "allowNull": false,
+                  "fieldName": "initialClass",
+                  "_modelAttribute": true,
+                  "field": "initial_class"
+                },
+                "finalClass": {
+                  "type": {
+                    "options": {},
+                    "_length": null,
+                    "_zerofill": null,
+                    "_decimals": null,
+                    "_precision": null,
+                    "_scale": null,
+                    "_unsigned": null,
+                    "key": "INTEGER",
+                    "dialectTypes": "https://dev.snowflake.com/doc/refman/5.7/en/data-types.html"
+                  },
+                  "allowNull": false,
+                  "fieldName": "finalClass",
+                  "_modelAttribute": true,
+                  "field": "final_class"
+                },
+                "status": {
+                  "type": {
+                    "options": {
+                      "length": null,
+                      "binary": null
+                    },
+                    "_binary": null,
+                    "_length": 255,
+                    "key": "STRING",
+                    "dialectTypes": "https://dev.snowflake.com/doc/refman/5.7/en/data-types.html"
+                  },
+                  "allowNull": false,
+                  "defaultValue": "active",
+                  "fieldName": "status",
+                  "_modelAttribute": true,
+                  "field": "status"
+                },
+                "activatedBy": {
+                  "type": {
+                    "options": {
+                      "length": null,
+                      "binary": null
+                    },
+                    "_binary": null,
+                    "_length": 255,
+                    "key": "STRING",
+                    "dialectTypes": "https://dev.snowflake.com/doc/refman/5.7/en/data-types.html"
+                  },
+                  "allowNull": true,
+                  "fieldName": "activatedBy",
+                  "_modelAttribute": true,
+                  "field": "activated_by"
+                },
+                "activatedAt": {
+                  "type": {
+                    "options": {
+                      "length": null
+                    },
+                    "_length": "",
+                    "key": "DATE",
+                    "dialectTypes": "https://dev.snowflake.com/doc/refman/5.7/en/data-types.html"
+                  },
+                  "allowNull": true,
+                  "fieldName": "activatedAt",
+                  "_modelAttribute": true,
+                  "field": "activated_at"
+                },
+                "inactivatedBy": {
+                  "type": {
+                    "options": {
+                      "length": null,
+                      "binary": null
+                    },
+                    "_binary": null,
+                    "_length": 255,
+                    "key": "STRING",
+                    "dialectTypes": "https://dev.snowflake.com/doc/refman/5.7/en/data-types.html"
+                  },
+                  "allowNull": true,
+                  "fieldName": "inactivatedBy",
+                  "_modelAttribute": true,
+                  "field": "inactivated_by"
+                },
+                "inactivatedAt": {
+                  "type": {
+                    "options": {
+                      "length": null
+                    },
+                    "_length": "",
+                    "key": "DATE",
+                    "dialectTypes": "https://dev.snowflake.com/doc/refman/5.7/en/data-types.html"
+                  },
+                  "allowNull": true,
+                  "fieldName": "inactivatedAt",
+                  "_modelAttribute": true,
+                  "field": "inactivated_at"
+                },
+                "createdBy": {
+                  "type": {
+                    "options": {
+                      "length": null,
+                      "binary": null
+                    },
+                    "_binary": null,
+                    "_length": 255,
+                    "key": "STRING",
+                    "dialectTypes": "https://dev.snowflake.com/doc/refman/5.7/en/data-types.html"
+                  },
+                  "fieldName": "createdBy",
+                  "_modelAttribute": true,
+                  "field": "created_by"
+                },
+                "updatedBy": {
+                  "type": {
+                    "options": {
+                      "length": null,
+                      "binary": null
+                    },
+                    "_binary": null,
+                    "_length": 255,
+                    "key": "STRING",
+                    "dialectTypes": "https://dev.snowflake.com/doc/refman/5.7/en/data-types.html"
+                  },
+                  "fieldName": "updatedBy",
+                  "_modelAttribute": true,
+                  "field": "updated_by"
+                },
+                "createdAt": {
+                  "type": {
+                    "options": {
+                      "length": null
+                    },
+                    "_length": "",
+                    "key": "DATE",
+                    "dialectTypes": "https://dev.snowflake.com/doc/refman/5.7/en/data-types.html"
+                  },
+                  "allowNull": false,
+                  "fieldName": "createdAt",
+                  "_modelAttribute": true,
+                  "field": "created_at"
+                },
+                "updatedAt": {
+                  "type": {
+                    "options": {
+                      "length": null
+                    },
+                    "_length": "",
+                    "key": "DATE",
+                    "dialectTypes": "https://dev.snowflake.com/doc/refman/5.7/en/data-types.html"
+                  },
+                  "fieldName": "updatedAt",
+                  "_modelAttribute": true,
+                  "field": "updated_at"
+                },
+                "deletedAt": {
+                  "type": {
+                    "options": {
+                      "length": null
+                    },
+                    "_length": "",
+                    "key": "DATE",
+                    "dialectTypes": "https://dev.snowflake.com/doc/refman/5.7/en/data-types.html"
+                  },
+                  "_autoGenerated": true,
+                  "fieldName": "deletedAt",
+                  "_modelAttribute": true,
+                  "field": "deleted_at"
+                },
+                "sku_id": {
+                  "type": {
+                    "options": {
+                      "length": null,
+                      "binary": null
+                    },
+                    "_binary": null,
+                    "_length": 255,
+                    "key": "STRING",
+                    "dialectTypes": "https://dev.snowflake.com/doc/refman/5.7/en/data-types.html"
+                  },
+                  "allowNull": true,
+                  "fieldName": "sku_id",
+                  "_modelAttribute": true,
+                  "field": "sku_id"
+                }
+              }
+            }
+          ],
+          "userType": null,
+          "programId": "BALAKXAS0001",
+          "size": null,
+          "model": null,
+          "skuSet": 1,
+          "subject": null,
+          "language": null,
+          "scheme": null
+        },
+        "dimensions": {
+          "length": null,
+          "width": null,
+          "height": null,
+          "unit": null
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "productionStrategy": null,
+        "financeMaterialCode": "F3CB0808",
+        "financeProductCode": "S3",
+        "createdBy": "rittic.basu@byjus.com",
+        "updatedBy": "system",
+        "createdAt": {
+          "date": {
+            "numberLong": "1649236227541"
+          }
+        },
+        "updatedAt": {
+          "date": {
+            "numberLong": "1660833194737"
+          }
+        },
+        "deletedAt": null,
+        "productState": null,
+        "activeGrades": [
+          8
+        ],
+        "activeSalesItems": [
+          "FD08NA23"
+        ],
+        "activeLineItemIds": [
+          "pYlifw_EbIJa9HesRtS7ndhw"
+        ],
+        "studentId": "Shubham singh-1",
+        "tabletId": "T-TSXMZ1-Shubham singh",
+        "itemStatus": "mapping_pending",
+        "pgShipmentLineItemId": 15744498
+      }
+    ],
+    "returnLineItems": [],
+    "salesDetails": {
+      "typeOfSales": "DS Sales",
+      "directSalesBy": "sanjay.karkera@byjus.com",
+      "directSalesByCampaign": "Livechat Calling",
+      "salesAppointmentBy": null,
+      "salesAppointmentByCampaign": "Hyderabad",
+      "incentiveDate": {
+        "date": {
+          "numberLong": "1668490963184"
+        }
+      },
+      "salesAppointmentByRole": null,
+      "directSalesByDept": "business_development",
+      "salesAppointmentByDept": "",
+      "salesIndex": 175
+    },
+    "customerDetails": {
+      "customerId": "CX-2210280625062228",
+      "name": "sanjay",
+      "identifierDetails": [],
+      "alternateName": "Shubham singh",
+      "mobileNo": "+91-8736576846",
+      "alternateMobileNo": "+91-8736576846",
+      "email": "sd56uysfgdf@gmail.com",
+      "alternateEmail": null,
+      "type": "individual",
+      "communicationPreferences": {},
+      "isBooksOpted": true,
+      "billingCustomerId": null
+    },
+    "billingCustomerDetails": null,
+    "addressDetails": {
+      "billing": {
+        "zipcode": "600001",
+        "addressLine1": "Akshya Nagar 1st Block 1st Cro",
+        "country": "India",
+        "state": "Tamil Nadu",
+        "city": "Chennai",
+        "addressLine2": "Akshya Nagar 1st Block 1st Cro,",
+        "addressLine3": "Govt Stanley Hospital S.O",
+        "address": "Akshya Nagar 1st Block 1st Cro\n Akshya Nagar 1st Block 1st Cro\n Govt Stanley Hospital S.O",
+        "addressId": "496870"
+      },
+      "shipping": {
+        "zipcode": "600001",
+        "addressLine1": "Akshya Nagar 1st Block 1st Cro",
+        "country": "India",
+        "state": "Tamil Nadu",
+        "city": "Chennai",
+        "addressLine2": "Akshya Nagar 1st Block 1st Cro,",
+        "addressLine3": "Govt Stanley Hospital S.O",
+        "address": "Akshya Nagar 1st Block 1st Cro\n Akshya Nagar 1st Block 1st Cro\n Govt Stanley Hospital S.O",
+        "addressId": "496871"
+      }
+    },
+    "attachments": [
+      {
+        "_id": {
+          "oid": "637326b7daff67001cda4952"
+        },
+        "name": "cheque",
+        "url": "https://orderhive-payments.s3.ap-southeast-1.amazonaws.com/development/637325a8daff67001cda481b/cheque/cheque-20221115_11127190.png"
+      }
+    ],
+    "studentDetails": [
+      {
+        "studentProfileDetails": {
+          "isExistingProfile": false,
+          "existingPremiumId": "",
+          "existingFamilyId": ""
+        },
+        "hlpDetails": {
+          "courseDetails": [],
+          "sessionDetails": []
+        },
+        "courseType": [
+          "K10"
+        ],
+        "electiveDetails": [],
+        "doubtClassDetails": [],
+        "workshops": [],
+        "items": [
+          {
+            "id": 9211,
+            "skuId": "FD08NA23",
+            "imageUrl": null,
+            "skuName": "Aakash Byjus 8th Grade Foundation SD Card 2023",
+            "status": "active",
+            "orgId": "ORG-2",
+            "city": null,
+            "basePrice": 25000,
+            "continuousPrice": 20000,
+            "hsnCode": "85235100",
+            "programId": "BALAKXAS0001",
+            "type": "product",
+            "subType": "sd_card",
+            "category": "aakash",
+            "package": null,
+            "course": "K10",
+            "subCourse": null,
+            "grade": "8",
+            "subject": null,
+            "board": "CBSE",
+            "language": null,
+            "validityType": "year",
+            "validity": "2023",
+            "validityMonth": "MAY",
+            "brand": null,
+            "size": null,
+            "model": null,
+            "scheme": null,
+            "skuSet": 1,
+            "cohortId": 252,
+            "ohProductId": "1985756",
+            "productState": null,
+            "isValidSku": true,
+            "remarks": null,
+            "validatedAt": null,
+            "financeCode": "FD08NA",
+            "sprId": null,
+            "orgFormattedName": "aakash",
+            "createdBy": "ijaz.shaik@byjus.com",
+            "updatedBy": "amey.bhojane@byjus.com",
+            "createdAt": "2022-04-27T07:15:02.072Z",
+            "updatedAt": "2022-05-13T06:29:53.198Z",
+            "deletedAt": null,
+            "price": 25000,
+            "combinationType": "aakash",
+            "itemId": "pYlifw_EbIJa9HesRtS7ndhw",
+            "studentId": "Shubham singh-1",
+            "tabletId": "T-TSXMZ1-Shubham singh",
+            "name": "Aakash Byjus 8th Grade Foundation SD Card 2023",
+            "sku": "Aakash Byjus 8th Grade Foundation SD Card 2023",
+            "itemType": "sd_card"
+          },
+          {
+            "id": 3350,
+            "skuId": "TSXMZ1",
+            "imageUrl": null,
+            "skuName": "Samsung 10 Inch Tablet (Mobile Data)",
+            "status": "active",
+            "orgId": "ORG-1",
+            "city": null,
+            "basePrice": 18000,
+            "continuousPrice": 15000,
+            "hsnCode": "847130",
+            "programId": "TLP1UCHW0001",
+            "type": "product",
+            "subType": "tablet",
+            "category": "tablet",
+            "package": null,
+            "course": "",
+            "subCourse": null,
+            "grade": null,
+            "subject": null,
+            "board": null,
+            "language": null,
+            "validityType": "N/A",
+            "validity": null,
+            "validityMonth": null,
+            "brand": "samsung",
+            "size": null,
+            "model": null,
+            "scheme": null,
+            "skuSet": 1,
+            "cohortId": null,
+            "ohProductId": "1114687",
+            "productState": "new",
+            "isValidSku": true,
+            "remarks": null,
+            "validatedAt": "2021-11-09T14:46:49.119Z",
+            "financeCode": "TSXMZ1",
+            "sprId": null,
+            "orgFormattedName": "byjus",
+            "createdBy": "ayushi.bansal@byjus.com",
+            "updatedBy": "datafix",
+            "createdAt": "2021-11-09T14:46:49.119Z",
+            "updatedAt": "2022-10-27T12:18:03.604Z",
+            "deletedAt": null,
+            "price": 18000,
+            "itemType": "tablet",
+            "itemId": "N-uJOyy_jE6WAirjZz0ersr9",
+            "combinationType": "product",
+            "studentId": "Shubham singh-1",
+            "tabletId": "T-TSXMZ1-Shubham singh",
+            "name": "Samsung 10 Inch Tablet (Mobile Data)",
+            "sku": "Samsung 10 Inch Tablet (Mobile Data)"
+          }
+        ],
+        "addOnItems": [],
+        "mentoringDetails": [],
+        "bhlpCourseDetails": [],
+        "featureTag": [],
+        "_id": {
+          "oid": "6373268b14da87001a9d3073"
+        },
+        "initialClass": "8",
+        "finalClass": "8",
+        "validity": "2023",
+        "tablet": "TSXMZ1",
+        "formValues": {
+          "productLearningType": "aakash_byjus_tlp",
+          "initialClass": "8",
+          "finalClass": "8",
+          "initialGradeProductLearningType": "",
+          "finalGradeProductLearningType": "",
+          "subCourse": "",
+          "validity": 2023,
+          "tablet": "TSXMZ1",
+          "userProfile": "newProfile",
+          "tabletId": "T-TSXMZ1",
+          "isTabletLock": false
+        },
+        "tabletLock": "not_applicable",
+        "productSelectionType": "byjus_aakash_neo",
+        "studentName": "Shubham singh",
+        "studentId": "Shubham singh-1",
+        "academicDetails": {
+          "mathPercent": null,
+          "sciencePercent": null,
+          "fotTrackId": null,
+          "proficiency": null,
+          "schoolDetails": {
+            "id": null,
+            "name": "",
+            "address": "",
+            "pincode": null
+          },
+          "languageOfInstruction": null,
+          "languageOfInstructionId": null
+        },
+        "premiumAccount": "1646786451"
+      }
+    ],
+    "orderPunchingType": "normal_order",
+    "orderPunchingCategory": "aakash_tlp",
+    "paymentDetails": {
+      "payments": [
+        {
+          "isPrepaid": true,
+          "_id": {
+            "oid": "637326b7daff67001cda4953"
+          },
+          "provider": "CHEQUE",
+          "referenceId": "16684909344808-345345345222433",
+          "amount": 43000,
+          "additionalDetails": {
+            "bank": "dcb"
+          },
+          "attachments": [
+            {
+              "_id": {
+                "oid": "637326b7daff67001cda4954"
+              },
+              "name": "cheque",
+              "url": "https://orderhive-payments.s3.ap-southeast-1.amazonaws.com/development/637325a8daff67001cda481b/cheque/cheque-20221115_11127190.png"
+            }
+          ],
+          "type": "DOWN_PAYMENT",
+          "currency": "",
+          "isActive": true
+        }
+      ],
+      "paymentMethod": "NGP",
+      "paymentStatus": "NOT_PAID",
+      "paymentMode": "CHEQUE",
+      "paymentAmountSplit": "43000",
+      "totalAmount": 43000
+    },
+    "leadDetails": {
+      "prospectId": "sdf667sudfh",
+      "accountNo": "24692",
+      "loggedInEmailId": "praz@byjus.com",
+      "leadCreatedBy": "",
+      "leadCreatedAt": null,
+      "leadMobileNo": "+91-8736576846",
+      "isLeadMobileUsed": true,
+      "leadLink": "https://run.leadsquared.com/LeadManagement/LeadDetails?LeadID=sdf667sudfh"
+    },
+    "contactDetails": {
+      "orderPunchingContact": "8736576846",
+      "cxProvidedContact": "8736576846",
+      "leadContact": "8736576846",
+      "gpContact": "",
+      "ngpContact": "",
+      "lpContact": ""
+    },
+    "type": "product",
+    "subType": "course",
+    "status": "not_confirmed",
+    "category": "sales",
+    "statusReason": "AUTO_CONFIRMATION_PENDING",
+    "actionDetails": {
+      "createdAt": {
+        "date": {
+          "numberLong": "1668491040296"
+        }
+      },
+      "createdBy": "praz@byjus.com",
+      "notConfirmedAt": {
+        "date": {
+          "numberLong": "1668491040404"
+        }
+      },
+      "notConfirmedBy": "draft_order_job"
+    },
+    "createdAt": {
+      "date": {
+        "numberLong": "1668490963184"
+      }
+    },
+    "updatedat": {
+      "date": {
+        "numberLong": "1668491040296"
+      }
+    },
+    "sourceDetails": null,
+    "assignmentCategory": "k10",
+    "orderBatchId": "",
+    "updatedAt": {
+      "date": {
+        "numberLong": "1668491040440"
+      }
+    },
+    "estimatedDispatchDate": {
+      "date": {
+        "numberLong": "1668577440413"
+      }
+    },
+    "salesOrderStatus": "not_confirmed"
+  }

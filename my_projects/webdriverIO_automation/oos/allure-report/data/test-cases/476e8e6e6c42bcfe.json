@@ -1,0 +1,265 @@
+{
+  "uid" : "476e8e6e6c42bcfe",
+  "name" : "btlp forward workflow",
+  "fullName" : "btlp workflow.btlp forward workflow",
+  "historyId" : "aac9783a421c0f425ef01db9f4b3c75c",
+  "time" : {
+    "start" : 1669013086994,
+    "stop" : 1669013290310,
+    "duration" : 203316
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Maximize the window",
+      "time" : {
+        "start" : 1669013086995,
+        "stop" : 0,
+        "duration" : -1669013086995
+      },
+      "status" : "unknown",
+      "steps" : [ {
+        "name" : "Open Byjus OMS page",
+        "time" : {
+          "start" : 1669013087132,
+          "stop" : 1669013090158,
+          "duration" : 3026
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "Login to the Home page",
+        "time" : {
+          "start" : 1669013090158,
+          "stop" : 0,
+          "duration" : -1669013090158
+        },
+        "status" : "unknown",
+        "steps" : [ {
+          "name" : "Open SSO Id",
+          "time" : {
+            "start" : 1669013114455,
+            "stop" : 0,
+            "duration" : -1669013114455
+          },
+          "status" : "unknown",
+          "steps" : [ {
+            "name" : "adding present owner",
+            "time" : {
+              "start" : 1669013139236,
+              "stop" : 0,
+              "duration" : -1669013139236
+            },
+            "status" : "unknown",
+            "steps" : [ {
+              "name" : "impersonating set up user",
+              "time" : {
+                "start" : 1669013150669,
+                "stop" : 0,
+                "duration" : -1669013150669
+              },
+              "status" : "unknown",
+              "steps" : [ {
+                "name" : "impersonating is done",
+                "time" : {
+                  "start" : 1669013168043,
+                  "stop" : 0,
+                  "duration" : -1669013168043
+                },
+                "status" : "unknown",
+                "steps" : [ {
+                  "name" : "Open SSO Id and mapping inventory & packaging",
+                  "time" : {
+                    "start" : 1669013173156,
+                    "stop" : 0,
+                    "duration" : -1669013173156
+                  },
+                  "status" : "unknown",
+                  "steps" : [ {
+                    "name" : "shipment creation",
+                    "time" : {
+                      "start" : 1669013252872,
+                      "stop" : 0,
+                      "duration" : -1669013252872
+                    },
+                    "status" : "unknown",
+                    "steps" : [ {
+                      "name" : "Get AWB no from DB",
+                      "time" : {
+                        "start" : 1669013257387,
+                        "stop" : 0,
+                        "duration" : -1669013257387
+                      },
+                      "status" : "unknown",
+                      "steps" : [ {
+                        "name" : "Wait for 5 sec to get AWB no from DB",
+                        "time" : {
+                          "start" : 1669013258731,
+                          "stop" : 0,
+                          "duration" : -1669013258731
+                        },
+                        "status" : "unknown",
+                        "steps" : [ {
+                          "name" : "creation of dispatchBatch",
+                          "time" : {
+                            "start" : 1669013258731,
+                            "stop" : 0,
+                            "duration" : -1669013258731
+                          },
+                          "status" : "unknown",
+                          "steps" : [ {
+                            "name" : "completed creation of dispatchBatch",
+                            "time" : {
+                              "start" : 1669013269967,
+                              "stop" : 0,
+                              "duration" : -1669013269967
+                            },
+                            "status" : "unknown",
+                            "steps" : [ ],
+                            "attachments" : [ ],
+                            "parameters" : [ ],
+                            "stepsCount" : 0,
+                            "attachmentsCount" : 0,
+                            "shouldDisplayMessage" : false,
+                            "hasContent" : false
+                          } ],
+                          "attachments" : [ ],
+                          "parameters" : [ ],
+                          "stepsCount" : 1,
+                          "attachmentsCount" : 0,
+                          "shouldDisplayMessage" : false,
+                          "hasContent" : true
+                        } ],
+                        "attachments" : [ ],
+                        "parameters" : [ ],
+                        "stepsCount" : 2,
+                        "attachmentsCount" : 0,
+                        "shouldDisplayMessage" : false,
+                        "hasContent" : true
+                      } ],
+                      "attachments" : [ ],
+                      "parameters" : [ ],
+                      "stepsCount" : 3,
+                      "attachmentsCount" : 0,
+                      "shouldDisplayMessage" : false,
+                      "hasContent" : true
+                    } ],
+                    "attachments" : [ ],
+                    "parameters" : [ ],
+                    "stepsCount" : 4,
+                    "attachmentsCount" : 0,
+                    "shouldDisplayMessage" : false,
+                    "hasContent" : true
+                  } ],
+                  "attachments" : [ ],
+                  "parameters" : [ ],
+                  "stepsCount" : 5,
+                  "attachmentsCount" : 0,
+                  "shouldDisplayMessage" : false,
+                  "hasContent" : true
+                } ],
+                "attachments" : [ ],
+                "parameters" : [ ],
+                "stepsCount" : 6,
+                "attachmentsCount" : 0,
+                "shouldDisplayMessage" : false,
+                "hasContent" : true
+              } ],
+              "attachments" : [ ],
+              "parameters" : [ ],
+              "stepsCount" : 7,
+              "attachmentsCount" : 0,
+              "shouldDisplayMessage" : false,
+              "hasContent" : true
+            } ],
+            "attachments" : [ ],
+            "parameters" : [ ],
+            "stepsCount" : 8,
+            "attachmentsCount" : 0,
+            "shouldDisplayMessage" : false,
+            "hasContent" : true
+          } ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 9,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 10,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 12,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 13,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "btlp workflow"
+  }, {
+    "name" : "testClass",
+    "value" : "btlp workflow"
+  }, {
+    "name" : "testMethod",
+    "value" : "btlp forward workflow"
+  }, {
+    "name" : "package",
+    "value" : "btlp workflow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.110"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "476e8e6e6c42bcfe.json",
+  "parameterValues" : [ "chrome-107.0.5304.110" ]
+}

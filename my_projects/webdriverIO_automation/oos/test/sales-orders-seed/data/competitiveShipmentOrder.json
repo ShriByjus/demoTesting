@@ -1,0 +1,137 @@
+{
+    "addressDetails": {
+        "billing": {
+            "country": "India",
+            "zipcode": "500029",
+            "state": "Telangana (TS)",
+            "city": "Hyderabad",
+            "address": "2nd floor.Prime Plaza\n\n Above woodland showroom\n\n Himayatnagar"
+        },
+        "shipping": {
+            "country": "India",
+            "zipcode": "500029",
+            "state": "Telangana (TS)",
+            "city": "Hyderabad",
+            "address": "2nd floor.Prime Plaza\n\n Above woodland showroom\n\n Himayatnagar"
+        }
+    },
+    "invoiceStatus": "pending",
+    "packageDetails": [
+        {
+            "_id": "600bd9c41276822d4d6c6eb8",
+            "packageId": "P1-SSO1-2101210850070168",
+            "status": "shipped",
+            "salesSubOrderId": "SSO1-2101210850070168",
+            "salesOrderId": "SO-2101210850070168",
+            "dimensions": {
+                "length": 27,
+                "width": 20,
+                "height": 5,
+                "unit": "cm"
+            },
+            "weight": {
+                "value": 0.8,
+                "unit": "Kg"
+            },
+            "totalValue": 59000,
+            "shipmentLineItems": [
+                {
+                    "_id": "600bd9c4127682c9e06c6eb9",
+                    "itemStatus": "setup_done",
+                    "type": "tablet",
+                    "itemId": "TLXMZZIS002843",
+                    "studentId": "Raju Reddy-1",
+                    "price": 13000,
+                    "skuId": "TLXMZZIS",
+                    "skuName": "IAS Lenovo 10 inch Tablet Mobile Data"
+                },
+                {
+                    "_id": "600bd9c412768222886c6eba",
+                    "itemStatus": "setup_done",
+                    "type": "sd_card",
+                    "itemId": "S4EUP017059",
+                    "studentId": "Raju Reddy-1",
+                    "price": 46000,
+                    "skuId": "S4EUP",
+                    "skuName": "UPSC English SD Card - New"
+                }
+            ],
+            "createdBy": "kumar.praveen@byjus.com",
+            "createdAt": "2021-01-23T08:09:40.669Z",
+            "updatedAt": "2021-01-23T08:09:40.669Z",
+            "__v": 0,
+            "awbNumber": 200821239
+        }
+    ],
+    "salesSubOrderId": "SSO1-2101210850070168",
+    "salesOrderId": "SO-2101210850070168",
+    "courseType": "IAS",
+    "salesDetails": {
+        "typeOfSales": "NonDSSales",
+        "directSalesBy": "mohnish@thinkandlearn.in",
+        "directSalesByCampaign": "Bangalore",
+        "salesAppointmentBy": "mohnish@thinkandlearn.in",
+        "salesAppointmentByCampaign": "Bangalore"
+    },
+    "customerDetails": {
+        "customerId": "",
+        "name": "Invoice Inba",
+        "alternateName": "Nidhi Singh",
+        "mobileNo": "+91-7488173804",
+        "alternateMobileNo": "",
+        "email": "nidhisingh.n@icloud.com",
+        "alternateEmail": null,
+        "type": null
+    },
+    "leadDetails": {
+        "prospectId": "78ac52ce-ae89-11e8-9415-0a3f89e00c4e",
+        "accountNo": "24693",
+        "loggedInEmailId": "hitesh.patel@byjus.com",
+        "leadCreatedBy": "",
+        "leadCreatedAt": null,
+        "leadMobileNo": "+91-7287831964",
+        "isLeadMobileUsed": false,
+        "leadLink": "https://run.leadsquared.com/LeadManagement/LeadDetails?LeadID=78ac52ce-ae89-11e8-9415-0a3f89e00c4e"
+    },
+    "type": "product",
+    "subType": "course",
+    "status": "delivered",
+    "actionDetails": {
+        "shippedAt": "2021-01-23T08:09:53.947Z",
+        "shippedBy": "kumar.praveen@byjus.com",
+        "manifestedAt": "2021-01-25T08:48:59.813Z",
+        "manifestedBy": "subha.chandan@byjus.com",
+        "deliveredAt": "2021-01-27T19:53:46.000Z",
+        "deliveredBy": "system"
+    },
+    "createdAt": "2021-01-23T08:09:53.947Z",
+    "updatedAt": "2021-02-07T13:06:47.038Z",
+    "updatedBy": "system",
+    "shipmentOrderId": "SHO1-SSO1-2101210850070168",
+    "awbNumber": "200821239",
+    "destinationCode": "Hyderabad",
+    "originCode": "BLR",
+    "deliveryPartner": "criticalog_air",
+    "warehouse": "6d_ibc_knowledge_park_bengaluru",
+    "timestamps": {
+        "shippedAt": "2021-01-23T08:09:53.947Z",
+        "manifestedAt": "2021-01-25T08:48:59.813Z"
+    },
+    "__v": 0,
+    "salesOrderStatus": "delivered",
+    "salesSubOrderStatus": "delivered",
+    "batchId": "DB-2501210848590105",
+    "smsDetails": {
+        "manifestedAt": "2021-01-25T08:49:00.933Z",
+        "manifestedBy": "system",
+        "deliveredAt": "2021-01-27T17:05:05.107Z",
+        "deliveredBy": "system"
+    },
+    "tatDetails": {
+        "stuckAge": 0,
+        "aging": 2
+    },
+    "lastUpdatedAt": "2021-01-27T17:05:04.198Z",
+    "manifestId": "MDB-2501211320140031",
+    "reattemptCount": 2
+}

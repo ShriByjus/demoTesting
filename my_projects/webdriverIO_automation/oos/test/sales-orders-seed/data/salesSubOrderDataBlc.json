@@ -1,0 +1,975 @@
+
+{
+    "salesSubOrderId": "SSO1-2210280625140358",
+    "salesOrderId": "SO-2210280625140358",
+    "orgFormattedName": "byjus",
+    "orgId": "ORG-1",
+    "currency": "INR",
+    "orderType": "SPLIT_PARENT",
+    "courseType": "K10",
+    "lineItems": [
+      {
+        "id": 5267,
+        "skuId": "DD06CB23",
+        "imageUrl": null,
+        "skuName": "6th Grade D4 CBSE SD Card May 2023",
+        "status": "active",
+        "orgId": "ORG-1",
+        "basePrice": 22000,
+        "continuousPrice": 17000,
+        "hsnCode": "852351",
+        "programId": "BTLAKXAS0001",
+        "type": "product",
+        "subType": "sd_card",
+        "category": "btlp",
+        "package": null,
+        "course": "K10",
+        "subCourse": null,
+        "grade": "6",
+        "subject": null,
+        "board": "CBSE",
+        "language": null,
+        "validityType": "year",
+        "validity": "2023",
+        "validityMonth": "MAY",
+        "brand": "D4",
+        "size": null,
+        "model": null,
+        "scheme": null,
+        "skuSet": 1,
+        "cohortId": 22,
+        "ohProductId": "1950380",
+        "productState": null,
+        "isValidSku": true,
+        "remarks": null,
+        "validatedAt": "2021-11-09T14:43:50.085Z",
+        "financeCode": "DD06CB",
+        "sprId": null,
+        "orgFormattedName": "byjus",
+        "createdBy": "ayushi.bansal@byjus.com",
+        "createdAt": "2021-11-09T14:43:50.084Z",
+        "deletedAt": null,
+        "itemType": "sd_card",
+        "price": 21660,
+        "itemId": "I-GJuP3rB17yFYq-mAGe05z7",
+        "tabletId": "T-SBXMGZ-Shubham singh",
+        "pricingSchemeMultiplier": 1,
+        "studentId": "Shubham singh-1",
+        "pgItemId": 1497397,
+        "name": "6th Grade D4 CBSE SD Card May 2023",
+        "sku": "6th Grade D4 CBSE SD Card May 2023",
+        "salesSubOrderId": "SSO1-2210280625140358",
+        "itemStatus": "mapping_pending",
+        "invoicePrice": 21660,
+        "pgLineItemId": 1497401
+      },
+      {
+        "id": 3674,
+        "skuId": "SBXMGZ",
+        "imageUrl": null,
+        "skuName": "BYJU'S LearnStation 10inch Mobile Data Grey Tablet",
+        "status": "active",
+        "orgId": "ORG-1",
+        "basePrice": 13000,
+        "continuousPrice": 13000,
+        "hsnCode": "847130",
+        "programId": "TLP2UCHW0001",
+        "type": "product",
+        "subType": "tablet",
+        "category": "tablet",
+        "package": null,
+        "course": "",
+        "subCourse": null,
+        "grade": null,
+        "subject": null,
+        "board": null,
+        "language": null,
+        "validityType": "N/A",
+        "validity": "MAY 2023",
+        "validityMonth": null,
+        "brand": "learn_station",
+        "size": null,
+        "model": null,
+        "scheme": null,
+        "skuSet": 1,
+        "cohortId": null,
+        "ohProductId": "1983632",
+        "productState": "new",
+        "isValidSku": true,
+        "remarks": null,
+        "validatedAt": null,
+        "financeCode": "SBXMGZ",
+        "sprId": null,
+        "orgFormattedName": "byjus",
+        "createdBy": "harshit.bhatt@byjus.com",
+        "createdAt": "2021-12-07T07:36:01.231Z",
+        "deletedAt": null,
+        "price": 13000,
+        "itemType": "tablet",
+        "itemId": "zJw5gJxavQW_6MzgQ-kUqaYa",
+        "pricingSchemeMultiplier": 1,
+        "studentId": "Shubham singh-1",
+        "tabletId": "T-SBXMGZ-Shubham singh",
+        "pgItemId": 1497398,
+        "name": "BYJU'S LearnStation 10inch Mobile Data Grey Tablet",
+        "sku": "BYJU'S LearnStation 10inch Mobile Data Grey Tablet",
+        "salesSubOrderId": "SSO1-2210280625140358",
+        "itemStatus": "mapping_pending",
+        "invoicePrice": 13000,
+        "pgLineItemId": 1497402
+      }
+    ],
+    "shipmentLineItems": [
+      {
+        "skuId": "SBXMGZUC",
+        "skuName": "BYJU'S LearnStation 10inch Mobile Data Grey Tablet",
+        "status": "active",
+        "type": "tablet",
+        "properties": {
+          "grade": null,
+          "course": null,
+          "board": null,
+          "color": null,
+          "brand": "BYJUs",
+          "manufacturer": "BYJUs",
+          "warehouse": [],
+          "sdCardMemory": null,
+          "appVersion": null,
+          "sdCardVersion": null,
+          "apkRelease": {
+            "date": {
+              "numberLong": "1642564129092"
+            }
+          },
+          "contentRelease": {
+            "date": {
+              "numberLong": "1642564129092"
+            }
+          },
+          "location": null,
+          "comboDetails": [],
+          "userType": null,
+          "programId": "TLP2UCAS0001",
+          "size": null,
+          "model": null,
+          "skuSet": null,
+          "subject": null,
+          "language": null,
+          "scheme": null
+        },
+        "dimensions": {
+          "length": null,
+          "width": null,
+          "height": null,
+          "unit": null
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "productionStrategy": "learnstation",
+        "financeMaterialCode": "SBXMGZUC",
+        "financeProductCode": "SBXM",
+        "createdBy": "arjun.c1@byjus.com",
+        "updatedBy": "kaushiki.bhattacharya4@byjus.com",
+        "createdAt": {
+          "date": {
+            "numberLong": "1665381086604"
+          }
+        },
+        "updatedAt": {
+          "date": {
+            "numberLong": "1665381086838"
+          }
+        },
+        "deletedAt": null,
+        "productState": "new",
+        "activeSalesItems": [
+          "SBXMGZ"
+        ],
+        "activeLineItemIds": [
+          "zJw5gJxavQW_6MzgQ-kUqaYa"
+        ],
+        "price": 13000,
+        "studentId": "Shubham singh-1",
+        "students": [
+          "Shubham singh-1"
+        ],
+        "tabletId": "T-SBXMGZ-Shubham singh",
+        "itemStatus": "mapping_pending",
+        "pgShipmentLineItemId": 14758612
+      },
+      {
+        "skuId": "D2CB0606",
+        "properties": {
+          "board": "CBSE",
+          "grade": "06-06",
+          "course": "NA",
+          "noOfCombos": "1",
+          "sdCardMemory": 32,
+          "appVersion": "NA",
+          "sdCardVersion": "NA",
+          "apkVersion": "NA",
+          "contentRelease": {
+            "date": {
+              "numberLong": "1652095977853"
+            }
+          },
+          "brand": "BYJUs",
+          "warehouse": [
+            "IBC",
+            "Lexington",
+            "Croma"
+          ],
+          "location": [
+            "FI IBC",
+            "FI Lex",
+            "FI CROMA"
+          ],
+          "comboDetails": [
+            {
+              "initialClass": 6,
+              "finalClass": 6,
+              "grades": "06-06"
+            }
+          ],
+          "combinations": [
+            "06-06"
+          ],
+          "programId": "BTLAKXAS0001",
+          "apkRelease": {
+            "date": {
+              "numberLong": "1652095977853"
+            }
+          },
+          "inventoryRelease": {
+            "date": {
+              "numberLong": "1652095977853"
+            }
+          }
+        },
+        "skuName": "Learnstation Grade 06 CBSE SD Card",
+        "type": "sd_card",
+        "productState": null,
+        "activeGrades": [
+          6
+        ],
+        "activeSalesItems": [
+          "DD06CB23",
+          "BT06CB23"
+        ],
+        "activeLineItemIds": [
+          "I-GJuP3rB17yFYq-mAGe05z7",
+          "Yan4wz03T9-PiwB5WPTpyUlO"
+        ],
+        "studentId": "Shubham singh-1",
+        "tabletId": "T-SBXMGZ-Shubham singh",
+        "itemStatus": "mapping_pending",
+        "pgShipmentLineItemId": 14758611
+      }
+    ],
+    "returnLineItems": [],
+    "salesDetails": {
+      "typeOfSales": "DS Sales",
+      "directSalesBy": "sanjay.karkera@byjus.com",
+      "directSalesByCampaign": "Livechat Calling",
+      "salesAppointmentBy": null,
+      "salesAppointmentByCampaign": "Hyderabad",
+      "incentiveDate": {
+        "date": {
+          "numberLong": "1666938628458"
+        }
+      },
+      "salesAppointmentByRole": null,
+      "directSalesByDept": "business_development",
+      "salesAppointmentByDept": "",
+      "salesIndex": 175
+    },
+    "customerDetails": {
+      "customerId": "CX-2210280625062228",
+      "name": "sanjay",
+      "identifierDetails": [],
+      "alternateName": "Shubham singh",
+      "mobileNo": "+91-8736576846",
+      "alternateMobileNo": "+91-8736576846",
+      "email": "sd56uysfgdf@gmail.com",
+      "alternateEmail": null,
+      "type": "individual",
+      "communicationPreferences": {},
+      "isBooksOpted": true,
+      "billingCustomerId": null
+    },
+    "billingCustomerDetails": null,
+    "addressDetails": {
+      "billing": {
+        "zipcode": "600001",
+        "addressLine1": "Akshya Nagar 1st Block 1st Cro",
+        "country": "India",
+        "state": "Tamil Nadu",
+        "city": "Chennai",
+        "addressLine2": "Akshya Nagar 1st Block 1st Cro,",
+        "addressLine3": "Mannady S.O (Chennai)",
+        "address": "Akshya Nagar 1st Block 1st Cro\n Akshya Nagar 1st Block 1st Cro\n Mannady S.O (Chennai)",
+        "addressId": "496870"
+      },
+      "shipping": {
+        "zipcode": "600001",
+        "addressLine1": "Akshya Nagar 1st Block 1st Cro",
+        "country": "India",
+        "state": "Tamil Nadu",
+        "city": "Chennai",
+        "addressLine2": "Akshya Nagar 1st Block 1st Cro,",
+        "addressLine3": "Mannady S.O (Chennai)",
+        "address": "Akshya Nagar 1st Block 1st Cro\n Akshya Nagar 1st Block 1st Cro\n Mannady S.O (Chennai)",
+        "addressId": "496871"
+      }
+    },
+    "attachments": [
+      {
+        "_id": {
+          "oid": "635b76fdc4bacf001a77bb1a"
+        },
+        "name": "cheque",
+        "url": "https://orderhive-payments.s3.ap-southeast-1.amazonaws.com/development/635b75ca7bc6ae001c973863/cheque/cheque-20221028_12007450.png"
+      }
+    ],
+    "studentDetails": [
+      {
+        "studentProfileDetails": {
+          "isExistingProfile": false,
+          "existingPremiumId": "",
+          "existingFamilyId": ""
+        },
+        "hlpDetails": {
+          "courseDetails": [
+            {
+              "batchId": "3244",
+              "batchName": "Standard_VI_22_CBSE_Bengaluru_Bangalore_HSR_Center_6_2022_7_4_7203",
+              "startDate": "2022-07-04T00:00:00.000Z",
+              "endDate": "2023-02-28T00:00:00.000Z",
+              "batchType": "weekday",
+              "centreId": "11",
+              "status": "active",
+              "cohortId": 22,
+              "commencementDate": "2022-11-05T00:00:00.000Z",
+              "productType": "HTP_BLC",
+              "blcCourse": {
+                "courseAliasId": "423",
+                "courseAliasName": "22_1_2022_3_21_c2af"
+              },
+              "slots": [
+                {
+                  "day": "Mon",
+                  "startTime": "1:0:PM",
+                  "endTime": "3:0:PM"
+                },
+                {
+                  "day": "Tue",
+                  "startTime": "1:0:PM",
+                  "endTime": "3:0:PM"
+                },
+                {
+                  "day": "Wed",
+                  "startTime": "1:0:PM",
+                  "endTime": "3:0:PM"
+                },
+                {
+                  "day": "Thu",
+                  "startTime": "1:0:PM",
+                  "endTime": "3:0:PM"
+                },
+                {
+                  "day": "Fri",
+                  "startTime": "1:0:PM",
+                  "endTime": "3:0:PM"
+                }
+              ],
+              "batchOffers": []
+            }
+          ],
+          "sessionDetails": [
+            {
+              "sessions": [
+                {
+                  "day": "Mon",
+                  "is_mandatory": "",
+                  "time": "1:0:PM-3:0:PM"
+                },
+                {
+                  "day": "Tue",
+                  "is_mandatory": "",
+                  "time": "1:0:PM-3:0:PM"
+                },
+                {
+                  "day": "Wed",
+                  "is_mandatory": "",
+                  "time": "1:0:PM-3:0:PM"
+                },
+                {
+                  "day": "Thu",
+                  "is_mandatory": "",
+                  "time": "1:0:PM-3:0:PM"
+                },
+                {
+                  "day": "Fri",
+                  "is_mandatory": "",
+                  "time": "1:0:PM-3:0:PM"
+                }
+              ],
+              "_id": {
+                "oid": "635b76cec4bacf001a77baf2"
+              },
+              "type": "blc"
+            }
+          ],
+          "initialClass": "6",
+          "initialValidity": "2023",
+          "batchCode": "Hlp_02-11-2022"
+        },
+        "courseType": [
+          "K10"
+        ],
+        "electiveDetails": [],
+        "doubtClassDetails": [],
+        "workshops": [],
+        "items": [
+          {
+            "id": 1693,
+            "skuId": "BT06CB23",
+            "imageUrl": null,
+            "skuName": "6th Grade CBSE Hybrid Tuition Program at BYJU'S Tuition Centre May 2023",
+            "status": "active",
+            "orgId": "ORG-1",
+            "city": null,
+            "basePrice": 16000,
+            "continuousPrice": 21000,
+            "hsnCode": "999293",
+            "programId": "BCRPUCSY0001",
+            "type": "service",
+            "subType": "crp",
+            "category": "byjus_learning_center",
+            "package": null,
+            "course": "K10",
+            "subCourse": null,
+            "grade": "6",
+            "subject": null,
+            "board": "CBSE",
+            "language": null,
+            "validityType": "year",
+            "validity": "2023",
+            "validityMonth": "MAY",
+            "brand": null,
+            "size": null,
+            "model": null,
+            "scheme": null,
+            "skuSet": 1,
+            "cohortId": 22,
+            "ohProductId": "1984301",
+            "productState": null,
+            "isValidSku": true,
+            "remarks": null,
+            "validatedAt": null,
+            "financeCode": "HNT06CB",
+            "sprId": null,
+            "orgFormattedName": "byjus",
+            "createdBy": "jithendra.malapalli@byjus.com",
+            "updatedBy": "prangyan.das@byjus.com",
+            "createdAt": "2022-02-16T09:21:02.429Z",
+            "updatedAt": "2022-10-12T11:10:11.820Z",
+            "deletedAt": null,
+            "itemType": "course",
+            "price": 16340,
+            "combinationType": "byjus_learning_center",
+            "itemId": "Yan4wz03T9-PiwB5WPTpyUlO",
+            "tabletId": "T-SBXMGZ-Shubham singh",
+            "pricingSchemeMultiplier": 1,
+            "studentId": "Shubham singh-1",
+            "name": "6th Grade CBSE Hybrid Tuition Program at BYJU'S Tuition Centre May 2023",
+            "sku": "6th Grade CBSE Hybrid Tuition Program at BYJU'S Tuition Centre May 2023"
+          },
+          {
+            "id": 5267,
+            "skuId": "DD06CB23",
+            "imageUrl": null,
+            "skuName": "6th Grade D4 CBSE SD Card May 2023",
+            "status": "active",
+            "orgId": "ORG-1",
+            "city": null,
+            "basePrice": 22000,
+            "continuousPrice": 17000,
+            "hsnCode": "852351",
+            "programId": "BTLAKXAS0001",
+            "type": "product",
+            "subType": "sd_card",
+            "category": "btlp",
+            "package": null,
+            "course": "K10",
+            "subCourse": null,
+            "grade": "6",
+            "subject": null,
+            "board": "CBSE",
+            "language": null,
+            "validityType": "year",
+            "validity": "2023",
+            "validityMonth": "MAY",
+            "brand": "D4",
+            "size": null,
+            "model": null,
+            "scheme": null,
+            "skuSet": 1,
+            "cohortId": 22,
+            "ohProductId": "1950380",
+            "productState": null,
+            "isValidSku": true,
+            "remarks": null,
+            "validatedAt": "2021-11-09T14:43:50.085Z",
+            "financeCode": "DD06CB",
+            "sprId": null,
+            "orgFormattedName": "byjus",
+            "createdBy": "ayushi.bansal@byjus.com",
+            "updatedBy": "price_update_datafix",
+            "createdAt": "2021-11-09T14:43:50.084Z",
+            "updatedAt": "2022-09-23T10:32:38.848Z",
+            "deletedAt": null,
+            "itemType": "course",
+            "price": 21660,
+            "combinationType": "btlp",
+            "itemId": "I-GJuP3rB17yFYq-mAGe05z7",
+            "tabletId": "T-SBXMGZ-Shubham singh",
+            "pricingSchemeMultiplier": 1,
+            "studentId": "Shubham singh-1",
+            "name": "6th Grade D4 CBSE SD Card May 2023",
+            "sku": "6th Grade D4 CBSE SD Card May 2023"
+          },
+          {
+            "id": 3674,
+            "skuId": "SBXMGZ",
+            "imageUrl": null,
+            "skuName": "BYJU'S LearnStation 10inch Mobile Data Grey Tablet",
+            "status": "active",
+            "orgId": "ORG-1",
+            "city": null,
+            "basePrice": 13000,
+            "continuousPrice": 13000,
+            "hsnCode": "847130",
+            "programId": "TLP2UCHW0001",
+            "type": "product",
+            "subType": "tablet",
+            "category": "tablet",
+            "package": null,
+            "course": "",
+            "subCourse": null,
+            "grade": null,
+            "subject": null,
+            "board": null,
+            "language": null,
+            "validityType": "N/A",
+            "validity": "MAY 2023",
+            "validityMonth": null,
+            "brand": "learn_station",
+            "size": null,
+            "model": null,
+            "scheme": null,
+            "skuSet": 1,
+            "cohortId": null,
+            "ohProductId": "1983632",
+            "productState": "new",
+            "isValidSku": true,
+            "remarks": null,
+            "validatedAt": null,
+            "financeCode": "SBXMGZ",
+            "sprId": null,
+            "orgFormattedName": "byjus",
+            "createdBy": "harshit.bhatt@byjus.com",
+            "updatedBy": "price_update_datafix",
+            "createdAt": "2021-12-07T07:36:01.231Z",
+            "updatedAt": "2022-09-26T07:44:24.812Z",
+            "deletedAt": null,
+            "price": 13000,
+            "itemType": "tablet",
+            "itemId": "zJw5gJxavQW_6MzgQ-kUqaYa",
+            "pricingSchemeMultiplier": 1,
+            "studentId": "Shubham singh-1",
+            "tabletId": "T-SBXMGZ-Shubham singh",
+            "name": "BYJU'S LearnStation 10inch Mobile Data Grey Tablet",
+            "sku": "BYJU'S LearnStation 10inch Mobile Data Grey Tablet"
+          },
+          {
+            "id": 9776,
+            "skuId": "BT00RGNA",
+            "imageUrl": null,
+            "skuName": "Hybrid Tuition Program at BYJU'S Tuition Centre Registration",
+            "status": "active",
+            "orgId": "ORG-1",
+            "city": null,
+            "basePrice": 5000,
+            "continuousPrice": 0,
+            "hsnCode": "999293",
+            "programId": "BCRPUCSY0001",
+            "type": "service",
+            "subType": "crp",
+            "category": "btc_registration",
+            "package": null,
+            "course": "K10",
+            "subCourse": null,
+            "grade": null,
+            "subject": null,
+            "board": null,
+            "language": null,
+            "validityType": "N/A",
+            "validity": null,
+            "validityMonth": null,
+            "brand": null,
+            "size": null,
+            "model": null,
+            "scheme": null,
+            "skuSet": 1,
+            "cohortId": null,
+            "ohProductId": "1990860",
+            "productState": null,
+            "isValidSku": true,
+            "remarks": null,
+            "validatedAt": null,
+            "financeCode": "BT00RG",
+            "sprId": null,
+            "orgFormattedName": "byjus",
+            "createdBy": "harshit.bhatt@byjus.com",
+            "updatedBy": "harshit.bhatt@byjus.com",
+            "createdAt": "2022-05-11T10:34:16.484Z",
+            "updatedAt": "2022-05-11T10:34:16.486Z",
+            "deletedAt": null,
+            "price": 5000,
+            "itemId": "dLBV5-5vF5S5jLTh-pF762rL",
+            "pricingSchemeMultiplier": 1,
+            "studentId": "Shubham singh-1",
+            "tabletId": "T-SBXMGZ-Shubham singh",
+            "name": "Hybrid Tuition Program at BYJU'S Tuition Centre Registration",
+            "sku": "Hybrid Tuition Program at BYJU'S Tuition Centre Registration",
+            "itemType": "crp"
+          }
+        ],
+        "addOnItems": [],
+        "mentoringDetails": [
+          {
+            "type": "blc",
+            "sessions": [
+              {
+                "day": "Mon",
+                "is_mandatory": "",
+                "time": "1:0:PM-3:0:PM"
+              },
+              {
+                "day": "Tue",
+                "is_mandatory": "",
+                "time": "1:0:PM-3:0:PM"
+              },
+              {
+                "day": "Wed",
+                "is_mandatory": "",
+                "time": "1:0:PM-3:0:PM"
+              },
+              {
+                "day": "Thu",
+                "is_mandatory": "",
+                "time": "1:0:PM-3:0:PM"
+              },
+              {
+                "day": "Fri",
+                "is_mandatory": "",
+                "time": "1:0:PM-3:0:PM"
+              }
+            ]
+          }
+        ],
+        "bhlpCourseDetails": [
+          {
+            "batchId": "3244",
+            "batchName": "Standard_VI_22_CBSE_Bengaluru_Bangalore_HSR_Center_6_2022_7_4_7203",
+            "startDate": "2022-07-04T00:00:00.000Z",
+            "endDate": "2023-02-28T00:00:00.000Z",
+            "batchType": "weekday",
+            "centreId": "11",
+            "status": "active",
+            "cohortId": 22,
+            "commencementDate": "2022-11-05T00:00:00.000Z",
+            "productType": "HTP_BLC",
+            "blcCourse": {
+              "courseAliasId": "423",
+              "courseAliasName": "22_1_2022_3_21_c2af"
+            },
+            "slots": [
+              {
+                "day": "Mon",
+                "startTime": "1:0:PM",
+                "endTime": "3:0:PM"
+              },
+              {
+                "day": "Tue",
+                "startTime": "1:0:PM",
+                "endTime": "3:0:PM"
+              },
+              {
+                "day": "Wed",
+                "startTime": "1:0:PM",
+                "endTime": "3:0:PM"
+              },
+              {
+                "day": "Thu",
+                "startTime": "1:0:PM",
+                "endTime": "3:0:PM"
+              },
+              {
+                "day": "Fri",
+                "startTime": "1:0:PM",
+                "endTime": "3:0:PM"
+              }
+            ],
+            "batchOffers": []
+          }
+        ],
+        "featureTag": [
+          "victory-k4-9-india"
+        ],
+        "_id": {
+          "oid": "635b76cec4bacf001a77baf1"
+        },
+        "board": "CBSE",
+        "validity": "2023",
+        "tablet": "SBXMGZ",
+        "initialClass": "6",
+        "course": "K10/K12",
+        "formValues": {
+          "state": "17",
+          "city": "3",
+          "centre": "11",
+          "board": "CBSE",
+          "stateBoard": "",
+          "validity": 2023,
+          "batchType": "weekday",
+          "tablet": "SBXMGZ",
+          "initialClass": "6",
+          "schoolName": "",
+          "schoolAddress": "undefined",
+          "pincode": "560102",
+          "tabletId": "",
+          "voucherApplied": false,
+          "course": "K10/K12",
+          "featureTag": [
+            "victory-k4-9-india"
+          ],
+          "requestedBatchId": "3244",
+          "cohortId": 22,
+          "courseAliasId": "423",
+          "stateName": "Karnataka",
+          "cityName": "Bengaluru",
+          "centreName": "Bangalore - HSR Center",
+          "mentoringDetails": [
+            {
+              "type": "blc",
+              "sessions": [
+                {
+                  "day": "Mon",
+                  "is_mandatory": "",
+                  "time": "1:0:PM-3:0:PM"
+                },
+                {
+                  "day": "Tue",
+                  "is_mandatory": "",
+                  "time": "1:0:PM-3:0:PM"
+                },
+                {
+                  "day": "Wed",
+                  "is_mandatory": "",
+                  "time": "1:0:PM-3:0:PM"
+                },
+                {
+                  "day": "Thu",
+                  "is_mandatory": "",
+                  "time": "1:0:PM-3:0:PM"
+                },
+                {
+                  "day": "Fri",
+                  "is_mandatory": "",
+                  "time": "1:0:PM-3:0:PM"
+                }
+              ]
+            }
+          ],
+          "bhlpCourseDetails": {
+            "batchId": "3244",
+            "batchName": "Standard_VI_22_CBSE_Bengaluru_Bangalore_HSR_Center_6_2022_7_4_7203",
+            "startDate": "2022-07-04T00:00:00.000Z",
+            "endDate": "2023-02-28T00:00:00.000Z",
+            "batchType": "weekday",
+            "centreId": "11",
+            "status": "active",
+            "cohortId": 22,
+            "commencementDate": "2022-11-05T00:00:00.000Z",
+            "productType": "HTP_BLC",
+            "blcCourse": {
+              "courseAliasId": "423",
+              "courseAliasName": "22_1_2022_3_21_c2af"
+            },
+            "slots": [
+              {
+                "day": "Mon",
+                "startTime": "1:0:PM",
+                "endTime": "3:0:PM"
+              },
+              {
+                "day": "Tue",
+                "startTime": "1:0:PM",
+                "endTime": "3:0:PM"
+              },
+              {
+                "day": "Wed",
+                "startTime": "1:0:PM",
+                "endTime": "3:0:PM"
+              },
+              {
+                "day": "Thu",
+                "startTime": "1:0:PM",
+                "endTime": "3:0:PM"
+              },
+              {
+                "day": "Fri",
+                "startTime": "1:0:PM",
+                "endTime": "3:0:PM"
+              }
+            ],
+            "batchOffers": []
+          },
+          "isTabletLock": false
+        },
+        "tabletLock": "not_applicable",
+        "productSelectionType": "byjus_learning_centre",
+        "studentName": "Shubham singh",
+        "studentId": "Shubham singh-1",
+        "academicDetails": {
+          "mathPercent": null,
+          "sciencePercent": null,
+          "fotTrackId": null,
+          "proficiency": null,
+          "schoolDetails": {
+            "id": null,
+            "name": "",
+            "address": "undefined",
+            "pincode": null
+          },
+          "languageOfInstruction": null,
+          "languageOfInstructionId": null
+        },
+        "centreDetails": {
+          "stateId": "17",
+          "state": "Karnataka",
+          "cityId": "3",
+          "city": "Bengaluru",
+          "centreId": "11",
+          "centre": "Bangalore - HSR Center",
+          "requestedBatchId": "3244",
+          "requestId": "BR-2210280632000082",
+          "batchType": "weekday",
+          "courseAliasId": "423",
+          "cohortId": "22",
+          "pincode": "560102"
+        },
+        "premiumAccount": "1870995350"
+      }
+    ],
+    "orderPunchingType": "NORMAL_ORDER",
+    "orderPunchingCategory": "blc",
+    "paymentDetails": {
+      "payments": [
+        {
+          "isPrepaid": true,
+          "_id": {
+            "oid": "635b76fdc4bacf001a77bb1b"
+          },
+          "provider": "CHEQUE",
+          "referenceId": "16669386203427-3453453452909",
+          "amount": 56000,
+          "additionalDetails": {
+            "bank": "dcb"
+          },
+          "attachments": [
+            {
+              "_id": {
+                "oid": "635b76fdc4bacf001a77bb1c"
+              },
+              "name": "cheque",
+              "url": "https://orderhive-payments.s3.ap-southeast-1.amazonaws.com/development/635b75ca7bc6ae001c973863/cheque/cheque-20221028_12007450.png"
+            }
+          ],
+          "type": "DOWN_PAYMENT",
+          "currency": "",
+          "isActive": true
+        }
+      ],
+      "paymentMethod": "NGP",
+      "paymentStatus": "NOT_PAID",
+      "paymentMode": "CHEQUE",
+      "paymentAmountSplit": "56000",
+      "totalAmount": 56000
+    },
+    "leadDetails": {
+      "prospectId": "sdf667sudfh",
+      "accountNo": "24692",
+      "loggedInEmailId": "praz@byjus.com",
+      "leadCreatedBy": "",
+      "leadCreatedAt": null,
+      "leadMobileNo": "+91-8736576846",
+      "isLeadMobileUsed": true,
+      "leadLink": "https://run.leadsquared.com/LeadManagement/LeadDetails?LeadID=sdf667sudfh"
+    },
+    "contactDetails": {
+      "orderPunchingContact": "8736576846",
+      "cxProvidedContact": "8736576846",
+      "leadContact": "8736576846",
+      "gpContact": "",
+      "ngpContact": "",
+      "lpContact": ""
+    },
+    "type": "product",
+    "subType": "course",
+    "status": "not_confirmed",
+    "category": "sales",
+    "statusReason": "DP_NOT_CONFIRMED",
+    "actionDetails": {
+      "createdAt": {
+        "date": {
+          "numberLong": "1666938720355"
+        }
+      },
+      "createdBy": "praz@byjus.com",
+      "notConfirmedAt": {
+        "date": {
+          "numberLong": "1666938720659"
+        }
+      },
+      "notConfirmedBy": "draft_order_job"
+    },
+    "createdAt": {
+      "date": {
+        "numberLong": "1666938628458"
+      }
+    },
+    "updatedat": {
+      "date": {
+        "numberLong": "1666938720355"
+      }
+    },
+    "sourceDetails": null,
+    "assignmentCategory": "ls_k10",
+    "orderBatchId": "",
+    "updatedAt": {
+      "date": {
+        "numberLong": "1666938722358"
+      }
+    },
+    "estimatedDispatchDate": {
+      "date": {
+        "numberLong": "1667025120670"
+      }
+    },
+    "salesOrderStatus": "not_confirmed"
+  }

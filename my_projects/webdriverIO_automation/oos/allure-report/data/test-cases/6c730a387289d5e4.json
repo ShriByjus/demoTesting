@@ -1,0 +1,52 @@
+{
+  "uid" : "6c730a387289d5e4",
+  "name" : "",
+  "fullName" : "Verify OMS test cases.",
+  "historyId" : "fa557fdc4b9ae526ce16d2672f5737a1",
+  "time" : {
+    "start" : 1668764559015,
+    "stop" : 1668764559015,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Verify OMS test cases"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify OMS test cases"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "Verify OMS test cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6c730a387289d5e4.json",
+  "parameterValues" : [ ]
+}

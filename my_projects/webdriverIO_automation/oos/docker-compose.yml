@@ -1,0 +1,29 @@
+# This file will serve the base configurations for CI and local envrionments
+version: "3.4"
+services:
+  selenoid_oms:
+    image: "aerokube/selenoid:latest"
+    container_name: selenoid_oms
+    ports:
+      - "4444:4444"
+    networks:
+      - selenoid_oms
+    environment:
+      - TZ=Asia/Kolkata
+
+# this is the custom build app which contains our automation test scripts
+  e2e:
+    image: e2e-test
+    build: . # it takes the path of the dockerfile and builds it
+    depends_on:
+      - selenoid_oms
+    links:
+      - selenoid_oms
+    networks:
+      - selenoid_oms
+    volumes:
+      - "./allure-results:/usr/lib/wdio/allure-results" # volume mapping the allure results
+
+networks:
+  selenoid_oms:
+    name: selenoid_oms

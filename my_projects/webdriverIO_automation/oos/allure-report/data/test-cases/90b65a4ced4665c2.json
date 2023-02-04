@@ -1,0 +1,152 @@
+{
+  "uid" : "90b65a4ced4665c2",
+  "name" : "Verify PID is generated",
+  "fullName" : "Validating UKG Single order.Verify PID is generated",
+  "historyId" : "e37ecb922eefec8fdae3d45ea61658b6",
+  "time" : {
+    "start" : 1669883059606,
+    "stop" : 1669883060149,
+    "duration" : 543
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 6,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Scroll to PID button",
+      "time" : {
+        "start" : 1669883059606,
+        "stop" : 0,
+        "duration" : -1669883059606
+      },
+      "status" : "unknown",
+      "steps" : [ {
+        "name" : "Verify the PID is displayed",
+        "time" : {
+          "start" : 1669883060137,
+          "stop" : 1669883060149,
+          "duration" : 12
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify PID is generated"
+  }, {
+    "name" : "package",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.121"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a93ee327b92721d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669789678307,
+        "stop" : 1669789678851,
+        "duration" : 544
+      }
+    }, {
+      "uid" : "5e7f630a2acb71c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669789572743,
+        "stop" : 1669789573284,
+        "duration" : 541
+      }
+    }, {
+      "uid" : "93aa61225dc9736f",
+      "status" : "broken",
+      "statusDetails" : "Can't call scrollIntoView on element with selector \"//td[@class='align-middle text-uppercase']//a\" because element wasn't found",
+      "time" : {
+        "start" : 1669788381402,
+        "stop" : 1669788431630,
+        "duration" : 50228
+      }
+    }, {
+      "uid" : "43dd77da63bc7711",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669786646349,
+        "stop" : 1669786646902,
+        "duration" : 553
+      }
+    }, {
+      "uid" : "b7bb6c34bb089d1c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669784237621,
+        "stop" : 1669784238167,
+        "duration" : 546
+      }
+    }, {
+      "uid" : "71aef658071e1a76",
+      "status" : "broken",
+      "statusDetails" : "no such window: target window already closed\n                from unknown error: web view not found\n                  (Session info: chrome=107.0.5304.121)",
+      "time" : {
+        "start" : 1669702919227,
+        "stop" : 1669702919234,
+        "duration" : 7
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "90b65a4ced4665c2.json",
+  "parameterValues" : [ "chrome-107.0.5304.121" ]
+}

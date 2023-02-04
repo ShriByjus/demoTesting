@@ -1,0 +1,6 @@
+"courseDetails","skuId","skuName"
+"Single order validation for UKG with CBSE","DDLKNA23,SBXMGZ","LKG Grade D4 SD Card May 2023,BYJU'S LearnStation 10inch Mobile Data Grey Tablet"
+"Combo order validation for UKG-LKG with CBSE","DDLKNA23,DDUKNA24,SBXMGZ","LKG Grade D4 SD Card May 2023,UKG Grade D4 SD Card May 2024,BYJU'S LearnStation 10inch Mobile Data Grey Tablet"
+"Single Sibling order validation for UKG-LKG with CBSE","DDLKNA23,DDUKNA24,SBXMGZ","LKG Grade D4 SD Card May 2023,UKG Grade D4 SD Card May 2024,BYJU'S LearnStation 10inch Mobile Data Grey Tablet"
+"Two Sibling order validation for UKG-LKG with both as CBSE","DDLKNA23,DDUKNA24,SBXMGZ,DDLKNA23,DDUKNA24","LKG Grade D4 SD Card May 2023,UKG Grade D4 SD Card May 2024,BYJU'S LearnStation 10inch Mobile Data Grey Tablet,LKG Grade D4 SD Card May 2023,UKG Grade D4 SD Card May 2024"
+"Streaming order validation for 4th and 5th class with CBSE","ST04CB23,ST05CB24","4th (Streaming) May-2023,5th (Streaming) May-2024"

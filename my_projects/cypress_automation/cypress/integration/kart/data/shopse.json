@@ -1,0 +1,34 @@
+{  
+    "comments" : [
+
+    ], 
+    "orgFormattedName" : [
+        "byjus"
+    ], 
+    "referenceId" : "BYJSSE449234323", 
+    "customerPhone" : "9000000000", 
+    "amount" : 30000, 
+    "courseDescription" : "Byjus Product Payment created from automation kart", 
+    "customerName" : "Shruti", 
+    "customerEmail" : "sonuthe0@gmail.com", 
+    "salesEmail" : "pooja.a@byjus.com", 
+    "status" : "SUCCESS", 
+    "reason" : "Payment is initiated", 
+    "leadId" : "78567uyy", 
+    "customerId" : "", 
+    "quotationId" : "", 
+    "createdBy" : "praz@byjus.com", 
+    "orders" : [
+
+    ], 
+    "createdAt" : {
+        "date" : "2021-05-31T03:35:40.796+0000"
+    },
+    "updatedAt" : {
+        "date" : "2021-05-31T03:36:48.665+0000"
+    },
+    "__v" : 0.0, 
+    "customFields" : {
+        "url" : "https://tiny.one/56uv5zw8"
+    }
+}

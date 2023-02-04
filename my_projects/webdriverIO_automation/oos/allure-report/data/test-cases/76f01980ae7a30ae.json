@@ -1,0 +1,311 @@
+{
+  "uid" : "76f01980ae7a30ae",
+  "name" : "btlp forward workflow",
+  "fullName" : "btlp workflow.btlp forward workflow",
+  "historyId" : "9008ac19438f9e95f8fc9a10f61720e7",
+  "time" : {
+    "start" : 1667565383945,
+    "stop" : 1667565568172,
+    "duration" : 184227
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 5,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Maximize the window",
+      "time" : {
+        "start" : 1667565383945,
+        "stop" : 0,
+        "duration" : -1667565383945
+      },
+      "status" : "unknown",
+      "steps" : [ {
+        "name" : "Open Byjus OMS page",
+        "time" : {
+          "start" : 1667565384074,
+          "stop" : 1667565388001,
+          "duration" : 3927
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "Login to the Home page",
+        "time" : {
+          "start" : 1667565388001,
+          "stop" : 0,
+          "duration" : -1667565388001
+        },
+        "status" : "unknown",
+        "steps" : [ {
+          "name" : "Open SSO Id",
+          "time" : {
+            "start" : 1667565410721,
+            "stop" : 0,
+            "duration" : -1667565410721
+          },
+          "status" : "unknown",
+          "steps" : [ {
+            "name" : "adding present owner",
+            "time" : {
+              "start" : 1667565422789,
+              "stop" : 0,
+              "duration" : -1667565422789
+            },
+            "status" : "unknown",
+            "steps" : [ {
+              "name" : "impersonating set up user",
+              "time" : {
+                "start" : 1667565434216,
+                "stop" : 0,
+                "duration" : -1667565434216
+              },
+              "status" : "unknown",
+              "steps" : [ {
+                "name" : "impersonating is done",
+                "time" : {
+                  "start" : 1667565448882,
+                  "stop" : 0,
+                  "duration" : -1667565448882
+                },
+                "status" : "unknown",
+                "steps" : [ {
+                  "name" : "Open SSO Id and mapping inventory & packaging",
+                  "time" : {
+                    "start" : 1667565454265,
+                    "stop" : 0,
+                    "duration" : -1667565454265
+                  },
+                  "status" : "unknown",
+                  "steps" : [ {
+                    "name" : "shipment creation",
+                    "time" : {
+                      "start" : 1667565531618,
+                      "stop" : 0,
+                      "duration" : -1667565531618
+                    },
+                    "status" : "unknown",
+                    "steps" : [ {
+                      "name" : "Get AWB no from DB",
+                      "time" : {
+                        "start" : 1667565535637,
+                        "stop" : 0,
+                        "duration" : -1667565535637
+                      },
+                      "status" : "unknown",
+                      "steps" : [ {
+                        "name" : "Wait for 5 sec to get AWB no from DB",
+                        "time" : {
+                          "start" : 1667565537228,
+                          "stop" : 0,
+                          "duration" : -1667565537228
+                        },
+                        "status" : "unknown",
+                        "steps" : [ {
+                          "name" : "creation of dispatchBatch",
+                          "time" : {
+                            "start" : 1667565537228,
+                            "stop" : 0,
+                            "duration" : -1667565537228
+                          },
+                          "status" : "unknown",
+                          "steps" : [ {
+                            "name" : "completed creation of dispatchBatch",
+                            "time" : {
+                              "start" : 1667565547871,
+                              "stop" : 0,
+                              "duration" : -1667565547871
+                            },
+                            "status" : "unknown",
+                            "steps" : [ ],
+                            "attachments" : [ ],
+                            "parameters" : [ ],
+                            "stepsCount" : 0,
+                            "attachmentsCount" : 0,
+                            "shouldDisplayMessage" : false,
+                            "hasContent" : false
+                          } ],
+                          "attachments" : [ ],
+                          "parameters" : [ ],
+                          "stepsCount" : 1,
+                          "attachmentsCount" : 0,
+                          "shouldDisplayMessage" : false,
+                          "hasContent" : true
+                        } ],
+                        "attachments" : [ ],
+                        "parameters" : [ ],
+                        "stepsCount" : 2,
+                        "attachmentsCount" : 0,
+                        "shouldDisplayMessage" : false,
+                        "hasContent" : true
+                      } ],
+                      "attachments" : [ ],
+                      "parameters" : [ ],
+                      "stepsCount" : 3,
+                      "attachmentsCount" : 0,
+                      "shouldDisplayMessage" : false,
+                      "hasContent" : true
+                    } ],
+                    "attachments" : [ ],
+                    "parameters" : [ ],
+                    "stepsCount" : 4,
+                    "attachmentsCount" : 0,
+                    "shouldDisplayMessage" : false,
+                    "hasContent" : true
+                  } ],
+                  "attachments" : [ ],
+                  "parameters" : [ ],
+                  "stepsCount" : 5,
+                  "attachmentsCount" : 0,
+                  "shouldDisplayMessage" : false,
+                  "hasContent" : true
+                } ],
+                "attachments" : [ ],
+                "parameters" : [ ],
+                "stepsCount" : 6,
+                "attachmentsCount" : 0,
+                "shouldDisplayMessage" : false,
+                "hasContent" : true
+              } ],
+              "attachments" : [ ],
+              "parameters" : [ ],
+              "stepsCount" : 7,
+              "attachmentsCount" : 0,
+              "shouldDisplayMessage" : false,
+              "hasContent" : true
+            } ],
+            "attachments" : [ ],
+            "parameters" : [ ],
+            "stepsCount" : 8,
+            "attachmentsCount" : 0,
+            "shouldDisplayMessage" : false,
+            "hasContent" : true
+          } ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 9,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 10,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 12,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 13,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "btlp workflow"
+  }, {
+    "name" : "testClass",
+    "value" : "btlp workflow"
+  }, {
+    "name" : "testMethod",
+    "value" : "btlp forward workflow"
+  }, {
+    "name" : "package",
+    "value" : "btlp workflow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.87"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "51c1d7e70e323294",
+      "status" : "passed",
+      "time" : {
+        "start" : 1667563705681,
+        "stop" : 1667563884195,
+        "duration" : 178514
+      }
+    }, {
+      "uid" : "3cfcea7c3c1f914f",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element <a href=\"/orders/product-sales-sub-orders/...\">SSO1-2211041736120325</a> is not clickable at point (473, 253). Other element would receive the click: <div tabindex=\"-1\" class=\"overlay\">...</div>\n                  (Session info: chrome=107.0.5304.87)",
+      "time" : {
+        "start" : 1667563577520,
+        "stop" : 1667563648483,
+        "duration" : 70963
+      }
+    }, {
+      "uid" : "8570095e52c97bb6",
+      "status" : "broken",
+      "statusDetails" : "_mongoconnect.default.getShipmentAWBNumberFromDB is not a function",
+      "time" : {
+        "start" : 1667561982133,
+        "stop" : 1667562138185,
+        "duration" : 156052
+      }
+    }, {
+      "uid" : "92e9fd49869d561f",
+      "status" : "broken",
+      "statusDetails" : "socket hang up",
+      "time" : {
+        "start" : 1667560892397,
+        "stop" : 1667560925519,
+        "duration" : 33122
+      }
+    }, {
+      "uid" : "224ab4ebeb847ed6",
+      "status" : "broken",
+      "statusDetails" : "socket hang up",
+      "time" : {
+        "start" : 1667559537338,
+        "stop" : 1667559541835,
+        "duration" : 4497
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "76f01980ae7a30ae.json",
+  "parameterValues" : [ "chrome-107.0.5304.87" ]
+}

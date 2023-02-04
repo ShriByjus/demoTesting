@@ -1,0 +1,17 @@
+{ 
+    
+    "status" : "success", 
+    "source" : "payment_app", 
+    "customerName" : "shruti", 
+    "phone" : "5445561231", 
+    "amount" : 1, 
+    "productInfo" : "cbse9th", 
+    "salesEmail" : "pooja.a@byjus.com", 
+    "createdBy" : "shruti.angadi@byjus.com", 
+    "location" : "", 
+    "campaign" : null, 
+    "orders" : [], 
+    "createdAt" : "2020-09-25T07:26:35.645+0000", 
+    "updatedAt" : "2020-09-25T07:26:35.645+0000", 
+    "__v" : 0
+}

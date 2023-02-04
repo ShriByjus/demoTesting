@@ -1,0 +1,204 @@
+{
+    "appId" : "2106080605162257",
+    "__v" : 0,
+    "actionDetails" : {
+        "loanInitiatedAt" : "2021-05-18T11:00:55.891Z",
+        "loanInitiatedBy" : "shruti.angadi@byjus.com",
+        "softApprovedAt" : "2021-05-18T11:12:12.077Z",
+        "softApprovedBy" : "shruti.angadi@byjus.com",
+        "docApprovedAt" : {
+            "date" : "2021-05-18T11:13:07.739+0000"
+        },
+        "docApprovedBy" : "shruti.angadi@byjus.com"
+    },
+    "addressDetails" : [
+        {
+            "_id" : {
+                "oid" : "60a3a14397e021e14936e4b2"
+            },
+            "mobileNo" : "8277922328"
+        } 
+    ],
+    "agNachEmailedAt" : null,
+    "amount" : 41000,
+    "approvedBy" : "shruti.angadi@byjus.com",
+    "approvedMrtMonths" : [
+     ],
+    "assignedBy" : "",
+    "assignedTo" : [
+     ],
+    "bankDetails" : {
+        "name" : "testing",
+        "bankName" : "ABHYUDAYA COOPERATIVE BANK LIMITED",
+        "accountNo" : "123987898745",
+        "accountType" : "savings",
+        "ifsc" : "ABHY0065001",
+        "micr" : "400065001"
+    },
+    "campaign" : "Belgaum",
+    "cibilFirstEmiDate" : {
+        "date" : "2021-07-07T00:00:00.000+0000"
+    },
+    "createdAt" : {
+        "date" : "2021-06-08T12:35:16.247+0000"
+    },
+    "customerDetails" : {
+        "firstName" : "test",
+        "lastName" : "test",
+        "studentName" : "test",
+        "emailAddress" : "test@gmail.com",
+        "dateOfBirth" : "01-05-1996"
+    },
+    "customerId" : "CX-2101221028000302",
+    "dateOfBirth" : "01051996",
+    "docVerifiedAt" : {
+        "date" : "2021-05-18T11:13:07.783+0000"
+    },
+    "documents" : {
+        "cancelledChequeOrBankStatement" : {
+            "badImageQualityReason" : "",
+            "format" : "png",
+            "uploadedAt" : {
+                "date" : "2021-05-18T11:10:51.550+0000"
+            },
+            "uploadedBy" : "shruti.angadi@byjus.com",
+            "url" : "https://s3-ap-southeast-1.amazonaws.com/byjus-oms/byjusassure/94398824220424/cancelledChequeOrBankStatement-cibil-20210518_16401250.png"
+        },
+        "applicantLivePhoto" : {
+            "badImageQualityReason" : "",
+            "format" : "png",
+            "uploadedAt" : {
+                "date" : "2021-05-18T11:11:08.552+0000"
+            },
+            "uploadedBy" : "shruti.angadi@byjus.com",
+            "url" : "https://s3-ap-southeast-1.amazonaws.com/byjus-oms/byjusassure/94398824220424/applicantLivePhoto-cibil-20210518_16411110.png"
+        },
+        "esignedLoanAgreement" : {
+            "url" : "https://byjus-oms.s3.ap-southeast-1.amazonaws.com/cibil/94398824220424/esignedLoanAgreement-20210518_16428670.pdf",
+            "format" : "pdf",
+            "uploadedBy" : "SYSTEM",
+            "uploadedAt" : {
+                "date" : "2021-05-18T11:12:03.229+0000"
+            }
+        },
+        "addressProof" : {
+            "badImageQualityReason" : "",
+            "format" : "png",
+            "uploadedAt" : {
+                "date" : "2021-05-18T11:10:39.650+0000"
+            },
+            "uploadedBy" : "shruti.angadi@byjus.com",
+            "url" : "https://s3-ap-southeast-1.amazonaws.com/byjus-oms/byjusassure/94398824220424/addressProof-cibil-20210518_16402110.png"
+        }
+    },
+    "downPayment" : 100000,
+    "eligibleForEmandate" : "Yes",
+    "eligibleForEnach" : "No",
+    "eligibleForUpiMandate" : "No",
+    "emandateDetails" : {
+        "relaunch" : "NA",
+        "relaunchCount" : 0,
+        "nachAgent" : "digio",
+        "nachId" : "",
+        "signStatus" : "signed",
+        "umrn" : "SBIN7022905210000788",
+        "registrationStatus" : "dest_register_success",
+        "rejectedReason" : ""
+    },
+    "emiSchedules" : [
+     ],
+    "enachDetails" : {
+        "relaunch" : "NA",
+        "relaunchCount" : 0,
+        "nachAgent" : "digio",
+        "nachId" : "",
+        "signStatus" : "",
+        "umrn" : "",
+        "registrationStatus" : "",
+        "rejectedReason" : ""
+    },
+    "esign" : [
+     ],
+    "identifierDetails" : {
+        "idType" : "aadhaar",
+        "idValue" : "2343"
+    },
+    "isActive" : true,
+    "loanDetails" : {
+        "totalPaidAmount": 0,
+                "tenure": 12,
+                "emi": "4167",
+                "emiCycle": 7,
+                "nachRegStatus": "dest_register_success",
+                "nachType": "emandate",
+                "umrn": "SBIN7022905210000788"
+    },
+    "lvStage": "LV - Positive Verification",
+
+    "loanHistory" : [
+     ],
+    "location" : "Bangalore",
+    "manualPayments" : [
+     ],
+    "nachDetails" : {
+        "hasBorder" : "",
+        "isFilledNachUploaded" : false,
+        "relaunch" : "NA",
+        "relaunchCount" : 0,
+        "nachAgent" : "digio",
+        "nachId" : "",
+        "signStatus" : "",
+        "sponsorBankStatus" : "",
+        "umrn" : "",
+        "registrationStatus" : "",
+        "rejectedReason" : "",
+        "autoRelaunch" : false,
+        "isPnachUploaded" : false,
+        "generatedNachCount" : 0,
+        "picGeneratedNachCount" : 0
+    },
+    "noc" : [
+     ],
+    "orders" : [
+    ],
+    "orgFormattedName" : "byjus",
+    "pennyDropResponse" : {
+        "status" : false,
+        "referenceId" : "QZrgWmL0",
+        "providerName" : "paynimo",
+        "receiverName" : "",
+        "fuzzyScore" : null,
+        "accountNumber" : "123987898745",
+        "ifsc" : "ABHY0065001",
+        "errorReason" : "NA"
+    },
+    "salesEmail" : "pooja.a@byjus.com",
+    "stage" : "inprogress",
+    "status" : "active",
+    "statusHistory" : [
+        {
+            "_id" : {
+                "oid" : "60a3a14397e0214eaf36e4b3"
+            },
+            "status" : "doc_approved",
+            "updatedBy" : "shruti.angadi@byjus.com",
+            "updatedAt" : {
+                "date" : "2021-05-18T11:13:07.000+0000"
+            }
+        } 
+    ],
+    "type" : "byjusassure",
+    "updatedAt" : {
+        "date" : "2021-06-08T12:35:16.247+0000"
+    },
+    "upiMandateDetails" : {
+        "relaunch" : "NA",
+        "relaunchCount" : 0,
+        "nachAgent" : "digio",
+        "nachId" : "",
+        "signStatus" : "",
+        "umrn" : "",
+        "registrationStatus" : "",
+        "rejectedReason" : ""
+    }
+}

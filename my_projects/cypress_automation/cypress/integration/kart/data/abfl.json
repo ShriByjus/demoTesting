@@ -1,0 +1,308 @@
+{
+    "loanDetails" : {
+        "processingFees" : 0,
+        "totalPaidAmount" : 0,
+        "preEmi" : 0,
+        "tenure" : 12,
+        "emi" : "3667",
+        "emiCycle" : 5
+    },
+    "nachDetails" : {
+        "hasBorder" : "no",
+        "isFilledNachUploaded" : false,
+        "relaunch" : "NA",
+        "relaunchCount" : 0,
+        "nachAgent" : "digio",
+        "nachId" : "ENA2111031644446123ML5H65O1S66PH",
+        "signStatus" : "partial",
+        "sponsorBankStatus" : "",
+        "umrn" : "",
+        "registrationStatus" : "",
+        "rejectedReason" : "",
+        "autoRelaunch" : false,
+        "isPnachUploaded" : false,
+        "generatedNachCount" : 0,
+        "picGeneratedNachCount" : 0,
+        "bankDetails" : {
+            "accountNumber" : "1378001700057003",
+            "ifsc" : "PUNB0125700",
+            "bankName" : "PUNJAB NATIONAL BANK",
+            "accountType" : "savings",
+            "name" : "Dhririri Rhrhrhrhrh"
+        },
+        "corporateConfigId" : "TSE181102131550399FKSM6QXVAM58WC",
+        "nachStartDate" : "2021-12-05T00:00:00.000Z",
+        "signAt" : "2021-11-03T11:14:45.676Z",
+        "signedAmount" : 44000,
+        "sponsorBank" : "KOTAK MAHINDRA BANK LTD",
+        "updatedAt" : "2021-11-03T11:14:45.676Z",
+        "updatedBy" : "testingbyjus89@gmail.com",
+        "utilityCode" : "NACHTEST000000000"
+    },
+    "enachDetails" : {
+        "relaunch" : "NA",
+        "relaunchCount" : 0,
+        "nachAgent" : "digio",
+        "nachId" : "",
+        "signStatus" : "",
+        "umrn" : "",
+        "registrationStatus" : "",
+        "rejectedReason" : ""
+    },
+    "emandateDetails" : {
+        "relaunch" : "NA",
+        "relaunchCount" : 0,
+        "nachAgent" : "digio",
+        "nachId" : "",
+        "signStatus" : "",
+        "umrn" : "",
+        "registrationStatus" : "",
+        "rejectedReason" : ""
+    },
+    "upiMandateDetails" : {
+        "relaunch" : "NA",
+        "relaunchCount" : 0,
+        "nachAgent" : "digio",
+        "nachId" : "",
+        "signStatus" : "",
+        "umrn" : "",
+        "registrationStatus" : "",
+        "rejectedReason" : ""
+    },
+    "documents" : {
+        "pan" : {
+            "format" : "png",
+            "uploadedAt" : "2021-11-03T10:06:28.699Z",
+            "uploadedBy" : "customer",
+            "url" : "https://s3-ap-southeast-1.amazonaws.com/byjus-oms/pan-cibil-20211103_15360240.jpeg"
+        },
+        "aadharFrontSide" : {
+            "format" : "png",
+            "uploadedAt" : "2021-11-03T10:08:44.615Z",
+            "uploadedBy" : "customer",
+            "url" : "https://s3-ap-southeast-1.amazonaws.com/byjus-oms/poaFront-cibil-20211103_15389910.jpeg"
+        },
+        "aadharBackSide" : {
+            "format" : "png",
+            "uploadedAt" : "2021-11-03T10:08:45.435Z",
+            "uploadedBy" : "customer",
+            "url" : "https://s3-ap-southeast-1.amazonaws.com/byjus-oms/poaBack-cibil-20211103_15387030.jpeg"
+        },
+        "aadhaarOkyc" : {
+            "url" : "https://byjus-auto-purge-development.s3.ap-south-1.amazonaws.com/abflOkycDocuments/94825884719960/docs/invoice-20211103_16222450.pdf",
+            "format" : "pdf",
+            "uploadedBy" : "SYSTEM",
+            "uploadedAt" : "2021-11-03T10:52:01.349Z"
+        },
+        "applicantLivePhoto" : {
+            "format" : "png",
+            "uploadedAt" : "2021-11-03T11:06:09.372Z",
+            "uploadedBy" : "customer",
+            "url" : "https://s3-ap-southeast-1.amazonaws.com/byjus-oms/applicantLivePhoto-cibil-20211103_16367980.png"
+        },
+        "generatedNachMandate" : {
+            "url" : "https://byjus-oms.s3.ap-southeast-1.amazonaws.com/cibil/94825884719960/generatedNachMandate-20211103_16449780.pdf",
+            "format" : "pdf"
+        },
+        "cancelledChequeOrBankStatement" : {
+            "format" : "jpeg",
+            "uploadedAt" : "2021-11-03T11:13:33.931Z",
+            "uploadedBy" : "customer",
+            "url" : "https://s3-ap-southeast-1.amazonaws.com/byjus-oms/cancelledChequeOrBankStatement-cibil-20211103_16432260.jpeg"
+        },
+        "passbook1" : {
+            "format" : "jpeg",
+            "uploadedAt" : "2021-11-03T10:27:53.376Z",
+            "uploadedBy" : "customer",
+            "url" : "https://s3-ap-southeast-1.amazonaws.com/byjus-oms/passbook1-cibil-20211103_15575800.jpeg"
+        },
+        "passbook2" : {
+            "format" : "jpeg",
+            "uploadedAt" : "2021-11-03T10:27:54.976Z",
+            "uploadedBy" : "customer",
+            "url" : "https://s3-ap-southeast-1.amazonaws.com/byjus-oms/passbook2-cibil-20211103_15572080.jpeg"
+        },
+        "passbook3" : {
+            "format" : "jpeg",
+            "uploadedAt" : "2021-11-03T10:27:56.397Z",
+            "uploadedBy" : "customer",
+            "url" : "https://s3-ap-southeast-1.amazonaws.com/byjus-oms/passbook3-cibil-20211103_15576110.jpeg"
+        },
+        "esignedLoanAgreement" : {
+            "url" : "https://byjus-oms.s3.ap-southeast-1.amazonaws.com/cibil/94825884719960/esignedLoanAgreement-20211103_16518410.pdf",
+            "format" : "pdf",
+            "uploadedBy" : "SYSTEM",
+            "uploadedAt" : "2021-11-03T11:21:27.096Z"
+        },
+        "additionalDocument" : {
+            "uploadedAt" : "2021-11-03T10:31:01.841Z",
+            "uploadedBy" : "customer",
+            "url" : "https://s3-ap-southeast-1.amazonaws.com/byjus-oms/additionalDocument-cibil-20211103_16010870.jpeg"
+        },
+        "aadhaarOkycXml" : {
+            "url" : "https://byjus-auto-purge-development.s3.ap-south-1.amazonaws.com/abflOkycDocuments/94825884719960/xml/aadhaarOKYCXml-20211103_16223500None",
+            "format" : "zip",
+            "uploadedBy" : "SYSTEM",
+            "uploadedAt" : "2021-11-03T10:52:01.404Z"
+        }
+    },
+    "foreclosure" : {
+        "principalOutstanding" : 0,
+        "bounceCharges" : 0,
+        "penalty" : 0,
+        "excessAmount" : 0,
+        "bpi" : 0,
+        "perDayInterest" : 0,
+        "perDayPenalInterest" : 0,
+        "foreclosureCharges" : 0,
+        "moratoriumCharges" : 0
+    },
+    "assignedTo" : [],
+    "isActive" : true,
+    "repeatCustomer" : null,
+    "workflowStatus" : "soft_approved",
+    "appId" : "94825884719960",
+    "orgFormattedName" : "byjus",
+    "abflCustomerId" : "288559",
+    "customerId" : "288559",
+    "asyncId" : "1ca6f8a3-bb3d-4c4f-aa69-57fefb06a19d",
+    "status" : "disbursed",
+    "customerDetails" : {
+        "title" : "Mr",
+        "firstName" : "VED",
+        "lastName" : "SHARMA",
+        "gender" : "Male",
+        "dateOfBirth" : "04031998",
+        "maritalStatus" : "UM"
+    },
+    "contactDetails" : {
+        "addressLine1" : "30, c sector sonagiri, behind beema hospital",
+        "addressLine2" : "sonagiri bhel bhopal, Huzur",
+        "addressLine3" : "",
+        "city" : "BHOPAL",
+        "state" : "MADHYA PRADESH",
+        "pincode" : "462022",
+        "mobileNo" : "8667850160",
+        "email" : "testingbyjus89@gmail.com",
+        "stateCode" : "23",
+        "cityCode" : "412"
+    },
+    "identifierDetails" : {
+        "panNo" : "KOEPS9121G"
+    },
+    "bankDetails" : {
+        "name" : "Dhririri Rhrhrhrhrh",
+        "bankName" : "PUNJAB NATIONAL BANK",
+        "accountNo" : "1378001700057003",
+        "ifsc" : "PUNB0125700",
+        "accountType" : "savings"
+    },
+    "cibilFirstEmiDate" : "2021-12-05T00:00:00.000Z",
+    "amount" : 4000,
+    "appliedLoanAmount" : 4055,
+    "salesEmail" : "pooja.a@byjus.com",
+    "approvedBy" : "pooja.a@byjus.com",
+    "pennyDropResponse" : {
+        "status" : true,
+        "referenceId" : "U78XGO4DWI18F5Z",
+        "providerName" : "digio",
+        "receiverName" : "BARATH SUBRAMANIAN C",
+        "fuzzyScore" : 15,
+        "accountNumber" : "1127108037303",
+        "ifsc" : "CNRB0001122",
+        "errorReason" : ""
+    },
+    "statusHistory" : [ 
+        {
+            "_id" : "6182734482de75131efd74b9",
+            "status" : "doc_approved",
+            "updatedBy" : "barath.subramanian@byjus.com",
+            "updatedAt" : "2021-11-03T11:32:20.415Z"
+        }, 
+        {
+            "_id" : "6182744c82de75661dfd755a",
+            "status" : "fin_ops_approved",
+            "updatedBy" : "barath.subramanian@byjus.com",
+            "updatedAt" : "2021-11-03T11:36:44.590Z"
+        }, 
+        {
+            "_id" : "6182746582de7552fbfd7578",
+            "status" : "pic_approved",
+            "updatedBy" : "barath.subramanian@byjus.com",
+            "updatedAt" : "2021-11-03T11:37:09.532Z"
+        }, 
+        {
+            "_id" : "6182924a82de75f6d7fd7bbd",
+            "status" : "sent_to_bank",
+            "updatedBy" : "barath.subramanian@byjus.com",
+            "updatedAt" : "2021-11-03T13:44:42.751Z"
+        }
+    ],
+    "docVerifiedAt" : "2021-11-03T11:32:20.421Z",
+    "eligibleForEmandate" : "Yes",
+    "agNachEmailedAt" : "2021-11-03T11:14:48.833Z",
+    "eligibleForEnach" : "No",
+    "occupation" : "SALARIED",
+    "actionDetails" : {
+        "loanInitiatedBy" : "barath.subramanian@byjus.com",
+        "loanInitiatedAt" : "2021-11-03T10:00:45.222Z",
+        "docApprovedAt" : "2021-11-03T11:32:20.415Z",
+        "docApprovedBy" : "barath.subramanian@byjus.com",
+        "finOpsApprovedAt" : "2021-11-03T11:36:44.591Z",
+        "finOpsApprovedBy" : "barath.subramanian@byjus.com",
+        "picApprovedAt" : "2021-11-03T11:37:09.532Z",
+        "picApprovedBy" : "barath.subramanian@byjus.com",
+        "loanCreatedAt" : "2021-11-03T13:44:42.751Z",
+        "loanCreatedBy" : "barath.subramanian@byjus.com"
+    },
+    "eligibleForUpiMandate" : "No",
+    "managerApprovalStatus" : "pending",
+    "abb" : 5556,
+    "finOpsCampaign" : "Chennai",
+    "kycDetails" : {
+        "kycInitiated" : true,
+        "completedAt" : "2021-11-03T10:52:01.349Z",
+        "id" : "1077038409178",
+        "otp" : "1234",
+        "status" : "approved",
+        "type" : "okyc",
+        "response" : {
+            "initiatedAt" : "2021-11-03T10:52:01.939Z",
+            "addressMatchResult" : true,
+            "dobMatchResult" : true,
+            "nameMatchResult" : true,
+            "nsdlNameMatchResult" : true,
+            "nsdlPanMatchResult" : true,
+            "pincodeMatchResult" : true,
+            "result" : "Approve",
+            "xmlSuccess" : true,
+            "yobPresent" : 0
+        }
+    },
+    "faceMatchResponse" : {
+        "initiatedAt" : "2021-11-03T11:06:09.434Z",
+        "live" : "yes",
+        "result" : "Approve"
+    },
+    "source" : "mobileapp",
+    "networkOperator" : "",
+    "mobileNumberValidatedAt" : null,
+    "courseAmount" : null,
+    "additionalScoringFactor" : {
+        "creditVidyaScore" : "",
+        "experianCibilScore" : "",
+        "trustingSocialScore" : ""
+    },
+    "emiSchedules" : [],
+    "orders" : [],
+    "manualPayments" : [],
+    "loanHistory" : [],
+    "esign" : [],
+    "createdAt" : "2021-11-03T11:32:20.443Z",
+    "updatedAt" : "2021-11-03T13:44:42.753Z",
+    "__v" : 0,
+    "createdBy" : "pooja.a@byjus.com",
+    "dealId" : "240718",
+    "dealNo" : "DXW-M07445-650240718",
+    "loanStartDate" : "2021-11-03T13:44:42.000Z"
+}

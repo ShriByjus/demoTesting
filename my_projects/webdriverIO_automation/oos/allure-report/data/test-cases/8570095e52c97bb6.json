@@ -1,0 +1,239 @@
+{
+  "uid" : "8570095e52c97bb6",
+  "name" : "btlp forward workflow",
+  "fullName" : "btlp workflow.btlp forward workflow",
+  "historyId" : "9008ac19438f9e95f8fc9a10f61720e7",
+  "time" : {
+    "start" : 1667561982133,
+    "stop" : 1667562138185,
+    "duration" : 156052
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "_mongoconnect.default.getShipmentAWBNumberFromDB is not a function",
+  "statusTrace" : "TypeError: _mongoconnect.default.getShipmentAWBNumberFromDB is not a function\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/Btlp_Smoke_Testings/forwardAndReveresFlow.js:65:44)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "_mongoconnect.default.getShipmentAWBNumberFromDB is not a function",
+    "statusTrace" : "TypeError: _mongoconnect.default.getShipmentAWBNumberFromDB is not a function\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/Btlp_Smoke_Testings/forwardAndReveresFlow.js:65:44)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+    "steps" : [ {
+      "name" : "Maximize the window",
+      "time" : {
+        "start" : 1667561982134,
+        "stop" : 1667562138185,
+        "duration" : 156051
+      },
+      "status" : "broken",
+      "statusMessage" : "TypeError: _mongoconnect.default.getShipmentAWBNumberFromDB is not a function\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/Btlp_Smoke_Testings/forwardAndReveresFlow.js:65:44)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+      "steps" : [ {
+        "name" : "Open Byjus OMS page",
+        "time" : {
+          "start" : 1667561982270,
+          "stop" : 1667561985989,
+          "duration" : 3719
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "Login to the Home page",
+        "time" : {
+          "start" : 1667561985989,
+          "stop" : 1667562138185,
+          "duration" : 152196
+        },
+        "status" : "broken",
+        "statusMessage" : "TypeError: _mongoconnect.default.getShipmentAWBNumberFromDB is not a function\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/Btlp_Smoke_Testings/forwardAndReveresFlow.js:65:44)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+        "steps" : [ {
+          "name" : "Open SSO Id",
+          "time" : {
+            "start" : 1667562014780,
+            "stop" : 1667562138185,
+            "duration" : 123405
+          },
+          "status" : "broken",
+          "statusMessage" : "TypeError: _mongoconnect.default.getShipmentAWBNumberFromDB is not a function\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/Btlp_Smoke_Testings/forwardAndReveresFlow.js:65:44)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+          "steps" : [ {
+            "name" : "adding present owner",
+            "time" : {
+              "start" : 1667562026449,
+              "stop" : 1667562138185,
+              "duration" : 111736
+            },
+            "status" : "broken",
+            "statusMessage" : "TypeError: _mongoconnect.default.getShipmentAWBNumberFromDB is not a function\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/Btlp_Smoke_Testings/forwardAndReveresFlow.js:65:44)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+            "steps" : [ {
+              "name" : "impersonating set up user",
+              "time" : {
+                "start" : 1667562038703,
+                "stop" : 1667562138185,
+                "duration" : 99482
+              },
+              "status" : "broken",
+              "statusMessage" : "TypeError: _mongoconnect.default.getShipmentAWBNumberFromDB is not a function\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/Btlp_Smoke_Testings/forwardAndReveresFlow.js:65:44)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+              "steps" : [ {
+                "name" : "impersonating is done",
+                "time" : {
+                  "start" : 1667562053703,
+                  "stop" : 1667562138185,
+                  "duration" : 84482
+                },
+                "status" : "broken",
+                "statusMessage" : "TypeError: _mongoconnect.default.getShipmentAWBNumberFromDB is not a function\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/Btlp_Smoke_Testings/forwardAndReveresFlow.js:65:44)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+                "steps" : [ {
+                  "name" : "Open SSO Id and mapping inventory & packaging",
+                  "time" : {
+                    "start" : 1667562057100,
+                    "stop" : 1667562138185,
+                    "duration" : 81085
+                  },
+                  "status" : "broken",
+                  "statusMessage" : "TypeError: _mongoconnect.default.getShipmentAWBNumberFromDB is not a function\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/Btlp_Smoke_Testings/forwardAndReveresFlow.js:65:44)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+                  "steps" : [ {
+                    "name" : "shipment creation",
+                    "time" : {
+                      "start" : 1667562133500,
+                      "stop" : 1667562138185,
+                      "duration" : 4685
+                    },
+                    "status" : "broken",
+                    "statusMessage" : "TypeError: _mongoconnect.default.getShipmentAWBNumberFromDB is not a function\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/Btlp_Smoke_Testings/forwardAndReveresFlow.js:65:44)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+                    "steps" : [ {
+                      "name" : "Get AWB no from DB",
+                      "time" : {
+                        "start" : 1667562138009,
+                        "stop" : 1667562138185,
+                        "duration" : 176
+                      },
+                      "status" : "broken",
+                      "statusMessage" : "TypeError: _mongoconnect.default.getShipmentAWBNumberFromDB is not a function\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/Btlp_Smoke_Testings/forwardAndReveresFlow.js:65:44)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+                      "steps" : [ ],
+                      "attachments" : [ {
+                        "uid" : "9b46559beaea4e18",
+                        "name" : "Screenshot",
+                        "source" : "9b46559beaea4e18.png",
+                        "type" : "image/png",
+                        "size" : 263405
+                      } ],
+                      "parameters" : [ ],
+                      "stepsCount" : 0,
+                      "attachmentsCount" : 1,
+                      "shouldDisplayMessage" : true,
+                      "hasContent" : true
+                    } ],
+                    "attachments" : [ ],
+                    "parameters" : [ ],
+                    "stepsCount" : 1,
+                    "attachmentsCount" : 1,
+                    "shouldDisplayMessage" : false,
+                    "hasContent" : true
+                  } ],
+                  "attachments" : [ ],
+                  "parameters" : [ ],
+                  "stepsCount" : 2,
+                  "attachmentsCount" : 1,
+                  "shouldDisplayMessage" : false,
+                  "hasContent" : true
+                } ],
+                "attachments" : [ ],
+                "parameters" : [ ],
+                "stepsCount" : 3,
+                "attachmentsCount" : 1,
+                "shouldDisplayMessage" : false,
+                "hasContent" : true
+              } ],
+              "attachments" : [ ],
+              "parameters" : [ ],
+              "stepsCount" : 4,
+              "attachmentsCount" : 1,
+              "shouldDisplayMessage" : false,
+              "hasContent" : true
+            } ],
+            "attachments" : [ ],
+            "parameters" : [ ],
+            "stepsCount" : 5,
+            "attachmentsCount" : 1,
+            "shouldDisplayMessage" : false,
+            "hasContent" : true
+          } ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 6,
+          "attachmentsCount" : 1,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 7,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 9,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 10,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "btlp workflow"
+  }, {
+    "name" : "testClass",
+    "value" : "btlp workflow"
+  }, {
+    "name" : "testMethod",
+    "value" : "btlp forward workflow"
+  }, {
+    "name" : "package",
+    "value" : "btlp workflow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.87"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8570095e52c97bb6.json",
+  "parameterValues" : [ "chrome-107.0.5304.87" ]
+}

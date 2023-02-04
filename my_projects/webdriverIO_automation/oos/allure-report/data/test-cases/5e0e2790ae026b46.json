@@ -1,0 +1,277 @@
+{
+  "uid" : "5e0e2790ae026b46",
+  "name" : "btlp forward workflow",
+  "fullName" : "btlp workflow.btlp forward workflow",
+  "historyId" : "467670faa11f85960ee19538e6effdec",
+  "time" : {
+    "start" : 1669981018904,
+    "stop" : 1669981200539,
+    "duration" : 181635
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "element (\"button[title='Scan & Assign']\") still not displayed after 5000ms",
+  "statusTrace" : "Error: element (\"button[title='Scan & Assign']\") still not displayed after 5000ms\n                    at OMShomepages.createDispatchBatchBtlp (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/omsSmokeData.js:1116:9)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/Btlp_Smoke_Testings/forwardAndReveresFlow.js:68:9)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "element (\"button[title='Scan & Assign']\") still not displayed after 5000ms",
+    "statusTrace" : "Error: element (\"button[title='Scan & Assign']\") still not displayed after 5000ms\n                    at OMShomepages.createDispatchBatchBtlp (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/omsSmokeData.js:1116:9)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/Btlp_Smoke_Testings/forwardAndReveresFlow.js:68:9)",
+    "steps" : [ {
+      "name" : "Maximize the window",
+      "time" : {
+        "start" : 1669981018905,
+        "stop" : 1669981200539,
+        "duration" : 181634
+      },
+      "status" : "broken",
+      "statusMessage" : "Error: element (\"button[title='Scan & Assign']\") still not displayed after 5000ms\n                    at OMShomepages.createDispatchBatchBtlp (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/omsSmokeData.js:1116:9)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/Btlp_Smoke_Testings/forwardAndReveresFlow.js:68:9)",
+      "steps" : [ {
+        "name" : "Open Byjus OMS page",
+        "time" : {
+          "start" : 1669981019316,
+          "stop" : 1669981022657,
+          "duration" : 3341
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "Login to the Home page",
+        "time" : {
+          "start" : 1669981022657,
+          "stop" : 1669981200539,
+          "duration" : 177882
+        },
+        "status" : "broken",
+        "statusMessage" : "Error: element (\"button[title='Scan & Assign']\") still not displayed after 5000ms\n                    at OMShomepages.createDispatchBatchBtlp (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/omsSmokeData.js:1116:9)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/Btlp_Smoke_Testings/forwardAndReveresFlow.js:68:9)",
+        "steps" : [ {
+          "name" : "Open SSO Id",
+          "time" : {
+            "start" : 1669981046513,
+            "stop" : 1669981200539,
+            "duration" : 154026
+          },
+          "status" : "broken",
+          "statusMessage" : "Error: element (\"button[title='Scan & Assign']\") still not displayed after 5000ms\n                    at OMShomepages.createDispatchBatchBtlp (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/omsSmokeData.js:1116:9)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/Btlp_Smoke_Testings/forwardAndReveresFlow.js:68:9)",
+          "steps" : [ {
+            "name" : "adding present owner",
+            "time" : {
+              "start" : 1669981060997,
+              "stop" : 1669981200539,
+              "duration" : 139542
+            },
+            "status" : "broken",
+            "statusMessage" : "Error: element (\"button[title='Scan & Assign']\") still not displayed after 5000ms\n                    at OMShomepages.createDispatchBatchBtlp (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/omsSmokeData.js:1116:9)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/Btlp_Smoke_Testings/forwardAndReveresFlow.js:68:9)",
+            "steps" : [ {
+              "name" : "impersonating set up user",
+              "time" : {
+                "start" : 1669981072375,
+                "stop" : 1669981200539,
+                "duration" : 128164
+              },
+              "status" : "broken",
+              "statusMessage" : "Error: element (\"button[title='Scan & Assign']\") still not displayed after 5000ms\n                    at OMShomepages.createDispatchBatchBtlp (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/omsSmokeData.js:1116:9)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/Btlp_Smoke_Testings/forwardAndReveresFlow.js:68:9)",
+              "steps" : [ {
+                "name" : "impersonating is done",
+                "time" : {
+                  "start" : 1669981089553,
+                  "stop" : 1669981200539,
+                  "duration" : 110986
+                },
+                "status" : "broken",
+                "statusMessage" : "Error: element (\"button[title='Scan & Assign']\") still not displayed after 5000ms\n                    at OMShomepages.createDispatchBatchBtlp (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/omsSmokeData.js:1116:9)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/Btlp_Smoke_Testings/forwardAndReveresFlow.js:68:9)",
+                "steps" : [ {
+                  "name" : "Open SSO Id and mapping inventory & packaging",
+                  "time" : {
+                    "start" : 1669981094474,
+                    "stop" : 1669981200539,
+                    "duration" : 106065
+                  },
+                  "status" : "broken",
+                  "statusMessage" : "Error: element (\"button[title='Scan & Assign']\") still not displayed after 5000ms\n                    at OMShomepages.createDispatchBatchBtlp (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/omsSmokeData.js:1116:9)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/Btlp_Smoke_Testings/forwardAndReveresFlow.js:68:9)",
+                  "steps" : [ {
+                    "name" : "shipment creation",
+                    "time" : {
+                      "start" : 1669981172719,
+                      "stop" : 1669981200539,
+                      "duration" : 27820
+                    },
+                    "status" : "broken",
+                    "statusMessage" : "Error: element (\"button[title='Scan & Assign']\") still not displayed after 5000ms\n                    at OMShomepages.createDispatchBatchBtlp (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/omsSmokeData.js:1116:9)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/Btlp_Smoke_Testings/forwardAndReveresFlow.js:68:9)",
+                    "steps" : [ {
+                      "name" : "Get AWB no from DB",
+                      "time" : {
+                        "start" : 1669981182218,
+                        "stop" : 1669981200539,
+                        "duration" : 18321
+                      },
+                      "status" : "broken",
+                      "statusMessage" : "Error: element (\"button[title='Scan & Assign']\") still not displayed after 5000ms\n                    at OMShomepages.createDispatchBatchBtlp (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/omsSmokeData.js:1116:9)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/Btlp_Smoke_Testings/forwardAndReveresFlow.js:68:9)",
+                      "steps" : [ {
+                        "name" : "Wait for 5 sec to get AWB no from DB",
+                        "time" : {
+                          "start" : 1669981184215,
+                          "stop" : 1669981200539,
+                          "duration" : 16324
+                        },
+                        "status" : "broken",
+                        "statusMessage" : "Error: element (\"button[title='Scan & Assign']\") still not displayed after 5000ms\n                    at OMShomepages.createDispatchBatchBtlp (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/omsSmokeData.js:1116:9)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/Btlp_Smoke_Testings/forwardAndReveresFlow.js:68:9)",
+                        "steps" : [ {
+                          "name" : "creation of dispatchBatch",
+                          "time" : {
+                            "start" : 1669981184215,
+                            "stop" : 1669981200539,
+                            "duration" : 16324
+                          },
+                          "status" : "broken",
+                          "statusMessage" : "Error: element (\"button[title='Scan & Assign']\") still not displayed after 5000ms\n                    at OMShomepages.createDispatchBatchBtlp (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/omsSmokeData.js:1116:9)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/Btlp_Smoke_Testings/forwardAndReveresFlow.js:68:9)",
+                          "steps" : [ ],
+                          "attachments" : [ {
+                            "uid" : "a576a8b6bc0b605e",
+                            "name" : "Screenshot",
+                            "source" : "a576a8b6bc0b605e.png",
+                            "type" : "image/png",
+                            "size" : 196684
+                          } ],
+                          "parameters" : [ ],
+                          "stepsCount" : 0,
+                          "attachmentsCount" : 1,
+                          "shouldDisplayMessage" : true,
+                          "hasContent" : true
+                        } ],
+                        "attachments" : [ ],
+                        "parameters" : [ ],
+                        "stepsCount" : 1,
+                        "attachmentsCount" : 1,
+                        "shouldDisplayMessage" : false,
+                        "hasContent" : true
+                      } ],
+                      "attachments" : [ ],
+                      "parameters" : [ ],
+                      "stepsCount" : 2,
+                      "attachmentsCount" : 1,
+                      "shouldDisplayMessage" : false,
+                      "hasContent" : true
+                    } ],
+                    "attachments" : [ ],
+                    "parameters" : [ ],
+                    "stepsCount" : 3,
+                    "attachmentsCount" : 1,
+                    "shouldDisplayMessage" : false,
+                    "hasContent" : true
+                  } ],
+                  "attachments" : [ ],
+                  "parameters" : [ ],
+                  "stepsCount" : 4,
+                  "attachmentsCount" : 1,
+                  "shouldDisplayMessage" : false,
+                  "hasContent" : true
+                } ],
+                "attachments" : [ ],
+                "parameters" : [ ],
+                "stepsCount" : 5,
+                "attachmentsCount" : 1,
+                "shouldDisplayMessage" : false,
+                "hasContent" : true
+              } ],
+              "attachments" : [ ],
+              "parameters" : [ ],
+              "stepsCount" : 6,
+              "attachmentsCount" : 1,
+              "shouldDisplayMessage" : false,
+              "hasContent" : true
+            } ],
+            "attachments" : [ ],
+            "parameters" : [ ],
+            "stepsCount" : 7,
+            "attachmentsCount" : 1,
+            "shouldDisplayMessage" : false,
+            "hasContent" : true
+          } ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 8,
+          "attachmentsCount" : 1,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 9,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 11,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 12,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "btlp workflow"
+  }, {
+    "name" : "testClass",
+    "value" : "btlp workflow"
+  }, {
+    "name" : "testMethod",
+    "value" : "btlp forward workflow"
+  }, {
+    "name" : "package",
+    "value" : "btlp workflow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-108.0.5359.71"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "5e0e2790ae026b46.json",
+  "parameterValues" : [ "chrome-108.0.5359.71" ]
+}

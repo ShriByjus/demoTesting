@@ -1,0 +1,1101 @@
+{
+  "draftOrderId": "DO-2212131133380534",
+  "__v": 0,
+  "actionDetails": {
+    "detailsSavedAt": {
+      "date": {
+        "numberLong": "1670931218617"
+      }
+    },
+    "detailsSavedBy": "praz@byjus.com",
+    "productSavedAt": {
+      "date": {
+        "numberLong": "1670931256828"
+      }
+    },
+    "productSavedBy": "praz@byjus.com",
+    "addressSavedAt": {
+      "date": {
+        "numberLong": "1670931267454"
+      }
+    },
+    "addressSavedBy": "praz@byjus.com",
+    "paymentSavedAt": {
+      "date": {
+        "numberLong": "1670931291797"
+      }
+    },
+    "paymentSavedBy": "praz@byjus.com",
+    "otpSentAt": {
+      "date": {
+        "numberLong": "1670931302704"
+      }
+    },
+    "otpSentBy": "praz@byjus.com"
+  },
+  "addOnLineItems": [],
+  "addressDetails": {
+    "billing": {
+      "zipcode": "560030",
+      "addressLine1": "564 banglore temple road",
+      "country": "India",
+      "state": "Karnataka",
+      "city": "Bengaluru",
+      "addressLine2": "banashankari layout,",
+      "addressLine3": "Adugodi S.O",
+      "address": "564 banglore temple road\n banashankari layout\n Adugodi S.O",
+      "addressId": "512529"
+    },
+    "shipping": {
+      "zipcode": "560030",
+      "addressLine1": "564 banglore temple road",
+      "country": "India",
+      "state": "Karnataka",
+      "city": "Bengaluru",
+      "addressLine2": "banashankari layout,",
+      "addressLine3": "Adugodi S.O",
+      "address": "564 banglore temple road\n banashankari layout\n Adugodi S.O",
+      "addressId": "512530"
+    }
+  },
+  "approvalDetails": {
+    "isPaymentVerified": false,
+    "isOrderVerified": false,
+    "isCustomerVerified": false
+  },
+  "assignmentCategory": "k10",
+  "attachments": [
+    {
+      "_id": {
+        "oid": "6398635b4a8a29001af07a4d"
+      },
+      "name": "cheque",
+      "url": "https://orderhive-payments.s3.ap-southeast-1.amazonaws.com/development/63986312ad7c43001c890856/cheque/cheque-20221213_17043120.png"
+    }
+  ],
+  "bonusPointsDetails": {
+    "bonusPoints": 0,
+    "conversionFactor": 0,
+    "amount": 0,
+    "transactionId": ""
+  },
+  "bookInvoicing": "not_applicable",
+  "cashbackDetails": {
+    "unutilizedCashbacks": []
+  },
+  "childOrderId": "SSO2-2212131133380534",
+  "childOrderReferenceId": "63986418b929a8001aa3627f",
+  "childOrderStatusMessage": "Order created Successfully",
+  "childStatus": "order_created",
+  "cloneOrderDetails": [],
+  "comments": [
+    {
+      "_id": {
+        "oid": "6398635b4a8a29001af07a55"
+      },
+      "category": "product",
+      "type": "details",
+      "comment": "Student Details :  Course Details : K10/K12 CBSE : 8 -  , Initial Validity : 2023",
+      "commentedBy": "system",
+      "commentedAt": {
+        "date": {
+          "numberLong": "1670931291992"
+        }
+      },
+      "source": "kart"
+    },
+    {
+      "_id": {
+        "oid": "6398635b4a8a29001af07a56"
+      },
+      "category": "price",
+      "type": "range",
+      "comment": "Price Range : 22000 - 27000\n Final Price : 22000",
+      "commentedBy": "system",
+      "commentedAt": {
+        "date": {
+          "numberLong": "1670931291992"
+        }
+      },
+      "source": "kart"
+    },
+    {
+      "_id": {
+        "oid": "6398635b4a8a29001af07a57"
+      },
+      "category": "payment",
+      "type": "refIds",
+      "comment": "Payment Details : , Method:CHEQUE Amount: 22000 ReferenceId:16709312915513-456874545",
+      "commentedBy": "system",
+      "commentedAt": {
+        "date": {
+          "numberLong": "1670931291992"
+        }
+      },
+      "source": "kart"
+    },
+    {
+      "_id": {
+        "oid": "6398635b4a8a29001af07a58"
+      },
+      "category": "salesDetails",
+      "type": "for_OH_order_reference",
+      "comment": "Direct Sales Conducted By is mahima.p@byjus.com",
+      "commentedBy": "system",
+      "commentedAt": {
+        "date": {
+          "numberLong": "1670931291992"
+        }
+      },
+      "source": "kart"
+    },
+    {
+      "_id": {
+        "oid": "639863644a8a29001af07a64"
+      },
+      "comment": "praz@byjus.com opted to move this order to OMS. Reason - undefined",
+      "commentedBy": "praz@byjus.com",
+      "commentedAt": {
+        "date": {
+          "numberLong": "1670931300591"
+        }
+      },
+      "source": "kart"
+    }
+  ],
+  "contactDetails": [
+    {
+      "contacts": [],
+      "_id": {
+        "oid": "63986312ad7c43001c890858"
+      },
+      "source": "ls_17139"
+    },
+    {
+      "contacts": [],
+      "_id": {
+        "oid": "63986312ad7c43001c890859"
+      },
+      "source": "ls_24692"
+    },
+    {
+      "contacts": [
+        "+91-9834674567"
+      ],
+      "_id": {
+        "oid": "63986312ad7c43001c89085a"
+      },
+      "source": "middleware"
+    }
+  ],
+  "createdAt": {
+    "date": {
+      "numberLong": "1670935180953"
+    }
+  },
+  "currency": "",
+  "customerDetails": {
+    "duplicateReason": null,
+    "isBooksOpted": false,
+    "parentName": "rakshitha",
+    "studentName": "Shubham singh",
+    "parentMobileNo": "+91-9834674567",
+    "alternateMobileNo": [
+      {
+        "_id": {
+          "oid": "63986312ad7c43001c890857"
+        },
+        "mobile": "+91-9834674567",
+        "relation": "self"
+      }
+    ],
+    "email": "hsdyt67yuhd@gmail.com",
+    "studentMobileNo": "+91-9834674567",
+    "customerId": "CX-2212121501091657",
+    "type": "individual",
+    "identifierDetails": [],
+    "gstDetails": {
+      "isGstIn": false
+    }
+  },
+  "draftOrderWorkerId": "1",
+  "finalPrice": 22000,
+  "financeOrderId": "99564ee4f13a4063b76119712dcc82e1",
+  "inventoryDetails": [],
+  "isFOCOrder": false,
+  "isImmediateDelivery": false,
+  "isOmsOrder": true,
+  "isRepunchedCase": false,
+  "isTestOrder": false,
+  "leadDetails": {
+    "homeAddress": "undefined",
+    "secretKey": "b56b69cd8b4c4be11fbac035bb5b17f4198059f0",
+    "studentMobile": "+91-9834674567",
+    "CampaignName": "",
+    "UTMSource": "",
+    "userEmail": "praz@byjus.com",
+    "LeadSource": "undefined",
+    "typeOfSales": "DS Sales",
+    "studentName": "Shubham singh",
+    "SourceCampaignId": "",
+    "accountNumber": "24692",
+    "SourceMedium": "",
+    "SourceCampaign": "",
+    "appointmentBookedBy": "Meghana Negi",
+    "directSalesBy": "",
+    "studentEmail": "hsdyt67yuhd@gmail.com",
+    "prospectId": "ddfhy67uygfd",
+    "SourceOfLead": "",
+    "accessKey": "u%24r345dfdff0767605294d91b80ac914f62",
+    "loggedInEmailId": "praz@byjus.com",
+    "createdByEmailId": "",
+    "leadCreatedAt": null,
+    "leadId": "",
+    "isLeadMobileUsed": true,
+    "isEligibleForEvalution": true,
+    "loggedInRole": null
+  },
+  "lineItems": {
+    "parentLineItems": [
+      {
+        "id": 4789,
+        "skuId": "SD08CB23",
+        "imageUrl": null,
+        "skuName": "8th CBSE (SD Card-Byjus) May-2023",
+        "status": "active",
+        "orgId": "ORG-1",
+        "city": null,
+        "basePrice": 22000,
+        "continuousPrice": 17000,
+        "hsnCode": "852351",
+        "programId": "BTLAKXAS0001",
+        "type": "product",
+        "subType": "sd_card",
+        "category": "btlp",
+        "package": null,
+        "course": "K10",
+        "subCourse": null,
+        "grade": "8",
+        "subject": null,
+        "board": "CBSE",
+        "language": null,
+        "validityType": "year",
+        "validity": "2023",
+        "validityMonth": "MAY",
+        "brand": null,
+        "size": null,
+        "model": null,
+        "scheme": null,
+        "skuSet": 1,
+        "cohortId": 14,
+        "ohProductId": "1039183",
+        "productState": null,
+        "isValidSku": true,
+        "remarks": null,
+        "validatedAt": "2021-11-09T14:28:13.124Z",
+        "financeCode": "SD08CB",
+        "sprId": null,
+        "orgFormattedName": "byjus",
+        "createdBy": "ayushi.bansal@byjus.com",
+        "updatedBy": "price_update_datafix",
+        "createdAt": "2021-11-09T14:28:13.124Z",
+        "updatedAt": "2022-09-23T10:32:38.848Z",
+        "deletedAt": null,
+        "continousPrice": 17000,
+        "skuSource": "SalesSkuMaster",
+        "itemType": "course",
+        "combinationType": "tlp",
+        "itemId": "0sh95rLymho_qVT--LxkNDmU",
+        "studentId": "Shubham singh-1",
+        "tabletId": "T-934599-Shubham singh",
+        "pgItemId": 1540473
+      },
+      {
+        "id": 689,
+        "skuId": "TL7WZZ",
+        "imageUrl": null,
+        "skuName": "K-12 Lenovo Tablet (Add-on - BYJUS) (7 inch)",
+        "status": "active",
+        "orgId": "ORG-1",
+        "city": null,
+        "basePrice": 5000,
+        "continuousPrice": 5000,
+        "hsnCode": "847130",
+        "programId": "TLP1UCHW0001",
+        "type": "product",
+        "subType": "tablet",
+        "category": "tablet",
+        "package": null,
+        "course": null,
+        "subCourse": null,
+        "grade": null,
+        "subject": null,
+        "board": null,
+        "language": null,
+        "validityType": "N/A",
+        "validity": null,
+        "validityMonth": null,
+        "brand": null,
+        "size": null,
+        "model": null,
+        "scheme": null,
+        "skuSet": 1,
+        "cohortId": null,
+        "ohProductId": "934599",
+        "productState": "new",
+        "isValidSku": true,
+        "remarks": null,
+        "validatedAt": "2021-11-09T14:34:09.530Z",
+        "financeCode": "TL7WZZ",
+        "sprId": null,
+        "orgFormattedName": "byjus",
+        "createdBy": "ayushi.bansal@byjus.com",
+        "updatedBy": "productState-update",
+        "createdAt": "2021-11-09T14:34:09.530Z",
+        "updatedAt": "2022-07-08T05:17:40.138Z",
+        "deletedAt": null,
+        "price": 5000,
+        "itemType": "tablet",
+        "skuSource": "SalesSkuMaster",
+        "itemId": "aw4dmKX810NGZ3-NT579ut08",
+        "studentId": "Shubham singh-1",
+        "tabletId": "T-934599-Shubham singh",
+        "pgItemId": 1540476
+      }
+    ],
+    "childLineItems": [
+      {
+        "id": 17132,
+        "skuId": "LVDOCONA1Q",
+        "imageUrl": "",
+        "skuName": "DOC Complimentary Pack",
+        "status": "active",
+        "orgId": "ORG-1",
+        "city": "",
+        "basePrice": 0,
+        "continuousPrice": 0,
+        "hsnCode": "999293",
+        "programId": "TBDCUCSY0001",
+        "type": "service",
+        "subType": "live",
+        "category": "doubts_on_chat",
+        "package": "doc_complimentary",
+        "course": "K10",
+        "subCourse": "",
+        "grade": "",
+        "subject": "",
+        "board": "",
+        "language": "",
+        "validityType": "month",
+        "validity": "3",
+        "validityMonth": "",
+        "brand": "",
+        "size": "",
+        "model": "",
+        "scheme": "",
+        "skuSet": 1,
+        "cohortId": null,
+        "ohProductId": "1993713",
+        "productState": "new",
+        "isValidSku": true,
+        "remarks": "",
+        "validatedAt": "2022-11-22T12:47:32.710Z",
+        "financeCode": "LVDOCONA1Q",
+        "sprId": null,
+        "orgFormattedName": "byjus",
+        "createdBy": "system",
+        "updatedBy": "system",
+        "createdAt": "2022-11-22T12:47:32.796Z",
+        "updatedAt": "2022-11-22T12:47:32.797Z",
+        "deletedAt": null,
+        "frequency": "30",
+        "renewalMode": "non-recurring",
+        "itemType": "course",
+        "combinationType": "byjus_tlp",
+        "price": 0,
+        "itemId": "qvgegGiWShOUTgsWUfRPrply",
+        "studentId": "Shubham singh-1",
+        "tabletId": "T-934599-Shubham singh",
+        "pgItemId": 1540474
+      },
+      {
+        "id": 16473,
+        "skuId": "LVTDCONA1Q",
+        "imageUrl": "",
+        "skuName": "TOD complimentary pack 3 months",
+        "status": "active",
+        "orgId": "ORG-1",
+        "city": "",
+        "basePrice": 0,
+        "continuousPrice": 0,
+        "hsnCode": "999293",
+        "programId": "BTODKXSY0001",
+        "type": "service",
+        "subType": "live",
+        "category": "tutor_on_demand",
+        "package": "tod_complimentary",
+        "course": "K10",
+        "subCourse": "",
+        "grade": "",
+        "subject": "",
+        "board": "",
+        "language": "",
+        "validityType": "month",
+        "validity": "3",
+        "validityMonth": "",
+        "brand": "",
+        "size": "",
+        "model": "",
+        "scheme": null,
+        "skuSet": 1,
+        "cohortId": null,
+        "ohProductId": "1993791",
+        "productState": "new",
+        "isValidSku": true,
+        "remarks": "",
+        "validatedAt": "2022-11-07T16:58:17.483Z",
+        "financeCode": "LVTDCONA1Q",
+        "sprId": null,
+        "orgFormattedName": "byjus",
+        "createdBy": "system",
+        "updatedBy": "system",
+        "createdAt": "2022-11-07T16:58:17.547Z",
+        "updatedAt": "2022-11-11T13:37:12.989Z",
+        "deletedAt": null,
+        "frequency": "2",
+        "renewalMode": "non-recurring",
+        "itemType": "course",
+        "combinationType": "byjus_tlp",
+        "price": 0,
+        "itemId": "Rz5xsGVSj_UTFJr9PKSoXdpg",
+        "studentId": "Shubham singh-1",
+        "tabletId": "T-934599-Shubham singh",
+        "pgItemId": 1540475
+      }
+    ]
+  },
+  "orderApproval": "not_applicable",
+  "orderId": "SSO1-2212131133380534",
+  "orderPlatformDetails": {
+    "platform": "oms",
+    "smsNotification": true,
+    "remark": null,
+    "ohOpReason": null,
+    "ohOpTeam": null,
+    "updatedBy": "praz@byjus.com",
+    "updatedAt": {
+      "date": {
+        "numberLong": "1670931300591"
+      }
+    }
+  },
+  "orderPunchingCategory": "byjus_tlp",
+  "orderPunchingType": "NORMAL_ORDER",
+  "orderReferenceId": "63986418b929a8001aa3627b",
+  "orderStatus": "not_confirmed",
+  "orderType": "SPLIT",
+  "orderValue": 22000,
+  "orgFormattedName": "byjus",
+  "otpDetails": {
+    "otp": "4702",
+    "message": {
+      "scn": "We have received your BYJU'S order for Rs.22000 from Mahima. To confirm the order enter the OTP: 4702. Please read the order details & Terms & Conditions on the page carefully before entering the OTP. Kindly do not share this SMS with anyone.\nhttps://byjusorders.page.link/eYSLdH9dY5sNWPAU6\nTeam BYJU'S",
+      "opn": "We have received your BYJU'S order for Rs.22000 from Mahima. To confirm the order enter the OTP: 4702. Please read the order details & Terms & Conditions on the page carefully before entering the OTP. Kindly do not share this SMS with anyone.\nhttps://byjusorders.page.link/CT7tdms5gv98C1qh6\nTeam BYJU'S"
+    },
+    "createdAt": {
+      "date": {
+        "numberLong": "1670931302703"
+      }
+    },
+    "linkResendAt": {
+      "date": {
+        "numberLong": "1670931302703"
+      }
+    },
+    "isCustomerVerification": true
+  },
+  "paymentDetails": {
+    "type": "NON_EMI",
+    "totalAmount": 22000,
+    "totalEmiAmount": 0,
+    "totalPrepaidAmount": 22000,
+    "totalPostpaidAmount": 0,
+    "paymentMethod": "Non EMI Prepaid",
+    "payments": [
+      {
+        "isPrepaid": true,
+        "_id": {
+          "oid": "6398635b4a8a29001af07a4e"
+        },
+        "provider": "CHEQUE",
+        "referenceId": "16709312915513-456874545",
+        "amount": 22000,
+        "additionalDetails": {
+          "bank": "dcb"
+        },
+        "attachments": [
+          {
+            "_id": {
+              "oid": "6398635b4a8a29001af07a4f"
+            },
+            "name": "cheque",
+            "url": "https://orderhive-payments.s3.ap-southeast-1.amazonaws.com/development/63986312ad7c43001c890856/cheque/cheque-20221213_17043120.png"
+          }
+        ],
+        "type": "DOWN_PAYMENT",
+        "currency": ""
+      }
+    ],
+    "minDownPaymentDetails": {
+      "isMatched": true,
+      "minDownPaymentAmount": 0
+    },
+    "isRepunchedCase": false
+  },
+  "poaCommand": "applicable",
+  "processingAt": {
+    "date": {
+      "numberLong": "1670931480011"
+    }
+  },
+  "productDetails": {
+    "productType": "single",
+    "mentoringDetails": [
+      null
+    ],
+    "bhlpCourseDetails": [],
+    "paymentType": "NON_EMI",
+    "maxPrice": 27000,
+    "minPrice": 22000,
+    "discountedPrice": 0,
+    "students": [
+      {
+        "studentProfileDetails": {
+          "isExistingProfile": true,
+          "existingPremiumId": "1146080764",
+          "existingFamilyId": ""
+        },
+        "hlpDetails": {
+          "courseDetails": [],
+          "sessionDetails": []
+        },
+        "courseType": [
+          "K10"
+        ],
+        "electiveDetails": [],
+        "doubtClassDetails": [],
+        "workshops": [],
+        "items": [
+          {
+            "id": 4789,
+            "skuId": "SD08CB23",
+            "imageUrl": null,
+            "skuName": "8th CBSE (SD Card-Byjus) May-2023",
+            "status": "active",
+            "orgId": "ORG-1",
+            "city": null,
+            "basePrice": 22000,
+            "continuousPrice": 17000,
+            "hsnCode": "852351",
+            "programId": "BTLAKXAS0001",
+            "type": "product",
+            "subType": "sd_card",
+            "category": "btlp",
+            "package": null,
+            "course": "K10",
+            "subCourse": null,
+            "grade": "8",
+            "subject": null,
+            "board": "CBSE",
+            "language": null,
+            "validityType": "year",
+            "validity": "2023",
+            "validityMonth": "MAY",
+            "brand": null,
+            "size": null,
+            "model": null,
+            "scheme": null,
+            "skuSet": 1,
+            "cohortId": 14,
+            "ohProductId": "1039183",
+            "productState": null,
+            "isValidSku": true,
+            "remarks": null,
+            "validatedAt": "2021-11-09T14:28:13.124Z",
+            "financeCode": "SD08CB",
+            "sprId": null,
+            "orgFormattedName": "byjus",
+            "createdBy": "ayushi.bansal@byjus.com",
+            "updatedBy": "price_update_datafix",
+            "createdAt": "2021-11-09T14:28:13.124Z",
+            "updatedAt": "2022-09-23T10:32:38.848Z",
+            "deletedAt": null,
+            "continousPrice": 17000,
+            "skuSource": "SalesSkuMaster",
+            "itemType": "course",
+            "combinationType": "tlp",
+            "itemId": "0sh95rLymho_qVT--LxkNDmU",
+            "studentId": "Shubham singh-1",
+            "tabletId": "T-934599-Shubham singh"
+          },
+          {
+            "id": 17132,
+            "skuId": "LVDOCONA1Q",
+            "imageUrl": "",
+            "skuName": "DOC Complimentary Pack",
+            "status": "active",
+            "orgId": "ORG-1",
+            "city": "",
+            "basePrice": 0,
+            "continuousPrice": 0,
+            "hsnCode": "999293",
+            "programId": "TBDCUCSY0001",
+            "type": "service",
+            "subType": "live",
+            "category": "doubts_on_chat",
+            "package": "doc_complimentary",
+            "course": "K10",
+            "subCourse": "",
+            "grade": "",
+            "subject": "",
+            "board": "",
+            "language": "",
+            "validityType": "month",
+            "validity": "3",
+            "validityMonth": "",
+            "brand": "",
+            "size": "",
+            "model": "",
+            "scheme": "",
+            "skuSet": 1,
+            "cohortId": null,
+            "ohProductId": "1993713",
+            "productState": "new",
+            "isValidSku": true,
+            "remarks": "",
+            "validatedAt": "2022-11-22T12:47:32.710Z",
+            "financeCode": "LVDOCONA1Q",
+            "sprId": null,
+            "orgFormattedName": "byjus",
+            "createdBy": "system",
+            "updatedBy": "system",
+            "createdAt": "2022-11-22T12:47:32.796Z",
+            "updatedAt": "2022-11-22T12:47:32.797Z",
+            "deletedAt": null,
+            "frequency": "30",
+            "renewalMode": "non-recurring",
+            "itemType": "course",
+            "combinationType": "byjus_tlp",
+            "price": 0,
+            "itemId": "qvgegGiWShOUTgsWUfRPrply",
+            "studentId": "Shubham singh-1",
+            "tabletId": "T-934599-Shubham singh"
+          },
+          {
+            "id": 16473,
+            "skuId": "LVTDCONA1Q",
+            "imageUrl": "",
+            "skuName": "TOD complimentary pack 3 months",
+            "status": "active",
+            "orgId": "ORG-1",
+            "city": "",
+            "basePrice": 0,
+            "continuousPrice": 0,
+            "hsnCode": "999293",
+            "programId": "BTODKXSY0001",
+            "type": "service",
+            "subType": "live",
+            "category": "tutor_on_demand",
+            "package": "tod_complimentary",
+            "course": "K10",
+            "subCourse": "",
+            "grade": "",
+            "subject": "",
+            "board": "",
+            "language": "",
+            "validityType": "month",
+            "validity": "3",
+            "validityMonth": "",
+            "brand": "",
+            "size": "",
+            "model": "",
+            "scheme": null,
+            "skuSet": 1,
+            "cohortId": null,
+            "ohProductId": "1993791",
+            "productState": "new",
+            "isValidSku": true,
+            "remarks": "",
+            "validatedAt": "2022-11-07T16:58:17.483Z",
+            "financeCode": "LVTDCONA1Q",
+            "sprId": null,
+            "orgFormattedName": "byjus",
+            "createdBy": "system",
+            "updatedBy": "system",
+            "createdAt": "2022-11-07T16:58:17.547Z",
+            "updatedAt": "2022-11-11T13:37:12.989Z",
+            "deletedAt": null,
+            "frequency": "2",
+            "renewalMode": "non-recurring",
+            "itemType": "course",
+            "combinationType": "byjus_tlp",
+            "price": 0,
+            "itemId": "Rz5xsGVSj_UTFJr9PKSoXdpg",
+            "studentId": "Shubham singh-1",
+            "tabletId": "T-934599-Shubham singh"
+          },
+          {
+            "id": 689,
+            "skuId": "TL7WZZ",
+            "imageUrl": null,
+            "skuName": "K-12 Lenovo Tablet (Add-on - BYJUS) (7 inch)",
+            "status": "active",
+            "orgId": "ORG-1",
+            "city": null,
+            "basePrice": 5000,
+            "continuousPrice": 5000,
+            "hsnCode": "847130",
+            "programId": "TLP1UCHW0001",
+            "type": "product",
+            "subType": "tablet",
+            "category": "tablet",
+            "package": null,
+            "course": null,
+            "subCourse": null,
+            "grade": null,
+            "subject": null,
+            "board": null,
+            "language": null,
+            "validityType": "N/A",
+            "validity": null,
+            "validityMonth": null,
+            "brand": null,
+            "size": null,
+            "model": null,
+            "scheme": null,
+            "skuSet": 1,
+            "cohortId": null,
+            "ohProductId": "934599",
+            "productState": "new",
+            "isValidSku": true,
+            "remarks": null,
+            "validatedAt": "2021-11-09T14:34:09.530Z",
+            "financeCode": "TL7WZZ",
+            "sprId": null,
+            "orgFormattedName": "byjus",
+            "createdBy": "ayushi.bansal@byjus.com",
+            "updatedBy": "productState-update",
+            "createdAt": "2021-11-09T14:34:09.530Z",
+            "updatedAt": "2022-07-08T05:17:40.138Z",
+            "deletedAt": null,
+            "price": 5000,
+            "itemType": "tablet",
+            "skuSource": "SalesSkuMaster",
+            "itemId": "aw4dmKX810NGZ3-NT579ut08",
+            "studentId": "Shubham singh-1",
+            "tabletId": "T-934599-Shubham singh"
+          }
+        ],
+        "addOnItems": [],
+        "mentoringDetails": [],
+        "bhlpCourseDetails": [],
+        "featureTag": [],
+        "_id": {
+          "oid": "63986338ad7c43001c8908c6"
+        },
+        "tablet": "934599",
+        "course": "K10/K12",
+        "board": "CBSE",
+        "validity": "2023",
+        "initialClass": "8",
+        "deviceType": "Tablet(Lenovo/Samsung)",
+        "formValues": {
+          "tablet": "934599",
+          "course": "K10/K12",
+          "board": "CBSE",
+          "subCourse": "",
+          "validity": 2023,
+          "session": "",
+          "initialClass": "8",
+          "selectD4SDCard": false,
+          "userProfile": "1146080764",
+          "tabletId": "T-934599",
+          "deviceType": "Tablet(Lenovo/Samsung)",
+          "featureTag": [],
+          "isTabletLock": false
+        },
+        "tabletLock": "not_applicable",
+        "productSelectionType": "byjus_tlp",
+        "studentName": "Shubham singh",
+        "studentId": "Shubham singh-1",
+        "academicDetails": {
+          "mathPercent": null,
+          "sciencePercent": null,
+          "fotTrackId": null,
+          "proficiency": null,
+          "schoolDetails": {
+            "id": null,
+            "name": "",
+            "address": "",
+            "pincode": null
+          },
+          "languageOfInstruction": null,
+          "languageOfInstructionId": null
+        }
+      }
+    ],
+    "products": [
+      {
+        "id": 4789,
+        "skuId": "SD08CB23",
+        "imageUrl": null,
+        "skuName": "8th CBSE (SD Card-Byjus) May-2023",
+        "status": "active",
+        "orgId": "ORG-1",
+        "city": null,
+        "basePrice": 22000,
+        "continuousPrice": 17000,
+        "hsnCode": "852351",
+        "programId": "BTLAKXAS0001",
+        "type": "product",
+        "subType": "sd_card",
+        "category": "btlp",
+        "package": null,
+        "course": "K10",
+        "subCourse": null,
+        "grade": "8",
+        "subject": null,
+        "board": "CBSE",
+        "language": null,
+        "validityType": "year",
+        "validity": "2023",
+        "validityMonth": "MAY",
+        "brand": null,
+        "size": null,
+        "model": null,
+        "scheme": null,
+        "skuSet": 1,
+        "cohortId": 14,
+        "ohProductId": "1039183",
+        "productState": null,
+        "isValidSku": true,
+        "remarks": null,
+        "validatedAt": "2021-11-09T14:28:13.124Z",
+        "financeCode": "SD08CB",
+        "sprId": null,
+        "orgFormattedName": "byjus",
+        "createdBy": "ayushi.bansal@byjus.com",
+        "updatedBy": "price_update_datafix",
+        "createdAt": "2021-11-09T14:28:13.124Z",
+        "updatedAt": "2022-09-23T10:32:38.848Z",
+        "deletedAt": null,
+        "continousPrice": 17000,
+        "skuSource": "SalesSkuMaster",
+        "itemType": "course",
+        "combinationType": "tlp",
+        "itemId": "0sh95rLymho_qVT--LxkNDmU",
+        "studentId": "Shubham singh-1",
+        "tabletId": "T-934599-Shubham singh"
+      },
+      {
+        "id": 17132,
+        "skuId": "LVDOCONA1Q",
+        "imageUrl": "",
+        "skuName": "DOC Complimentary Pack",
+        "status": "active",
+        "orgId": "ORG-1",
+        "city": "",
+        "basePrice": 0,
+        "continuousPrice": 0,
+        "hsnCode": "999293",
+        "programId": "TBDCUCSY0001",
+        "type": "service",
+        "subType": "live",
+        "category": "doubts_on_chat",
+        "package": "doc_complimentary",
+        "course": "K10",
+        "subCourse": "",
+        "grade": "",
+        "subject": "",
+        "board": "",
+        "language": "",
+        "validityType": "month",
+        "validity": "3",
+        "validityMonth": "",
+        "brand": "",
+        "size": "",
+        "model": "",
+        "scheme": "",
+        "skuSet": 1,
+        "cohortId": null,
+        "ohProductId": "1993713",
+        "productState": "new",
+        "isValidSku": true,
+        "remarks": "",
+        "validatedAt": "2022-11-22T12:47:32.710Z",
+        "financeCode": "LVDOCONA1Q",
+        "sprId": null,
+        "orgFormattedName": "byjus",
+        "createdBy": "system",
+        "updatedBy": "system",
+        "createdAt": "2022-11-22T12:47:32.796Z",
+        "updatedAt": "2022-11-22T12:47:32.797Z",
+        "deletedAt": null,
+        "frequency": "30",
+        "renewalMode": "non-recurring",
+        "itemType": "course",
+        "combinationType": "byjus_tlp",
+        "price": 0,
+        "itemId": "qvgegGiWShOUTgsWUfRPrply",
+        "studentId": "Shubham singh-1",
+        "tabletId": "T-934599-Shubham singh"
+      },
+      {
+        "id": 16473,
+        "skuId": "LVTDCONA1Q",
+        "imageUrl": "",
+        "skuName": "TOD complimentary pack 3 months",
+        "status": "active",
+        "orgId": "ORG-1",
+        "city": "",
+        "basePrice": 0,
+        "continuousPrice": 0,
+        "hsnCode": "999293",
+        "programId": "BTODKXSY0001",
+        "type": "service",
+        "subType": "live",
+        "category": "tutor_on_demand",
+        "package": "tod_complimentary",
+        "course": "K10",
+        "subCourse": "",
+        "grade": "",
+        "subject": "",
+        "board": "",
+        "language": "",
+        "validityType": "month",
+        "validity": "3",
+        "validityMonth": "",
+        "brand": "",
+        "size": "",
+        "model": "",
+        "scheme": null,
+        "skuSet": 1,
+        "cohortId": null,
+        "ohProductId": "1993791",
+        "productState": "new",
+        "isValidSku": true,
+        "remarks": "",
+        "validatedAt": "2022-11-07T16:58:17.483Z",
+        "financeCode": "LVTDCONA1Q",
+        "sprId": null,
+        "orgFormattedName": "byjus",
+        "createdBy": "system",
+        "updatedBy": "system",
+        "createdAt": "2022-11-07T16:58:17.547Z",
+        "updatedAt": "2022-11-11T13:37:12.989Z",
+        "deletedAt": null,
+        "frequency": "2",
+        "renewalMode": "non-recurring",
+        "itemType": "course",
+        "combinationType": "byjus_tlp",
+        "price": 0,
+        "itemId": "Rz5xsGVSj_UTFJr9PKSoXdpg",
+        "studentId": "Shubham singh-1",
+        "tabletId": "T-934599-Shubham singh"
+      },
+      {
+        "id": 689,
+        "skuId": "TL7WZZ",
+        "imageUrl": null,
+        "skuName": "K-12 Lenovo Tablet (Add-on - BYJUS) (7 inch)",
+        "status": "active",
+        "orgId": "ORG-1",
+        "city": null,
+        "basePrice": 5000,
+        "continuousPrice": 5000,
+        "hsnCode": "847130",
+        "programId": "TLP1UCHW0001",
+        "type": "product",
+        "subType": "tablet",
+        "category": "tablet",
+        "package": null,
+        "course": null,
+        "subCourse": null,
+        "grade": null,
+        "subject": null,
+        "board": null,
+        "language": null,
+        "validityType": "N/A",
+        "validity": null,
+        "validityMonth": null,
+        "brand": null,
+        "size": null,
+        "model": null,
+        "scheme": null,
+        "skuSet": 1,
+        "cohortId": null,
+        "ohProductId": "934599",
+        "productState": "new",
+        "isValidSku": true,
+        "remarks": null,
+        "validatedAt": "2021-11-09T14:34:09.530Z",
+        "financeCode": "TL7WZZ",
+        "sprId": null,
+        "orgFormattedName": "byjus",
+        "createdBy": "ayushi.bansal@byjus.com",
+        "updatedBy": "productState-update",
+        "createdAt": "2021-11-09T14:34:09.530Z",
+        "updatedAt": "2022-07-08T05:17:40.138Z",
+        "deletedAt": null,
+        "price": 5000,
+        "itemType": "tablet",
+        "skuSource": "SalesSkuMaster",
+        "itemId": "aw4dmKX810NGZ3-NT579ut08",
+        "studentId": "Shubham singh-1",
+        "tabletId": "T-934599-Shubham singh"
+      }
+    ],
+    "mentoring": {
+      "count": 0,
+      "items": [
+        null
+      ]
+    },
+    "finalPrice": 22000
+  },
+  "repunchDetails": {},
+  "repunchOrderDetails": {
+    "paymentDetails": {}
+  },
+  "sacCommand": "applicable",
+  "salesDetails": {
+    "typeOfSales": "DS Sales",
+    "directSalesBy": "mahima.p@byjus.com",
+    "directSalesById": "mahima.p@byjus.com",
+    "salesAppointmentByCampaign": "Hyderabad",
+    "directSalesByRole": "team_manager",
+    "directSalesByDept": "business_development",
+    "directSalesByCountry": "india",
+    "directSalesByTeamManager": "",
+    "directSalesBySeniorManager": "archa.br@byjus.com",
+    "salesAppointmentByRole": null,
+    "salesAppointmentByDept": "",
+    "isOmsOrderEligible": true
+  },
+  "salesOrderId": "SO-2212131809400286",
+  "salesSubOrderIds": [
+    "SSO1-SO-2212131809400286"
+  ],
+  "source": "kart",
+  "sourceDetails": {},
+  "status": "order_created",
+  "statusMessage": "Order created Successfully",
+  "subscriptionDetails": {},
+  "updatedAt": {
+    "date": {
+      "numberLong": "1670935180953"
+    }
+  },
+  "upgradedOrders": [],
+  "userComment": null
+}

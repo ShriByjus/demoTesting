@@ -1,0 +1,2011 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "Adding json to collections for generating the Order Id",
+    "uid" : "a0cdaf6eb7df082a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1667565380868,
+      "stop" : 1667565383944,
+      "duration" : 3076
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 5,
+    "retriesStatusChange" : true,
+    "parameters" : [ "chrome-107.0.5304.87" ]
+  }, {
+    "name" : "btlp forward workflow",
+    "uid" : "76f01980ae7a30ae",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1667565383945,
+      "stop" : 1667565568172,
+      "duration" : 184227
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 5,
+    "retriesStatusChange" : true,
+    "parameters" : [ "chrome-107.0.5304.87" ]
+  }, {
+    "name" : "btlp reveres workflow",
+    "uid" : "db5a2b635ab76c61",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1667565568175,
+      "stop" : 1667565670720,
+      "duration" : 102545
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 5,
+    "retriesStatusChange" : true,
+    "parameters" : [ "chrome-107.0.5304.87" ]
+  }, {
+    "name" : "log in into WMS",
+    "uid" : "25c917b490b978a2",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1667566352095,
+      "stop" : 1667566440897,
+      "duration" : 88802
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 6,
+    "retriesStatusChange" : true,
+    "parameters" : [ "chrome-107.0.5304.87" ]
+  }, {
+    "name" : "E2E flow for SD card",
+    "uid" : "4862f7438fe8c2b3",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1668764559015,
+      "stop" : 1668764559015,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "",
+    "uid" : "6c730a387289d5e4",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1668764559015,
+      "stop" : 1668764559015,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "E2E flow for SD card",
+    "uid" : "382903a5bfcd8d16",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "unknown",
+    "time" : {
+      "start" : 1668764780087,
+      "stop" : 0,
+      "duration" : -1668764780087
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 3,
+    "retriesStatusChange" : true,
+    "parameters" : [ "chrome-107.0.5304.110" ]
+  }, {
+    "name" : "Verifying add-on line items",
+    "uid" : "3e48f5441ad4cd23",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669121574172,
+      "stop" : 1669121584015,
+      "duration" : 9843
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-107.0.5304.110" ]
+  }, {
+    "name" : "Verify the shipment skus",
+    "uid" : "728f2ceeb5b806a7",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669203973751,
+      "stop" : 1669203977386,
+      "duration" : 3635
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 8,
+    "retriesStatusChange" : true,
+    "parameters" : [ "chrome-107.0.5304.110" ]
+  }, {
+    "name" : "Verify the sales skus",
+    "uid" : "e6789e265cf12909",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669203977386,
+      "stop" : 1669203980499,
+      "duration" : 3113
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 19,
+    "retriesStatusChange" : true,
+    "parameters" : [ "chrome-107.0.5304.110" ]
+  }, {
+    "name" : "Verify the add on line items",
+    "uid" : "6a2ed30fec9eab24",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669211321187,
+      "stop" : 1669211321187,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 4,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-107.0.5304.110" ]
+  }, {
+    "name" : "Verify the Addon Items Skus",
+    "uid" : "1aec61bbd0995b76",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1669285710848,
+      "stop" : 1669285716172,
+      "duration" : 5324
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 7,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-107.0.5304.110" ]
+  }, {
+    "name" : "Verify the Shipemnt skus",
+    "uid" : "907d7508e9b66f24",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "unknown",
+    "time" : {
+      "start" : 1669285727446,
+      "stop" : 0,
+      "duration" : -1669285727446
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-107.0.5304.110" ]
+  }, {
+    "name" : "Adding json to collections for generating the Order Id",
+    "uid" : "7b5a09800fee65d1",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669625273853,
+      "stop" : 1669625278515,
+      "duration" : 4662
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 117,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-107.0.5304.110" ]
+  }, {
+    "name" : "log in into oms",
+    "uid" : "4c02c517a4752522",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669625278516,
+      "stop" : 1669625302159,
+      "duration" : 23643
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 104,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-107.0.5304.110" ]
+  }, {
+    "name" : "Verifying the Sales order Id details",
+    "uid" : "3e934fed526e4f28",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669625302160,
+      "stop" : 1669625306736,
+      "duration" : 4576
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 85,
+    "retriesStatusChange" : true,
+    "parameters" : [ "chrome-107.0.5304.110" ]
+  }, {
+    "name" : "Verify PID is generated",
+    "uid" : "711d95c1a06ff179",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669625306736,
+      "stop" : 1669625307794,
+      "duration" : 1058
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 23,
+    "retriesStatusChange" : true,
+    "parameters" : [ "chrome-107.0.5304.110" ]
+  }, {
+    "name" : "Verify the shipment skus and skus name",
+    "uid" : "f290609c115804bb",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669625307794,
+      "stop" : 1669625313920,
+      "duration" : 6126
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 39,
+    "retriesStatusChange" : true,
+    "parameters" : [ "chrome-107.0.5304.110" ]
+  }, {
+    "name" : "Verify the sales skus and skus names",
+    "uid" : "48a244e13c03ed5f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669625313920,
+      "stop" : 1669625320113,
+      "duration" : 6193
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 37,
+    "retriesStatusChange" : true,
+    "parameters" : [ "chrome-107.0.5304.110" ]
+  }, {
+    "name" : "Verifying changing the status to Confirmed and Verify the order status history",
+    "uid" : "44740bd3a6218877",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669625320113,
+      "stop" : 1669625339902,
+      "duration" : 19789
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 33,
+    "retriesStatusChange" : true,
+    "parameters" : [ "chrome-107.0.5304.110" ]
+  }, {
+    "name" : "Verifying the order details and payment values from UI are equal to the values in Kart collection",
+    "uid" : "9cedd1d9807da75a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669625339903,
+      "stop" : 1669625349834,
+      "duration" : 9931
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 30,
+    "retriesStatusChange" : true,
+    "parameters" : [ "chrome-107.0.5304.110" ]
+  }, {
+    "name" : "Verify sales and customer details",
+    "uid" : "8487ef412922c88f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669625349834,
+      "stop" : 1669625354244,
+      "duration" : 4410
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 20,
+    "retriesStatusChange" : true,
+    "parameters" : [ "chrome-107.0.5304.110" ]
+  }, {
+    "name" : "Verify raise priority option",
+    "uid" : "ab0fd56e1f24ef93",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669625354244,
+      "stop" : 1669625373167,
+      "duration" : 18923
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 50,
+    "retriesStatusChange" : true,
+    "parameters" : [ "chrome-107.0.5304.110" ]
+  }, {
+    "name" : "Verify the sum of sku values should match the sub total amount",
+    "uid" : "555ac6300b931516",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669625373168,
+      "stop" : 1669625378233,
+      "duration" : 5065
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 31,
+    "retriesStatusChange" : true,
+    "parameters" : [ "chrome-107.0.5304.110" ]
+  }, {
+    "name" : "Adding json to collections for generating the Order Id",
+    "uid" : "5e9e19ce7328926",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669642380674,
+      "stop" : 1669642383931,
+      "duration" : 3257
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 58,
+    "retriesStatusChange" : true,
+    "parameters" : [ "chrome-107.0.5304.110" ]
+  }, {
+    "name" : "btlp forward workflow",
+    "uid" : "5a008274e4435daa",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1669642383932,
+      "stop" : 1669642385848,
+      "duration" : 1916
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 31,
+    "retriesStatusChange" : true,
+    "parameters" : [ "chrome-107.0.5304.110" ]
+  }, {
+    "name" : "btlp reveres workflow",
+    "uid" : "e21ade09b7de35aa",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1669642385848,
+      "stop" : 1669642385853,
+      "duration" : 5
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 31,
+    "retriesStatusChange" : true,
+    "parameters" : [ "chrome-107.0.5304.110" ]
+  }, {
+    "name" : "Verify the sum of sku values should match the sub total amount",
+    "uid" : "5f2489ead7650c8b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669789623261,
+      "stop" : 1669789628342,
+      "duration" : 5081
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : true,
+    "parameters" : [ "chrome-107.0.5304.121" ]
+  }, {
+    "name" : "Adding json to collections for generating the Order Id",
+    "uid" : "c0d7354d7147c498",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669883001425,
+      "stop" : 1669883005557,
+      "duration" : 4132
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 7,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-107.0.5304.121" ]
+  }, {
+    "name" : "log in into oms",
+    "uid" : "e256163110ea9c83",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669883005558,
+      "stop" : 1669883034506,
+      "duration" : 28948
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 7,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-107.0.5304.121" ]
+  }, {
+    "name" : "Verifying the Sales order Id details",
+    "uid" : "f84e2e79d621e17a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669883034506,
+      "stop" : 1669883059606,
+      "duration" : 25100
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 7,
+    "retriesStatusChange" : true,
+    "parameters" : [ "chrome-107.0.5304.121" ]
+  }, {
+    "name" : "Verify PID is generated",
+    "uid" : "90b65a4ced4665c2",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669883059606,
+      "stop" : 1669883060149,
+      "duration" : 543
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 6,
+    "retriesStatusChange" : true,
+    "parameters" : [ "chrome-107.0.5304.121" ]
+  }, {
+    "name" : "Verify the shipment skus and skus name",
+    "uid" : "1bff642883f29ea7",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669883060149,
+      "stop" : 1669883064254,
+      "duration" : 4105
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 7,
+    "retriesStatusChange" : true,
+    "parameters" : [ "chrome-107.0.5304.121" ]
+  }, {
+    "name" : "Verify the sales skus and skus names",
+    "uid" : "ef8c9f00e1928b33",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669883064254,
+      "stop" : 1669883068098,
+      "duration" : 3844
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 7,
+    "retriesStatusChange" : true,
+    "parameters" : [ "chrome-107.0.5304.121" ]
+  }, {
+    "name" : "Verifying changing the status to Confirmed and Verify the order status history",
+    "uid" : "9af08f14aea30e85",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669883068099,
+      "stop" : 1669883088367,
+      "duration" : 20268
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 7,
+    "retriesStatusChange" : true,
+    "parameters" : [ "chrome-107.0.5304.121" ]
+  }, {
+    "name" : "Verifying the order details and payment values from UI are equal to the values in Kart collection",
+    "uid" : "4a8ac3c89f85974d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669883088367,
+      "stop" : 1669883100470,
+      "duration" : 12103
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 7,
+    "retriesStatusChange" : true,
+    "parameters" : [ "chrome-107.0.5304.121" ]
+  }, {
+    "name" : "Verify sales and customer details",
+    "uid" : "457fbb5d038a7663",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669883100471,
+      "stop" : 1669883103835,
+      "duration" : 3364
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 7,
+    "retriesStatusChange" : true,
+    "parameters" : [ "chrome-107.0.5304.121" ]
+  }, {
+    "name" : "Verify raise priority option",
+    "uid" : "82bef5c8b398c43c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669883103835,
+      "stop" : 1669883125768,
+      "duration" : 21933
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 7,
+    "retriesStatusChange" : true,
+    "parameters" : [ "chrome-107.0.5304.121" ]
+  }, {
+    "name" : "Adding json to collections for generating the Order Id",
+    "uid" : "e62da4408794bde0",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669884069223,
+      "stop" : 1669884074111,
+      "duration" : 4888
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-107.0.5304.121" ]
+  }, {
+    "name" : "log in into oms",
+    "uid" : "19cf647a17884b32",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669884074112,
+      "stop" : 1669884109697,
+      "duration" : 35585
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-107.0.5304.121" ]
+  }, {
+    "name" : "Verifying the Sales order Id details",
+    "uid" : "bf67559546ffcdee",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669884109698,
+      "stop" : 1669884133755,
+      "duration" : 24057
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-107.0.5304.121" ]
+  }, {
+    "name" : "Verify PID is generated",
+    "uid" : "8a269bd53cbb2871",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669884133756,
+      "stop" : 1669884134807,
+      "duration" : 1051
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-107.0.5304.121" ]
+  }, {
+    "name" : "Verify the shipment skus and skus name",
+    "uid" : "db69c5e275bbfecb",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669884134807,
+      "stop" : 1669884140313,
+      "duration" : 5506
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-107.0.5304.121" ]
+  }, {
+    "name" : "Verify the sales skus and skus names",
+    "uid" : "9d768a150b87800c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669884140314,
+      "stop" : 1669884145082,
+      "duration" : 4768
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-107.0.5304.121" ]
+  }, {
+    "name" : "Verifying changing the status to Confirmed and Verify the order status history",
+    "uid" : "78fee044c10884d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669884145083,
+      "stop" : 1669884165200,
+      "duration" : 20117
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-107.0.5304.121" ]
+  }, {
+    "name" : "Verifying the order details and payment values from UI are equal to the values in Kart collection",
+    "uid" : "88f0491498935904",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669884165200,
+      "stop" : 1669884187718,
+      "duration" : 22518
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-107.0.5304.121" ]
+  }, {
+    "name" : "Verify sales and customer details",
+    "uid" : "523dda2ad5eb6b3f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669884187719,
+      "stop" : 1669884191248,
+      "duration" : 3529
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-107.0.5304.121" ]
+  }, {
+    "name" : "Verify raise priority option",
+    "uid" : "a5a68188d0ad27be",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669884191249,
+      "stop" : 1669884217306,
+      "duration" : 26057
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-107.0.5304.121" ]
+  }, {
+    "name" : "Verify the sum of sku values should match the sub total amount",
+    "uid" : "38fbec54c6762521",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669884217308,
+      "stop" : 1669884222379,
+      "duration" : 5071
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-107.0.5304.121" ]
+  }, {
+    "name" : "Adding json to collections for generating the Order Id",
+    "uid" : "9a0e803fbb40a52e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669884224652,
+      "stop" : 1669884229364,
+      "duration" : 4712
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-107.0.5304.121" ]
+  }, {
+    "name" : "log in into oms",
+    "uid" : "263d988a54187d0a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669884229365,
+      "stop" : 1669884259010,
+      "duration" : 29645
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-107.0.5304.121" ]
+  }, {
+    "name" : "Verifying the Sales order Id details",
+    "uid" : "c064b59b289562c2",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669884259011,
+      "stop" : 1669884267684,
+      "duration" : 8673
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-107.0.5304.121" ]
+  }, {
+    "name" : "Verify PID is generated",
+    "uid" : "b6bd33b1f8f78219",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669884267684,
+      "stop" : 1669884268248,
+      "duration" : 564
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-107.0.5304.121" ]
+  }, {
+    "name" : "Verify the shipment skus and skus name",
+    "uid" : "69a548f7999a72b9",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669884268249,
+      "stop" : 1669884273112,
+      "duration" : 4863
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-107.0.5304.121" ]
+  }, {
+    "name" : "Verify the sales skus and skus names",
+    "uid" : "b04fd1d235ec82cb",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669884273113,
+      "stop" : 1669884277997,
+      "duration" : 4884
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-107.0.5304.121" ]
+  }, {
+    "name" : "Verifying changing the status to Confirmed and Verify the order status history",
+    "uid" : "56c71bd8d57df18",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669884277997,
+      "stop" : 1669884291527,
+      "duration" : 13530
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-107.0.5304.121" ]
+  }, {
+    "name" : "Verifying the order details and payment values from UI are equal to the values in Kart collection",
+    "uid" : "1e440f8c21ff22b1",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669884291528,
+      "stop" : 1669884302754,
+      "duration" : 11226
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-107.0.5304.121" ]
+  }, {
+    "name" : "Verify sales and customer details",
+    "uid" : "c0d2b5f4d7fa9548",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669884302755,
+      "stop" : 1669884306431,
+      "duration" : 3676
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-107.0.5304.121" ]
+  }, {
+    "name" : "Verify raise priority option",
+    "uid" : "8f537f8f91b59cda",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669884306431,
+      "stop" : 1669884333947,
+      "duration" : 27516
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-107.0.5304.121" ]
+  }, {
+    "name" : "Adding json to collections for generating the Order Id",
+    "uid" : "7c4c107a46e4a3e5",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669884336170,
+      "stop" : 1669884340691,
+      "duration" : 4521
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-107.0.5304.121" ]
+  }, {
+    "name" : "log in into oms",
+    "uid" : "bc80332df1b3ef2a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669884340692,
+      "stop" : 1669884429915,
+      "duration" : 89223
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-107.0.5304.121" ]
+  }, {
+    "name" : "Verifying the Sales order Id details",
+    "uid" : "1132aa6802b83688",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669884429916,
+      "stop" : 1669884455737,
+      "duration" : 25821
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-107.0.5304.121" ]
+  }, {
+    "name" : "Verify PID is generated",
+    "uid" : "28ba631ede2bff13",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669884455737,
+      "stop" : 1669884456808,
+      "duration" : 1071
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-107.0.5304.121" ]
+  }, {
+    "name" : "Verify the shipment skus and skus name",
+    "uid" : "2aef743b976bdd37",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669884456808,
+      "stop" : 1669884462542,
+      "duration" : 5734
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-107.0.5304.121" ]
+  }, {
+    "name" : "Verify the sales skus and skus names",
+    "uid" : "1ed01f1d511acdde",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669884462543,
+      "stop" : 1669884467977,
+      "duration" : 5434
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-107.0.5304.121" ]
+  }, {
+    "name" : "Verifying changing the status to Confirmed and Verify the order status history",
+    "uid" : "4656075f8a0e683b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669884467978,
+      "stop" : 1669884488537,
+      "duration" : 20559
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-107.0.5304.121" ]
+  }, {
+    "name" : "Verifying the order details and payment values from UI are equal to the values in Kart collection",
+    "uid" : "5859681696d75c09",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669884488538,
+      "stop" : 1669884505084,
+      "duration" : 16546
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-107.0.5304.121" ]
+  }, {
+    "name" : "Verify sales and customer details",
+    "uid" : "e68df14bd91455bf",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669884505085,
+      "stop" : 1669884508496,
+      "duration" : 3411
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-107.0.5304.121" ]
+  }, {
+    "name" : "Verify raise priority option",
+    "uid" : "7786375c0b8de636",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1669884508496,
+      "stop" : 1669884515612,
+      "duration" : 7116
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-107.0.5304.121" ]
+  }, {
+    "name" : "Adding json to collections for generating the Order Id",
+    "uid" : "6d26297e98d57592",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669892955940,
+      "stop" : 1669892960673,
+      "duration" : 4733
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 5,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-107.0.5304.121" ]
+  }, {
+    "name" : "btlp forward workflow",
+    "uid" : "49f3f9ac3ec3c960",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1669892960674,
+      "stop" : 1669892963506,
+      "duration" : 2832
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 5,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-107.0.5304.121" ]
+  }, {
+    "name" : "btlp reveres workflow",
+    "uid" : "40be45cc17102e88",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1669892963507,
+      "stop" : 1669892963512,
+      "duration" : 5
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 5,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-107.0.5304.121" ]
+  }, {
+    "name" : "Adding json to collections for generating the Order Id",
+    "uid" : "e3fac59d1bace239",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669981013248,
+      "stop" : 1669981018904,
+      "duration" : 5656
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-108.0.5359.71" ]
+  }, {
+    "name" : "btlp forward workflow",
+    "uid" : "5e0e2790ae026b46",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1669981018904,
+      "stop" : 1669981200539,
+      "duration" : 181635
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-108.0.5359.71" ]
+  }, {
+    "name" : "btlp reveres workflow",
+    "uid" : "cfbdb9d86dd90b99",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1669981200539,
+      "stop" : 1669981304811,
+      "duration" : 104272
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-108.0.5359.71" ]
+  }, {
+    "name" : "log in into WMS",
+    "uid" : "20edf205de2c39f0",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1669981306870,
+      "stop" : 1669981354964,
+      "duration" : 48094
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-108.0.5359.71" ]
+  }, {
+    "name" : "Adding json to collections for generating the Order Id",
+    "uid" : "9b2afd38d4f2d1c8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1670482619745,
+      "stop" : 1670482624793,
+      "duration" : 5048
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-108.0.5359.94" ]
+  }, {
+    "name" : "log in into oms",
+    "uid" : "b547ec42d8225fa6",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1670482624794,
+      "stop" : 1670482650214,
+      "duration" : 25420
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-108.0.5359.94" ]
+  }, {
+    "name" : "Verifying the Sales order Id details",
+    "uid" : "907b287616bcd05d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1670482650215,
+      "stop" : 1670482655849,
+      "duration" : 5634
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-108.0.5359.94" ]
+  }, {
+    "name" : "Verify PID is generated",
+    "uid" : "a0e4ddfc8571c81f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1670482655849,
+      "stop" : 1670482656393,
+      "duration" : 544
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-108.0.5359.94" ]
+  }, {
+    "name" : "Verify the shipment skus and skus name",
+    "uid" : "4aa16aab3d0162df",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1670482656394,
+      "stop" : 1670482663610,
+      "duration" : 7216
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-108.0.5359.94" ]
+  }, {
+    "name" : "Verify the sales skus and skus names",
+    "uid" : "d39e9ff05eb53c28",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1670482663610,
+      "stop" : 1670482671088,
+      "duration" : 7478
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-108.0.5359.94" ]
+  }, {
+    "name" : "Verifying changing the status to Confirmed and Verify the order status history",
+    "uid" : "794df7f667f705f8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1670482671088,
+      "stop" : 1670482685487,
+      "duration" : 14399
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-108.0.5359.94" ]
+  }, {
+    "name" : "Verifying the order details and payment values from UI are equal to the values in Kart collection",
+    "uid" : "4e4b9fae4ff73348",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1670482685487,
+      "stop" : 1670482692138,
+      "duration" : 6651
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-108.0.5359.94" ]
+  }, {
+    "name" : "Verify sales and customer details",
+    "uid" : "88fcd576e77af23",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1670482692138,
+      "stop" : 1670482696513,
+      "duration" : 4375
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-108.0.5359.94" ]
+  }, {
+    "name" : "Verify raise priority option",
+    "uid" : "d6039782e3b0a9c4",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1670482696513,
+      "stop" : 1670482719070,
+      "duration" : 22557
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-108.0.5359.94" ]
+  }, {
+    "name" : "Adding json to collections for generating the Order Id",
+    "uid" : "e54a38051dde0289",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1670504809868,
+      "stop" : 1670504813417,
+      "duration" : 3549
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 13,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-108.0.5359.94" ]
+  }, {
+    "name" : "btlp forward workflow",
+    "uid" : "cf1894c591489a00",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1670504813417,
+      "stop" : 1670504822477,
+      "duration" : 9060
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 13,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-108.0.5359.94" ]
+  }, {
+    "name" : "btlp reveres workflow",
+    "uid" : "a89acbd53ce3a1bb",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1670504822479,
+      "stop" : 1670504822484,
+      "duration" : 5
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 13,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-108.0.5359.94" ]
+  }, {
+    "name" : "Adding json to collections for generating the Order Id",
+    "uid" : "ae2d7b8c6f03563b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1670588523105,
+      "stop" : 1670588528566,
+      "duration" : 5461
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 5,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-108.0.5359.98" ]
+  }, {
+    "name" : "log in into oms",
+    "uid" : "a00ebaa5b385de95",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1670588528567,
+      "stop" : 1670588555391,
+      "duration" : 26824
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 5,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-108.0.5359.98" ]
+  }, {
+    "name" : "Verifying the Sales order Id details",
+    "uid" : "edc97ec739f42d53",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1670588555391,
+      "stop" : 1670588574668,
+      "duration" : 19277
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 5,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-108.0.5359.98" ]
+  }, {
+    "name" : "Verify PID is generated",
+    "uid" : "983cd4662c31850a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1670588574668,
+      "stop" : 1670588575213,
+      "duration" : 545
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 5,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-108.0.5359.98" ]
+  }, {
+    "name" : "Verify the shipment skus and skus name",
+    "uid" : "a8c5e690ebd842e5",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1670588575213,
+      "stop" : 1670588582520,
+      "duration" : 7307
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 5,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-108.0.5359.98" ]
+  }, {
+    "name" : "Verify the sales skus and skus names",
+    "uid" : "968ee6334baeb02",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1670588582520,
+      "stop" : 1670588589497,
+      "duration" : 6977
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 5,
+    "retriesStatusChange" : true,
+    "parameters" : [ "chrome-108.0.5359.98" ]
+  }, {
+    "name" : "Verifying changing the status to Confirmed and Verify the order status history",
+    "uid" : "ff70fb7b0de2e226",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1670588589497,
+      "stop" : 1670588613280,
+      "duration" : 23783
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 5,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-108.0.5359.98" ]
+  }, {
+    "name" : "Verifying the order details and payment values from UI are equal to the values in Kart collection",
+    "uid" : "96ed762f9d532a53",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1670588613280,
+      "stop" : 1670588619890,
+      "duration" : 6610
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 5,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-108.0.5359.98" ]
+  }, {
+    "name" : "Verify sales and customer details",
+    "uid" : "15ce57cb94bf19f1",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1670588619890,
+      "stop" : 1670588624513,
+      "duration" : 4623
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 5,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-108.0.5359.98" ]
+  }, {
+    "name" : "Verify raise priority option",
+    "uid" : "989c5faa25faa886",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1670588624513,
+      "stop" : 1670588643520,
+      "duration" : 19007
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 5,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-108.0.5359.98" ]
+  }, {
+    "name" : "Adding json to collections for generating the Order Id",
+    "uid" : "ced5d084dd6634bc",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1671023614384,
+      "stop" : 1671023620260,
+      "duration" : 5876
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 6,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-108.0.5359.98" ]
+  }, {
+    "name" : "log in into oms",
+    "uid" : "c52072b78b7b9efb",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1671023620261,
+      "stop" : 1671023649480,
+      "duration" : 29219
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 6,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-108.0.5359.98" ]
+  }, {
+    "name" : "Verifying the Sales order Id details",
+    "uid" : "ca80b14dcdd39258",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1671023649481,
+      "stop" : 1671023656892,
+      "duration" : 7411
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 6,
+    "retriesStatusChange" : true,
+    "parameters" : [ "chrome-108.0.5359.98" ]
+  }, {
+    "name" : "Verify the shipment skus and skus name",
+    "uid" : "9e0cfb149b09ce5a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1671023656892,
+      "stop" : 1671023664933,
+      "duration" : 8041
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 4,
+    "retriesStatusChange" : true,
+    "parameters" : [ "chrome-108.0.5359.98" ]
+  }, {
+    "name" : "Verify the sales skus and skus names",
+    "uid" : "d70dc82d35bbd868",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1671023664933,
+      "stop" : 1671023672912,
+      "duration" : 7979
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 4,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-108.0.5359.98" ]
+  }, {
+    "name" : "Verifying changing the status to Confirmed and Verify the order status history",
+    "uid" : "37dad3b4e0442ccc",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1671023672912,
+      "stop" : 1671023685815,
+      "duration" : 12903
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 4,
+    "retriesStatusChange" : true,
+    "parameters" : [ "chrome-108.0.5359.98" ]
+  }, {
+    "name" : "Verifying the order details and payment values from UI are equal to the values in Kart collection",
+    "uid" : "70ab77fba7e27334",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1671023685815,
+      "stop" : 1671023692269,
+      "duration" : 6454
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 4,
+    "retriesStatusChange" : true,
+    "parameters" : [ "chrome-108.0.5359.98" ]
+  }, {
+    "name" : "Verify sales and customer details",
+    "uid" : "ae00cad94a723991",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1671023692269,
+      "stop" : 1671023698520,
+      "duration" : 6251
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 4,
+    "retriesStatusChange" : true,
+    "parameters" : [ "chrome-108.0.5359.98" ]
+  }, {
+    "name" : "Verify raise priority option",
+    "uid" : "7cc77ffa07535367",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1671023698520,
+      "stop" : 1671023716901,
+      "duration" : 18381
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 4,
+    "retriesStatusChange" : true,
+    "parameters" : [ "chrome-108.0.5359.98" ]
+  }, {
+    "name" : "Adding json to collections for generating the Order Id",
+    "uid" : "8181b72b601979b9",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1671023801353,
+      "stop" : 1671023807422,
+      "duration" : 6069
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-108.0.5359.98" ]
+  }, {
+    "name" : "log in into oms",
+    "uid" : "c7cd9177f563d889",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1671023807422,
+      "stop" : 1671023833558,
+      "duration" : 26136
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-108.0.5359.98" ]
+  }, {
+    "name" : "Verifying the Sales order Id details",
+    "uid" : "68de849200757d9f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1671023833559,
+      "stop" : 1671023839659,
+      "duration" : 6100
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-108.0.5359.98" ]
+  }, {
+    "name" : "Verify PID is generated",
+    "uid" : "1f3e3be1ed6aeb58",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1671023839659,
+      "stop" : 1671023840216,
+      "duration" : 557
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-108.0.5359.98" ]
+  }, {
+    "name" : "Verify the shipment skus and skus name",
+    "uid" : "7dd64525ad81e182",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1671023840216,
+      "stop" : 1671023848499,
+      "duration" : 8283
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-108.0.5359.98" ]
+  }, {
+    "name" : "Verify the sales skus and skus names",
+    "uid" : "edde3ac5a17f293e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1671023848499,
+      "stop" : 1671023855660,
+      "duration" : 7161
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-108.0.5359.98" ]
+  }, {
+    "name" : "Verifying changing the status to Confirmed and Verify the order status history",
+    "uid" : "71866bb54e8c4b87",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1671023855660,
+      "stop" : 1671023862688,
+      "duration" : 7028
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-108.0.5359.98" ]
+  }, {
+    "name" : "Verifying the order details and payment values from UI are equal to the values in Kart collection",
+    "uid" : "de647167ea1e325a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1671023862688,
+      "stop" : 1671023871158,
+      "duration" : 8470
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-108.0.5359.98" ]
+  }, {
+    "name" : "Verify sales and customer details",
+    "uid" : "d7856153213f7360",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1671023871158,
+      "stop" : 1671023876992,
+      "duration" : 5834
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-108.0.5359.98" ]
+  }, {
+    "name" : "Verify raise priority option",
+    "uid" : "5f7cb8cb61f5b8b8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1671023876992,
+      "stop" : 1671023895403,
+      "duration" : 18411
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-108.0.5359.98" ]
+  } ],
+  "name" : "behaviors"
+}

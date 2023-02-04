@@ -1,0 +1,96 @@
+{
+  "uid" : "5aed9a4a7107d7af",
+  "name" : "Verify raise priority option",
+  "fullName" : "Validating UKG Single order.Verify raise priority option",
+  "historyId" : "fef0418f8e8e8c46326652b0b6d6944d",
+  "time" : {
+    "start" : 1669272988182,
+    "stop" : 1669272988330,
+    "duration" : 148
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "this.ddConfirmOrder.waitForClickable is not a function",
+  "statusTrace" : "TypeError: this.ddConfirmOrder.waitForClickable is not a function\n                    at verifyOmsOrderDetails.verifyRaisePriorityOption (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:402:35)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:146:37)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "this.ddConfirmOrder.waitForClickable is not a function",
+    "statusTrace" : "TypeError: this.ddConfirmOrder.waitForClickable is not a function\n                    at verifyOmsOrderDetails.verifyRaisePriorityOption (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:402:35)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:146:37)",
+    "steps" : [ {
+      "name" : "Verify raise priority option",
+      "time" : {
+        "start" : 1669272988182,
+        "stop" : 1669272988330,
+        "duration" : 148
+      },
+      "status" : "broken",
+      "statusMessage" : "TypeError: this.ddConfirmOrder.waitForClickable is not a function\n                    at verifyOmsOrderDetails.verifyRaisePriorityOption (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:402:35)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:146:37)",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "ddc6b1e4a5c59c98",
+        "name" : "Screenshot",
+        "source" : "ddc6b1e4a5c59c98.png",
+        "type" : "image/png",
+        "size" : 178722
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify raise priority option"
+  }, {
+    "name" : "package",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.110"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5aed9a4a7107d7af.json",
+  "parameterValues" : [ "chrome-107.0.5304.110" ]
+}

@@ -1,0 +1,1633 @@
+{
+"draftOrderRefId" : "623039d5c04b55001d1cbe1b",
+"draftOrderId" : "DO-2203150701410430",
+"salesOrderId" : "SO-2203150701410430",
+"orderType" : "SPLIT",
+"courseType" : "K10",
+"orgFormattedName" : "byjus",
+"currency" : "INR",
+"salesSubOrderIds" : [ 
+    "SSO1-2203150701410430", 
+    "SSO2-2203150701410430"
+],
+"customerDetails" : {
+    "customerId" : "CX-2203150701410741",
+    "name" : "t",
+    "identifierDetails" : [],
+    "alternateName" : "king",
+    "mobileNo" : "+91-8765789098",
+    "alternateMobileNo" : "",
+    "email" : "king123@test.com",
+    "alternateEmail" : null,
+    "type" : null,
+    "communicationPreferences" : {},
+    "isBooksOpted" : false
+},
+"billingCustomerDetails" : null,
+"lineItems" : [ 
+    {
+        "id" : 4785,
+        "skuId" : "SD09CB22",
+        "imageUrl" : null,
+        "skuName" : "9th CBSE (SD Card-Byjus) May-2022",
+        "status" : "active",
+        "orgId" : "byjus",
+        "basePrice" : 20000,
+        "continuousPrice" : 15000,
+        "hsnCode" : "852351",
+        "programId" : "BTLAKXAS0001",
+        "type" : "product",
+        "subType" : "sd_card",
+        "category" : "btlp",
+        "course" : "K10",
+        "subCourse" : null,
+        "grade" : "9",
+        "subject" : null,
+        "board" : "CBSE",
+        "language" : null,
+        "validityType" : "year",
+        "validity" : "2022",
+        "validityMonth" : "MAY",
+        "brand" : null,
+        "size" : null,
+        "model" : null,
+        "scheme" : null,
+        "skuSet" : 1,
+        "cohortId" : 15,
+        "ohProductId" : "1068746",
+        "isValidSku" : true,
+        "remarks" : null,
+        "validatedAt" : "2021-11-09T14:28:00.035Z",
+        "createdBy" : "ayushi.bansal@byjus.com",
+        "createdAt" : "2021-11-09T14:28:00.035Z",
+        "deletedAt" : null,
+        "itemType" : "sd_card",
+        "price" : "13750.00",
+        "itemId" : "zAutnKH0v9PzsZilEzXeN8t6",
+        "tabletId" : "",
+        "studentId" : "king-1",
+        "name" : "9th CBSE (SD Card-Byjus) May-2022",
+        "sku" : "9th CBSE (SD Card-Byjus) May-2022",
+        "salesSubOrderId" : "SSO1-2203150701410430",
+        "itemStatus" : "mapping_pending",
+        "invoicePrice" : "13750.00",
+        "pgLineItemId" : 778956
+    }, 
+    {
+        "id" : 4784,
+        "skuId" : "SD10CB23",
+        "imageUrl" : null,
+        "skuName" : "10th CBSE (SD Card-Byjus) May-2023",
+        "status" : "active",
+        "orgId" : "byjus",
+        "basePrice" : 20000,
+        "continuousPrice" : 15000,
+        "hsnCode" : "852351",
+        "programId" : "BTLAKXAS0001",
+        "type" : "product",
+        "subType" : "sd_card",
+        "category" : "btlp",
+        "course" : "K10",
+        "subCourse" : null,
+        "grade" : "10",
+        "subject" : null,
+        "board" : "CBSE",
+        "language" : null,
+        "validityType" : "year",
+        "validity" : "2023",
+        "validityMonth" : "MAY",
+        "brand" : null,
+        "size" : null,
+        "model" : null,
+        "scheme" : null,
+        "skuSet" : 1,
+        "cohortId" : 16,
+        "ohProductId" : "1069283",
+        "isValidSku" : true,
+        "remarks" : null,
+        "validatedAt" : "2021-11-09T14:27:59.604Z",
+        "createdBy" : "ayushi.bansal@byjus.com",
+        "createdAt" : "2021-11-09T14:27:59.604Z",
+        "deletedAt" : null,
+        "itemType" : "sd_card",
+        "price" : "13750.00",
+        "itemId" : "1BxKsBEqXdiyVYO1qh_kT4dF",
+        "tabletId" : "",
+        "studentId" : "king-1",
+        "name" : "10th CBSE (SD Card-Byjus) May-2023",
+        "sku" : "10th CBSE (SD Card-Byjus) May-2023",
+        "salesSubOrderId" : "SSO1-2203150701410430",
+        "itemStatus" : "mapping_pending",
+        "invoicePrice" : "13750.00",
+        "pgLineItemId" : 778957
+    }, 
+    {
+        "id" : 789,
+        "skuId" : "HNT09CB22",
+        "imageUrl" : null,
+        "skuName" : "9th Grade CBSE Hybrid Tuition Program at BYJU'S Tuition Centre May 2022",
+        "status" : "active",
+        "orgId" : "byjus",
+        "basePrice" : 10000,
+        "continuousPrice" : 10000,
+        "hsnCode" : "999293",
+        "programId" : "BCRPUCSY0001",
+        "type" : "service",
+        "subType" : "crp",
+        "category" : "byjus_learning_center",
+        "course" : "K10",
+        "subCourse" : null,
+        "grade" : "9",
+        "subject" : null,
+        "board" : "CBSE",
+        "language" : null,
+        "validityType" : "year",
+        "validity" : "2022",
+        "validityMonth" : "MAY",
+        "brand" : null,
+        "size" : null,
+        "model" : null,
+        "scheme" : null,
+        "skuSet" : 1,
+        "cohortId" : 15,
+        "ohProductId" : "1984279",
+        "isValidSku" : true,
+        "remarks" : null,
+        "validatedAt" : null,
+        "createdBy" : "jithendra.malapalli@byjus.com",
+        "createdAt" : "2022-02-16T09:23:32.048Z",
+        "deletedAt" : null,
+        "itemType" : "byjus_premium",
+        "price" : "13750.00",
+        "itemId" : "usASO0huQETFiPWxG3pBcw8J",
+        "tabletId" : "",
+        "studentId" : "king-1",
+        "name" : "9th Grade CBSE Hybrid Tuition Program at BYJU'S Tuition Centre May 2022",
+        "sku" : "9th Grade CBSE Hybrid Tuition Program at BYJU'S Tuition Centre May 2022",
+        "salesSubOrderId" : "SSO2-2203150701410430",
+        "itemStatus" : "mapping_pending",
+        "invoicePrice" : "13750.00",
+        "pgLineItemId" : 778958
+    }, 
+    {
+        "id" : 1036,
+        "skuId" : "HNT10CB23",
+        "imageUrl" : null,
+        "skuName" : "10th Grade CBSE Hybrid Tuition Program at BYJU'S Tuition Centre May 2023",
+        "status" : "active",
+        "orgId" : "byjus",
+        "basePrice" : 35000,
+        "continuousPrice" : 15000,
+        "hsnCode" : "999293",
+        "programId" : "BCRPUCSY0001",
+        "type" : "service",
+        "subType" : "crp",
+        "category" : "byjus_learning_center",
+        "course" : "K10",
+        "subCourse" : null,
+        "grade" : "10",
+        "subject" : null,
+        "board" : "CBSE",
+        "language" : null,
+        "validityType" : "year",
+        "validity" : "2023",
+        "validityMonth" : "MAY",
+        "brand" : null,
+        "size" : null,
+        "model" : null,
+        "scheme" : null,
+        "skuSet" : 1,
+        "cohortId" : 16,
+        "ohProductId" : "1984345",
+        "isValidSku" : true,
+        "remarks" : null,
+        "validatedAt" : null,
+        "createdBy" : "jithendra.malapalli@byjus.com",
+        "createdAt" : "2022-02-16T09:24:23.384Z",
+        "deletedAt" : null,
+        "itemType" : "byjus_premium",
+        "price" : "13750.00",
+        "itemId" : "mrwmswm7a3HhBfztYwHcWusy",
+        "tabletId" : "",
+        "studentId" : "king-1",
+        "name" : "10th Grade CBSE Hybrid Tuition Program at BYJU'S Tuition Centre May 2023",
+        "sku" : "10th Grade CBSE Hybrid Tuition Program at BYJU'S Tuition Centre May 2023",
+        "salesSubOrderId" : "SSO2-2203150701410430",
+        "itemStatus" : "mapping_pending",
+        "invoicePrice" : "13750.00",
+        "pgLineItemId" : 778959
+    }
+],
+"shipmentLineItems" : [ 
+    {
+        "skuId" : "S4CB0810",
+        "properties" : {
+            "manufacturer" : null,
+            "brand" : null,
+            "color" : null,
+            "size" : null,
+            "unit" : null,
+            "board" : "CBSE",
+            "grade" : "08-10",
+            "course" : null,
+            "noOfCombos" : "3",
+            "sdCardMemory" : 128,
+            "appVersion" : "v5.1.1.10310",
+            "sdCardVersion" : "Version 1",
+            "apkRelease" : "05-Mar-21",
+            "contentRelease" : "29-Jun-21",
+            "inventoryRelease" : null,
+            "warehouse" : "IBC Knowledge Park, Lexington, Croma",
+            "location" : "FI Lex, FI Croma, FI IBC",
+            "comboDetails" : [ 
+                {
+                    "initialClass" : 8,
+                    "finalClass" : 9,
+                    "grades" : "08-09"
+                }, 
+                {
+                    "initialClass" : 8,
+                    "finalClass" : 10,
+                    "grades" : "08-10"
+                }, 
+                {
+                    "initialClass" : 9,
+                    "finalClass" : 10,
+                    "grades" : "09-10"
+                }
+            ],
+            "combinations" : [ 
+                "08-09", 
+                "08-10", 
+                "09-10"
+            ],
+            "programId" : "UBEPTPSY0001"
+        },
+        "skuName" : "Grade 08-10 CBSE SD Card",
+        "type" : "sd_card",
+        "activeGrades" : [ 
+            9, 
+            10
+        ],
+        "activeSalesItems" : [ 
+            "SD09CB22", 
+            "SD10CB23", 
+            "HNT09CB22", 
+            "HNT10CB23"
+        ],
+        "activeLineItemIds" : [ 
+            "zAutnKH0v9PzsZilEzXeN8t6", 
+            "1BxKsBEqXdiyVYO1qh_kT4dF", 
+            "usASO0huQETFiPWxG3pBcw8J", 
+            "mrwmswm7a3HhBfztYwHcWusy"
+        ],
+        "studentId" : "king-1",
+        "tabletId" : "undefined",
+        "itemStatus" : "mapping_pending"
+    }
+],
+"returnLineItems" : [],
+"addonLineItems" : [],
+"salesDetails" : {
+    "typeOfSales" : "DS Sales",
+    "directSalesBy" : "sanjay.karkera@byjus.com",
+    "directSalesByCampaign" : "Livechat Calling",
+    "salesAppointmentBy" : "sanjay.karkera@byjus.com",
+    "salesAppointmentByCampaign" : "Livechat Calling",
+    "incentiveDate" : "2022-03-15T07:02:54.241Z",
+    "salesAppointmentByRole" : "bdtm",
+    "directSalesByDept" : "business_development",
+    "salesAppointmentByDept" : "business_development",
+    "salesIndex" : 175
+},
+"addressDetails" : {
+    "billing" : {
+        "addressLine1" : "Address",
+        "addressLine2" : "Address",
+        "country" : "India",
+        "zipcode" : "576222",
+        "state" : "Karnataka (KA)",
+        "city" : "Udupi",
+        "address" : "Address\n Address"
+    },
+    "shipping" : {
+        "addressLine1" : "Address",
+        "addressLine2" : "Address",
+        "country" : "India",
+        "zipcode" : "576222",
+        "state" : "Karnataka (KA)",
+        "city" : "Udupi",
+        "address" : "Address\n Address"
+    }
+},
+"paymentDetails" : {
+    "type" : "NON_EMI",
+    "totalAmount" : 55000,
+    "totalEmiAmount" : 0,
+    "totalPrepaidAmount" : 55000,
+    "totalPostpaidAmount" : 0,
+    "paymentMethod" : "NGP",
+    "payments" : [ 
+        {
+            "isPrepaid" : true,
+            "_id" : "62303a16faa944001b044655",
+            "provider" : "CHEQUE",
+            "referenceId" : "16473277654548-1234567890",
+            "amount" : 55000,
+            "additionalDetails" : {
+                "bank" : "hdfc"
+            },
+            "attachments" : [ 
+                {
+                    "_id" : "62303a16faa944001b044656",
+                    "name" : "cheque",
+                    "url" : "https://orderhive-payments.s3.ap-southeast-1.amazonaws.com/development/623039d5c04b55001d1cbe1b/cheque/cheque-20220315_12328350.png"
+                }
+            ],
+            "type" : "DOWN_PAYMENT",
+            "currency" : "",
+            "isActive" : true
+        }
+    ],
+    "minDownPaymentDetails" : {
+        "isMatched" : true,
+        "minDownPaymentAmount" : 0
+    },
+    "isRepunchedCase" : false,
+    "paymentMode" : "CHEQUE",
+    "paymentAmountSplit" : "55000",
+    "subscriptionDetails" : {}
+},
+"financeOrderId" : "OLNQt60ZmCw0r",
+"productDetails" : {
+    "productType" : "combo",
+    "mentoringDetails" : [],
+    "bhlpCourseDetails" : [ 
+        {
+            "batchId" : "590",
+            "batchName" : "Standard_IX_CBSE_Port Blair_Reg_CMS_Vidya_52_V_2021_11_14_50c0",
+            "startDate" : "2021-12-14T00:00:00.000Z",
+            "endDate" : "2022-12-13T00:00:00.000Z",
+            "batchType" : "weekday",
+            "centreId" : "211",
+            "status" : "active",
+            "cohortId" : 15,
+            "blcCourse" : {
+                "courseAliasId" : "264",
+                "courseAliasName" : "Standard_IX_CBSE_Port Blair_Reg_CMS_Vidya_52_V"
+            },
+            "slots" : [ 
+                {
+                    "day" : "Thu",
+                    "startTime" : "10:0:AM",
+                    "endTime" : "10:0:PM"
+                }, 
+                {
+                    "day" : "Wed",
+                    "startTime" : "10:0:AM",
+                    "endTime" : "10:0:PM"
+                }, 
+                {
+                    "day" : "Mon",
+                    "startTime" : "10:0:AM",
+                    "endTime" : "10:0:PM"
+                }, 
+                {
+                    "day" : "Tue",
+                    "startTime" : "10:0:AM",
+                    "endTime" : "10:0:PM"
+                }
+            ],
+            "batchOffers" : []
+        }
+    ],
+    "paymentType" : "NON_EMI",
+    "maxPrice" : 55000,
+    "minPrice" : 44000,
+    "discountedPrice" : 0,
+    "students" : [ 
+        {
+            "studentProfileDetails" : {
+                "isExistingProfile" : false,
+                "existingPremiumId" : "",
+                "existingFamilyId" : ""
+            },
+            "hlpDetails" : {
+                "courseDetails" : [ 
+                    {
+                        "batchId" : "590",
+                        "batchName" : "Standard_IX_CBSE_Port Blair_Reg_CMS_Vidya_52_V_2021_11_14_50c0",
+                        "startDate" : "2021-12-14T00:00:00.000Z",
+                        "endDate" : "2022-12-13T00:00:00.000Z",
+                        "batchType" : "weekday",
+                        "centreId" : "211",
+                        "status" : "active",
+                        "cohortId" : 15,
+                        "blcCourse" : {
+                            "courseAliasId" : "264",
+                            "courseAliasName" : "Standard_IX_CBSE_Port Blair_Reg_CMS_Vidya_52_V"
+                        },
+                        "slots" : [ 
+                            {
+                                "day" : "Thu",
+                                "startTime" : "10:0:AM",
+                                "endTime" : "10:0:PM"
+                            }, 
+                            {
+                                "day" : "Wed",
+                                "startTime" : "10:0:AM",
+                                "endTime" : "10:0:PM"
+                            }, 
+                            {
+                                "day" : "Mon",
+                                "startTime" : "10:0:AM",
+                                "endTime" : "10:0:PM"
+                            }, 
+                            {
+                                "day" : "Tue",
+                                "startTime" : "10:0:AM",
+                                "endTime" : "10:0:PM"
+                            }
+                        ],
+                        "batchOffers" : []
+                    }
+                ],
+                "sessionDetails" : [ 
+                    {
+                        "sessions" : [ 
+                            {
+                                "day" : "Thu",
+                                "is_mandatory" : "",
+                                "time" : "10:0:AM-10:0:PM"
+                            }, 
+                            {
+                                "day" : "Wed",
+                                "is_mandatory" : "",
+                                "time" : "10:0:AM-10:0:PM"
+                            }, 
+                            {
+                                "day" : "Mon",
+                                "is_mandatory" : "",
+                                "time" : "10:0:AM-10:0:PM"
+                            }, 
+                            {
+                                "day" : "Tue",
+                                "is_mandatory" : "",
+                                "time" : "10:0:AM-10:0:PM"
+                            }
+                        ],
+                        "_id" : "62303a03c04b55001d1cbf02",
+                        "type" : "blc"
+                    }
+                ],
+                "initialClass" : "9",
+                "initialValidity" : "2022",
+                "batchCode" : "Hlp_16-03-2022"
+            },
+            "courseType" : [ 
+                "K10"
+            ],
+            "workshops" : [],
+            "items" : [ 
+                {
+                    "id" : 789,
+                    "skuId" : "HNT09CB22",
+                    "imageUrl" : null,
+                    "skuName" : "9th Grade CBSE Hybrid Tuition Program at BYJU'S Tuition Centre May 2022",
+                    "status" : "active",
+                    "orgId" : "byjus",
+                    "city" : null,
+                    "basePrice" : 10000,
+                    "continuousPrice" : 10000,
+                    "hsnCode" : "999293",
+                    "programId" : "BCRPUCSY0001",
+                    "type" : "service",
+                    "subType" : "crp",
+                    "category" : "byjus_learning_center",
+                    "course" : "K10",
+                    "subCourse" : null,
+                    "grade" : "9",
+                    "subject" : null,
+                    "board" : "CBSE",
+                    "language" : null,
+                    "validityType" : "year",
+                    "validity" : "2022",
+                    "validityMonth" : "MAY",
+                    "brand" : null,
+                    "size" : null,
+                    "model" : null,
+                    "scheme" : null,
+                    "skuSet" : 1,
+                    "cohortId" : 15,
+                    "ohProductId" : "1984279",
+                    "isValidSku" : true,
+                    "remarks" : null,
+                    "validatedAt" : null,
+                    "createdBy" : "jithendra.malapalli@byjus.com",
+                    "updatedBy" : "jithendra.malapalli@byjus.com",
+                    "createdAt" : "2022-02-16T09:23:32.048Z",
+                    "updatedAt" : "2022-02-28T10:10:00.180Z",
+                    "deletedAt" : null,
+                    "itemType" : "course",
+                    "price" : "13750.00",
+                    "combinationType" : "byjus_learning_center",
+                    "itemId" : "usASO0huQETFiPWxG3pBcw8J",
+                    "tabletId" : "",
+                    "studentId" : "king-1",
+                    "name" : "9th Grade CBSE Hybrid Tuition Program at BYJU'S Tuition Centre May 2022",
+                    "sku" : "9th Grade CBSE Hybrid Tuition Program at BYJU'S Tuition Centre May 2022"
+                }, 
+                {
+                    "id" : 1036,
+                    "skuId" : "HNT10CB23",
+                    "imageUrl" : null,
+                    "skuName" : "10th Grade CBSE Hybrid Tuition Program at BYJU'S Tuition Centre May 2023",
+                    "status" : "active",
+                    "orgId" : "byjus",
+                    "city" : null,
+                    "basePrice" : 35000,
+                    "continuousPrice" : 15000,
+                    "hsnCode" : "999293",
+                    "programId" : "BCRPUCSY0001",
+                    "type" : "service",
+                    "subType" : "crp",
+                    "category" : "byjus_learning_center",
+                    "course" : "K10",
+                    "subCourse" : null,
+                    "grade" : "10",
+                    "subject" : null,
+                    "board" : "CBSE",
+                    "language" : null,
+                    "validityType" : "year",
+                    "validity" : "2023",
+                    "validityMonth" : "MAY",
+                    "brand" : null,
+                    "size" : null,
+                    "model" : null,
+                    "scheme" : null,
+                    "skuSet" : 1,
+                    "cohortId" : 16,
+                    "ohProductId" : "1984345",
+                    "isValidSku" : true,
+                    "remarks" : null,
+                    "validatedAt" : null,
+                    "createdBy" : "jithendra.malapalli@byjus.com",
+                    "updatedBy" : "jithendra.malapalli@byjus.com",
+                    "createdAt" : "2022-02-16T09:24:23.384Z",
+                    "updatedAt" : "2022-02-28T10:09:01.607Z",
+                    "deletedAt" : null,
+                    "itemType" : "course",
+                    "price" : "13750.00",
+                    "combinationType" : "byjus_learning_center",
+                    "itemId" : "mrwmswm7a3HhBfztYwHcWusy",
+                    "tabletId" : "",
+                    "studentId" : "king-1",
+                    "name" : "10th Grade CBSE Hybrid Tuition Program at BYJU'S Tuition Centre May 2023",
+                    "sku" : "10th Grade CBSE Hybrid Tuition Program at BYJU'S Tuition Centre May 2023"
+                }, 
+                {
+                    "id" : 4785,
+                    "skuId" : "SD09CB22",
+                    "imageUrl" : null,
+                    "skuName" : "9th CBSE (SD Card-Byjus) May-2022",
+                    "status" : "active",
+                    "orgId" : "byjus",
+                    "city" : null,
+                    "basePrice" : 20000,
+                    "continuousPrice" : 15000,
+                    "hsnCode" : "852351",
+                    "programId" : "BTLAKXAS0001",
+                    "type" : "product",
+                    "subType" : "sd_card",
+                    "category" : "btlp",
+                    "course" : "K10",
+                    "subCourse" : null,
+                    "grade" : "9",
+                    "subject" : null,
+                    "board" : "CBSE",
+                    "language" : null,
+                    "validityType" : "year",
+                    "validity" : "2022",
+                    "validityMonth" : "MAY",
+                    "brand" : null,
+                    "size" : null,
+                    "model" : null,
+                    "scheme" : null,
+                    "skuSet" : 1,
+                    "cohortId" : 15,
+                    "ohProductId" : "1068746",
+                    "isValidSku" : true,
+                    "remarks" : null,
+                    "validatedAt" : "2021-11-09T14:28:00.035Z",
+                    "createdBy" : "ayushi.bansal@byjus.com",
+                    "updatedBy" : "ayushi.bansal@byjus.com",
+                    "createdAt" : "2021-11-09T14:28:00.035Z",
+                    "updatedAt" : "2022-02-28T09:53:04.593Z",
+                    "deletedAt" : null,
+                    "itemType" : "course",
+                    "price" : "13750.00",
+                    "combinationType" : "btlp",
+                    "itemId" : "zAutnKH0v9PzsZilEzXeN8t6",
+                    "tabletId" : "",
+                    "studentId" : "king-1",
+                    "name" : "9th CBSE (SD Card-Byjus) May-2022",
+                    "sku" : "9th CBSE (SD Card-Byjus) May-2022"
+                }, 
+                {
+                    "id" : 4784,
+                    "skuId" : "SD10CB23",
+                    "imageUrl" : null,
+                    "skuName" : "10th CBSE (SD Card-Byjus) May-2023",
+                    "status" : "active",
+                    "orgId" : "byjus",
+                    "city" : null,
+                    "basePrice" : 20000,
+                    "continuousPrice" : 15000,
+                    "hsnCode" : "852351",
+                    "programId" : "BTLAKXAS0001",
+                    "type" : "product",
+                    "subType" : "sd_card",
+                    "category" : "btlp",
+                    "course" : "K10",
+                    "subCourse" : null,
+                    "grade" : "10",
+                    "subject" : null,
+                    "board" : "CBSE",
+                    "language" : null,
+                    "validityType" : "year",
+                    "validity" : "2023",
+                    "validityMonth" : "MAY",
+                    "brand" : null,
+                    "size" : null,
+                    "model" : null,
+                    "scheme" : null,
+                    "skuSet" : 1,
+                    "cohortId" : 16,
+                    "ohProductId" : "1069283",
+                    "isValidSku" : true,
+                    "remarks" : null,
+                    "validatedAt" : "2021-11-09T14:27:59.604Z",
+                    "createdBy" : "ayushi.bansal@byjus.com",
+                    "updatedBy" : "ayushi.bansal@byjus.com",
+                    "createdAt" : "2021-11-09T14:27:59.604Z",
+                    "updatedAt" : "2022-02-28T09:53:04.859Z",
+                    "deletedAt" : null,
+                    "itemType" : "course",
+                    "price" : "13750.00",
+                    "combinationType" : "btlp",
+                    "itemId" : "1BxKsBEqXdiyVYO1qh_kT4dF",
+                    "tabletId" : "",
+                    "studentId" : "king-1",
+                    "name" : "10th CBSE (SD Card-Byjus) May-2023",
+                    "sku" : "10th CBSE (SD Card-Byjus) May-2023"
+                }
+            ],
+            "addOnItems" : [],
+            "mentoringDetails" : [ 
+                {
+                    "type" : "blc",
+                    "sessions" : [ 
+                        {
+                            "day" : "Thu",
+                            "is_mandatory" : "",
+                            "time" : "10:0:AM-10:0:PM"
+                        }, 
+                        {
+                            "day" : "Wed",
+                            "is_mandatory" : "",
+                            "time" : "10:0:AM-10:0:PM"
+                        }, 
+                        {
+                            "day" : "Mon",
+                            "is_mandatory" : "",
+                            "time" : "10:0:AM-10:0:PM"
+                        }, 
+                        {
+                            "day" : "Tue",
+                            "is_mandatory" : "",
+                            "time" : "10:0:AM-10:0:PM"
+                        }
+                    ]
+                }
+            ],
+            "bhlpCourseDetails" : [ 
+                {
+                    "batchId" : "590",
+                    "batchName" : "Standard_IX_CBSE_Port Blair_Reg_CMS_Vidya_52_V_2021_11_14_50c0",
+                    "startDate" : "2021-12-14T00:00:00.000Z",
+                    "endDate" : "2022-12-13T00:00:00.000Z",
+                    "batchType" : "weekday",
+                    "centreId" : "211",
+                    "status" : "active",
+                    "cohortId" : 15,
+                    "blcCourse" : {
+                        "courseAliasId" : "264",
+                        "courseAliasName" : "Standard_IX_CBSE_Port Blair_Reg_CMS_Vidya_52_V"
+                    },
+                    "slots" : [ 
+                        {
+                            "day" : "Thu",
+                            "startTime" : "10:0:AM",
+                            "endTime" : "10:0:PM"
+                        }, 
+                        {
+                            "day" : "Wed",
+                            "startTime" : "10:0:AM",
+                            "endTime" : "10:0:PM"
+                        }, 
+                        {
+                            "day" : "Mon",
+                            "startTime" : "10:0:AM",
+                            "endTime" : "10:0:PM"
+                        }, 
+                        {
+                            "day" : "Tue",
+                            "startTime" : "10:0:AM",
+                            "endTime" : "10:0:PM"
+                        }
+                    ],
+                    "batchOffers" : []
+                }
+            ],
+            "_id" : "62303a03c04b55001d1cbf01",
+            "board" : "CBSE",
+            "validity" : "2022",
+            "initialClass" : "9",
+            "finalClass" : "10",
+            "course" : "K10/K12",
+            "formValues" : {
+                "state" : "1",
+                "city" : "334",
+                "centre" : "211",
+                "board" : "CBSE",
+                "stateBoard" : "",
+                "addTlpCourse" : false,
+                "tlpFinalGrade" : "",
+                "validity" : 2022,
+                "batchType" : "weekday",
+                "initialClass" : "9",
+                "finalClass" : "10",
+                "tabletId" : "",
+                "course" : "K10/K12",
+                "requestedBatchId" : "590",
+                "cohortId" : 15,
+                "courseAliasId" : "264",
+                "stateName" : "Andaman and Nicobar Islands",
+                "cityName" : "Port Blair",
+                "centreName" : "Reg_CMS_Vidya",
+                "mentoringDetails" : [ 
+                    {
+                        "type" : "blc",
+                        "sessions" : [ 
+                            {
+                                "day" : "Thu",
+                                "is_mandatory" : "",
+                                "time" : "10:0:AM-10:0:PM"
+                            }, 
+                            {
+                                "day" : "Wed",
+                                "is_mandatory" : "",
+                                "time" : "10:0:AM-10:0:PM"
+                            }, 
+                            {
+                                "day" : "Mon",
+                                "is_mandatory" : "",
+                                "time" : "10:0:AM-10:0:PM"
+                            }, 
+                            {
+                                "day" : "Tue",
+                                "is_mandatory" : "",
+                                "time" : "10:0:AM-10:0:PM"
+                            }
+                        ]
+                    }
+                ],
+                "bhlpCourseDetails" : {
+                    "batchId" : "590",
+                    "batchName" : "Standard_IX_CBSE_Port Blair_Reg_CMS_Vidya_52_V_2021_11_14_50c0",
+                    "startDate" : "2021-12-14T00:00:00.000Z",
+                    "endDate" : "2022-12-13T00:00:00.000Z",
+                    "batchType" : "weekday",
+                    "centreId" : "211",
+                    "status" : "active",
+                    "cohortId" : 15,
+                    "blcCourse" : {
+                        "courseAliasId" : "264",
+                        "courseAliasName" : "Standard_IX_CBSE_Port Blair_Reg_CMS_Vidya_52_V"
+                    },
+                    "slots" : [ 
+                        {
+                            "day" : "Thu",
+                            "startTime" : "10:0:AM",
+                            "endTime" : "10:0:PM"
+                        }, 
+                        {
+                            "day" : "Wed",
+                            "startTime" : "10:0:AM",
+                            "endTime" : "10:0:PM"
+                        }, 
+                        {
+                            "day" : "Mon",
+                            "startTime" : "10:0:AM",
+                            "endTime" : "10:0:PM"
+                        }, 
+                        {
+                            "day" : "Tue",
+                            "startTime" : "10:0:AM",
+                            "endTime" : "10:0:PM"
+                        }
+                    ],
+                    "batchOffers" : []
+                }
+            },
+            "productSelectionType" : "byjus_learning_centre",
+            "studentName" : "king",
+            "studentId" : "king-1",
+            "academicDetails" : {
+                "mathPercent" : null,
+                "sciencePercent" : null,
+                "flowOfTopic" : null,
+                "languageOfInstruction" : null,
+                "languageOfInstructionId" : null
+            },
+            "centreDetails" : {
+                "stateId" : "1",
+                "state" : "Andaman and Nicobar Islands",
+                "cityId" : "334",
+                "city" : "Port Blair",
+                "centreId" : "211",
+                "centre" : "Reg_CMS_Vidya",
+                "requestedBatchId" : "590",
+                "requestId" : "BR-2203150703000141",
+                "batchType" : "weekday",
+                "courseAliasId" : "264",
+                "cohortId" : "15"
+            }
+        }
+    ],
+    "products" : [ 
+        {
+            "id" : 789,
+            "skuId" : "HNT09CB22",
+            "imageUrl" : null,
+            "skuName" : "9th Grade CBSE Hybrid Tuition Program at BYJU'S Tuition Centre May 2022",
+            "status" : "active",
+            "orgId" : "byjus",
+            "city" : null,
+            "basePrice" : 10000,
+            "continuousPrice" : 10000,
+            "hsnCode" : "999293",
+            "programId" : "BCRPUCSY0001",
+            "type" : "service",
+            "subType" : "crp",
+            "category" : "byjus_learning_center",
+            "course" : "K10",
+            "subCourse" : null,
+            "grade" : "9",
+            "subject" : null,
+            "board" : "CBSE",
+            "language" : null,
+            "validityType" : "year",
+            "validity" : "2022",
+            "validityMonth" : "MAY",
+            "brand" : null,
+            "size" : null,
+            "model" : null,
+            "scheme" : null,
+            "skuSet" : 1,
+            "cohortId" : 15,
+            "ohProductId" : "1984279",
+            "isValidSku" : true,
+            "remarks" : null,
+            "validatedAt" : null,
+            "createdBy" : "jithendra.malapalli@byjus.com",
+            "updatedBy" : "jithendra.malapalli@byjus.com",
+            "createdAt" : "2022-02-16T09:23:32.048Z",
+            "updatedAt" : "2022-02-28T10:10:00.180Z",
+            "deletedAt" : null,
+            "itemType" : "course",
+            "price" : "13750.00",
+            "combinationType" : "byjus_learning_center",
+            "itemId" : "usASO0huQETFiPWxG3pBcw8J",
+            "tabletId" : "",
+            "studentId" : "king-1",
+            "name" : "9th Grade CBSE Hybrid Tuition Program at BYJU'S Tuition Centre May 2022",
+            "sku" : "9th Grade CBSE Hybrid Tuition Program at BYJU'S Tuition Centre May 2022"
+        }, 
+        {
+            "id" : 1036,
+            "skuId" : "HNT10CB23",
+            "imageUrl" : null,
+            "skuName" : "10th Grade CBSE Hybrid Tuition Program at BYJU'S Tuition Centre May 2023",
+            "status" : "active",
+            "orgId" : "byjus",
+            "city" : null,
+            "basePrice" : 35000,
+            "continuousPrice" : 15000,
+            "hsnCode" : "999293",
+            "programId" : "BCRPUCSY0001",
+            "type" : "service",
+            "subType" : "crp",
+            "category" : "byjus_learning_center",
+            "course" : "K10",
+            "subCourse" : null,
+            "grade" : "10",
+            "subject" : null,
+            "board" : "CBSE",
+            "language" : null,
+            "validityType" : "year",
+            "validity" : "2023",
+            "validityMonth" : "MAY",
+            "brand" : null,
+            "size" : null,
+            "model" : null,
+            "scheme" : null,
+            "skuSet" : 1,
+            "cohortId" : 16,
+            "ohProductId" : "1984345",
+            "isValidSku" : true,
+            "remarks" : null,
+            "validatedAt" : null,
+            "createdBy" : "jithendra.malapalli@byjus.com",
+            "updatedBy" : "jithendra.malapalli@byjus.com",
+            "createdAt" : "2022-02-16T09:24:23.384Z",
+            "updatedAt" : "2022-02-28T10:09:01.607Z",
+            "deletedAt" : null,
+            "itemType" : "course",
+            "price" : "13750.00",
+            "combinationType" : "byjus_learning_center",
+            "itemId" : "mrwmswm7a3HhBfztYwHcWusy",
+            "tabletId" : "",
+            "studentId" : "king-1",
+            "name" : "10th Grade CBSE Hybrid Tuition Program at BYJU'S Tuition Centre May 2023",
+            "sku" : "10th Grade CBSE Hybrid Tuition Program at BYJU'S Tuition Centre May 2023"
+        }, 
+        {
+            "id" : 4785,
+            "skuId" : "SD09CB22",
+            "imageUrl" : null,
+            "skuName" : "9th CBSE (SD Card-Byjus) May-2022",
+            "status" : "active",
+            "orgId" : "byjus",
+            "city" : null,
+            "basePrice" : 20000,
+            "continuousPrice" : 15000,
+            "hsnCode" : "852351",
+            "programId" : "BTLAKXAS0001",
+            "type" : "product",
+            "subType" : "sd_card",
+            "category" : "btlp",
+            "course" : "K10",
+            "subCourse" : null,
+            "grade" : "9",
+            "subject" : null,
+            "board" : "CBSE",
+            "language" : null,
+            "validityType" : "year",
+            "validity" : "2022",
+            "validityMonth" : "MAY",
+            "brand" : null,
+            "size" : null,
+            "model" : null,
+            "scheme" : null,
+            "skuSet" : 1,
+            "cohortId" : 15,
+            "ohProductId" : "1068746",
+            "isValidSku" : true,
+            "remarks" : null,
+            "validatedAt" : "2021-11-09T14:28:00.035Z",
+            "createdBy" : "ayushi.bansal@byjus.com",
+            "updatedBy" : "ayushi.bansal@byjus.com",
+            "createdAt" : "2021-11-09T14:28:00.035Z",
+            "updatedAt" : "2022-02-28T09:53:04.593Z",
+            "deletedAt" : null,
+            "itemType" : "course",
+            "price" : "13750.00",
+            "combinationType" : "btlp",
+            "itemId" : "zAutnKH0v9PzsZilEzXeN8t6",
+            "tabletId" : "",
+            "studentId" : "king-1",
+            "name" : "9th CBSE (SD Card-Byjus) May-2022",
+            "sku" : "9th CBSE (SD Card-Byjus) May-2022"
+        }, 
+        {
+            "id" : 4784,
+            "skuId" : "SD10CB23",
+            "imageUrl" : null,
+            "skuName" : "10th CBSE (SD Card-Byjus) May-2023",
+            "status" : "active",
+            "orgId" : "byjus",
+            "city" : null,
+            "basePrice" : 20000,
+            "continuousPrice" : 15000,
+            "hsnCode" : "852351",
+            "programId" : "BTLAKXAS0001",
+            "type" : "product",
+            "subType" : "sd_card",
+            "category" : "btlp",
+            "course" : "K10",
+            "subCourse" : null,
+            "grade" : "10",
+            "subject" : null,
+            "board" : "CBSE",
+            "language" : null,
+            "validityType" : "year",
+            "validity" : "2023",
+            "validityMonth" : "MAY",
+            "brand" : null,
+            "size" : null,
+            "model" : null,
+            "scheme" : null,
+            "skuSet" : 1,
+            "cohortId" : 16,
+            "ohProductId" : "1069283",
+            "isValidSku" : true,
+            "remarks" : null,
+            "validatedAt" : "2021-11-09T14:27:59.604Z",
+            "createdBy" : "ayushi.bansal@byjus.com",
+            "updatedBy" : "ayushi.bansal@byjus.com",
+            "createdAt" : "2021-11-09T14:27:59.604Z",
+            "updatedAt" : "2022-02-28T09:53:04.859Z",
+            "deletedAt" : null,
+            "itemType" : "course",
+            "price" : "13750.00",
+            "combinationType" : "btlp",
+            "itemId" : "1BxKsBEqXdiyVYO1qh_kT4dF",
+            "tabletId" : "",
+            "studentId" : "king-1",
+            "name" : "10th CBSE (SD Card-Byjus) May-2023",
+            "sku" : "10th CBSE (SD Card-Byjus) May-2023"
+        }
+    ],
+    "mentoring" : {
+        "count" : 0,
+        "items" : []
+    },
+    "finalPrice" : 55000
+},
+"attachments" : [ 
+    {
+        "_id" : "62303a16faa944001b044654",
+        "name" : "cheque",
+        "url" : "https://orderhive-payments.s3.ap-southeast-1.amazonaws.com/development/623039d5c04b55001d1cbe1b/cheque/cheque-20220315_12328350.png"
+    }
+],
+"cashbackDetails" : {
+    "unutilizedCashbacks" : []
+},
+"comments" : [ 
+    {
+        "_id" : "62303a16faa944001b044659",
+        "category" : "payment",
+        "type" : "refIds",
+        "comment" : "User Comment: test",
+        "commentedBy" : "praz@byjus.com",
+        "commentedAt" : "2022-03-15T07:02:46.126Z",
+        "source" : "kart"
+    }, 
+    {
+        "_id" : "62303a16faa944001b04465a",
+        "category" : "product",
+        "type" : "details",
+        "comment" : "Student Details :  Course Details : K10/K12 CBSE : 9 - 10 , Initial Validity : 2022 Sessions : \n                        Day : Thu \n                        Time : 10:0:AM-10:0:PM  Sessions : \n                        Day : Wed \n                        Time : 10:0:AM-10:0:PM  Sessions : \n                        Day : Mon \n                        Time : 10:0:AM-10:0:PM  Sessions : \n                        Day : Tue \n                        Time : 10:0:AM-10:0:PM",
+        "commentedBy" : "system",
+        "commentedAt" : "2022-03-15T07:02:46.126Z",
+        "source" : "kart"
+    }, 
+    {
+        "_id" : "62303a16faa944001b04465b",
+        "category" : "price",
+        "type" : "range",
+        "comment" : "Price Range : 44000 - 55000\n Final Price : 55000",
+        "commentedBy" : "system",
+        "commentedAt" :"2022-03-15T07:02:46.126Z",
+        "source" : "kart"
+    }, 
+    {
+        "_id" : "62303a16faa944001b04465c",
+        "category" : "payment",
+        "type" : "refIds",
+        "comment" : "Payment Details : , Method:CHEQUE Amount: 55000 ReferenceId:16473277654548-1234567890",
+        "commentedBy" : "system",
+        "commentedAt" : "2022-03-15T07:02:46.126Z",
+        "source" : "kart"
+    }, 
+    {
+        "_id" : "62303a1efaa944001b044668",
+        "comment" : "praz@byjus.com opted to move this order to OMS. Reason - test",
+        "commentedBy" : "praz@byjus.com",
+        "commentedAt" : "2022-03-15T07:02:54.223Z",
+        "source" : "kart"
+    }
+],
+"orderPunchingType" : "NORMAL_ORDER",
+"orderPunchingCategory" : "blc",
+"orderBatchId" : "",
+"status" : "partial_confirmed",
+"leadDetails" : {
+    "prospectId" : "606a9e47-c473-414d-9dd4-a0c3f4ba59b8",
+    "accountNo" : "24693",
+    "loggedInEmailId" : "praz@byjus.com",
+    "leadCreatedBy" : "",
+    "leadCreatedAt" : null,
+    "leadMobileNo" : "8765789098",
+    "isLeadMobileUsed" : false,
+    "leadLink" : "https://run.leadsquared.com/LeadManagement/LeadDetails?LeadID=606a9e47-c473-414d-9dd4-a0c3f4ba59b8"
+},
+"contactDetails" : {
+    "orderPunchingContact" : "8765789098",
+    "cxProvidedContact" : "",
+    "leadContact" : "8765789098",
+    "gpContact" : "",
+    "ngpContact" : "",
+    "lpContact" : ""
+},
+"createdAt" : "2022-03-15T07:02:54.241Z",
+"updatedAt" : "2022-03-15T07:12:35.678Z",
+"studentDetails" : [ 
+    {
+        "studentProfileDetails" : {
+            "isExistingProfile" : false,
+            "existingPremiumId" : "",
+            "existingFamilyId" : ""
+        },
+        "hlpDetails" : {
+            "courseDetails" : [ 
+                {
+                    "batchId" : "590",
+                    "batchName" : "Standard_IX_CBSE_Port Blair_Reg_CMS_Vidya_52_V_2021_11_14_50c0",
+                    "startDate" : "2021-12-14T00:00:00.000Z",
+                    "endDate" : "2022-12-13T00:00:00.000Z",
+                    "batchType" : "weekday",
+                    "centreId" : "211",
+                    "status" : "active",
+                    "cohortId" : 15,
+                    "blcCourse" : {
+                        "courseAliasId" : "264",
+                        "courseAliasName" : "Standard_IX_CBSE_Port Blair_Reg_CMS_Vidya_52_V"
+                    },
+                    "slots" : [ 
+                        {
+                            "day" : "Thu",
+                            "startTime" : "10:0:AM",
+                            "endTime" : "10:0:PM"
+                        }, 
+                        {
+                            "day" : "Wed",
+                            "startTime" : "10:0:AM",
+                            "endTime" : "10:0:PM"
+                        }, 
+                        {
+                            "day" : "Mon",
+                            "startTime" : "10:0:AM",
+                            "endTime" : "10:0:PM"
+                        }, 
+                        {
+                            "day" : "Tue",
+                            "startTime" : "10:0:AM",
+                            "endTime" : "10:0:PM"
+                        }
+                    ],
+                    "batchOffers" : []
+                }
+            ],
+            "sessionDetails" : [ 
+                {
+                    "sessions" : [ 
+                        {
+                            "day" : "Thu",
+                            "is_mandatory" : "",
+                            "time" : "10:0:AM-10:0:PM"
+                        }, 
+                        {
+                            "day" : "Wed",
+                            "is_mandatory" : "",
+                            "time" : "10:0:AM-10:0:PM"
+                        }, 
+                        {
+                            "day" : "Mon",
+                            "is_mandatory" : "",
+                            "time" : "10:0:AM-10:0:PM"
+                        }, 
+                        {
+                            "day" : "Tue",
+                            "is_mandatory" : "",
+                            "time" : "10:0:AM-10:0:PM"
+                        }
+                    ],
+                    "_id" : "62303a03c04b55001d1cbf02",
+                    "type" : "blc"
+                }
+            ],
+            "initialClass" : "9",
+            "initialValidity" : "2022",
+            "batchCode" : "Hlp_16-03-2022"
+        },
+        "courseType" : [ 
+            "K10"
+        ],
+        "workshops" : [],
+        "items" : [ 
+            {
+                "id" : 789,
+                "skuId" : "HNT09CB22",
+                "imageUrl" : null,
+                "skuName" : "9th Grade CBSE Hybrid Tuition Program at BYJU'S Tuition Centre May 2022",
+                "status" : "active",
+                "orgId" : "byjus",
+                "city" : null,
+                "basePrice" : 10000,
+                "continuousPrice" : 10000,
+                "hsnCode" : "999293",
+                "programId" : "BCRPUCSY0001",
+                "type" : "service",
+                "subType" : "crp",
+                "category" : "byjus_learning_center",
+                "course" : "K10",
+                "subCourse" : null,
+                "grade" : "9",
+                "subject" : null,
+                "board" : "CBSE",
+                "language" : null,
+                "validityType" : "year",
+                "validity" : "2022",
+                "validityMonth" : "MAY",
+                "brand" : null,
+                "size" : null,
+                "model" : null,
+                "scheme" : null,
+                "skuSet" : 1,
+                "cohortId" : 15,
+                "ohProductId" : "1984279",
+                "isValidSku" : true,
+                "remarks" : null,
+                "validatedAt" : null,
+                "createdBy" : "jithendra.malapalli@byjus.com",
+                "updatedBy" : "jithendra.malapalli@byjus.com",
+                "createdAt" : "2022-02-16T09:23:32.048Z",
+                "updatedAt" : "2022-02-28T10:10:00.180Z",
+                "deletedAt" : null,
+                "itemType" : "course",
+                "price" : "13750.00",
+                "combinationType" : "byjus_learning_center",
+                "itemId" : "usASO0huQETFiPWxG3pBcw8J",
+                "tabletId" : "",
+                "studentId" : "king-1",
+                "name" : "9th Grade CBSE Hybrid Tuition Program at BYJU'S Tuition Centre May 2022",
+                "sku" : "9th Grade CBSE Hybrid Tuition Program at BYJU'S Tuition Centre May 2022"
+            }, 
+            {
+                "id" : 1036,
+                "skuId" : "HNT10CB23",
+                "imageUrl" : null,
+                "skuName" : "10th Grade CBSE Hybrid Tuition Program at BYJU'S Tuition Centre May 2023",
+                "status" : "active",
+                "orgId" : "byjus",
+                "city" : null,
+                "basePrice" : 35000,
+                "continuousPrice" : 15000,
+                "hsnCode" : "999293",
+                "programId" : "BCRPUCSY0001",
+                "type" : "service",
+                "subType" : "crp",
+                "category" : "byjus_learning_center",
+                "course" : "K10",
+                "subCourse" : null,
+                "grade" : "10",
+                "subject" : null,
+                "board" : "CBSE",
+                "language" : null,
+                "validityType" : "year",
+                "validity" : "2023",
+                "validityMonth" : "MAY",
+                "brand" : null,
+                "size" : null,
+                "model" : null,
+                "scheme" : null,
+                "skuSet" : 1,
+                "cohortId" : 16,
+                "ohProductId" : "1984345",
+                "isValidSku" : true,
+                "remarks" : null,
+                "validatedAt" : null,
+                "createdBy" : "jithendra.malapalli@byjus.com",
+                "updatedBy" : "jithendra.malapalli@byjus.com",
+                "createdAt" : "2022-02-16T09:24:23.384Z",
+                "updatedAt" : "2022-02-28T10:09:01.607Z",
+                "deletedAt" : null,
+                "itemType" : "course",
+                "price" : "13750.00",
+                "combinationType" : "byjus_learning_center",
+                "itemId" : "mrwmswm7a3HhBfztYwHcWusy",
+                "tabletId" : "",
+                "studentId" : "king-1",
+                "name" : "10th Grade CBSE Hybrid Tuition Program at BYJU'S Tuition Centre May 2023",
+                "sku" : "10th Grade CBSE Hybrid Tuition Program at BYJU'S Tuition Centre May 2023"
+            }, 
+            {
+                "id" : 4785,
+                "skuId" : "SD09CB22",
+                "imageUrl" : null,
+                "skuName" : "9th CBSE (SD Card-Byjus) May-2022",
+                "status" : "active",
+                "orgId" : "byjus",
+                "city" : null,
+                "basePrice" : 20000,
+                "continuousPrice" : 15000,
+                "hsnCode" : "852351",
+                "programId" : "BTLAKXAS0001",
+                "type" : "product",
+                "subType" : "sd_card",
+                "category" : "btlp",
+                "course" : "K10",
+                "subCourse" : null,
+                "grade" : "9",
+                "subject" : null,
+                "board" : "CBSE",
+                "language" : null,
+                "validityType" : "year",
+                "validity" : "2022",
+                "validityMonth" : "MAY",
+                "brand" : null,
+                "size" : null,
+                "model" : null,
+                "scheme" : null,
+                "skuSet" : 1,
+                "cohortId" : 15,
+                "ohProductId" : "1068746",
+                "isValidSku" : true,
+                "remarks" : null,
+                "validatedAt" : "2021-11-09T14:28:00.035Z",
+                "createdBy" : "ayushi.bansal@byjus.com",
+                "updatedBy" : "ayushi.bansal@byjus.com",
+                "createdAt" : "2021-11-09T14:28:00.035Z",
+                "updatedAt" : "2022-02-28T09:53:04.593Z",
+                "deletedAt" : null,
+                "itemType" : "course",
+                "price" : "13750.00",
+                "combinationType" : "btlp",
+                "itemId" : "zAutnKH0v9PzsZilEzXeN8t6",
+                "tabletId" : "",
+                "studentId" : "king-1",
+                "name" : "9th CBSE (SD Card-Byjus) May-2022",
+                "sku" : "9th CBSE (SD Card-Byjus) May-2022"
+            }, 
+            {
+                "id" : 4784,
+                "skuId" : "SD10CB23",
+                "imageUrl" : null,
+                "skuName" : "10th CBSE (SD Card-Byjus) May-2023",
+                "status" : "active",
+                "orgId" : "byjus",
+                "city" : null,
+                "basePrice" : 20000,
+                "continuousPrice" : 15000,
+                "hsnCode" : "852351",
+                "programId" : "BTLAKXAS0001",
+                "type" : "product",
+                "subType" : "sd_card",
+                "category" : "btlp",
+                "course" : "K10",
+                "subCourse" : null,
+                "grade" : "10",
+                "subject" : null,
+                "board" : "CBSE",
+                "language" : null,
+                "validityType" : "year",
+                "validity" : "2023",
+                "validityMonth" : "MAY",
+                "brand" : null,
+                "size" : null,
+                "model" : null,
+                "scheme" : null,
+                "skuSet" : 1,
+                "cohortId" : 16,
+                "ohProductId" : "1069283",
+                "isValidSku" : true,
+                "remarks" : null,
+                "validatedAt" : "2021-11-09T14:27:59.604Z",
+                "createdBy" : "ayushi.bansal@byjus.com",
+                "updatedBy" : "ayushi.bansal@byjus.com",
+                "createdAt" : "2021-11-09T14:27:59.604Z",
+                "updatedAt" : "2022-02-28T09:53:04.859Z",
+                "deletedAt" : null,
+                "itemType" : "course",
+                "price" : "13750.00",
+                "combinationType" : "btlp",
+                "itemId" : "1BxKsBEqXdiyVYO1qh_kT4dF",
+                "tabletId" : "",
+                "studentId" : "king-1",
+                "name" : "10th CBSE (SD Card-Byjus) May-2023",
+                "sku" : "10th CBSE (SD Card-Byjus) May-2023"
+            }
+        ],
+        "addOnItems" : [],
+        "mentoringDetails" : [ 
+            {
+                "type" : "blc",
+                "sessions" : [ 
+                    {
+                        "day" : "Thu",
+                        "is_mandatory" : "",
+                        "time" : "10:0:AM-10:0:PM"
+                    }, 
+                    {
+                        "day" : "Wed",
+                        "is_mandatory" : "",
+                        "time" : "10:0:AM-10:0:PM"
+                    }, 
+                    {
+                        "day" : "Mon",
+                        "is_mandatory" : "",
+                        "time" : "10:0:AM-10:0:PM"
+                    }, 
+                    {
+                        "day" : "Tue",
+                        "is_mandatory" : "",
+                        "time" : "10:0:AM-10:0:PM"
+                    }
+                ]
+            }
+        ],
+        "bhlpCourseDetails" : [ 
+            {
+                "batchId" : "590",
+                "batchName" : "Standard_IX_CBSE_Port Blair_Reg_CMS_Vidya_52_V_2021_11_14_50c0",
+                "startDate" : "2021-12-14T00:00:00.000Z",
+                "endDate" : "2022-12-13T00:00:00.000Z",
+                "batchType" : "weekday",
+                "centreId" : "211",
+                "status" : "active",
+                "cohortId" : 15,
+                "blcCourse" : {
+                    "courseAliasId" : "264",
+                    "courseAliasName" : "Standard_IX_CBSE_Port Blair_Reg_CMS_Vidya_52_V"
+                },
+                "slots" : [ 
+                    {
+                        "day" : "Thu",
+                        "startTime" : "10:0:AM",
+                        "endTime" : "10:0:PM"
+                    }, 
+                    {
+                        "day" : "Wed",
+                        "startTime" : "10:0:AM",
+                        "endTime" : "10:0:PM"
+                    }, 
+                    {
+                        "day" : "Mon",
+                        "startTime" : "10:0:AM",
+                        "endTime" : "10:0:PM"
+                    }, 
+                    {
+                        "day" : "Tue",
+                        "startTime" : "10:0:AM",
+                        "endTime" : "10:0:PM"
+                    }
+                ],
+                "batchOffers" : []
+            }
+        ],
+        "_id" : "62303a03c04b55001d1cbf01",
+        "board" : "CBSE",
+        "validity" : "2022",
+        "initialClass" : "9",
+        "finalClass" : "10",
+        "course" : "K10/K12",
+        "formValues" : {
+            "state" : "1",
+            "city" : "334",
+            "centre" : "211",
+            "board" : "CBSE",
+            "stateBoard" : "",
+            "addTlpCourse" : false,
+            "tlpFinalGrade" : "",
+            "validity" : 2022,
+            "batchType" : "weekday",
+            "initialClass" : "9",
+            "finalClass" : "10",
+            "tabletId" : "",
+            "course" : "K10/K12",
+            "requestedBatchId" : "590",
+            "cohortId" : 15,
+            "courseAliasId" : "264",
+            "stateName" : "Andaman and Nicobar Islands",
+            "cityName" : "Port Blair",
+            "centreName" : "Reg_CMS_Vidya",
+            "mentoringDetails" : [ 
+                {
+                    "type" : "blc",
+                    "sessions" : [ 
+                        {
+                            "day" : "Thu",
+                            "is_mandatory" : "",
+                            "time" : "10:0:AM-10:0:PM"
+                        }, 
+                        {
+                            "day" : "Wed",
+                            "is_mandatory" : "",
+                            "time" : "10:0:AM-10:0:PM"
+                        }, 
+                        {
+                            "day" : "Mon",
+                            "is_mandatory" : "",
+                            "time" : "10:0:AM-10:0:PM"
+                        }, 
+                        {
+                            "day" : "Tue",
+                            "is_mandatory" : "",
+                            "time" : "10:0:AM-10:0:PM"
+                        }
+                    ]
+                }
+            ],
+            "bhlpCourseDetails" : {
+                "batchId" : "590",
+                "batchName" : "Standard_IX_CBSE_Port Blair_Reg_CMS_Vidya_52_V_2021_11_14_50c0",
+                "startDate" : "2021-12-14T00:00:00.000Z",
+                "endDate" : "2022-12-13T00:00:00.000Z",
+                "batchType" : "weekday",
+                "centreId" : "211",
+                "status" : "active",
+                "cohortId" : 15,
+                "blcCourse" : {
+                    "courseAliasId" : "264",
+                    "courseAliasName" : "Standard_IX_CBSE_Port Blair_Reg_CMS_Vidya_52_V"
+                },
+                "slots" : [ 
+                    {
+                        "day" : "Thu",
+                        "startTime" : "10:0:AM",
+                        "endTime" : "10:0:PM"
+                    }, 
+                    {
+                        "day" : "Wed",
+                        "startTime" : "10:0:AM",
+                        "endTime" : "10:0:PM"
+                    }, 
+                    {
+                        "day" : "Mon",
+                        "startTime" : "10:0:AM",
+                        "endTime" : "10:0:PM"
+                    }, 
+                    {
+                        "day" : "Tue",
+                        "startTime" : "10:0:AM",
+                        "endTime" : "10:0:PM"
+                    }
+                ],
+                "batchOffers" : []
+            }
+        },
+        "productSelectionType" : "byjus_learning_centre",
+        "studentName" : "king",
+        "studentId" : "king-1",
+        "academicDetails" : {
+            "mathPercent" : null,
+            "sciencePercent" : null,
+            "flowOfTopic" : null,
+            "languageOfInstruction" : null,
+            "languageOfInstructionId" : null
+        },
+        "centreDetails" : {
+            "stateId" : "1",
+            "state" : "Andaman and Nicobar Islands",
+            "cityId" : "334",
+            "city" : "Port Blair",
+            "centreId" : "211",
+            "centre" : "Reg_CMS_Vidya",
+            "requestedBatchId" : "590",
+            "requestId" : "BR-2203150703000141",
+            "batchType" : "weekday",
+            "courseAliasId" : "264",
+            "cohortId" : "15"
+        },
+        "premiumAccount" : "1321581531"
+    }
+],
+"actionDetails" : {
+    "createdAt" : "2022-03-15T07:03:00.784Z",
+    "createdBy" : "praz@byjus.com",
+    "notConfirmedAt" : "2022-03-15T07:03:02.031Z",
+    "notConfirmedBy" : "system",
+    "partialConfirmedAt" : "2022-03-15T07:12:35.678Z",
+    "partialConfirmedBy" : "system"
+},
+"type" : "product",
+"subType" : "course",
+"timestamps" : {
+    "createdAt" : "2022-03-15T07:03:00.784Z"
+},
+"sacCommand" : "applicable",
+"poaCommand" : "applicable",
+"revenueOrderValue" : 55000,
+"orderValue" : 55000,
+"voucherDetails" : null,
+"sourceDetails" : null,
+"smsDetails" : {
+    "notConfirmedAt" : "2022-03-15T07:03:02.026Z",
+    "notConfirmedBy" : "system",
+    "partialConfirmedAt" : "2022-03-15T07:12:36.691Z",
+    "partialConfirmedBy" : "system"
+}
+}

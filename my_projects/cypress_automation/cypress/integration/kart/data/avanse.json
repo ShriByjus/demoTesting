@@ -1,0 +1,240 @@
+{
+    "loanDetails": {
+        "totalPaidAmount": 0,
+        "emi": 7000,
+        "tenure": 12,
+        "nachType": "emandate",
+        "umrn": "SBIN7021607210042509",
+        "nachRegStatus": ""
+    },
+    "nachDetails": {
+        "hasBorder": "",
+        "isFilledNachUploaded": false,
+        "relaunch": "NA",
+        "relaunchCount": 0,
+        "nachAgent": "digio",
+        "nachId": "ENA210716205630324C92Y1C2YBTHJPH",
+        "signStatus": "partial",
+        "sponsorBankStatus": "",
+        "umrn": "",
+        "registrationStatus": "",
+        "rejectedReason": null,
+        "autoRelaunch": false,
+        "isPnachUploaded": false,
+        "generatedNachCount": 0,
+        "picGeneratedNachCount": 0,
+        "bankDetails": {
+            "name": "Mrs ARULJOTHI S",
+            "accountNumber": "39115790466",
+            "accountType": "savings",
+            "bankName": "STATE BANK OF INDIA",
+            "branch": "KARUNTHATTANGUDI",
+            "micr": "613002003",
+            "ifsc": "SBIN0008178",
+            "city": "THANJAVUR"
+        },
+        "corporateConfigId": "TSE1812101802485453WEX6HUG3W8VJS",
+        "nachStartDate": "2021-09-07T00:00:00.000Z",
+        "signAt": "2021-07-16T15:26:31.940Z",
+        "sponsorBank": "Yes Bank Ltd",
+        "utilityCode": "NACH00000000021789"
+    },
+    "enachDetails": {
+        "relaunch": "NA",
+        "relaunchCount": 0,
+        "nachAgent": "digio",
+        "nachId": "",
+        "signStatus": "",
+        "umrn": "",
+        "registrationStatus": "",
+        "rejectedReason": ""
+    },
+    "emandateDetails": {},
+    "upiMandateDetails": {
+        "relaunch": "NA",
+        "relaunchCount": 0,
+        "nachAgent": "digio",
+        "nachId": "",
+        "signStatus": "",
+        "umrn": "",
+        "registrationStatus": "",
+        "rejectedReason": ""
+    },
+    "documents": {
+        "pan": {
+            "badImageQualityReason": "",
+            "format": "jpeg",
+            "uploadedAt": "2021-07-16T15:20:52.588Z",
+            "uploadedBy": "karthikeyan.s1@byjus.com",
+            "url": "https://s3-ap-southeast-1.amazonaws.com/byjus-oms/avanse/94347716899378/pan-cibil-20210716_20501900.jpeg"
+        },
+        "aadharFrontSide": {
+            "badImageQualityReason": "",
+            "format": "jpeg",
+            "uploadedAt": "2021-07-16T15:21:02.718Z",
+            "uploadedBy": "karthikeyan.s1@byjus.com",
+            "url": "https://s3-ap-southeast-1.amazonaws.com/byjus-oms/avanse/94347716899378/aadharFrontSide-cibil-20210716_20513340.jpeg"
+        },
+        "aadharBackSide": {
+            "badImageQualityReason": "",
+            "format": "jpeg",
+            "uploadedAt": "2021-07-16T15:21:13.033Z",
+            "uploadedBy": "karthikeyan.s1@byjus.com",
+            "url": "https://s3-ap-southeast-1.amazonaws.com/byjus-oms/avanse/94347716899378/aadharBackSide-cibil-20210716_20515780.jpeg"
+        },
+        "cancelledChequeOrBankStatement": {
+            "badImageQualityReason": "",
+            "format": "jpeg",
+            "uploadedAt": "2021-07-16T15:21:34.293Z",
+            "uploadedBy": "karthikeyan.s1@byjus.com",
+            "url": "https://s3-ap-southeast-1.amazonaws.com/byjus-oms/avanse/94347716899378/cancelledChequeOrBankStatement-cibil-20210716_20518510.jpeg"
+        },
+        "applicantLivePhoto": {
+            "badImageQualityReason": "",
+            "format": "jpeg",
+            "uploadedAt": "2021-07-16T15:21:41.866Z",
+            "uploadedBy": "karthikeyan.s1@byjus.com",
+            "url": "https://s3-ap-southeast-1.amazonaws.com/byjus-oms/avanse/94347716899378/applicantLivePhoto-cibil-20210716_20513620.jpeg"
+        },
+        "poaBankStatement": {
+            "badImageQualityReason": "",
+            "format": "jpeg",
+            "uploadedAt": "2021-07-16T15:21:26.595Z",
+            "uploadedBy": "karthikeyan.s1@byjus.com",
+            "url": "https://s3-ap-southeast-1.amazonaws.com/byjus-oms/avanse/94347716899378/poaBankStatement-cibil-20210716_20511670.jpeg"
+        },
+        "generatedNachMandate": {
+            "url": "https://byjus-oms.s3.ap-southeast-1.amazonaws.com/cibil/94347716899378/generatedNachMandate-20210716_20562300.pdf",
+            "format": "pdf"
+        },
+        "esignedLoanAgreement": {
+            "url": "https://byjus-oms.s3.ap-southeast-1.amazonaws.com/cibil/94347716899378/esignedLoanAgreement-20210718_17065510.pdf",
+            "format": "pdf",
+            "uploadedBy": "SYSTEM",
+            "uploadedAt": "2021-07-18T11:36:20.996Z"
+        }
+    },
+    "foreclosure": {
+        "principalOutstanding": 0,
+        "bounceCharges": 0,
+        "penalty": 0,
+        "excessAmount": 0,
+        "bpi": 0,
+        "perDayInterest": 0,
+        "perDayPenalInterest": 0,
+        "foreclosureCharges": 0,
+        "moratoriumCharges": 0
+    },
+    "crifLanDetails": {
+        "isSent": false
+    },
+    "isActive": true,
+    "isManuallyAligned": false,
+    "assignedTo": [],
+    "appId": "94347716899378",
+    "amount": 30000,
+    "emiAmount": 7000,
+    "status": "doc_approved",
+    "salesEmail": "pooja.a@byjus.com",
+    "campaign": "Coimbatore",
+    "location": "Coimbatore",
+    "customerDetails": {
+        "firstName": "S",
+        "lastName": "ARULJOTHI",
+        "salutation": "Mrs",
+        "fatherName": "ARULJOTHI",
+        "dateOfBirth": "1980-06-10T12:00:00",
+        "gender": "F",
+        "maritalStatus": "M",
+        "phoneNo": "9629640006",
+        "occupation": "SELF EMPLOYED PROFESSIONAL",
+        "emailAddress": "niharshan8@gmail.com"
+    },
+    "addressDetails": [
+        {
+            "_id": "60f412e15bd338a111701d08",
+            "addressLine1": "W/O",
+            "addressLine2": "SELVAKUMAR",
+            "addressLine3": "PL NO 93 1067 KARUPS NAGAR EXTN THANJAVUR",
+            "city": "THR",
+            "state": "TN",
+            "pincode": "613005",
+            "mobileNo": 9629640006
+        }
+    ],
+    "bankDetails": {
+        "name": "Mrs ARULJOTHI S",
+        "bankName": "STATE BANK OF INDIA",
+        "accountType": "savings",
+        "accountNumber": "39115790466",
+        "ifsc": "SBIN0008178",
+        "micr": "613002003"
+    },
+    "identifierDetails": {
+        "panNo": "ALAPA3588Q",
+        "aadhaarNo": "7421"
+    },
+    "approvedBy": "akash.raju@byjus.com",
+    "cibilFirstEmiDate": "2021-09-07T00:00:00.000Z",
+    "abb": 0,
+    "pennyDropResponse": {
+        "status": true,
+        "referenceId": "2F6ZXUS6XDM6HEQ",
+        "providerName": "digio",
+        "receiverName": "Mrs  ARULJOTHI  S",
+        "fuzzyScore": 100,
+        "accountNumber": "39115790466",
+        "ifsc": "SBIN0008178",
+        "errorReason": null
+    },
+    "productName": "BTLP",
+    "studentClass": "5",
+    "statusHistory": [
+        {
+            "_id": "60f412e15bd3387700701d09",
+            "status": "doc_approved",
+            "updatedBy": "akash.raju@byjus.com",
+            "updatedAt": "2021-07-18T11:39:13.368Z"
+        }
+    ],
+    "actionDetails": {
+        "loanInitiatedAt": "2021-07-16T15:07:05.052Z",
+        "loanInitiatedBy": "karthikeyan.s1@byjus.com",
+        "softApprovedAt": "2021-07-16T15:24:46.925Z",
+        "softApprovedBy": "karthikeyan.s1@byjus.com",
+        "docApprovedAt": "2021-07-18T11:39:13.368Z",
+        "docApprovedBy": "akash.raju@byjus.com"
+    },
+    "assignedBy": "",
+    "docVerifiedAt": "2021-07-18T11:39:13.378Z",
+    "cibilStatus": "approved",
+    "eligibleForEmandate": "Yes",
+    "eligibleForEnach": "No",
+    "eligibleForUpiMandate": "No",
+    "agNachEmailedAt": "2021-07-16T15:26:34.868Z",
+    "leadId": "L16JUL210001890171",
+    "kartLeadId": "",
+    "orgFormattedName": "byjus",
+    "aakashId": "",
+    "customerId": "CX-2107210855430849",
+    "quotationId": "",
+    "lvStage": "Collection Done",
+    "orders": [
+        {
+            "orderId": "SO-2107210855430959",
+            "orderStatus": "not_confirmed",
+            "orderType": "SPLIT",
+            "statusChangedAt": "2021-07-21T08:55:44.174Z",
+            "orderCreatedAt": "2021-07-21T08:54:04.852Z",
+            "orderUpdatedAt": "2021-07-21T09:43:33.074Z"
+        }
+    ],
+    "emiSchedules": [],
+    "noc": [],
+    "loanHistory": [],
+    "manualPayments": [],
+    "esign": [],
+    "createdAt": "2021-07-18T11:39:13.390Z",
+    "updatedAt": "2021-07-18T11:39:13.390Z",
+    "__v": 0
+}

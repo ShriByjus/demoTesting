@@ -1,0 +1,128 @@
+{
+  "uid" : "a55e18b246458819",
+  "name" : "Verify sales and customer details",
+  "fullName" : "Validating UKG Single order.Verify sales and customer details",
+  "historyId" : "6509a081a72bbf16de9948c87f0bdc92",
+  "time" : {
+    "start" : 1669273978098,
+    "stop" : 1669273981308,
+    "duration" : 3210
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "this.btnSalesAndCustomerDetails.click is not a function",
+  "statusTrace" : "TypeError: this.btnSalesAndCustomerDetails.click is not a function\n                    at verifyOmsOrderDetails.verifySalesAndCustomerDetails (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:361:47)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:136:49)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "this.btnSalesAndCustomerDetails.click is not a function",
+    "statusTrace" : "TypeError: this.btnSalesAndCustomerDetails.click is not a function\n                    at verifyOmsOrderDetails.verifySalesAndCustomerDetails (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:361:47)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:136:49)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+    "steps" : [ {
+      "name" : "Get address details from draft order Id collection",
+      "time" : {
+        "start" : 1669273978098,
+        "stop" : 1669273981308,
+        "duration" : 3210
+      },
+      "status" : "broken",
+      "statusMessage" : "TypeError: this.btnSalesAndCustomerDetails.click is not a function\n                    at verifyOmsOrderDetails.verifySalesAndCustomerDetails (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:361:47)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:136:49)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+      "steps" : [ {
+        "name" : "Get customer details from draft order Id collection",
+        "time" : {
+          "start" : 1669273979719,
+          "stop" : 1669273981308,
+          "duration" : 1589
+        },
+        "status" : "broken",
+        "statusMessage" : "TypeError: this.btnSalesAndCustomerDetails.click is not a function\n                    at verifyOmsOrderDetails.verifySalesAndCustomerDetails (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:361:47)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:136:49)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+        "steps" : [ {
+          "name" : "Copy sales and customer details from UI",
+          "time" : {
+            "start" : 1669273981130,
+            "stop" : 1669273981308,
+            "duration" : 178
+          },
+          "status" : "broken",
+          "statusMessage" : "TypeError: this.btnSalesAndCustomerDetails.click is not a function\n                    at verifyOmsOrderDetails.verifySalesAndCustomerDetails (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:361:47)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:136:49)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "5918192a7d851be",
+            "name" : "Screenshot",
+            "source" : "5918192a7d851be.png",
+            "type" : "image/png",
+            "size" : 166452
+          } ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 1,
+          "shouldDisplayMessage" : true,
+          "hasContent" : true
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 2,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify sales and customer details"
+  }, {
+    "name" : "package",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.110"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a55e18b246458819.json",
+  "parameterValues" : [ "chrome-107.0.5304.110" ]
+}

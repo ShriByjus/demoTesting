@@ -1,0 +1,165 @@
+{
+  "uid" : "c52072b78b7b9efb",
+  "name" : "log in into oms",
+  "fullName" : "Validating grade 4 Single order.log in into oms",
+  "historyId" : "25b7818d7b05cdff5f75ef6194cdfb7d",
+  "time" : {
+    "start" : 1671023620261,
+    "stop" : 1671023649480,
+    "duration" : 29219
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 6,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Maximize the window",
+      "time" : {
+        "start" : 1671023620261,
+        "stop" : 0,
+        "duration" : -1671023620261
+      },
+      "status" : "unknown",
+      "steps" : [ {
+        "name" : "Open Byjus OMS page",
+        "time" : {
+          "start" : 1671023620738,
+          "stop" : 1671023623841,
+          "duration" : 3103
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "Login to the Home page",
+        "time" : {
+          "start" : 1671023623841,
+          "stop" : 0,
+          "duration" : -1671023623841
+        },
+        "status" : "unknown",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 2,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating grade 4 Single order"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating grade 4 Single order"
+  }, {
+    "name" : "testMethod",
+    "value" : "log in into oms"
+  }, {
+    "name" : "package",
+    "value" : "Validating grade 4 Single order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-108.0.5359.98"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b31969bbb3b869b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671022715821,
+        "stop" : 1671022741494,
+        "duration" : 25673
+      }
+    }, {
+      "uid" : "f0cf922bbd90b50f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671022667107,
+        "stop" : 1671022694294,
+        "duration" : 27187
+      }
+    }, {
+      "uid" : "be490d8dbe91debb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671020650682,
+        "stop" : 1671020676733,
+        "duration" : 26051
+      }
+    }, {
+      "uid" : "23624eb6614589ab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671019692379,
+        "stop" : 1671019718203,
+        "duration" : 25824
+      }
+    }, {
+      "uid" : "93387667e9731106",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671018766802,
+        "stop" : 1671018795017,
+        "duration" : 28215
+      }
+    }, {
+      "uid" : "ce1e9078c183d088",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671018690685,
+        "stop" : 1671018715615,
+        "duration" : 24930
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c52072b78b7b9efb.json",
+  "parameterValues" : [ "chrome-108.0.5359.98" ]
+}

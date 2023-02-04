@@ -1,0 +1,102 @@
+{
+  "uid" : "7786375c0b8de636",
+  "name" : "Verify raise priority option",
+  "fullName" : "Validating grade 3 Single order.Verify raise priority option",
+  "historyId" : "b9ace1ecf0816f21fb4fb54c86a97d63",
+  "time" : {
+    "start" : 1669884508496,
+    "stop" : 1669884515612,
+    "duration" : 7116
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "element click intercepted: Element <a href=\"/orders/product-sales-sub-orders/...\">SSO1-2212011415340921</a> is not clickable at point (473, 253). Other element would receive the click: <div tabindex=\"-1\" class=\"overlay\">...</div>\n                  (Session info: chrome=107.0.5304.121)",
+  "statusTrace" : "element click intercepted: element click intercepted: Element <a href=\"/orders/product-sales-sub-orders/...\">SSO1-2212011415340921</a> is not clickable at point (473, 253). Other element would receive the click: <div tabindex=\"-1\" class=\"overlay\">...</div>\n                  (Session info: chrome=107.0.5304.121)\n                    at runMicrotasks (<anonymous>)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at verifyOmsOrderDetails.raisePriorityAndVerify (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:420:9)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleClass3.js:146:9)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "element click intercepted: Element <a href=\"/orders/product-sales-sub-orders/...\">SSO1-2212011415340921</a> is not clickable at point (473, 253). Other element would receive the click: <div tabindex=\"-1\" class=\"overlay\">...</div>\n                  (Session info: chrome=107.0.5304.121)",
+    "statusTrace" : "element click intercepted: element click intercepted: Element <a href=\"/orders/product-sales-sub-orders/...\">SSO1-2212011415340921</a> is not clickable at point (473, 253). Other element would receive the click: <div tabindex=\"-1\" class=\"overlay\">...</div>\n                  (Session info: chrome=107.0.5304.121)\n                    at runMicrotasks (<anonymous>)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at verifyOmsOrderDetails.raisePriorityAndVerify (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:420:9)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleClass3.js:146:9)",
+    "steps" : [ {
+      "name" : "Verify raise priority option",
+      "time" : {
+        "start" : 1669884508496,
+        "stop" : 1669884515612,
+        "duration" : 7116
+      },
+      "status" : "broken",
+      "statusMessage" : "element click intercepted: element click intercepted: Element <a href=\"/orders/product-sales-sub-orders/...\">SSO1-2212011415340921</a> is not clickable at point (473, 253). Other element would receive the click: <div tabindex=\"-1\" class=\"overlay\">...</div>\n                  (Session info: chrome=107.0.5304.121)\n                    at runMicrotasks (<anonymous>)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at verifyOmsOrderDetails.raisePriorityAndVerify (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:420:9)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleClass3.js:146:9)",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "ddc7ae98f4b423b2",
+        "name" : "Screenshot",
+        "source" : "ddc7ae98f4b423b2.png",
+        "type" : "image/png",
+        "size" : 218249
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-2"
+  }, {
+    "name" : "suite",
+    "value" : "Validating grade 3 Single order"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating grade 3 Single order"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify raise priority option"
+  }, {
+    "name" : "package",
+    "value" : "Validating grade 3 Single order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.121"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "7786375c0b8de636.json",
+  "parameterValues" : [ "chrome-107.0.5304.121" ]
+}

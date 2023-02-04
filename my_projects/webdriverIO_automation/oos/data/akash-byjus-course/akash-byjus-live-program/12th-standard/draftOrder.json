@@ -1,0 +1,2690 @@
+
+{
+    "customerDetails": {
+      "duplicateReason": null,
+      "isBooksOpted": true,
+      "parentName": "sanjay",
+      "studentName": "Shubham singh",
+      "parentMobileNo": "+91-8736576846",
+      "alternateMobileNo": [
+        {
+          "_id": {
+            "oid": "6391cf2fa314a9001b6addc2"
+          },
+          "mobile": "+91-8736576846",
+          "relation": "self"
+        }
+      ],
+      "email": "sd56uysfgdf@gmail.com",
+      "studentMobileNo": "+91-8736576846",
+      "customerId": "CX-2210280625062228",
+      "type": "individual",
+      "identifierDetails": [],
+      "gstDetails": {
+        "isGstIn": false
+      }
+    },
+    "lineItems": {
+      "parentLineItems": [
+        {
+          "id": 3342,
+          "skuId": "TL8MZ1",
+          "imageUrl": null,
+          "skuName": "Lenovo 8 inch Tablet (Mobile Data) - V2",
+          "status": "active",
+          "orgId": "ORG-1",
+          "city": null,
+          "basePrice": 13000,
+          "continuousPrice": 13000,
+          "hsnCode": "847130",
+          "programId": "TLP1UCHW0001",
+          "type": "product",
+          "subType": "tablet",
+          "category": "tablet",
+          "package": null,
+          "course": null,
+          "subCourse": null,
+          "grade": null,
+          "subject": null,
+          "board": null,
+          "language": null,
+          "validityType": "N/A",
+          "validity": null,
+          "validityMonth": null,
+          "brand": "lenovo",
+          "size": null,
+          "model": null,
+          "scheme": null,
+          "skuSet": 1,
+          "cohortId": null,
+          "ohProductId": "1982688",
+          "productState": "new",
+          "isValidSku": true,
+          "remarks": null,
+          "validatedAt": "2021-11-09T14:48:06.036Z",
+          "financeCode": "TL8MZ1",
+          "sprId": null,
+          "orgFormattedName": "byjus",
+          "createdBy": "ayushi.bansal@byjus.com",
+          "updatedBy": "productState-update",
+          "createdAt": "2021-11-09T14:48:06.036Z",
+          "updatedAt": "2022-07-12T13:45:49.619Z",
+          "deletedAt": null,
+          "price": 13000,
+          "itemType": "tablet",
+          "itemId": "ztxTt2r-or0Njd4JgSvNwbma",
+          "combinationType": "product",
+          "studentId": "Shubham singh-1",
+          "tabletId": "T-TL8MZ1-Shubham singh",
+          "pgItemId": 1538676
+        },
+        {
+          "id": 2723,
+          "skuId": "AS12JM23",
+          "imageUrl": null,
+          "skuName": "Aakash BYJU'S 12th Grade PCM_JEE SD Card May 2023",
+          "status": "active",
+          "orgId": "ORG-2",
+          "city": null,
+          "basePrice": 52500,
+          "continuousPrice": 52500,
+          "hsnCode": "852351",
+          "programId": "BALAKXAS0001",
+          "type": "product",
+          "subType": "sd_card",
+          "category": "aakash",
+          "package": null,
+          "course": "K12",
+          "subCourse": "JEE",
+          "grade": "12",
+          "subject": null,
+          "board": null,
+          "language": null,
+          "validityType": "year",
+          "validity": "2023",
+          "validityMonth": "MAY",
+          "brand": null,
+          "size": null,
+          "model": null,
+          "scheme": null,
+          "skuSet": 1,
+          "cohortId": 208,
+          "ohProductId": "1993260",
+          "productState": null,
+          "isValidSku": true,
+          "remarks": null,
+          "validatedAt": "2021-11-09T14:51:04.020Z",
+          "financeCode": "AS12JM",
+          "sprId": null,
+          "orgFormattedName": "aakash",
+          "createdBy": "ayushi.bansal@byjus.com",
+          "updatedBy": "priceUpdateThu Sep 29 2022 10:37:52 GMT+0530 (India Standard Time)",
+          "createdAt": "2021-11-09T14:51:04.020Z",
+          "updatedAt": "2022-09-29T05:07:52.413Z",
+          "deletedAt": null,
+          "price": 52500,
+          "combinationType": "aakash",
+          "itemId": "vrd5CCjJ5dTSk2cLwfbDMkyr",
+          "studentId": "Shubham singh-1",
+          "tabletId": "T-TL8MZ1-Shubham singh",
+          "pgItemId": 1538677
+        }
+      ],
+      "childLineItems": [
+        {
+          "id": 7454,
+          "skuId": "LA12JM23",
+          "imageUrl": null,
+          "skuName": "Aakash BYJU'S 12th Grade PCM_JEE Live May 2023",
+          "status": "active",
+          "orgId": "ORG-2",
+          "city": null,
+          "basePrice": 35000,
+          "continuousPrice": 35000,
+          "hsnCode": "999293",
+          "programId": "ACOPKXSY0003",
+          "type": "service",
+          "subType": "live",
+          "category": "aakash_neo_classes",
+          "package": null,
+          "course": "K12",
+          "subCourse": "JEE",
+          "grade": "12",
+          "subject": null,
+          "board": null,
+          "language": null,
+          "validityType": "year",
+          "validity": "2023",
+          "validityMonth": "MAY",
+          "brand": null,
+          "size": null,
+          "model": null,
+          "scheme": null,
+          "skuSet": 1,
+          "cohortId": 208,
+          "ohProductId": "2017046",
+          "productState": null,
+          "isValidSku": true,
+          "remarks": null,
+          "validatedAt": null,
+          "financeCode": "LA12JM",
+          "sprId": null,
+          "orgFormattedName": "aakash",
+          "createdBy": "ijaz.shaik@byjus.com",
+          "updatedBy": "price_update6/9/2022",
+          "createdAt": "2022-03-14T23:21:22.637Z",
+          "updatedAt": "2022-06-09T07:44:41.947Z",
+          "deletedAt": null,
+          "price": 35000,
+          "combinationType": "aakash_neo_classes",
+          "itemId": "ZpCHoATFJJtCNog1D0SKGtl6",
+          "studentId": "Shubham singh-1",
+          "tabletId": "T-TL8MZ1-Shubham singh",
+          "pgItemId": 1538678
+        }
+      ]
+    },
+    "productDetails": {
+      "productType": "combo",
+      "mentoringDetails": [
+        null
+      ],
+      "bhlpCourseDetails": [
+        {
+          "id": 241,
+          "name": "12-JEE-English-Chemistry",
+          "is_active": true,
+          "live_on_kart": true,
+          "time_zone": "IST",
+          "batch_country": "India",
+          "batch_start_date": "2022-05-27",
+          "batch_end_date": "2023-08-31",
+          "mandatory_sessions_count": 54,
+          "optional_sessions_count": 0,
+          "course_id": 121,
+          "course_name": "BENCHMARK-12-JEE-English",
+          "course_fot_track_id": null,
+          "course_proficiency_id": null,
+          "medium_of_instruction": "english",
+          "course_batch": "12th",
+          "cohort_id": 208,
+          "course_type": "neo",
+          "course_tag": "classroom",
+          "slot_group_id": 192,
+          "tutor_language_enabled": true,
+          "slot_group_name": "BENCHMARK",
+          "batch_type": "regular",
+          "available_subjects": [],
+          "course_sub_tag": "Regular",
+          "slots": [
+            {
+              "id": 2017,
+              "day": "Monday",
+              "start_time": "10:00",
+              "end_time": "11:20",
+              "is_mandatory": true
+            },
+            {
+              "id": 2018,
+              "day": "Monday",
+              "start_time": "11:20",
+              "end_time": "12:40",
+              "is_mandatory": true
+            },
+            {
+              "id": 2019,
+              "day": "Monday",
+              "start_time": "12:40",
+              "end_time": "14:00",
+              "is_mandatory": true
+            },
+            {
+              "id": 2020,
+              "day": "Monday",
+              "start_time": "14:00",
+              "end_time": "15:20",
+              "is_mandatory": true
+            },
+            {
+              "id": 2021,
+              "day": "Monday",
+              "start_time": "15:20",
+              "end_time": "16:40",
+              "is_mandatory": true
+            },
+            {
+              "id": 2022,
+              "day": "Monday",
+              "start_time": "16:40",
+              "end_time": "18:00",
+              "is_mandatory": true
+            },
+            {
+              "id": 2023,
+              "day": "Monday",
+              "start_time": "18:00",
+              "end_time": "19:20",
+              "is_mandatory": true
+            },
+            {
+              "id": 2024,
+              "day": "Monday",
+              "start_time": "19:20",
+              "end_time": "20:40",
+              "is_mandatory": true
+            },
+            {
+              "id": 2025,
+              "day": "Monday",
+              "start_time": "20:40",
+              "end_time": "22:00",
+              "is_mandatory": true
+            },
+            {
+              "id": 2026,
+              "day": "Tuesday",
+              "start_time": "10:00",
+              "end_time": "11:20",
+              "is_mandatory": true
+            },
+            {
+              "id": 2027,
+              "day": "Tuesday",
+              "start_time": "11:20",
+              "end_time": "12:40",
+              "is_mandatory": true
+            },
+            {
+              "id": 2028,
+              "day": "Tuesday",
+              "start_time": "12:40",
+              "end_time": "14:00",
+              "is_mandatory": true
+            },
+            {
+              "id": 2029,
+              "day": "Tuesday",
+              "start_time": "14:00",
+              "end_time": "15:20",
+              "is_mandatory": true
+            },
+            {
+              "id": 2030,
+              "day": "Tuesday",
+              "start_time": "15:20",
+              "end_time": "16:40",
+              "is_mandatory": true
+            },
+            {
+              "id": 2031,
+              "day": "Tuesday",
+              "start_time": "16:40",
+              "end_time": "18:00",
+              "is_mandatory": true
+            },
+            {
+              "id": 2032,
+              "day": "Tuesday",
+              "start_time": "18:00",
+              "end_time": "19:20",
+              "is_mandatory": true
+            },
+            {
+              "id": 2033,
+              "day": "Tuesday",
+              "start_time": "19:20",
+              "end_time": "20:40",
+              "is_mandatory": true
+            },
+            {
+              "id": 2034,
+              "day": "Tuesday",
+              "start_time": "20:40",
+              "end_time": "22:00",
+              "is_mandatory": true
+            },
+            {
+              "id": 2035,
+              "day": "Thursday",
+              "start_time": "10:00",
+              "end_time": "11:20",
+              "is_mandatory": true
+            },
+            {
+              "id": 2036,
+              "day": "Thursday",
+              "start_time": "11:20",
+              "end_time": "12:40",
+              "is_mandatory": true
+            },
+            {
+              "id": 2037,
+              "day": "Thursday",
+              "start_time": "12:40",
+              "end_time": "14:00",
+              "is_mandatory": true
+            },
+            {
+              "id": 2038,
+              "day": "Thursday",
+              "start_time": "14:00",
+              "end_time": "15:20",
+              "is_mandatory": true
+            },
+            {
+              "id": 2039,
+              "day": "Thursday",
+              "start_time": "15:20",
+              "end_time": "16:40",
+              "is_mandatory": true
+            },
+            {
+              "id": 2040,
+              "day": "Thursday",
+              "start_time": "16:40",
+              "end_time": "18:00",
+              "is_mandatory": true
+            },
+            {
+              "id": 2041,
+              "day": "Thursday",
+              "start_time": "18:00",
+              "end_time": "19:20",
+              "is_mandatory": true
+            },
+            {
+              "id": 2042,
+              "day": "Thursday",
+              "start_time": "19:20",
+              "end_time": "20:40",
+              "is_mandatory": true
+            },
+            {
+              "id": 2043,
+              "day": "Thursday",
+              "start_time": "20:40",
+              "end_time": "22:00",
+              "is_mandatory": true
+            },
+            {
+              "id": 2044,
+              "day": "Friday",
+              "start_time": "10:00",
+              "end_time": "11:20",
+              "is_mandatory": true
+            },
+            {
+              "id": 2045,
+              "day": "Friday",
+              "start_time": "11:20",
+              "end_time": "12:40",
+              "is_mandatory": true
+            },
+            {
+              "id": 2046,
+              "day": "Friday",
+              "start_time": "12:40",
+              "end_time": "14:00",
+              "is_mandatory": true
+            },
+            {
+              "id": 2047,
+              "day": "Friday",
+              "start_time": "14:00",
+              "end_time": "15:20",
+              "is_mandatory": true
+            },
+            {
+              "id": 2048,
+              "day": "Friday",
+              "start_time": "15:20",
+              "end_time": "16:40",
+              "is_mandatory": true
+            },
+            {
+              "id": 2049,
+              "day": "Friday",
+              "start_time": "16:40",
+              "end_time": "18:00",
+              "is_mandatory": true
+            },
+            {
+              "id": 2050,
+              "day": "Friday",
+              "start_time": "18:00",
+              "end_time": "19:20",
+              "is_mandatory": true
+            },
+            {
+              "id": 2051,
+              "day": "Friday",
+              "start_time": "19:20",
+              "end_time": "20:40",
+              "is_mandatory": true
+            },
+            {
+              "id": 2052,
+              "day": "Friday",
+              "start_time": "20:40",
+              "end_time": "22:00",
+              "is_mandatory": true
+            },
+            {
+              "id": 2053,
+              "day": "Saturday",
+              "start_time": "10:00",
+              "end_time": "11:20",
+              "is_mandatory": true
+            },
+            {
+              "id": 2054,
+              "day": "Saturday",
+              "start_time": "11:20",
+              "end_time": "12:40",
+              "is_mandatory": true
+            },
+            {
+              "id": 2055,
+              "day": "Saturday",
+              "start_time": "12:40",
+              "end_time": "14:00",
+              "is_mandatory": true
+            },
+            {
+              "id": 2056,
+              "day": "Saturday",
+              "start_time": "14:00",
+              "end_time": "15:20",
+              "is_mandatory": true
+            },
+            {
+              "id": 2057,
+              "day": "Saturday",
+              "start_time": "15:20",
+              "end_time": "16:40",
+              "is_mandatory": true
+            },
+            {
+              "id": 2058,
+              "day": "Saturday",
+              "start_time": "16:40",
+              "end_time": "18:00",
+              "is_mandatory": true
+            },
+            {
+              "id": 2059,
+              "day": "Saturday",
+              "start_time": "18:00",
+              "end_time": "19:20",
+              "is_mandatory": true
+            },
+            {
+              "id": 2060,
+              "day": "Saturday",
+              "start_time": "19:20",
+              "end_time": "20:40",
+              "is_mandatory": true
+            },
+            {
+              "id": 2061,
+              "day": "Saturday",
+              "start_time": "20:40",
+              "end_time": "22:00",
+              "is_mandatory": true
+            },
+            {
+              "id": 2062,
+              "day": "Sunday",
+              "start_time": "10:00",
+              "end_time": "11:20",
+              "is_mandatory": true
+            },
+            {
+              "id": 2063,
+              "day": "Sunday",
+              "start_time": "11:20",
+              "end_time": "12:40",
+              "is_mandatory": true
+            },
+            {
+              "id": 2064,
+              "day": "Sunday",
+              "start_time": "12:40",
+              "end_time": "14:00",
+              "is_mandatory": true
+            },
+            {
+              "id": 2065,
+              "day": "Sunday",
+              "start_time": "14:00",
+              "end_time": "15:20",
+              "is_mandatory": true
+            },
+            {
+              "id": 2066,
+              "day": "Sunday",
+              "start_time": "15:20",
+              "end_time": "16:40",
+              "is_mandatory": true
+            },
+            {
+              "id": 2067,
+              "day": "Sunday",
+              "start_time": "16:40",
+              "end_time": "18:00",
+              "is_mandatory": true
+            },
+            {
+              "id": 2068,
+              "day": "Sunday",
+              "start_time": "18:00",
+              "end_time": "19:20",
+              "is_mandatory": true
+            },
+            {
+              "id": 2069,
+              "day": "Sunday",
+              "start_time": "19:20",
+              "end_time": "20:40",
+              "is_mandatory": true
+            },
+            {
+              "id": 2070,
+              "day": "Sunday",
+              "start_time": "20:40",
+              "end_time": "22:00",
+              "is_mandatory": true
+            }
+          ]
+        }
+      ],
+      "paymentType": "NON_EMI",
+      "maxPrice": 100500,
+      "minPrice": 83000,
+      "discountedPrice": 0,
+      "students": [
+        {
+          "studentProfileDetails": {
+            "isExistingProfile": false,
+            "existingPremiumId": "",
+            "existingFamilyId": ""
+          },
+          "hlpDetails": {
+            "courseDetails": [],
+            "sessionDetails": []
+          },
+          "courseType": [
+            "K12"
+          ],
+          "electiveDetails": [],
+          "doubtClassDetails": [],
+          "workshops": [],
+          "items": [
+            {
+              "id": 7454,
+              "skuId": "LA12JM23",
+              "imageUrl": null,
+              "skuName": "Aakash BYJU'S 12th Grade PCM_JEE Live May 2023",
+              "status": "active",
+              "orgId": "ORG-2",
+              "city": null,
+              "basePrice": 35000,
+              "continuousPrice": 35000,
+              "hsnCode": "999293",
+              "programId": "ACOPKXSY0003",
+              "type": "service",
+              "subType": "live",
+              "category": "aakash_neo_classes",
+              "package": null,
+              "course": "K12",
+              "subCourse": "JEE",
+              "grade": "12",
+              "subject": null,
+              "board": null,
+              "language": null,
+              "validityType": "year",
+              "validity": "2023",
+              "validityMonth": "MAY",
+              "brand": null,
+              "size": null,
+              "model": null,
+              "scheme": null,
+              "skuSet": 1,
+              "cohortId": 208,
+              "ohProductId": "2017046",
+              "productState": null,
+              "isValidSku": true,
+              "remarks": null,
+              "validatedAt": null,
+              "financeCode": "LA12JM",
+              "sprId": null,
+              "orgFormattedName": "aakash",
+              "createdBy": "ijaz.shaik@byjus.com",
+              "updatedBy": "price_update6/9/2022",
+              "createdAt": "2022-03-14T23:21:22.637Z",
+              "updatedAt": "2022-06-09T07:44:41.947Z",
+              "deletedAt": null,
+              "price": 35000,
+              "combinationType": "aakash_neo_classes",
+              "itemId": "ZpCHoATFJJtCNog1D0SKGtl6",
+              "studentId": "Shubham singh-1",
+              "tabletId": "T-TL8MZ1-Shubham singh"
+            },
+            {
+              "id": 2723,
+              "skuId": "AS12JM23",
+              "imageUrl": null,
+              "skuName": "Aakash BYJU'S 12th Grade PCM_JEE SD Card May 2023",
+              "status": "active",
+              "orgId": "ORG-2",
+              "city": null,
+              "basePrice": 52500,
+              "continuousPrice": 52500,
+              "hsnCode": "852351",
+              "programId": "BALAKXAS0001",
+              "type": "product",
+              "subType": "sd_card",
+              "category": "aakash",
+              "package": null,
+              "course": "K12",
+              "subCourse": "JEE",
+              "grade": "12",
+              "subject": null,
+              "board": null,
+              "language": null,
+              "validityType": "year",
+              "validity": "2023",
+              "validityMonth": "MAY",
+              "brand": null,
+              "size": null,
+              "model": null,
+              "scheme": null,
+              "skuSet": 1,
+              "cohortId": 208,
+              "ohProductId": "1993260",
+              "productState": null,
+              "isValidSku": true,
+              "remarks": null,
+              "validatedAt": "2021-11-09T14:51:04.020Z",
+              "financeCode": "AS12JM",
+              "sprId": null,
+              "orgFormattedName": "aakash",
+              "createdBy": "ayushi.bansal@byjus.com",
+              "updatedBy": "priceUpdateThu Sep 29 2022 10:37:52 GMT+0530 (India Standard Time)",
+              "createdAt": "2021-11-09T14:51:04.020Z",
+              "updatedAt": "2022-09-29T05:07:52.413Z",
+              "deletedAt": null,
+              "price": 52500,
+              "combinationType": "aakash",
+              "itemId": "vrd5CCjJ5dTSk2cLwfbDMkyr",
+              "studentId": "Shubham singh-1",
+              "tabletId": "T-TL8MZ1-Shubham singh"
+            },
+            {
+              "id": 3342,
+              "skuId": "TL8MZ1",
+              "imageUrl": null,
+              "skuName": "Lenovo 8 inch Tablet (Mobile Data) - V2",
+              "status": "active",
+              "orgId": "ORG-1",
+              "city": null,
+              "basePrice": 13000,
+              "continuousPrice": 13000,
+              "hsnCode": "847130",
+              "programId": "TLP1UCHW0001",
+              "type": "product",
+              "subType": "tablet",
+              "category": "tablet",
+              "package": null,
+              "course": null,
+              "subCourse": null,
+              "grade": null,
+              "subject": null,
+              "board": null,
+              "language": null,
+              "validityType": "N/A",
+              "validity": null,
+              "validityMonth": null,
+              "brand": "lenovo",
+              "size": null,
+              "model": null,
+              "scheme": null,
+              "skuSet": 1,
+              "cohortId": null,
+              "ohProductId": "1982688",
+              "productState": "new",
+              "isValidSku": true,
+              "remarks": null,
+              "validatedAt": "2021-11-09T14:48:06.036Z",
+              "financeCode": "TL8MZ1",
+              "sprId": null,
+              "orgFormattedName": "byjus",
+              "createdBy": "ayushi.bansal@byjus.com",
+              "updatedBy": "productState-update",
+              "createdAt": "2021-11-09T14:48:06.036Z",
+              "updatedAt": "2022-07-12T13:45:49.619Z",
+              "deletedAt": null,
+              "price": 13000,
+              "itemType": "tablet",
+              "itemId": "ztxTt2r-or0Njd4JgSvNwbma",
+              "combinationType": "product",
+              "studentId": "Shubham singh-1",
+              "tabletId": "T-TL8MZ1-Shubham singh"
+            }
+          ],
+          "addOnItems": [],
+          "mentoringDetails": [
+            {
+              "type": "neo",
+              "sessions": [
+                {
+                  "day": "Monday",
+                  "is_mandatory": true,
+                  "time": "10:00-11:20"
+                },
+                {
+                  "day": "Monday",
+                  "is_mandatory": true,
+                  "time": "11:20-12:40"
+                },
+                {
+                  "day": "Monday",
+                  "is_mandatory": true,
+                  "time": "12:40-14:00"
+                },
+                {
+                  "day": "Monday",
+                  "is_mandatory": true,
+                  "time": "14:00-15:20"
+                },
+                {
+                  "day": "Monday",
+                  "is_mandatory": true,
+                  "time": "15:20-16:40"
+                },
+                {
+                  "day": "Monday",
+                  "is_mandatory": true,
+                  "time": "16:40-18:00"
+                },
+                {
+                  "day": "Monday",
+                  "is_mandatory": true,
+                  "time": "18:00-19:20"
+                },
+                {
+                  "day": "Monday",
+                  "is_mandatory": true,
+                  "time": "19:20-20:40"
+                },
+                {
+                  "day": "Monday",
+                  "is_mandatory": true,
+                  "time": "20:40-22:00"
+                },
+                {
+                  "day": "Tuesday",
+                  "is_mandatory": true,
+                  "time": "10:00-11:20"
+                },
+                {
+                  "day": "Tuesday",
+                  "is_mandatory": true,
+                  "time": "11:20-12:40"
+                },
+                {
+                  "day": "Tuesday",
+                  "is_mandatory": true,
+                  "time": "12:40-14:00"
+                },
+                {
+                  "day": "Tuesday",
+                  "is_mandatory": true,
+                  "time": "14:00-15:20"
+                },
+                {
+                  "day": "Tuesday",
+                  "is_mandatory": true,
+                  "time": "15:20-16:40"
+                },
+                {
+                  "day": "Tuesday",
+                  "is_mandatory": true,
+                  "time": "16:40-18:00"
+                },
+                {
+                  "day": "Tuesday",
+                  "is_mandatory": true,
+                  "time": "18:00-19:20"
+                },
+                {
+                  "day": "Tuesday",
+                  "is_mandatory": true,
+                  "time": "19:20-20:40"
+                },
+                {
+                  "day": "Tuesday",
+                  "is_mandatory": true,
+                  "time": "20:40-22:00"
+                },
+                {
+                  "day": "Thursday",
+                  "is_mandatory": true,
+                  "time": "10:00-11:20"
+                },
+                {
+                  "day": "Thursday",
+                  "is_mandatory": true,
+                  "time": "11:20-12:40"
+                },
+                {
+                  "day": "Thursday",
+                  "is_mandatory": true,
+                  "time": "12:40-14:00"
+                },
+                {
+                  "day": "Thursday",
+                  "is_mandatory": true,
+                  "time": "14:00-15:20"
+                },
+                {
+                  "day": "Thursday",
+                  "is_mandatory": true,
+                  "time": "15:20-16:40"
+                },
+                {
+                  "day": "Thursday",
+                  "is_mandatory": true,
+                  "time": "16:40-18:00"
+                },
+                {
+                  "day": "Thursday",
+                  "is_mandatory": true,
+                  "time": "18:00-19:20"
+                },
+                {
+                  "day": "Thursday",
+                  "is_mandatory": true,
+                  "time": "19:20-20:40"
+                },
+                {
+                  "day": "Thursday",
+                  "is_mandatory": true,
+                  "time": "20:40-22:00"
+                },
+                {
+                  "day": "Friday",
+                  "is_mandatory": true,
+                  "time": "10:00-11:20"
+                },
+                {
+                  "day": "Friday",
+                  "is_mandatory": true,
+                  "time": "11:20-12:40"
+                },
+                {
+                  "day": "Friday",
+                  "is_mandatory": true,
+                  "time": "12:40-14:00"
+                },
+                {
+                  "day": "Friday",
+                  "is_mandatory": true,
+                  "time": "14:00-15:20"
+                },
+                {
+                  "day": "Friday",
+                  "is_mandatory": true,
+                  "time": "15:20-16:40"
+                },
+                {
+                  "day": "Friday",
+                  "is_mandatory": true,
+                  "time": "16:40-18:00"
+                },
+                {
+                  "day": "Friday",
+                  "is_mandatory": true,
+                  "time": "18:00-19:20"
+                },
+                {
+                  "day": "Friday",
+                  "is_mandatory": true,
+                  "time": "19:20-20:40"
+                },
+                {
+                  "day": "Friday",
+                  "is_mandatory": true,
+                  "time": "20:40-22:00"
+                },
+                {
+                  "day": "Saturday",
+                  "is_mandatory": true,
+                  "time": "10:00-11:20"
+                },
+                {
+                  "day": "Saturday",
+                  "is_mandatory": true,
+                  "time": "11:20-12:40"
+                },
+                {
+                  "day": "Saturday",
+                  "is_mandatory": true,
+                  "time": "12:40-14:00"
+                },
+                {
+                  "day": "Saturday",
+                  "is_mandatory": true,
+                  "time": "14:00-15:20"
+                },
+                {
+                  "day": "Saturday",
+                  "is_mandatory": true,
+                  "time": "15:20-16:40"
+                },
+                {
+                  "day": "Saturday",
+                  "is_mandatory": true,
+                  "time": "16:40-18:00"
+                },
+                {
+                  "day": "Saturday",
+                  "is_mandatory": true,
+                  "time": "18:00-19:20"
+                },
+                {
+                  "day": "Saturday",
+                  "is_mandatory": true,
+                  "time": "19:20-20:40"
+                },
+                {
+                  "day": "Saturday",
+                  "is_mandatory": true,
+                  "time": "20:40-22:00"
+                },
+                {
+                  "day": "Sunday",
+                  "is_mandatory": true,
+                  "time": "10:00-11:20"
+                },
+                {
+                  "day": "Sunday",
+                  "is_mandatory": true,
+                  "time": "11:20-12:40"
+                },
+                {
+                  "day": "Sunday",
+                  "is_mandatory": true,
+                  "time": "12:40-14:00"
+                },
+                {
+                  "day": "Sunday",
+                  "is_mandatory": true,
+                  "time": "14:00-15:20"
+                },
+                {
+                  "day": "Sunday",
+                  "is_mandatory": true,
+                  "time": "15:20-16:40"
+                },
+                {
+                  "day": "Sunday",
+                  "is_mandatory": true,
+                  "time": "16:40-18:00"
+                },
+                {
+                  "day": "Sunday",
+                  "is_mandatory": true,
+                  "time": "18:00-19:20"
+                },
+                {
+                  "day": "Sunday",
+                  "is_mandatory": true,
+                  "time": "19:20-20:40"
+                },
+                {
+                  "day": "Sunday",
+                  "is_mandatory": true,
+                  "time": "20:40-22:00"
+                }
+              ]
+            }
+          ],
+          "bhlpCourseDetails": [
+            {
+              "id": 241,
+              "name": "12-JEE-English-Chemistry",
+              "is_active": true,
+              "live_on_kart": true,
+              "time_zone": "IST",
+              "batch_country": "India",
+              "batch_start_date": "2022-05-27",
+              "batch_end_date": "2023-08-31",
+              "mandatory_sessions_count": 54,
+              "optional_sessions_count": 0,
+              "course_id": 121,
+              "course_name": "BENCHMARK-12-JEE-English",
+              "course_fot_track_id": null,
+              "course_proficiency_id": null,
+              "medium_of_instruction": "english",
+              "course_batch": "12th",
+              "cohort_id": 208,
+              "course_type": "neo",
+              "course_tag": "classroom",
+              "slot_group_id": 192,
+              "tutor_language_enabled": true,
+              "slot_group_name": "BENCHMARK",
+              "batch_type": "regular",
+              "available_subjects": [],
+              "course_sub_tag": "Regular",
+              "slots": [
+                {
+                  "id": 2017,
+                  "day": "Monday",
+                  "start_time": "10:00",
+                  "end_time": "11:20",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2018,
+                  "day": "Monday",
+                  "start_time": "11:20",
+                  "end_time": "12:40",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2019,
+                  "day": "Monday",
+                  "start_time": "12:40",
+                  "end_time": "14:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2020,
+                  "day": "Monday",
+                  "start_time": "14:00",
+                  "end_time": "15:20",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2021,
+                  "day": "Monday",
+                  "start_time": "15:20",
+                  "end_time": "16:40",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2022,
+                  "day": "Monday",
+                  "start_time": "16:40",
+                  "end_time": "18:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2023,
+                  "day": "Monday",
+                  "start_time": "18:00",
+                  "end_time": "19:20",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2024,
+                  "day": "Monday",
+                  "start_time": "19:20",
+                  "end_time": "20:40",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2025,
+                  "day": "Monday",
+                  "start_time": "20:40",
+                  "end_time": "22:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2026,
+                  "day": "Tuesday",
+                  "start_time": "10:00",
+                  "end_time": "11:20",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2027,
+                  "day": "Tuesday",
+                  "start_time": "11:20",
+                  "end_time": "12:40",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2028,
+                  "day": "Tuesday",
+                  "start_time": "12:40",
+                  "end_time": "14:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2029,
+                  "day": "Tuesday",
+                  "start_time": "14:00",
+                  "end_time": "15:20",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2030,
+                  "day": "Tuesday",
+                  "start_time": "15:20",
+                  "end_time": "16:40",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2031,
+                  "day": "Tuesday",
+                  "start_time": "16:40",
+                  "end_time": "18:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2032,
+                  "day": "Tuesday",
+                  "start_time": "18:00",
+                  "end_time": "19:20",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2033,
+                  "day": "Tuesday",
+                  "start_time": "19:20",
+                  "end_time": "20:40",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2034,
+                  "day": "Tuesday",
+                  "start_time": "20:40",
+                  "end_time": "22:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2035,
+                  "day": "Thursday",
+                  "start_time": "10:00",
+                  "end_time": "11:20",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2036,
+                  "day": "Thursday",
+                  "start_time": "11:20",
+                  "end_time": "12:40",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2037,
+                  "day": "Thursday",
+                  "start_time": "12:40",
+                  "end_time": "14:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2038,
+                  "day": "Thursday",
+                  "start_time": "14:00",
+                  "end_time": "15:20",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2039,
+                  "day": "Thursday",
+                  "start_time": "15:20",
+                  "end_time": "16:40",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2040,
+                  "day": "Thursday",
+                  "start_time": "16:40",
+                  "end_time": "18:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2041,
+                  "day": "Thursday",
+                  "start_time": "18:00",
+                  "end_time": "19:20",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2042,
+                  "day": "Thursday",
+                  "start_time": "19:20",
+                  "end_time": "20:40",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2043,
+                  "day": "Thursday",
+                  "start_time": "20:40",
+                  "end_time": "22:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2044,
+                  "day": "Friday",
+                  "start_time": "10:00",
+                  "end_time": "11:20",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2045,
+                  "day": "Friday",
+                  "start_time": "11:20",
+                  "end_time": "12:40",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2046,
+                  "day": "Friday",
+                  "start_time": "12:40",
+                  "end_time": "14:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2047,
+                  "day": "Friday",
+                  "start_time": "14:00",
+                  "end_time": "15:20",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2048,
+                  "day": "Friday",
+                  "start_time": "15:20",
+                  "end_time": "16:40",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2049,
+                  "day": "Friday",
+                  "start_time": "16:40",
+                  "end_time": "18:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2050,
+                  "day": "Friday",
+                  "start_time": "18:00",
+                  "end_time": "19:20",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2051,
+                  "day": "Friday",
+                  "start_time": "19:20",
+                  "end_time": "20:40",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2052,
+                  "day": "Friday",
+                  "start_time": "20:40",
+                  "end_time": "22:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2053,
+                  "day": "Saturday",
+                  "start_time": "10:00",
+                  "end_time": "11:20",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2054,
+                  "day": "Saturday",
+                  "start_time": "11:20",
+                  "end_time": "12:40",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2055,
+                  "day": "Saturday",
+                  "start_time": "12:40",
+                  "end_time": "14:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2056,
+                  "day": "Saturday",
+                  "start_time": "14:00",
+                  "end_time": "15:20",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2057,
+                  "day": "Saturday",
+                  "start_time": "15:20",
+                  "end_time": "16:40",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2058,
+                  "day": "Saturday",
+                  "start_time": "16:40",
+                  "end_time": "18:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2059,
+                  "day": "Saturday",
+                  "start_time": "18:00",
+                  "end_time": "19:20",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2060,
+                  "day": "Saturday",
+                  "start_time": "19:20",
+                  "end_time": "20:40",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2061,
+                  "day": "Saturday",
+                  "start_time": "20:40",
+                  "end_time": "22:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2062,
+                  "day": "Sunday",
+                  "start_time": "10:00",
+                  "end_time": "11:20",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2063,
+                  "day": "Sunday",
+                  "start_time": "11:20",
+                  "end_time": "12:40",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2064,
+                  "day": "Sunday",
+                  "start_time": "12:40",
+                  "end_time": "14:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2065,
+                  "day": "Sunday",
+                  "start_time": "14:00",
+                  "end_time": "15:20",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2066,
+                  "day": "Sunday",
+                  "start_time": "15:20",
+                  "end_time": "16:40",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2067,
+                  "day": "Sunday",
+                  "start_time": "16:40",
+                  "end_time": "18:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2068,
+                  "day": "Sunday",
+                  "start_time": "18:00",
+                  "end_time": "19:20",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2069,
+                  "day": "Sunday",
+                  "start_time": "19:20",
+                  "end_time": "20:40",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2070,
+                  "day": "Sunday",
+                  "start_time": "20:40",
+                  "end_time": "22:00",
+                  "is_mandatory": true
+                }
+              ]
+            }
+          ],
+          "featureTag": [],
+          "_id": {
+            "oid": "6391cf76d1e75c001aa4d3b7"
+          },
+          "board": "CBSE",
+          "initialClass": "12",
+          "finalClass": "12",
+          "validity": "2023",
+          "tablet": "TL8MZ1",
+          "formValues": {
+            "userProfile": "newProfile",
+            "productLearningType": "aakash_byjus_live",
+            "subType": "",
+            "board": "CBSE",
+            "initialClass": "12",
+            "finalClass": "12",
+            "duration": "",
+            "initialGradeProductLearningType": "",
+            "finalGradeProductLearningType": "",
+            "validity": 2023,
+            "tablet": "TL8MZ1",
+            "subCourse": "JEE",
+            "mentoringDetails": [
+              {
+                "type": "neo",
+                "sessions": [
+                  {
+                    "day": "Monday",
+                    "is_mandatory": true,
+                    "time": "10:00-11:20"
+                  },
+                  {
+                    "day": "Monday",
+                    "is_mandatory": true,
+                    "time": "11:20-12:40"
+                  },
+                  {
+                    "day": "Monday",
+                    "is_mandatory": true,
+                    "time": "12:40-14:00"
+                  },
+                  {
+                    "day": "Monday",
+                    "is_mandatory": true,
+                    "time": "14:00-15:20"
+                  },
+                  {
+                    "day": "Monday",
+                    "is_mandatory": true,
+                    "time": "15:20-16:40"
+                  },
+                  {
+                    "day": "Monday",
+                    "is_mandatory": true,
+                    "time": "16:40-18:00"
+                  },
+                  {
+                    "day": "Monday",
+                    "is_mandatory": true,
+                    "time": "18:00-19:20"
+                  },
+                  {
+                    "day": "Monday",
+                    "is_mandatory": true,
+                    "time": "19:20-20:40"
+                  },
+                  {
+                    "day": "Monday",
+                    "is_mandatory": true,
+                    "time": "20:40-22:00"
+                  },
+                  {
+                    "day": "Tuesday",
+                    "is_mandatory": true,
+                    "time": "10:00-11:20"
+                  },
+                  {
+                    "day": "Tuesday",
+                    "is_mandatory": true,
+                    "time": "11:20-12:40"
+                  },
+                  {
+                    "day": "Tuesday",
+                    "is_mandatory": true,
+                    "time": "12:40-14:00"
+                  },
+                  {
+                    "day": "Tuesday",
+                    "is_mandatory": true,
+                    "time": "14:00-15:20"
+                  },
+                  {
+                    "day": "Tuesday",
+                    "is_mandatory": true,
+                    "time": "15:20-16:40"
+                  },
+                  {
+                    "day": "Tuesday",
+                    "is_mandatory": true,
+                    "time": "16:40-18:00"
+                  },
+                  {
+                    "day": "Tuesday",
+                    "is_mandatory": true,
+                    "time": "18:00-19:20"
+                  },
+                  {
+                    "day": "Tuesday",
+                    "is_mandatory": true,
+                    "time": "19:20-20:40"
+                  },
+                  {
+                    "day": "Tuesday",
+                    "is_mandatory": true,
+                    "time": "20:40-22:00"
+                  },
+                  {
+                    "day": "Thursday",
+                    "is_mandatory": true,
+                    "time": "10:00-11:20"
+                  },
+                  {
+                    "day": "Thursday",
+                    "is_mandatory": true,
+                    "time": "11:20-12:40"
+                  },
+                  {
+                    "day": "Thursday",
+                    "is_mandatory": true,
+                    "time": "12:40-14:00"
+                  },
+                  {
+                    "day": "Thursday",
+                    "is_mandatory": true,
+                    "time": "14:00-15:20"
+                  },
+                  {
+                    "day": "Thursday",
+                    "is_mandatory": true,
+                    "time": "15:20-16:40"
+                  },
+                  {
+                    "day": "Thursday",
+                    "is_mandatory": true,
+                    "time": "16:40-18:00"
+                  },
+                  {
+                    "day": "Thursday",
+                    "is_mandatory": true,
+                    "time": "18:00-19:20"
+                  },
+                  {
+                    "day": "Thursday",
+                    "is_mandatory": true,
+                    "time": "19:20-20:40"
+                  },
+                  {
+                    "day": "Thursday",
+                    "is_mandatory": true,
+                    "time": "20:40-22:00"
+                  },
+                  {
+                    "day": "Friday",
+                    "is_mandatory": true,
+                    "time": "10:00-11:20"
+                  },
+                  {
+                    "day": "Friday",
+                    "is_mandatory": true,
+                    "time": "11:20-12:40"
+                  },
+                  {
+                    "day": "Friday",
+                    "is_mandatory": true,
+                    "time": "12:40-14:00"
+                  },
+                  {
+                    "day": "Friday",
+                    "is_mandatory": true,
+                    "time": "14:00-15:20"
+                  },
+                  {
+                    "day": "Friday",
+                    "is_mandatory": true,
+                    "time": "15:20-16:40"
+                  },
+                  {
+                    "day": "Friday",
+                    "is_mandatory": true,
+                    "time": "16:40-18:00"
+                  },
+                  {
+                    "day": "Friday",
+                    "is_mandatory": true,
+                    "time": "18:00-19:20"
+                  },
+                  {
+                    "day": "Friday",
+                    "is_mandatory": true,
+                    "time": "19:20-20:40"
+                  },
+                  {
+                    "day": "Friday",
+                    "is_mandatory": true,
+                    "time": "20:40-22:00"
+                  },
+                  {
+                    "day": "Saturday",
+                    "is_mandatory": true,
+                    "time": "10:00-11:20"
+                  },
+                  {
+                    "day": "Saturday",
+                    "is_mandatory": true,
+                    "time": "11:20-12:40"
+                  },
+                  {
+                    "day": "Saturday",
+                    "is_mandatory": true,
+                    "time": "12:40-14:00"
+                  },
+                  {
+                    "day": "Saturday",
+                    "is_mandatory": true,
+                    "time": "14:00-15:20"
+                  },
+                  {
+                    "day": "Saturday",
+                    "is_mandatory": true,
+                    "time": "15:20-16:40"
+                  },
+                  {
+                    "day": "Saturday",
+                    "is_mandatory": true,
+                    "time": "16:40-18:00"
+                  },
+                  {
+                    "day": "Saturday",
+                    "is_mandatory": true,
+                    "time": "18:00-19:20"
+                  },
+                  {
+                    "day": "Saturday",
+                    "is_mandatory": true,
+                    "time": "19:20-20:40"
+                  },
+                  {
+                    "day": "Saturday",
+                    "is_mandatory": true,
+                    "time": "20:40-22:00"
+                  },
+                  {
+                    "day": "Sunday",
+                    "is_mandatory": true,
+                    "time": "10:00-11:20"
+                  },
+                  {
+                    "day": "Sunday",
+                    "is_mandatory": true,
+                    "time": "11:20-12:40"
+                  },
+                  {
+                    "day": "Sunday",
+                    "is_mandatory": true,
+                    "time": "12:40-14:00"
+                  },
+                  {
+                    "day": "Sunday",
+                    "is_mandatory": true,
+                    "time": "14:00-15:20"
+                  },
+                  {
+                    "day": "Sunday",
+                    "is_mandatory": true,
+                    "time": "15:20-16:40"
+                  },
+                  {
+                    "day": "Sunday",
+                    "is_mandatory": true,
+                    "time": "16:40-18:00"
+                  },
+                  {
+                    "day": "Sunday",
+                    "is_mandatory": true,
+                    "time": "18:00-19:20"
+                  },
+                  {
+                    "day": "Sunday",
+                    "is_mandatory": true,
+                    "time": "19:20-20:40"
+                  },
+                  {
+                    "day": "Sunday",
+                    "is_mandatory": true,
+                    "time": "20:40-22:00"
+                  }
+                ]
+              }
+            ],
+            "bhlpCourseDetails": {
+              "id": 241,
+              "name": "12-JEE-English-Chemistry",
+              "is_active": true,
+              "live_on_kart": true,
+              "time_zone": "IST",
+              "batch_country": "India",
+              "batch_start_date": "2022-05-27",
+              "batch_end_date": "2023-08-31",
+              "mandatory_sessions_count": 54,
+              "optional_sessions_count": 0,
+              "course_id": 121,
+              "course_name": "BENCHMARK-12-JEE-English",
+              "course_fot_track_id": null,
+              "course_proficiency_id": null,
+              "medium_of_instruction": "english",
+              "course_batch": "12th",
+              "cohort_id": 208,
+              "course_type": "neo",
+              "course_tag": "classroom",
+              "slot_group_id": 192,
+              "tutor_language_enabled": true,
+              "slot_group_name": "BENCHMARK",
+              "batch_type": "regular",
+              "available_subjects": [],
+              "course_sub_tag": "Regular",
+              "slots": [
+                {
+                  "id": 2017,
+                  "day": "Monday",
+                  "start_time": "10:00",
+                  "end_time": "11:20",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2018,
+                  "day": "Monday",
+                  "start_time": "11:20",
+                  "end_time": "12:40",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2019,
+                  "day": "Monday",
+                  "start_time": "12:40",
+                  "end_time": "14:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2020,
+                  "day": "Monday",
+                  "start_time": "14:00",
+                  "end_time": "15:20",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2021,
+                  "day": "Monday",
+                  "start_time": "15:20",
+                  "end_time": "16:40",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2022,
+                  "day": "Monday",
+                  "start_time": "16:40",
+                  "end_time": "18:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2023,
+                  "day": "Monday",
+                  "start_time": "18:00",
+                  "end_time": "19:20",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2024,
+                  "day": "Monday",
+                  "start_time": "19:20",
+                  "end_time": "20:40",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2025,
+                  "day": "Monday",
+                  "start_time": "20:40",
+                  "end_time": "22:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2026,
+                  "day": "Tuesday",
+                  "start_time": "10:00",
+                  "end_time": "11:20",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2027,
+                  "day": "Tuesday",
+                  "start_time": "11:20",
+                  "end_time": "12:40",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2028,
+                  "day": "Tuesday",
+                  "start_time": "12:40",
+                  "end_time": "14:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2029,
+                  "day": "Tuesday",
+                  "start_time": "14:00",
+                  "end_time": "15:20",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2030,
+                  "day": "Tuesday",
+                  "start_time": "15:20",
+                  "end_time": "16:40",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2031,
+                  "day": "Tuesday",
+                  "start_time": "16:40",
+                  "end_time": "18:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2032,
+                  "day": "Tuesday",
+                  "start_time": "18:00",
+                  "end_time": "19:20",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2033,
+                  "day": "Tuesday",
+                  "start_time": "19:20",
+                  "end_time": "20:40",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2034,
+                  "day": "Tuesday",
+                  "start_time": "20:40",
+                  "end_time": "22:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2035,
+                  "day": "Thursday",
+                  "start_time": "10:00",
+                  "end_time": "11:20",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2036,
+                  "day": "Thursday",
+                  "start_time": "11:20",
+                  "end_time": "12:40",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2037,
+                  "day": "Thursday",
+                  "start_time": "12:40",
+                  "end_time": "14:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2038,
+                  "day": "Thursday",
+                  "start_time": "14:00",
+                  "end_time": "15:20",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2039,
+                  "day": "Thursday",
+                  "start_time": "15:20",
+                  "end_time": "16:40",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2040,
+                  "day": "Thursday",
+                  "start_time": "16:40",
+                  "end_time": "18:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2041,
+                  "day": "Thursday",
+                  "start_time": "18:00",
+                  "end_time": "19:20",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2042,
+                  "day": "Thursday",
+                  "start_time": "19:20",
+                  "end_time": "20:40",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2043,
+                  "day": "Thursday",
+                  "start_time": "20:40",
+                  "end_time": "22:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2044,
+                  "day": "Friday",
+                  "start_time": "10:00",
+                  "end_time": "11:20",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2045,
+                  "day": "Friday",
+                  "start_time": "11:20",
+                  "end_time": "12:40",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2046,
+                  "day": "Friday",
+                  "start_time": "12:40",
+                  "end_time": "14:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2047,
+                  "day": "Friday",
+                  "start_time": "14:00",
+                  "end_time": "15:20",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2048,
+                  "day": "Friday",
+                  "start_time": "15:20",
+                  "end_time": "16:40",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2049,
+                  "day": "Friday",
+                  "start_time": "16:40",
+                  "end_time": "18:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2050,
+                  "day": "Friday",
+                  "start_time": "18:00",
+                  "end_time": "19:20",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2051,
+                  "day": "Friday",
+                  "start_time": "19:20",
+                  "end_time": "20:40",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2052,
+                  "day": "Friday",
+                  "start_time": "20:40",
+                  "end_time": "22:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2053,
+                  "day": "Saturday",
+                  "start_time": "10:00",
+                  "end_time": "11:20",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2054,
+                  "day": "Saturday",
+                  "start_time": "11:20",
+                  "end_time": "12:40",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2055,
+                  "day": "Saturday",
+                  "start_time": "12:40",
+                  "end_time": "14:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2056,
+                  "day": "Saturday",
+                  "start_time": "14:00",
+                  "end_time": "15:20",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2057,
+                  "day": "Saturday",
+                  "start_time": "15:20",
+                  "end_time": "16:40",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2058,
+                  "day": "Saturday",
+                  "start_time": "16:40",
+                  "end_time": "18:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2059,
+                  "day": "Saturday",
+                  "start_time": "18:00",
+                  "end_time": "19:20",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2060,
+                  "day": "Saturday",
+                  "start_time": "19:20",
+                  "end_time": "20:40",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2061,
+                  "day": "Saturday",
+                  "start_time": "20:40",
+                  "end_time": "22:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2062,
+                  "day": "Sunday",
+                  "start_time": "10:00",
+                  "end_time": "11:20",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2063,
+                  "day": "Sunday",
+                  "start_time": "11:20",
+                  "end_time": "12:40",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2064,
+                  "day": "Sunday",
+                  "start_time": "12:40",
+                  "end_time": "14:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2065,
+                  "day": "Sunday",
+                  "start_time": "14:00",
+                  "end_time": "15:20",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2066,
+                  "day": "Sunday",
+                  "start_time": "15:20",
+                  "end_time": "16:40",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2067,
+                  "day": "Sunday",
+                  "start_time": "16:40",
+                  "end_time": "18:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2068,
+                  "day": "Sunday",
+                  "start_time": "18:00",
+                  "end_time": "19:20",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2069,
+                  "day": "Sunday",
+                  "start_time": "19:20",
+                  "end_time": "20:40",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2070,
+                  "day": "Sunday",
+                  "start_time": "20:40",
+                  "end_time": "22:00",
+                  "is_mandatory": true
+                }
+              ]
+            },
+            "proficiency": "",
+            "mathPercent": "",
+            "sciencePercent": "",
+            "languageOfInstruction": "english",
+            "languageOfInstructionId": 1,
+            "tabletId": "T-TL8MZ1",
+            "isTabletLock": false
+          },
+          "tabletLock": "not_applicable",
+          "productSelectionType": "byjus_aakash_neo",
+          "studentName": "Shubham singh",
+          "studentId": "Shubham singh-1",
+          "academicDetails": {
+            "mathPercent": "",
+            "sciencePercent": "",
+            "fotTrackId": null,
+            "proficiency": "",
+            "schoolDetails": {
+              "id": null,
+              "name": "",
+              "address": "",
+              "pincode": null
+            },
+            "languageOfInstruction": "english",
+            "languageOfInstructionId": 1
+          }
+        }
+      ],
+      "products": [
+        {
+          "id": 7454,
+          "skuId": "LA12JM23",
+          "imageUrl": null,
+          "skuName": "Aakash BYJU'S 12th Grade PCM_JEE Live May 2023",
+          "status": "active",
+          "orgId": "ORG-2",
+          "city": null,
+          "basePrice": 35000,
+          "continuousPrice": 35000,
+          "hsnCode": "999293",
+          "programId": "ACOPKXSY0003",
+          "type": "service",
+          "subType": "live",
+          "category": "aakash_neo_classes",
+          "package": null,
+          "course": "K12",
+          "subCourse": "JEE",
+          "grade": "12",
+          "subject": null,
+          "board": null,
+          "language": null,
+          "validityType": "year",
+          "validity": "2023",
+          "validityMonth": "MAY",
+          "brand": null,
+          "size": null,
+          "model": null,
+          "scheme": null,
+          "skuSet": 1,
+          "cohortId": 208,
+          "ohProductId": "2017046",
+          "productState": null,
+          "isValidSku": true,
+          "remarks": null,
+          "validatedAt": null,
+          "financeCode": "LA12JM",
+          "sprId": null,
+          "orgFormattedName": "aakash",
+          "createdBy": "ijaz.shaik@byjus.com",
+          "updatedBy": "price_update6/9/2022",
+          "createdAt": "2022-03-14T23:21:22.637Z",
+          "updatedAt": "2022-06-09T07:44:41.947Z",
+          "deletedAt": null,
+          "price": 35000,
+          "combinationType": "aakash_neo_classes",
+          "itemId": "ZpCHoATFJJtCNog1D0SKGtl6",
+          "studentId": "Shubham singh-1",
+          "tabletId": "T-TL8MZ1-Shubham singh"
+        },
+        {
+          "id": 2723,
+          "skuId": "AS12JM23",
+          "imageUrl": null,
+          "skuName": "Aakash BYJU'S 12th Grade PCM_JEE SD Card May 2023",
+          "status": "active",
+          "orgId": "ORG-2",
+          "city": null,
+          "basePrice": 52500,
+          "continuousPrice": 52500,
+          "hsnCode": "852351",
+          "programId": "BALAKXAS0001",
+          "type": "product",
+          "subType": "sd_card",
+          "category": "aakash",
+          "package": null,
+          "course": "K12",
+          "subCourse": "JEE",
+          "grade": "12",
+          "subject": null,
+          "board": null,
+          "language": null,
+          "validityType": "year",
+          "validity": "2023",
+          "validityMonth": "MAY",
+          "brand": null,
+          "size": null,
+          "model": null,
+          "scheme": null,
+          "skuSet": 1,
+          "cohortId": 208,
+          "ohProductId": "1993260",
+          "productState": null,
+          "isValidSku": true,
+          "remarks": null,
+          "validatedAt": "2021-11-09T14:51:04.020Z",
+          "financeCode": "AS12JM",
+          "sprId": null,
+          "orgFormattedName": "aakash",
+          "createdBy": "ayushi.bansal@byjus.com",
+          "updatedBy": "priceUpdateThu Sep 29 2022 10:37:52 GMT+0530 (India Standard Time)",
+          "createdAt": "2021-11-09T14:51:04.020Z",
+          "updatedAt": "2022-09-29T05:07:52.413Z",
+          "deletedAt": null,
+          "price": 52500,
+          "combinationType": "aakash",
+          "itemId": "vrd5CCjJ5dTSk2cLwfbDMkyr",
+          "studentId": "Shubham singh-1",
+          "tabletId": "T-TL8MZ1-Shubham singh"
+        },
+        {
+          "id": 3342,
+          "skuId": "TL8MZ1",
+          "imageUrl": null,
+          "skuName": "Lenovo 8 inch Tablet (Mobile Data) - V2",
+          "status": "active",
+          "orgId": "ORG-1",
+          "city": null,
+          "basePrice": 13000,
+          "continuousPrice": 13000,
+          "hsnCode": "847130",
+          "programId": "TLP1UCHW0001",
+          "type": "product",
+          "subType": "tablet",
+          "category": "tablet",
+          "package": null,
+          "course": null,
+          "subCourse": null,
+          "grade": null,
+          "subject": null,
+          "board": null,
+          "language": null,
+          "validityType": "N/A",
+          "validity": null,
+          "validityMonth": null,
+          "brand": "lenovo",
+          "size": null,
+          "model": null,
+          "scheme": null,
+          "skuSet": 1,
+          "cohortId": null,
+          "ohProductId": "1982688",
+          "productState": "new",
+          "isValidSku": true,
+          "remarks": null,
+          "validatedAt": "2021-11-09T14:48:06.036Z",
+          "financeCode": "TL8MZ1",
+          "sprId": null,
+          "orgFormattedName": "byjus",
+          "createdBy": "ayushi.bansal@byjus.com",
+          "updatedBy": "productState-update",
+          "createdAt": "2021-11-09T14:48:06.036Z",
+          "updatedAt": "2022-07-12T13:45:49.619Z",
+          "deletedAt": null,
+          "price": 13000,
+          "itemType": "tablet",
+          "itemId": "ztxTt2r-or0Njd4JgSvNwbma",
+          "combinationType": "product",
+          "studentId": "Shubham singh-1",
+          "tabletId": "T-TL8MZ1-Shubham singh"
+        }
+      ],
+      "finalPrice": 100500
+    },
+    "paymentDetails": {
+      "type": "NON_EMI",
+      "totalAmount": 100500,
+      "totalEmiAmount": 0,
+      "totalPrepaidAmount": 100500,
+      "totalPostpaidAmount": 0,
+      "paymentMethod": "Non EMI Prepaid",
+      "payments": [
+        {
+          "isPrepaid": true,
+          "_id": {
+            "oid": "6391cf99a314a9001b6ade29"
+          },
+          "provider": "CHEQUE",
+          "referenceId": "16705002481968-3453453452100500",
+          "amount": 100500,
+          "additionalDetails": {
+            "bank": "city"
+          },
+          "attachments": [
+            {
+              "_id": {
+                "oid": "6391cf99a314a9001b6ade2a"
+              },
+              "name": "cheque",
+              "url": "https://orderhive-payments.s3.ap-southeast-1.amazonaws.com/development/6391cf2fa314a9001b6addc1/cheque/cheque-20221208_17209050.png"
+            }
+          ],
+          "type": "DOWN_PAYMENT",
+          "currency": ""
+        }
+      ],
+      "minDownPaymentDetails": {
+        "isMatched": true,
+        "minDownPaymentAmount": 0
+      },
+      "isRepunchedCase": false
+    },
+    "cashbackDetails": {
+      "unutilizedCashbacks": []
+    },
+    "bonusPointsDetails": {
+      "bonusPoints": 0,
+      "conversionFactor": 0,
+      "amount": 0,
+      "transactionId": ""
+    },
+    "approvalDetails": {
+      "isPaymentVerified": false,
+      "isOrderVerified": false,
+      "isCustomerVerified": false
+    },
+    "inventoryDetails": [],
+    "isImmediateDelivery": false,
+    "orderPunchingCategory": "aakash_neo_classes",
+    "childStatus": "order_created",
+    "isFOCOrder": false,
+    "salesSubOrderIds": [
+      "SSO1-2212081149030385",
+      "SSO2-2212081149030385"
+    ],
+    "isTestOrder": true,
+    "upgradedOrders": [],
+    "addOnLineItems": [],
+    "bookInvoicing": "not_applicable",
+    "orderApproval": "not_applicable",
+    "poaCommand": "applicable",
+    "sacCommand": "applicable",
+    "isOmsOrder": true,
+    "leadDetails": {
+      "homeAddress": "undefined",
+      "secretKey": "b56b69cd8b4c4be11fbac035bb5b17f4198059f0",
+      "studentMobile": "+91-8736576846",
+      "CampaignName": "",
+      "UTMSource": "",
+      "userEmail": "praz@byjus.com",
+      "LeadSource": "undefined",
+      "typeOfSales": "DS Sales",
+      "studentName": "Shubham singh",
+      "SourceCampaignId": "",
+      "accountNumber": "24692",
+      "SourceMedium": "",
+      "SourceCampaign": "",
+      "appointmentBookedBy": "Meghana Negi",
+      "directSalesBy": "",
+      "studentEmail": "sd56uysfgdf@gmail.com",
+      "prospectId": "sdf667sudfh",
+      "SourceOfLead": "",
+      "accessKey": "u%24r345dfdff0767605294d91b80ac914f62",
+      "loggedInEmailId": "praz@byjus.com",
+      "createdByEmailId": "",
+      "leadCreatedAt": null,
+      "leadId": "",
+      "isLeadMobileUsed": true,
+      "isEligibleForEvalution": true,
+      "loggedInRole": null
+    },
+    "salesDetails": {
+      "typeOfSales": "DS Sales",
+      "directSalesBy": "sanjay.karkera@byjus.com",
+      "directSalesById": "sanjay.karkera@byjus.com",
+      "directSalesByCampaign": "Livechat Calling",
+      "salesAppointmentByCampaign": "Hyderabad",
+      "directSalesByRole": "bda",
+      "directSalesByDept": "business_development",
+      "directSalesByCountry": "india",
+      "directSalesByTeamManager": "",
+      "directSalesBySeniorManager": "archa.br@byjus.com",
+      "salesAppointmentByRole": null,
+      "salesAppointmentByDept": "",
+      "isOmsOrderEligible": true
+    },
+    "status": "order_created",
+    "draftOrderId": "DO-2212081149030385",
+    "actionDetails": {
+      "detailsSavedAt": {
+        "date": {
+          "numberLong": "1670500143907"
+        }
+      },
+      "detailsSavedBy": "praz@byjus.com",
+      "productSavedAt": {
+        "date": {
+          "numberLong": "1670500214441"
+        }
+      },
+      "productSavedBy": "praz@byjus.com",
+      "addressSavedAt": {
+        "date": {
+          "numberLong": "1670500228272"
+        }
+      },
+      "addressSavedBy": "praz@byjus.com",
+      "paymentSavedAt": {
+        "date": {
+          "numberLong": "1670500249297"
+        }
+      },
+      "paymentSavedBy": "praz@byjus.com",
+      "softApprovedAt": {
+        "date": {
+          "numberLong": "1670500257719"
+        }
+      },
+      "softApprovedBy": "system"
+    },
+    "orderPunchingType": "normal_order",
+    "orgFormattedName": "aakash",
+    "contactDetails": [
+      {
+        "contacts": [],
+        "_id": {
+          "oid": "6391cf2fa314a9001b6addc3"
+        },
+        "source": "ls_17139"
+      },
+      {
+        "contacts": [],
+        "_id": {
+          "oid": "6391cf2fa314a9001b6addc4"
+        },
+        "source": "ls_24692"
+      },
+      {
+        "contacts": [
+          "+91-8736576846"
+        ],
+        "_id": {
+          "oid": "6391cf2fa314a9001b6addc5"
+        },
+        "source": "middleware"
+      }
+    ],
+    "source": "kart",
+    "comments": [
+      {
+        "_id": {
+          "oid": "6391cf99a314a9001b6ade30"
+        },
+        "category": "product",
+        "type": "details",
+        "comment": "Student Details :  Course Details : undefined CBSE : 12 - 12 , Initial Validity : 2023 Sessions :\n                            Day : Monday\n                            Time : 10:00-11:20  Sessions :\n                            Day : Monday\n                            Time : 11:20-12:40  Sessions :\n                            Day : Monday\n                            Time : 12:40-14:00  Sessions :\n                            Day : Monday\n                            Time : 14:00-15:20  Sessions :\n                            Day : Monday\n                            Time : 15:20-16:40  Sessions :\n                            Day : Monday\n                            Time : 16:40-18:00  Sessions :\n                            Day : Monday\n                            Time : 18:00-19:20  Sessions :\n                            Day : Monday\n                            Time : 19:20-20:40  Sessions :\n                            Day : Monday\n                            Time : 20:40-22:00  Sessions :\n                            Day : Tuesday\n                            Time : 10:00-11:20  Sessions :\n                            Day : Tuesday\n                            Time : 11:20-12:40  Sessions :\n                            Day : Tuesday\n                            Time : 12:40-14:00  Sessions :\n                            Day : Tuesday\n                            Time : 14:00-15:20  Sessions :\n                            Day : Tuesday\n                            Time : 15:20-16:40  Sessions :\n                            Day : Tuesday\n                            Time : 16:40-18:00  Sessions :\n                            Day : Tuesday\n                            Time : 18:00-19:20  Sessions :\n                            Day : Tuesday\n                            Time : 19:20-20:40  Sessions :\n                            Day : Tuesday\n                            Time : 20:40-22:00  Sessions :\n                            Day : Thursday\n                            Time : 10:00-11:20  Sessions :\n                            Day : Thursday\n                            Time : 11:20-12:40  Sessions :\n                            Day : Thursday\n                            Time : 12:40-14:00  Sessions :\n                            Day : Thursday\n                            Time : 14:00-15:20  Sessions :\n                            Day : Thursday\n                            Time : 15:20-16:40  Sessions :\n                            Day : Thursday\n                            Time : 16:40-18:00  Sessions :\n                            Day : Thursday\n                            Time : 18:00-19:20  Sessions :\n                            Day : Thursday\n                            Time : 19:20-20:40  Sessions :\n                            Day : Thursday\n                            Time : 20:40-22:00  Sessions :\n                            Day : Friday\n                            Time : 10:00-11:20  Sessions :\n                            Day : Friday\n                            Time : 11:20-12:40  Sessions :\n                            Day : Friday\n                            Time : 12:40-14:00  Sessions :\n                            Day : Friday\n                            Time : 14:00-15:20  Sessions :\n                            Day : Friday\n                            Time : 15:20-16:40  Sessions :\n                            Day : Friday\n                            Time : 16:40-18:00  Sessions :\n                            Day : Friday\n                            Time : 18:00-19:20  Sessions :\n                            Day : Friday\n                            Time : 19:20-20:40  Sessions :\n                            Day : Friday\n                            Time : 20:40-22:00  Sessions :\n                            Day : Saturday\n                            Time : 10:00-11:20  Sessions :\n                            Day : Saturday\n                            Time : 11:20-12:40  Sessions :\n                            Day : Saturday\n                            Time : 12:40-14:00  Sessions :\n                            Day : Saturday\n                            Time : 14:00-15:20  Sessions :\n                            Day : Saturday\n                            Time : 15:20-16:40  Sessions :\n                            Day : Saturday\n                            Time : 16:40-18:00  Sessions :\n                            Day : Saturday\n                            Time : 18:00-19:20  Sessions :\n                            Day : Saturday\n                            Time : 19:20-20:40  Sessions :\n                            Day : Saturday\n                            Time : 20:40-22:00  Sessions :\n                            Day : Sunday\n                            Time : 10:00-11:20  Sessions :\n                            Day : Sunday\n                            Time : 11:20-12:40  Sessions :\n                            Day : Sunday\n                            Time : 12:40-14:00  Sessions :\n                            Day : Sunday\n                            Time : 14:00-15:20  Sessions :\n                            Day : Sunday\n                            Time : 15:20-16:40  Sessions :\n                            Day : Sunday\n                            Time : 16:40-18:00  Sessions :\n                            Day : Sunday\n                            Time : 18:00-19:20  Sessions :\n                            Day : Sunday\n                            Time : 19:20-20:40  Sessions :\n                            Day : Sunday\n                            Time : 20:40-22:00",
+        "commentedBy": "system",
+        "commentedAt": {
+          "date": {
+            "numberLong": "1670500249879"
+          }
+        },
+        "source": "kart"
+      },
+      {
+        "_id": {
+          "oid": "6391cf99a314a9001b6ade31"
+        },
+        "category": "price",
+        "type": "range",
+        "comment": "Price Range : 83000 - 100500\n Final Price : 100500",
+        "commentedBy": "system",
+        "commentedAt": {
+          "date": {
+            "numberLong": "1670500249879"
+          }
+        },
+        "source": "kart"
+      },
+      {
+        "_id": {
+          "oid": "6391cf99a314a9001b6ade32"
+        },
+        "category": "payment",
+        "type": "refIds",
+        "comment": "Payment Details : , Method:CHEQUE Amount: 100500 ReferenceId:16705002481968-3453453452100500",
+        "commentedBy": "system",
+        "commentedAt": {
+          "date": {
+            "numberLong": "1670500249879"
+          }
+        },
+        "source": "kart"
+      },
+      {
+        "_id": {
+          "oid": "6391cf99a314a9001b6ade33"
+        },
+        "category": "salesDetails",
+        "type": "for_OH_order_reference",
+        "comment": "Direct Sales Conducted By is sanjay.karkera@byjus.com",
+        "commentedBy": "system",
+        "commentedAt": {
+          "date": {
+            "numberLong": "1670500249879"
+          }
+        },
+        "source": "kart"
+      },
+      {
+        "_id": {
+          "oid": "6391cfa1a314a9001b6ade3c"
+        },
+        "comment": "praz@byjus.com opted to move this order to OMS. Reason - undefined",
+        "commentedBy": "praz@byjus.com",
+        "commentedAt": {
+          "date": {
+            "numberLong": "1670500257710"
+          }
+        },
+        "source": "kart"
+      }
+    ],
+    "attachments": [
+      {
+        "_id": {
+          "oid": "6391cf99a314a9001b6ade28"
+        },
+        "name": "cheque",
+        "url": "https://orderhive-payments.s3.ap-southeast-1.amazonaws.com/development/6391cf2fa314a9001b6addc1/cheque/cheque-20221208_17209050.png"
+      }
+    ],
+    "cloneOrderDetails": [],
+    "createdAt": {
+      "date": {
+        "numberLong": "1670500143919"
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "numberLong": "1670500260364"
+      }
+    },
+    "__v": 0,
+    "finalPrice": 100500,
+    "addressDetails": {
+      "billing": {
+        "zipcode": "600001",
+        "addressLine1": "Akshya Nagar 1st Block 1st Cro",
+        "country": "India",
+        "state": "Tamil Nadu",
+        "city": "Chennai",
+        "addressLine2": "Akshya Nagar 1st Block 1st Cro,",
+        "addressLine3": "Flower Bazaar",
+        "address": "Akshya Nagar 1st Block 1st Cro\n Akshya Nagar 1st Block 1st Cro\n Flower Bazaar",
+        "addressId": "496870"
+      },
+      "shipping": {
+        "zipcode": "600001",
+        "addressLine1": "Akshya Nagar 1st Block 1st Cro",
+        "country": "India",
+        "state": "Tamil Nadu",
+        "city": "Chennai",
+        "addressLine2": "Akshya Nagar 1st Block 1st Cro,",
+        "addressLine3": "Flower Bazaar",
+        "address": "Akshya Nagar 1st Block 1st Cro\n Akshya Nagar 1st Block 1st Cro\n Flower Bazaar",
+        "addressId": "496871"
+      }
+    },
+    "currency": "",
+    "isRepunchedCase": false,
+    "repunchDetails": {},
+    "repunchOrderDetails": {
+      "paymentDetails": {}
+    },
+    "subscriptionDetails": {},
+    "userComment": null,
+    "assignmentCategory": "k12",
+    "orderType": "SPLIT",
+    "orderPlatformDetails": {
+      "platform": "oms",
+      "smsNotification": true,
+      "remark": null,
+      "ohOpReason": null,
+      "ohOpTeam": null,
+      "updatedBy": "praz@byjus.com",
+      "updatedAt": {
+        "date": {
+          "numberLong": "1670500257710"
+        }
+      }
+    },
+    "orderProcessedAt": {
+      "date": {
+        "numberLong": "1670500257719"
+      }
+    },
+    "draftOrderWorkerId": "1",
+    "processingAt": {
+      "date": {
+        "numberLong": "1670500260021"
+      }
+    },
+    "orderReferenceId": "6391cfa461649f0013cd7d68",
+    "financeOrderId": "1b90ea560a7745e7a474d6e24e25f982",
+    "salesOrderId": "SO-2212081149030385",
+    "orderId": "SSO1-2212081149030385",
+    "orderStatus": "not_confirmed",
+    "orderValue": 100500,
+    "statusMessage": "Order created Successfully",
+    "childOrderId": "SSO2-2212081149030385",
+    "childOrderReferenceId": "6391cfa461649f0013cd7d6c",
+    "childOrderStatusMessage": "Order created Successfully"
+  }

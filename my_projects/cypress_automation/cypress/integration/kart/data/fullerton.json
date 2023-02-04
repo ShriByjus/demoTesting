@@ -1,0 +1,280 @@
+{ 
+    
+    "loanDetails" : {
+        "totalPaidAmount" : 0, 
+        "preEmi" : 0, 
+        "tenure" : 12, 
+        "emi" : 2500, 
+        "emiCycle" : 7
+    }, 
+    "nachDetails" : {
+        "hasBorder" : "", 
+        "isFilledNachUploaded" : true, 
+        "relaunch" : "NA", 
+        "relaunchCount" : 0, 
+        "nachAgent" : "digio", 
+        "nachId" : "", 
+        "signStatus" : "", 
+        "sponsorBankStatus" : "", 
+        "umrn" : "", 
+        "registrationStatus" : "", 
+        "rejectedReason" : "", 
+        "autoRelaunch" : false, 
+        "isPnachUploaded" : false, 
+        "generatedNachCount" : 0, 
+        "picGeneratedNachCount" : 0
+    }, 
+    "enachDetails" : {
+        "relaunch" : "NA", 
+        "relaunchCount" : 0.0, 
+        "nachAgent" : "digio", 
+        "nachId" : "", 
+        "signStatus" : "", 
+        "umrn" : "", 
+        "registrationStatus" : "", 
+        "rejectedReason" : ""
+    }, 
+    "emandateDetails" : {
+        "relaunch" : "NA", 
+        "relaunchCount" : 0.0, 
+        "nachAgent" : "digio", 
+        "nachId" : "ENA210714130001258ZYWD2KKKIEEKAP", 
+        "signStatus" : "", 
+        "umrn" : "", 
+        "registrationStatus" : "", 
+        "rejectedReason" : "", 
+        "signAt" : "2021-07-14T07:30:01.547+0000", 
+        "updatedBy" : "rajalakshmi.r@byjus.com", 
+        "updatedAt" : "2021-07-14T07:30:01.547+0000", 
+        "nachStartDate" : "2021-09-07T00:00:00.000+0000", 
+        "source" : "payment", 
+        "sponsorBank" : "KOTAK MAHINDRA BANK LTD", 
+        "utilityCode" : "NACHTEST000000000", 
+        "corporateConfigId" : "TSE181102131550399FKSM6QXVAM58WC", 
+        "enachMandateUrl" : "https://ext.digio.in/#/gateway/login/ENA210714130001258ZYWD2KKKIEEKAP/94343775533199/6381656087", 
+        "enachMandateUrlGeneratedAt" : "2021-07-14T07:30:01.548+0000", 
+        "signedAmount" : 30000.0, 
+        "bankDetails" : {
+            "accountNumber" : "100701531274", 
+            "ifsc" : "ICIC0001007", 
+            "bankName" : "ICICI BANK LIMITED", 
+            "accountType" : "savings", 
+            "name" : "shruti"
+        }
+    }, 
+    "upiMandateDetails" : {
+        "relaunch" : "NA", 
+        "relaunchCount" : 0.0, 
+        "nachAgent" : "paytm", 
+        "nachId" : "", 
+        "signStatus" : "", 
+        "umrn" : "", 
+        "registrationStatus" : "", 
+        "rejectedReason" : ""
+    }, 
+    "foreclosure" : {
+        "principalOutstanding" : 0.0, 
+        "bounceCharges" : 0.0, 
+        "penalty" : 0.0, 
+        "excessAmount" : 0.0, 
+        "bpi" : 0.0, 
+        "perDayInterest" : 0.0, 
+        "perDayPenalInterest" : 0.0, 
+        "foreclosureCharges" : 0.0, 
+        "moratoriumCharges" : 0.0
+    }, 
+    "isPreEmiPaid" : false, 
+    "reOTPCount" : 0.0, 
+    "isActive" : true, 
+    "assignedTo" : [
+
+    ], 
+    "appId" : "9434377550009", 
+    "orgFormattedName" : "byjus", 
+    "status" : "sent_to_bank", 
+    "type" : "fullertonv3", 
+    "customerDetails" : {
+        "firstName" : "shruti", 
+        "lastName" : "A", 
+        "dateOfBirth" : "1993-03-07T12:00:00", 
+        "gender" : "FEMALE", 
+        "maritalStatus" : "MARRIED", 
+        "fatherName" : "Raja", 
+        "educationalQualification" : "ENGINEER"
+    }, 
+    "bankDetails" : {
+        "name" : "Shruti", 
+        "bankName" : "ICICI BANK LIMITED", 
+        "accountNo" : "100701531275", 
+        "accountType" : "savings", 
+        "ifsc" : "ICIC0001007"
+    }, 
+    "cibilRequestedAt" : "2021-07-14T07:28:05.540+0000", 
+    "cibilFirstEmiDate" : "2021-09-07T00:00:00.000+0000", 
+    "amount" : 30000.0, 
+    "appliedLoanAmount" : 30000.0, 
+    "leadId" : "6945781", 
+    "hubbleId" : "791021", 
+    "salesEmail" : "pooja.a@byjus.com", 
+    "campaign" : "Delhi", 
+    "location" : "", 
+    "approvedBy" : "rajalakshmi.r@byjus.com", 
+    "abb" : 10494327.0, 
+    "incomeSlab" : "35000", 
+    "companyName" : "ghhhhhhhhhhhhhhhhhhhh", 
+    "employment" : "SALARIED", 
+    "education" : "ENGINEER", 
+    "propertyType" : "OWNED", 
+    "pennyDropResponse" : {
+        "status" : true, 
+        "referenceId" : "hdJf7ltUZ", 
+        "providerName" : "paynimo", 
+        "receiverName" : "R RAJALAKSHMI", 
+        "fuzzyScore" : 85.0, 
+        "accountNumber" : "100701531274", 
+        "ifsc" : "ICIC0001007", 
+        "errorReason" : null
+    }, 
+    "contactDetails" : {
+        "addressLine1" : "no 1/291,mariyamman kovil", 
+        "addressLine2" : "", 
+        "city" : "tiruchirappalli", 
+        "state" : "TAMIL NADU", 
+        "pincode" : "621652", 
+        "mobileNo" : "6381656077", 
+        "email" : "rajalakshmi.r@gmail.com", 
+        "landMark" : "hggggggggggggggggg"
+    }, 
+    "identifierDetails" : {
+        "panNo" : "nhrew3214r", 
+        "aadharNo" : "#4/1, 2nd floor, Tower D IBC Knowledge"
+    }, 
+    "statusHistory" : [
+        {
+            "_id" : "60ee9df19aff4306dbbc87f4", 
+            "status" : "doc_approved", 
+            "updatedBy" : "rajalakshmi.r@byjus.com", 
+            "updatedAt" : "2021-07-14T08:18:57.350+0000"
+        }, 
+        {
+            "_id" : "60eeae70a096822faf0b9af0", 
+            "status" : "fin_ops_approved", 
+            "updatedBy" : "rajalakshmi.r@byjus.com", 
+            "updatedAt" :"2021-07-14T09:29:20.922+0000"
+        }, 
+        {
+            "_id" : "61403fbc7c85c0334c4ac148", 
+            "status" : "pic_approved", 
+            "updatedBy" : "ashwin.prasad@byjus.com", 
+            "updatedAt" : "2021-09-14T06:22:52.181+0000"
+        }, 
+        {
+            "_id" : "61403fe53734abb37831df9e", 
+            "status" : "sent_to_bank", 
+            "updatedBy" : "ashwin.prasad@byjus.com", 
+            "updatedAt" : "2021-09-14T06:23:29.803+0000"
+        }
+    ], 
+    "docVerifiedAt" : "2021-07-14T08:18:57.981+0000", 
+    "eligibleForEmandate" : "Yes", 
+    "agNachEmailedAt" : null, 
+    "eligibleForEnach" : "Yes", 
+    "kycDetails" : {
+        "initiatedAt" : "2021-07-14T07:30:25.566+0000", 
+        "type" : "osv"
+    }, 
+    "docDetails" : [
+        {
+            "_id" : "60ee92c9a23b3f0013b3bd46", 
+            "docType" : "poi", 
+            "name" : "1233 R", 
+            "number" : "5432", 
+            "type" : "aadhaar", 
+            "updatedBy" : "rajalakshmi.r@byjus.com", 
+            "updatedAt" : "2021-07-14T07:31:21.539+0000"
+        }, 
+        {
+            "_id" : "60ee92e1a23b3f0013b3bd49", 
+            "docType" : "poa", 
+            "name" : "", 
+            "number" : "6543", 
+            "type" : "aadhaar", 
+            "updatedBy" : "rajalakshmi.r@byjus.com", 
+            "updatedAt" : "2021-07-14T07:31:45.073+0000"
+        }, 
+        {
+            "_id" : "60ee938da23b3f0013b3bd57", 
+            "docType" : "poi", 
+            "name" : "Rajalakshmi R", 
+            "number" : "7654", 
+            "type" : "aadhaar", 
+            "updatedBy" : "rajalakshmi.r@byjus.com", 
+            "updatedAt" : "2021-07-14T07:34:37.904+0000"
+        }, 
+        {
+            "_id" : "60ee93aba23b3f0013b3bd5b", 
+            "docType" : "poa", 
+            "name" : "", 
+            "number" : "6543", 
+            "type" : "aadhaar", 
+            "updatedBy" : "rajalakshmi.r@byjus.com", 
+            "updatedAt" : "2021-07-14T07:35:07.141+0000"
+        }, 
+        {
+            "_id" : "60ee988fa23b3f0013b3bd99", 
+            "docType" : "poi", 
+            "name" : "Etrrt R", 
+            "number" : "3452", 
+            "type" : "aadhaar", 
+            "updatedBy" : "rajalakshmi.r@byjus.com", 
+            "updatedAt" : "2021-07-14T07:55:59.629+0000"
+        }, 
+        {
+            "_id" : "60ee98aaa23b3f0013b3bd9c", 
+            "docType" : "poa", 
+            "name" : "", 
+            "number" : "3456", 
+            "type" : "aadhaar", 
+            "updatedBy" : "rajalakshmi.r@byjus.com", 
+            "updatedAt" : "2021-07-14T07:56:26.171+0000"
+        }
+    ], 
+    "actionDetails" : {
+        "loanInitiatedBy" : "rajalakshmi.r@byjus.com", 
+        "loanInitiatedAt" : "2021-07-14T06:43:11.922Z", 
+        "docApprovedAt" : "2021-07-14T08:18:57.351+0000", 
+        "docApprovedBy" : "rajalakshmi.r@byjus.com", 
+        "finOpsApprovedAt" : "2021-07-14T09:29:20.923+0000", 
+        "finOpsApprovedBy" : "rajalakshmi.r@byjus.com", 
+        "picApprovedAt" : "2021-09-14T06:22:52.182+0000", 
+        "picApprovedBy" : "ashwin.prasad@byjus.com", 
+        "loanCreatedAt" : "2021-09-14T06:23:29.804+0000", 
+        "loanCreatedBy" : "ashwin.prasad@byjus.com"
+    }, 
+    "eligibleForUpiMandate" : "Yes", 
+    "orders" : [
+        {
+            "orderId" : "SO-2107151244060147", 
+            "orderStatus" : "confirmed", 
+            "orderType" : "SPLIT", 
+            "statusChangedAt" : "2021-07-15T12:57:45.065+0000", 
+            "orderCreatedAt" : "2021-07-15T11:52:10.634+0000", 
+            "orderUpdatedAt" : "2021-07-15T12:58:21.248+0000"
+        }
+    ], 
+    "manualPayments" : [
+
+    ], 
+    "emiSchedules" : [
+
+    ], 
+    "esign" : [
+
+    ], 
+    "createdAt" : "2021-07-14T08:18:57.999+0000", 
+    "updatedAt" : "2021-09-14T06:23:33.827+0000", 
+    "__v" : 0.0, 
+    "customerId" : "CX-2106161328238606", 
+    "createdBy" : "ashwin.prasad@byjus.com", 
+    "loanStartDate" : "2021-09-14T06:23:29.153+0000"
+}

@@ -1,0 +1,16 @@
+{
+    "txnid": "BYJUS0002101040336045508",
+    "firstname": "Shrinath M",
+    "phone": "9789172265",
+    "createdAt": "2021-01-04T03:36:09.399Z",
+    "updatedAt": "2021-01-04T03:36:09.399Z",
+    "amount": 111000,
+    "salesEmail": "nandhirajan.pandiaraj@byjus.com",
+    "createdBy": "nandhirajan.pandiaraj@byjus.com",
+    "paymentUrl": "https://secure.payu.in/processInvoice?invoiceId=1c68776f2b1c05c6d92503e6ed25b024",
+    "productinfo": "sku 2000",
+    "source": "data_load",
+    "campaign": null,
+    "location": "Bangalore",
+    "status": "success"
+}

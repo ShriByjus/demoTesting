@@ -1,0 +1,1181 @@
+[ {
+  "uid" : "1e440f8c21ff22b1",
+  "name" : "Verifying the order details and payment values from UI are equal to the values in Kart collection",
+  "time" : {
+    "start" : 1669884291528,
+    "stop" : 1669884302754,
+    "duration" : 11226
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "711d95c1a06ff179",
+  "name" : "Verify PID is generated",
+  "time" : {
+    "start" : 1669625306736,
+    "stop" : 1669625307794,
+    "duration" : 1058
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "48a244e13c03ed5f",
+  "name" : "Verify the sales skus and skus names",
+  "time" : {
+    "start" : 1669625313920,
+    "stop" : 1669625320113,
+    "duration" : 6193
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a00ebaa5b385de95",
+  "name" : "log in into oms",
+  "time" : {
+    "start" : 1670588528567,
+    "stop" : 1670588555391,
+    "duration" : 26824
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a5a68188d0ad27be",
+  "name" : "Verify raise priority option",
+  "time" : {
+    "start" : 1669884191249,
+    "stop" : 1669884217306,
+    "duration" : 26057
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d70dc82d35bbd868",
+  "name" : "Verify the sales skus and skus names",
+  "time" : {
+    "start" : 1671023664933,
+    "stop" : 1671023672912,
+    "duration" : 7979
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4aa16aab3d0162df",
+  "name" : "Verify the shipment skus and skus name",
+  "time" : {
+    "start" : 1670482656394,
+    "stop" : 1670482663610,
+    "duration" : 7216
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "25c917b490b978a2",
+  "name" : "log in into WMS",
+  "time" : {
+    "start" : 1667566352095,
+    "stop" : 1667566440897,
+    "duration" : 88802
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "edde3ac5a17f293e",
+  "name" : "Verify the sales skus and skus names",
+  "time" : {
+    "start" : 1671023848499,
+    "stop" : 1671023855660,
+    "duration" : 7161
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a8c5e690ebd842e5",
+  "name" : "Verify the shipment skus and skus name",
+  "time" : {
+    "start" : 1670588575213,
+    "stop" : 1670588582520,
+    "duration" : 7307
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5e0e2790ae026b46",
+  "name" : "btlp forward workflow",
+  "time" : {
+    "start" : 1669981018904,
+    "stop" : 1669981200539,
+    "duration" : 181635
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "38fbec54c6762521",
+  "name" : "Verify the sum of sku values should match the sub total amount",
+  "time" : {
+    "start" : 1669884217308,
+    "stop" : 1669884222379,
+    "duration" : 5071
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9cedd1d9807da75a",
+  "name" : "Verifying the order details and payment values from UI are equal to the values in Kart collection",
+  "time" : {
+    "start" : 1669625339903,
+    "stop" : 1669625349834,
+    "duration" : 9931
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "20edf205de2c39f0",
+  "name" : "log in into WMS",
+  "time" : {
+    "start" : 1669981306870,
+    "stop" : 1669981354964,
+    "duration" : 48094
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "983cd4662c31850a",
+  "name" : "Verify PID is generated",
+  "time" : {
+    "start" : 1670588574668,
+    "stop" : 1670588575213,
+    "duration" : 545
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "40be45cc17102e88",
+  "name" : "btlp reveres workflow",
+  "time" : {
+    "start" : 1669892963507,
+    "stop" : 1669892963512,
+    "duration" : 5
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "82bef5c8b398c43c",
+  "name" : "Verify raise priority option",
+  "time" : {
+    "start" : 1669883103835,
+    "stop" : 1669883125768,
+    "duration" : 21933
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8487ef412922c88f",
+  "name" : "Verify sales and customer details",
+  "time" : {
+    "start" : 1669625349834,
+    "stop" : 1669625354244,
+    "duration" : 4410
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ae2d7b8c6f03563b",
+  "name" : "Adding json to collections for generating the Order Id",
+  "time" : {
+    "start" : 1670588523105,
+    "stop" : 1670588528566,
+    "duration" : 5461
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9b2afd38d4f2d1c8",
+  "name" : "Adding json to collections for generating the Order Id",
+  "time" : {
+    "start" : 1670482619745,
+    "stop" : 1670482624793,
+    "duration" : 5048
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cfbdb9d86dd90b99",
+  "name" : "btlp reveres workflow",
+  "time" : {
+    "start" : 1669981200539,
+    "stop" : 1669981304811,
+    "duration" : 104272
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5859681696d75c09",
+  "name" : "Verifying the order details and payment values from UI are equal to the values in Kart collection",
+  "time" : {
+    "start" : 1669884488538,
+    "stop" : 1669884505084,
+    "duration" : 16546
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "88f0491498935904",
+  "name" : "Verifying the order details and payment values from UI are equal to the values in Kart collection",
+  "time" : {
+    "start" : 1669884165200,
+    "stop" : 1669884187718,
+    "duration" : 22518
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "15ce57cb94bf19f1",
+  "name" : "Verify sales and customer details",
+  "time" : {
+    "start" : 1670588619890,
+    "stop" : 1670588624513,
+    "duration" : 4623
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7786375c0b8de636",
+  "name" : "Verify raise priority option",
+  "time" : {
+    "start" : 1669884508496,
+    "stop" : 1669884515612,
+    "duration" : 7116
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "28ba631ede2bff13",
+  "name" : "Verify PID is generated",
+  "time" : {
+    "start" : 1669884455737,
+    "stop" : 1669884456808,
+    "duration" : 1071
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "88fcd576e77af23",
+  "name" : "Verify sales and customer details",
+  "time" : {
+    "start" : 1670482692138,
+    "stop" : 1670482696513,
+    "duration" : 4375
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4a8ac3c89f85974d",
+  "name" : "Verifying the order details and payment values from UI are equal to the values in Kart collection",
+  "time" : {
+    "start" : 1669883088367,
+    "stop" : 1669883100470,
+    "duration" : 12103
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b04fd1d235ec82cb",
+  "name" : "Verify the sales skus and skus names",
+  "time" : {
+    "start" : 1669884273113,
+    "stop" : 1669884277997,
+    "duration" : 4884
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "382903a5bfcd8d16",
+  "name" : "E2E flow for SD card",
+  "time" : {
+    "start" : 1668764780087,
+    "stop" : 0,
+    "duration" : -1668764780087
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+}, {
+  "uid" : "555ac6300b931516",
+  "name" : "Verify the sum of sku values should match the sub total amount",
+  "time" : {
+    "start" : 1669625373168,
+    "stop" : 1669625378233,
+    "duration" : 5065
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8181b72b601979b9",
+  "name" : "Adding json to collections for generating the Order Id",
+  "time" : {
+    "start" : 1671023801353,
+    "stop" : 1671023807422,
+    "duration" : 6069
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1bff642883f29ea7",
+  "name" : "Verify the shipment skus and skus name",
+  "time" : {
+    "start" : 1669883060149,
+    "stop" : 1669883064254,
+    "duration" : 4105
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d39e9ff05eb53c28",
+  "name" : "Verify the sales skus and skus names",
+  "time" : {
+    "start" : 1670482663610,
+    "stop" : 1670482671088,
+    "duration" : 7478
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "70ab77fba7e27334",
+  "name" : "Verifying the order details and payment values from UI are equal to the values in Kart collection",
+  "time" : {
+    "start" : 1671023685815,
+    "stop" : 1671023692269,
+    "duration" : 6454
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e54a38051dde0289",
+  "name" : "Adding json to collections for generating the Order Id",
+  "time" : {
+    "start" : 1670504809868,
+    "stop" : 1670504813417,
+    "duration" : 3549
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bc80332df1b3ef2a",
+  "name" : "log in into oms",
+  "time" : {
+    "start" : 1669884340692,
+    "stop" : 1669884429915,
+    "duration" : 89223
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5f2489ead7650c8b",
+  "name" : "Verify the sum of sku values should match the sub total amount",
+  "time" : {
+    "start" : 1669789623261,
+    "stop" : 1669789628342,
+    "duration" : 5081
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c0d7354d7147c498",
+  "name" : "Adding json to collections for generating the Order Id",
+  "time" : {
+    "start" : 1669883001425,
+    "stop" : 1669883005557,
+    "duration" : 4132
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "78fee044c10884d",
+  "name" : "Verifying changing the status to Confirmed and Verify the order status history",
+  "time" : {
+    "start" : 1669884145083,
+    "stop" : 1669884165200,
+    "duration" : 20117
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e62da4408794bde0",
+  "name" : "Adding json to collections for generating the Order Id",
+  "time" : {
+    "start" : 1669884069223,
+    "stop" : 1669884074111,
+    "duration" : 4888
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "907d7508e9b66f24",
+  "name" : "Verify the Shipemnt skus",
+  "time" : {
+    "start" : 1669285727446,
+    "stop" : 0,
+    "duration" : -1669285727446
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+}, {
+  "uid" : "9a0e803fbb40a52e",
+  "name" : "Adding json to collections for generating the Order Id",
+  "time" : {
+    "start" : 1669884224652,
+    "stop" : 1669884229364,
+    "duration" : 4712
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "907b287616bcd05d",
+  "name" : "Verifying the Sales order Id details",
+  "time" : {
+    "start" : 1670482650215,
+    "stop" : 1670482655849,
+    "duration" : 5634
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "56c71bd8d57df18",
+  "name" : "Verifying changing the status to Confirmed and Verify the order status history",
+  "time" : {
+    "start" : 1669884277997,
+    "stop" : 1669884291527,
+    "duration" : 13530
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "263d988a54187d0a",
+  "name" : "log in into oms",
+  "time" : {
+    "start" : 1669884229365,
+    "stop" : 1669884259010,
+    "duration" : 29645
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6d26297e98d57592",
+  "name" : "Adding json to collections for generating the Order Id",
+  "time" : {
+    "start" : 1669892955940,
+    "stop" : 1669892960673,
+    "duration" : 4733
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4656075f8a0e683b",
+  "name" : "Verifying changing the status to Confirmed and Verify the order status history",
+  "time" : {
+    "start" : 1669884467978,
+    "stop" : 1669884488537,
+    "duration" : 20559
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b547ec42d8225fa6",
+  "name" : "log in into oms",
+  "time" : {
+    "start" : 1670482624794,
+    "stop" : 1670482650214,
+    "duration" : 25420
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1132aa6802b83688",
+  "name" : "Verifying the Sales order Id details",
+  "time" : {
+    "start" : 1669884429916,
+    "stop" : 1669884455737,
+    "duration" : 25821
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ae00cad94a723991",
+  "name" : "Verify sales and customer details",
+  "time" : {
+    "start" : 1671023692269,
+    "stop" : 1671023698520,
+    "duration" : 6251
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a0e4ddfc8571c81f",
+  "name" : "Verify PID is generated",
+  "time" : {
+    "start" : 1670482655849,
+    "stop" : 1670482656393,
+    "duration" : 544
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e68df14bd91455bf",
+  "name" : "Verify sales and customer details",
+  "time" : {
+    "start" : 1669884505085,
+    "stop" : 1669884508496,
+    "duration" : 3411
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c064b59b289562c2",
+  "name" : "Verifying the Sales order Id details",
+  "time" : {
+    "start" : 1669884259011,
+    "stop" : 1669884267684,
+    "duration" : 8673
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "90b65a4ced4665c2",
+  "name" : "Verify PID is generated",
+  "time" : {
+    "start" : 1669883059606,
+    "stop" : 1669883060149,
+    "duration" : 543
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b6bd33b1f8f78219",
+  "name" : "Verify PID is generated",
+  "time" : {
+    "start" : 1669884267684,
+    "stop" : 1669884268248,
+    "duration" : 564
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d6039782e3b0a9c4",
+  "name" : "Verify raise priority option",
+  "time" : {
+    "start" : 1670482696513,
+    "stop" : 1670482719070,
+    "duration" : 22557
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c7cd9177f563d889",
+  "name" : "log in into oms",
+  "time" : {
+    "start" : 1671023807422,
+    "stop" : 1671023833558,
+    "duration" : 26136
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e6789e265cf12909",
+  "name" : "Verify the sales skus",
+  "time" : {
+    "start" : 1669203977386,
+    "stop" : 1669203980499,
+    "duration" : 3113
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "db5a2b635ab76c61",
+  "name" : "btlp reveres workflow",
+  "time" : {
+    "start" : 1667565568175,
+    "stop" : 1667565670720,
+    "duration" : 102545
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "68de849200757d9f",
+  "name" : "Verifying the Sales order Id details",
+  "time" : {
+    "start" : 1671023833559,
+    "stop" : 1671023839659,
+    "duration" : 6100
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e256163110ea9c83",
+  "name" : "log in into oms",
+  "time" : {
+    "start" : 1669883005558,
+    "stop" : 1669883034506,
+    "duration" : 28948
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4c02c517a4752522",
+  "name" : "log in into oms",
+  "time" : {
+    "start" : 1669625278516,
+    "stop" : 1669625302159,
+    "duration" : 23643
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "523dda2ad5eb6b3f",
+  "name" : "Verify sales and customer details",
+  "time" : {
+    "start" : 1669884187719,
+    "stop" : 1669884191248,
+    "duration" : 3529
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a0cdaf6eb7df082a",
+  "name" : "Adding json to collections for generating the Order Id",
+  "time" : {
+    "start" : 1667565380868,
+    "stop" : 1667565383944,
+    "duration" : 3076
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1ed01f1d511acdde",
+  "name" : "Verify the sales skus and skus names",
+  "time" : {
+    "start" : 1669884462543,
+    "stop" : 1669884467977,
+    "duration" : 5434
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8f537f8f91b59cda",
+  "name" : "Verify raise priority option",
+  "time" : {
+    "start" : 1669884306431,
+    "stop" : 1669884333947,
+    "duration" : 27516
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ab0fd56e1f24ef93",
+  "name" : "Verify raise priority option",
+  "time" : {
+    "start" : 1669625354244,
+    "stop" : 1669625373167,
+    "duration" : 18923
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a89acbd53ce3a1bb",
+  "name" : "btlp reveres workflow",
+  "time" : {
+    "start" : 1670504822479,
+    "stop" : 1670504822484,
+    "duration" : 5
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e3fac59d1bace239",
+  "name" : "Adding json to collections for generating the Order Id",
+  "time" : {
+    "start" : 1669981013248,
+    "stop" : 1669981018904,
+    "duration" : 5656
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ef8c9f00e1928b33",
+  "name" : "Verify the sales skus and skus names",
+  "time" : {
+    "start" : 1669883064254,
+    "stop" : 1669883068098,
+    "duration" : 3844
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "728f2ceeb5b806a7",
+  "name" : "Verify the shipment skus",
+  "time" : {
+    "start" : 1669203973751,
+    "stop" : 1669203977386,
+    "duration" : 3635
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9af08f14aea30e85",
+  "name" : "Verifying changing the status to Confirmed and Verify the order status history",
+  "time" : {
+    "start" : 1669883068099,
+    "stop" : 1669883088367,
+    "duration" : 20268
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d7856153213f7360",
+  "name" : "Verify sales and customer details",
+  "time" : {
+    "start" : 1671023871158,
+    "stop" : 1671023876992,
+    "duration" : 5834
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "37dad3b4e0442ccc",
+  "name" : "Verifying changing the status to Confirmed and Verify the order status history",
+  "time" : {
+    "start" : 1671023672912,
+    "stop" : 1671023685815,
+    "duration" : 12903
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ced5d084dd6634bc",
+  "name" : "Adding json to collections for generating the Order Id",
+  "time" : {
+    "start" : 1671023614384,
+    "stop" : 1671023620260,
+    "duration" : 5876
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "968ee6334baeb02",
+  "name" : "Verify the sales skus and skus names",
+  "time" : {
+    "start" : 1670588582520,
+    "stop" : 1670588589497,
+    "duration" : 6977
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5f7cb8cb61f5b8b8",
+  "name" : "Verify raise priority option",
+  "time" : {
+    "start" : 1671023876992,
+    "stop" : 1671023895403,
+    "duration" : 18411
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "794df7f667f705f8",
+  "name" : "Verifying changing the status to Confirmed and Verify the order status history",
+  "time" : {
+    "start" : 1670482671088,
+    "stop" : 1670482685487,
+    "duration" : 14399
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4862f7438fe8c2b3",
+  "name" : "E2E flow for SD card",
+  "time" : {
+    "start" : 1668764559015,
+    "stop" : 1668764559015,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "5a008274e4435daa",
+  "name" : "btlp forward workflow",
+  "time" : {
+    "start" : 1669642383932,
+    "stop" : 1669642385848,
+    "duration" : 1916
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "69a548f7999a72b9",
+  "name" : "Verify the shipment skus and skus name",
+  "time" : {
+    "start" : 1669884268249,
+    "stop" : 1669884273112,
+    "duration" : 4863
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1aec61bbd0995b76",
+  "name" : "Verify the Addon Items Skus",
+  "time" : {
+    "start" : 1669285710848,
+    "stop" : 1669285716172,
+    "duration" : 5324
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "bf67559546ffcdee",
+  "name" : "Verifying the Sales order Id details",
+  "time" : {
+    "start" : 1669884109698,
+    "stop" : 1669884133755,
+    "duration" : 24057
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ca80b14dcdd39258",
+  "name" : "Verifying the Sales order Id details",
+  "time" : {
+    "start" : 1671023649481,
+    "stop" : 1671023656892,
+    "duration" : 7411
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "db69c5e275bbfecb",
+  "name" : "Verify the shipment skus and skus name",
+  "time" : {
+    "start" : 1669884134807,
+    "stop" : 1669884140313,
+    "duration" : 5506
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2aef743b976bdd37",
+  "name" : "Verify the shipment skus and skus name",
+  "time" : {
+    "start" : 1669884456808,
+    "stop" : 1669884462542,
+    "duration" : 5734
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "19cf647a17884b32",
+  "name" : "log in into oms",
+  "time" : {
+    "start" : 1669884074112,
+    "stop" : 1669884109697,
+    "duration" : 35585
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "49f3f9ac3ec3c960",
+  "name" : "btlp forward workflow",
+  "time" : {
+    "start" : 1669892960674,
+    "stop" : 1669892963506,
+    "duration" : 2832
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "76f01980ae7a30ae",
+  "name" : "btlp forward workflow",
+  "time" : {
+    "start" : 1667565383945,
+    "stop" : 1667565568172,
+    "duration" : 184227
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ff70fb7b0de2e226",
+  "name" : "Verifying changing the status to Confirmed and Verify the order status history",
+  "time" : {
+    "start" : 1670588589497,
+    "stop" : 1670588613280,
+    "duration" : 23783
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "457fbb5d038a7663",
+  "name" : "Verify sales and customer details",
+  "time" : {
+    "start" : 1669883100471,
+    "stop" : 1669883103835,
+    "duration" : 3364
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9d768a150b87800c",
+  "name" : "Verify the sales skus and skus names",
+  "time" : {
+    "start" : 1669884140314,
+    "stop" : 1669884145082,
+    "duration" : 4768
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1f3e3be1ed6aeb58",
+  "name" : "Verify PID is generated",
+  "time" : {
+    "start" : 1671023839659,
+    "stop" : 1671023840216,
+    "duration" : 557
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "71866bb54e8c4b87",
+  "name" : "Verifying changing the status to Confirmed and Verify the order status history",
+  "time" : {
+    "start" : 1671023855660,
+    "stop" : 1671023862688,
+    "duration" : 7028
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3e48f5441ad4cd23",
+  "name" : "Verifying add-on line items",
+  "time" : {
+    "start" : 1669121574172,
+    "stop" : 1669121584015,
+    "duration" : 9843
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cf1894c591489a00",
+  "name" : "btlp forward workflow",
+  "time" : {
+    "start" : 1670504813417,
+    "stop" : 1670504822477,
+    "duration" : 9060
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c0d2b5f4d7fa9548",
+  "name" : "Verify sales and customer details",
+  "time" : {
+    "start" : 1669884302755,
+    "stop" : 1669884306431,
+    "duration" : 3676
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6a2ed30fec9eab24",
+  "name" : "Verify the add on line items",
+  "time" : {
+    "start" : 1669211321187,
+    "stop" : 1669211321187,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f84e2e79d621e17a",
+  "name" : "Verifying the Sales order Id details",
+  "time" : {
+    "start" : 1669883034506,
+    "stop" : 1669883059606,
+    "duration" : 25100
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7b5a09800fee65d1",
+  "name" : "Adding json to collections for generating the Order Id",
+  "time" : {
+    "start" : 1669625273853,
+    "stop" : 1669625278515,
+    "duration" : 4662
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "edc97ec739f42d53",
+  "name" : "Verifying the Sales order Id details",
+  "time" : {
+    "start" : 1670588555391,
+    "stop" : 1670588574668,
+    "duration" : 19277
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "de647167ea1e325a",
+  "name" : "Verifying the order details and payment values from UI are equal to the values in Kart collection",
+  "time" : {
+    "start" : 1671023862688,
+    "stop" : 1671023871158,
+    "duration" : 8470
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4e4b9fae4ff73348",
+  "name" : "Verifying the order details and payment values from UI are equal to the values in Kart collection",
+  "time" : {
+    "start" : 1670482685487,
+    "stop" : 1670482692138,
+    "duration" : 6651
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7dd64525ad81e182",
+  "name" : "Verify the shipment skus and skus name",
+  "time" : {
+    "start" : 1671023840216,
+    "stop" : 1671023848499,
+    "duration" : 8283
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "989c5faa25faa886",
+  "name" : "Verify raise priority option",
+  "time" : {
+    "start" : 1670588624513,
+    "stop" : 1670588643520,
+    "duration" : 19007
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "44740bd3a6218877",
+  "name" : "Verifying changing the status to Confirmed and Verify the order status history",
+  "time" : {
+    "start" : 1669625320113,
+    "stop" : 1669625339902,
+    "duration" : 19789
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5e9e19ce7328926",
+  "name" : "Adding json to collections for generating the Order Id",
+  "time" : {
+    "start" : 1669642380674,
+    "stop" : 1669642383931,
+    "duration" : 3257
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9e0cfb149b09ce5a",
+  "name" : "Verify the shipment skus and skus name",
+  "time" : {
+    "start" : 1671023656892,
+    "stop" : 1671023664933,
+    "duration" : 8041
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7c4c107a46e4a3e5",
+  "name" : "Adding json to collections for generating the Order Id",
+  "time" : {
+    "start" : 1669884336170,
+    "stop" : 1669884340691,
+    "duration" : 4521
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3e934fed526e4f28",
+  "name" : "Verifying the Sales order Id details",
+  "time" : {
+    "start" : 1669625302160,
+    "stop" : 1669625306736,
+    "duration" : 4576
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c52072b78b7b9efb",
+  "name" : "log in into oms",
+  "time" : {
+    "start" : 1671023620261,
+    "stop" : 1671023649480,
+    "duration" : 29219
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6c730a387289d5e4",
+  "name" : "",
+  "time" : {
+    "start" : 1668764559015,
+    "stop" : 1668764559015,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "96ed762f9d532a53",
+  "name" : "Verifying the order details and payment values from UI are equal to the values in Kart collection",
+  "time" : {
+    "start" : 1670588613280,
+    "stop" : 1670588619890,
+    "duration" : 6610
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8a269bd53cbb2871",
+  "name" : "Verify PID is generated",
+  "time" : {
+    "start" : 1669884133756,
+    "stop" : 1669884134807,
+    "duration" : 1051
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7cc77ffa07535367",
+  "name" : "Verify raise priority option",
+  "time" : {
+    "start" : 1671023698520,
+    "stop" : 1671023716901,
+    "duration" : 18381
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f290609c115804bb",
+  "name" : "Verify the shipment skus and skus name",
+  "time" : {
+    "start" : 1669625307794,
+    "stop" : 1669625313920,
+    "duration" : 6126
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e21ade09b7de35aa",
+  "name" : "btlp reveres workflow",
+  "time" : {
+    "start" : 1669642385848,
+    "stop" : 1669642385853,
+    "duration" : 5
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

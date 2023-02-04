@@ -1,0 +1,1331 @@
+
+{
+    "salesSubOrderId": "SSO1-2212021238260728",
+    "salesOrderId": "SO-2212021238260728",
+    "orgFormattedName": "byjus",
+    "orgId": "ORG-1",
+    "currency": "INR",
+    "orderType": "SPLIT_PARENT",
+    "courseType": "K10",
+    "lineItems": [
+      {
+        "id": 4805,
+        "skuId": "SD06CB23",
+        "imageUrl": null,
+        "skuName": "6th CBSE (SD Card-Byjus) May-2023",
+        "status": "active",
+        "orgId": "ORG-1",
+        "basePrice": 22000,
+        "continuousPrice": 17000,
+        "hsnCode": "852351",
+        "programId": "BTLAKXAS0001",
+        "type": "product",
+        "subType": "sd_card",
+        "category": "btlp",
+        "package": null,
+        "course": "K10",
+        "subCourse": null,
+        "grade": "6",
+        "subject": null,
+        "board": "CBSE",
+        "language": null,
+        "validityType": "year",
+        "validity": "2023",
+        "validityMonth": "MAY",
+        "brand": null,
+        "size": null,
+        "model": null,
+        "scheme": null,
+        "skuSet": 1,
+        "cohortId": 22,
+        "ohProductId": "1147403",
+        "productState": null,
+        "isValidSku": true,
+        "remarks": null,
+        "validatedAt": "2021-11-09T14:28:42.625Z",
+        "financeCode": "SD06CB",
+        "sprId": null,
+        "orgFormattedName": "byjus",
+        "createdBy": "ayushi.bansal@byjus.com",
+        "createdAt": "2021-11-09T14:28:42.625Z",
+        "deletedAt": null,
+        "continousPrice": 17000,
+        "skuSource": "SalesSkuMaster",
+        "itemType": "sd_card",
+        "itemId": "TljRp865-ft7x2ehN2Nr8SlW",
+        "studentId": "Shubham singh-1",
+        "tabletId": "T-866186-Shubham singh",
+        "pgItemId": 1534508,
+        "name": "6th CBSE (SD Card-Byjus) May-2023",
+        "sku": "6th CBSE (SD Card-Byjus) May-2023",
+        "salesSubOrderId": "SSO1-2212021238260728",
+        "itemStatus": "mapping_pending",
+        "invoicePrice": "17500.00"
+      },
+      {
+        "id": 3348,
+        "skuId": "TL7MZZ",
+        "imageUrl": null,
+        "skuName": "LENOVO CALLING ADD-ON (BYJUS)",
+        "status": "active",
+        "orgId": "ORG-1",
+        "basePrice": 8000,
+        "continuousPrice": 8000,
+        "hsnCode": "847130",
+        "programId": "TLP1UCHW0001",
+        "type": "product",
+        "subType": "tablet",
+        "category": "tablet",
+        "package": null,
+        "course": "",
+        "subCourse": null,
+        "grade": null,
+        "subject": null,
+        "board": null,
+        "language": null,
+        "validityType": "N/A",
+        "validity": null,
+        "validityMonth": null,
+        "brand": "lenovo",
+        "size": null,
+        "model": null,
+        "scheme": null,
+        "skuSet": 1,
+        "cohortId": null,
+        "ohProductId": "866186",
+        "productState": "new",
+        "isValidSku": true,
+        "remarks": null,
+        "validatedAt": "2021-11-09T14:34:10.001Z",
+        "financeCode": "TL7MZZ",
+        "sprId": null,
+        "orgFormattedName": "byjus",
+        "createdBy": "ayushi.bansal@byjus.com",
+        "createdAt": "2021-11-09T14:34:10.001Z",
+        "deletedAt": null,
+        "price": 8000,
+        "itemType": "tablet",
+        "skuSource": "SalesSkuMaster",
+        "itemId": "UkNPzlKxpDjpS2fIKZpA_umZ",
+        "studentId": "Shubham singh-1",
+        "tabletId": "T-866186-Shubham singh",
+        "pgItemId": 1534509,
+        "name": "LENOVO CALLING ADD-ON (BYJUS)",
+        "sku": "LENOVO CALLING ADD-ON (BYJUS)",
+        "salesSubOrderId": "SSO1-2212021238260728",
+        "itemStatus": "mapping_pending",
+        "invoicePrice": "8000.00",
+        "pgLineItemId": 1534511
+      }
+    ],
+    "shipmentLineItems": [
+      {
+        "skuId": "TL7MZZKX",
+        "skuName": "K12 Lenovo 7 inch Tablet Mobile Data",
+        "status": "active",
+        "type": "tablet",
+        "properties": {
+          "grade": null,
+          "course": null,
+          "board": null,
+          "color": null,
+          "brand": "Lenovo",
+          "manufacturer": "Lenovo",
+          "warehouse": [],
+          "sdCardMemory": null,
+          "appVersion": null,
+          "sdCardVersion": null,
+          "apkRelease": {
+            "date": {
+              "numberLong": "1642564123606"
+            }
+          },
+          "contentRelease": {
+            "date": {
+              "numberLong": "1642564123606"
+            }
+          },
+          "location": null,
+          "comboDetails": [],
+          "userType": null,
+          "programId": "TLP1UCAS0001",
+          "size": null,
+          "model": null,
+          "skuSet": null,
+          "subject": null,
+          "language": null,
+          "scheme": null
+        },
+        "dimensions": {
+          "length": null,
+          "width": null,
+          "height": null,
+          "unit": null
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "productionStrategy": null,
+        "financeMaterialCode": "TL7MZZKX",
+        "financeProductCode": "TL7M",
+        "createdBy": "dinesh.m@byjus.com",
+        "updatedBy": "system",
+        "createdAt": {
+          "date": {
+            "numberLong": "1596273625257"
+          }
+        },
+        "updatedAt": {
+          "date": {
+            "numberLong": "1660833194737"
+          }
+        },
+        "deletedAt": null,
+        "productState": "new",
+        "activeSalesItems": [
+          "TL7MZZ"
+        ],
+        "activeLineItemIds": [
+          "UkNPzlKxpDjpS2fIKZpA_umZ"
+        ],
+        "price": 8000,
+        "studentId": "Shubham singh-1",
+        "students": [
+          "Shubham singh-1"
+        ],
+        "tabletId": "T-866186-Shubham singh",
+        "itemStatus": "mapping_pending",
+        "pgShipmentLineItemId": 16876052
+      },
+      {
+        "properties": {
+          "part": 1,
+          "warehouse": [
+            "IBC"
+          ],
+          "combinations": [
+            "05-06"
+          ],
+          "board": "CBSE",
+          "grade": "05-06",
+          "appVersion": "NA",
+          "sdCardVersion": "",
+          "sdCardMemory": 16,
+          "location": "",
+          "noOfGrade": "",
+          "apkRelease": {
+            "date": {
+              "numberLong": "1652095977184"
+            }
+          },
+          "contentRelease": {
+            "date": {
+              "numberLong": "1652095977184"
+            }
+          },
+          "inventoryRelease": {
+            "date": {
+              "numberLong": "1652095977184"
+            }
+          },
+          "comboDetails": [
+            {
+              "_id": {
+                "oid": "61c07a3b0bbd1abb09edaf49"
+              },
+              "initialClass": 5,
+              "finalClass": 6,
+              "updatedBy": "divya.g@byjus.com"
+            }
+          ],
+          "programId": "UBEPTPSY0001",
+          "scheme": "paper_cut"
+        },
+        "skuId": "S4JM0506",
+        "skuName": "SD Card",
+        "type": "sd_card",
+        "productState": null,
+        "activeGrades": [
+          6
+        ],
+        "activeSalesItems": [
+          "SD06CB23",
+          "UB06CB23"
+        ],
+        "activeLineItemIds": [
+          "TljRp865-ft7x2ehN2Nr8SlW",
+          "Bt6zBpn45WvvS9mJhRwQqYih"
+        ],
+        "studentId": "Shubham singh-1",
+        "tabletId": "T-866186-Shubham singh",
+        "itemStatus": "mapping_pending",
+        "pgShipmentLineItemId": 16876053
+      }
+    ],
+    "returnLineItems": [],
+    "salesDetails": {
+      "typeOfSales": "DS Sales",
+      "directSalesBy": "sanjay.karkera@byjus.com",
+      "directSalesByCampaign": "Livechat Calling",
+      "salesAppointmentBy": null,
+      "salesAppointmentByCampaign": "Hyderabad",
+      "incentiveDate": {
+        "date": {
+          "numberLong": "1670217009209"
+        }
+      },
+      "salesAppointmentByRole": null,
+      "directSalesByDept": "business_development",
+      "salesAppointmentByDept": "",
+      "salesIndex": 175
+    },
+    "customerDetails": {
+      "customerId": "CX-2210280625062228",
+      "name": "sanjay",
+      "identifierDetails": [],
+      "alternateName": "Shubham singh",
+      "mobileNo": "+91-8736576846",
+      "alternateMobileNo": "+91-8736576846",
+      "email": "sd56uysfgdf@gmail.com",
+      "alternateEmail": null,
+      "type": "individual",
+      "communicationPreferences": {},
+      "isBooksOpted": true,
+      "billingCustomerId": null
+    },
+    "billingCustomerDetails": null,
+    "addressDetails": {
+      "billing": {
+        "zipcode": "600001",
+        "addressLine1": "Akshya Nagar 1st Block 1st Cro",
+        "country": "India",
+        "state": "Tamil Nadu",
+        "city": "Chennai",
+        "addressLine2": "Akshya Nagar 1st Block 1st Cro,",
+        "addressLine3": "Govt Stanley Hospital S.O",
+        "address": "Akshya Nagar 1st Block 1st Cro\n Akshya Nagar 1st Block 1st Cro\n Govt Stanley Hospital S.O",
+        "addressId": "496870"
+      },
+      "shipping": {
+        "zipcode": "600001",
+        "addressLine1": "Akshya Nagar 1st Block 1st Cro",
+        "country": "India",
+        "state": "Tamil Nadu",
+        "city": "Chennai",
+        "addressLine2": "Akshya Nagar 1st Block 1st Cro,",
+        "addressLine3": "Govt Stanley Hospital S.O",
+        "address": "Akshya Nagar 1st Block 1st Cro\n Akshya Nagar 1st Block 1st Cro\n Govt Stanley Hospital S.O",
+        "addressId": "496871"
+      }
+    },
+    "attachments": [
+      {
+        "_id": {
+          "oid": "638d7d27625ffb002295d57f"
+        },
+        "name": "cheque",
+        "url": "https://orderhive-payments.s3.ap-southeast-1.amazonaws.com/development/6389f1b4d4a146001ba3caf8/cheque/cheque-20221205_10393830.png"
+      }
+    ],
+    "studentDetails": [
+      {
+        "studentProfileDetails": {
+          "isExistingProfile": false,
+          "existingPremiumId": "",
+          "existingFamilyId": ""
+        },
+        "hlpDetails": {
+          "courseDetails": [
+            {
+              "id": 14418,
+              "name": "batchtest1004",
+              "is_active": true,
+              "time_zone": "IST",
+              "batch_country": "India",
+              "batch_start_date": "2022-10-07",
+              "batch_end_date": "2023-11-16",
+              "mandatory_sessions_count": 3,
+              "optional_sessions_count": 0,
+              "course_id": 5603,
+              "course_name": "video solutions",
+              "course_fot_track_id": "cbse-6-1034-1067-lar",
+              "course_proficiency_id": 1,
+              "medium_of_instruction": "english",
+              "course_batch": null,
+              "cohort_id": 22,
+              "course_type": "neo",
+              "course_tag": "classroom",
+              "slot_group_id": 5369,
+              "tutor_language_enabled": true,
+              "slot_group_name": "Mo-We-Fr-3:30pm",
+              "batch_type": "regular",
+              "available_subjects": [
+                "Mathematics",
+                "Science"
+              ],
+              "course_sub_tag": "Regular",
+              "clash": false,
+              "is_overloading": false,
+              "is_clashing": false,
+              "slots": [
+                {
+                  "id": 27614,
+                  "day": "Monday",
+                  "start_time": "15:30",
+                  "end_time": "16:30",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 27615,
+                  "day": "Wednesday",
+                  "start_time": "15:30",
+                  "end_time": "16:30",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 27616,
+                  "day": "Friday",
+                  "start_time": "15:30",
+                  "end_time": "16:30",
+                  "is_mandatory": true
+                }
+              ]
+            }
+          ],
+          "sessionDetails": [
+            {
+              "sessions": [
+                {
+                  "day": "Monday",
+                  "is_mandatory": true,
+                  "time": "15:30-16:30"
+                },
+                {
+                  "day": "Wednesday",
+                  "is_mandatory": true,
+                  "time": "15:30-16:30"
+                },
+                {
+                  "day": "Friday",
+                  "is_mandatory": true,
+                  "time": "15:30-16:30"
+                }
+              ],
+              "_id": {
+                "oid": "638d7cd9cbfba3002124d786"
+              },
+              "type": "neo"
+            }
+          ],
+          "initialClass": "6",
+          "initialValidity": "2023",
+          "batchCode": "Hlp_07-12-2022"
+        },
+        "courseType": [
+          "K10"
+        ],
+        "electiveDetails": [
+          {
+            "batch": {
+              "id": 14929,
+              "name": "Slot 1.0.0.0.0",
+              "is_active": true,
+              "time_zone": "IST",
+              "batch_country": "India",
+              "batch_start_date": "2022-10-31",
+              "batch_end_date": "2023-03-15",
+              "mandatory_sessions_count": 1,
+              "optional_sessions_count": 0,
+              "course_id": 4333,
+              "course_name": "6th_Electibes_Future_BSD",
+              "course_fot_track_id": null,
+              "course_proficiency_id": null,
+              "medium_of_instruction": "english",
+              "course_batch": null,
+              "cohort_id": 22,
+              "course_type": "neo",
+              "course_tag": "elective",
+              "slot_group_id": 6273,
+              "tutor_language_enabled": true,
+              "slot_group_name": "Sat-4:30PM",
+              "batch_type": "regular",
+              "available_subjects": [
+                "English"
+              ],
+              "course_sub_tag": "Regular",
+              "clash": false,
+              "is_overloading": false,
+              "is_clashing": false,
+              "slots": [
+                {
+                  "id": 30129,
+                  "day": "Saturday",
+                  "start_time": "16:30",
+                  "end_time": "17:30",
+                  "is_mandatory": true
+                }
+              ]
+            },
+            "subject": "English",
+            "slot": [
+              {
+                "id": 30129,
+                "day": "Saturday",
+                "start_time": "16:30",
+                "end_time": "17:30",
+                "is_mandatory": true
+              }
+            ]
+          },
+          {
+            "batch": {
+              "id": 14926,
+              "name": "2..0.0.0",
+              "is_active": true,
+              "time_zone": "IST",
+              "batch_country": "India",
+              "batch_start_date": "2022-11-01",
+              "batch_end_date": "2023-10-19",
+              "mandatory_sessions_count": 1,
+              "optional_sessions_count": 0,
+              "course_id": 4333,
+              "course_name": "6th_Electibes_Future_BSD",
+              "course_fot_track_id": null,
+              "course_proficiency_id": null,
+              "medium_of_instruction": "english",
+              "course_batch": null,
+              "cohort_id": 22,
+              "course_type": "neo",
+              "course_tag": "elective",
+              "slot_group_id": 6288,
+              "tutor_language_enabled": true,
+              "slot_group_name": "Tue-9:00PM",
+              "batch_type": "regular",
+              "available_subjects": [
+                "Social Studies"
+              ],
+              "course_sub_tag": "Regular",
+              "clash": false,
+              "is_overloading": false,
+              "is_clashing": false,
+              "slots": [
+                {
+                  "id": 30144,
+                  "day": "Tuesday",
+                  "start_time": "21:00",
+                  "end_time": "22:00",
+                  "is_mandatory": true
+                }
+              ]
+            },
+            "subject": "Social Studies",
+            "slot": [
+              {
+                "id": 30144,
+                "day": "Tuesday",
+                "start_time": "21:00",
+                "end_time": "22:00",
+                "is_mandatory": true
+              }
+            ]
+          },
+          {
+            "batch": {
+              "id": 14930,
+              "name": "mon eng.0.0",
+              "is_active": true,
+              "time_zone": "IST",
+              "batch_country": "India",
+              "batch_start_date": "2022-10-31",
+              "batch_end_date": "2023-03-15",
+              "mandatory_sessions_count": 1,
+              "optional_sessions_count": 0,
+              "course_id": 4333,
+              "course_name": "6th_Electibes_Future_BSD",
+              "course_fot_track_id": null,
+              "course_proficiency_id": null,
+              "medium_of_instruction": "english",
+              "course_batch": null,
+              "cohort_id": 22,
+              "course_type": "neo",
+              "course_tag": "elective",
+              "slot_group_id": 6275,
+              "tutor_language_enabled": true,
+              "slot_group_name": "Mon-4:30PM",
+              "batch_type": "regular",
+              "available_subjects": [
+                "Coding"
+              ],
+              "course_sub_tag": "Regular",
+              "clash": false,
+              "is_overloading": false,
+              "is_clashing": false,
+              "slots": [
+                {
+                  "id": 30131,
+                  "day": "Monday",
+                  "start_time": "16:30",
+                  "end_time": "17:30",
+                  "is_mandatory": true
+                }
+              ]
+            },
+            "subject": "Coding",
+            "slot": [
+              {
+                "id": 30131,
+                "day": "Monday",
+                "start_time": "16:30",
+                "end_time": "17:30",
+                "is_mandatory": true
+              }
+            ]
+          }
+        ],
+        "doubtClassDetails": [
+          {
+            "batch": {
+              "id": 14931,
+              "name": "monday batch doubt.0.0.0",
+              "is_active": true,
+              "time_zone": "IST",
+              "batch_country": "India",
+              "batch_start_date": "2022-10-31",
+              "batch_end_date": "2023-05-12",
+              "mandatory_sessions_count": 1,
+              "optional_sessions_count": 0,
+              "course_id": 5021,
+              "course_name": "DoubtresolutionA3",
+              "course_fot_track_id": null,
+              "course_proficiency_id": 2,
+              "medium_of_instruction": "english",
+              "course_batch": null,
+              "cohort_id": 22,
+              "course_type": "neo",
+              "course_tag": "doubt_resolution",
+              "slot_group_id": 7017,
+              "tutor_language_enabled": true,
+              "slot_group_name": "Mo-7:00pm",
+              "batch_type": "regular",
+              "available_subjects": [
+                "Science",
+                "Mathematics"
+              ],
+              "course_sub_tag": "Regular",
+              "clash": false,
+              "is_overloading": false,
+              "is_clashing": false,
+              "slots": [
+                {
+                  "id": 32700,
+                  "day": "Monday",
+                  "start_time": "19:00",
+                  "end_time": "20:00",
+                  "is_mandatory": true
+                }
+              ]
+            },
+            "subject": "Science",
+            "slot": [
+              {
+                "id": 32700,
+                "day": "Monday",
+                "start_time": "19:00",
+                "end_time": "20:00",
+                "is_mandatory": true
+              }
+            ]
+          }
+        ],
+        "workshops": [],
+        "items": [
+          {
+            "id": 4805,
+            "skuId": "SD06CB23",
+            "imageUrl": null,
+            "skuName": "6th CBSE (SD Card-Byjus) May-2023",
+            "status": "active",
+            "orgId": "ORG-1",
+            "city": null,
+            "basePrice": 22000,
+            "continuousPrice": 17000,
+            "hsnCode": "852351",
+            "programId": "BTLAKXAS0001",
+            "type": "product",
+            "subType": "sd_card",
+            "category": "btlp",
+            "package": null,
+            "course": "K10",
+            "subCourse": null,
+            "grade": "6",
+            "subject": null,
+            "board": "CBSE",
+            "language": null,
+            "validityType": "year",
+            "validity": "2023",
+            "validityMonth": "MAY",
+            "brand": null,
+            "size": null,
+            "model": null,
+            "scheme": null,
+            "skuSet": 1,
+            "cohortId": 22,
+            "ohProductId": "1147403",
+            "productState": null,
+            "isValidSku": true,
+            "remarks": null,
+            "validatedAt": "2021-11-09T14:28:42.625Z",
+            "financeCode": "SD06CB",
+            "sprId": null,
+            "orgFormattedName": "byjus",
+            "createdBy": "ayushi.bansal@byjus.com",
+            "updatedBy": "price_update_datafix",
+            "createdAt": "2021-11-09T14:28:42.625Z",
+            "updatedAt": "2022-09-23T10:32:38.848Z",
+            "deletedAt": null,
+            "continousPrice": 17000,
+            "skuSource": "SalesSkuMaster",
+            "itemType": "course",
+            "combinationType": "tlp",
+            "itemId": "TljRp865-ft7x2ehN2Nr8SlW",
+            "studentId": "Shubham singh-1",
+            "tabletId": "T-866186-Shubham singh",
+            "name": "6th CBSE (SD Card-Byjus) May-2023",
+            "sku": "6th CBSE (SD Card-Byjus) May-2023"
+          },
+          {
+            "id": 1473,
+            "skuId": "UB06CB23",
+            "imageUrl": null,
+            "skuName": "6th Grade CBSE BYJU'S Classes May 2023",
+            "status": "active",
+            "orgId": "ORG-1",
+            "city": null,
+            "basePrice": 13000,
+            "continuousPrice": 13000,
+            "hsnCode": "999293",
+            "programId": "BCOPKXSY0002",
+            "type": "service",
+            "subType": "live",
+            "category": "byjus_classes_upgrade",
+            "package": null,
+            "course": "K10",
+            "subCourse": null,
+            "grade": "6",
+            "subject": null,
+            "board": "CBSE",
+            "language": null,
+            "validityType": "year",
+            "validity": "2023",
+            "validityMonth": "MAY",
+            "brand": null,
+            "size": null,
+            "model": null,
+            "scheme": null,
+            "skuSet": 1,
+            "cohortId": 22,
+            "ohProductId": "1817101",
+            "productState": null,
+            "isValidSku": true,
+            "remarks": null,
+            "validatedAt": "2021-11-09T14:37:58.057Z",
+            "financeCode": "UB06CB",
+            "sprId": null,
+            "orgFormattedName": "byjus",
+            "createdBy": "ayushi.bansal@byjus.com",
+            "updatedBy": "price_update_datafix",
+            "createdAt": "2021-11-09T14:37:58.057Z",
+            "updatedAt": "2022-06-09T05:05:37.058Z",
+            "deletedAt": null,
+            "continousPrice": 13000,
+            "skuSource": "SalesSkuMaster",
+            "itemType": "course",
+            "combinationType": "byjus_classes_upgrade",
+            "itemId": "Bt6zBpn45WvvS9mJhRwQqYih",
+            "studentId": "Shubham singh-1",
+            "tabletId": "T-866186-Shubham singh",
+            "name": "6th Grade CBSE BYJU'S Classes May 2023",
+            "sku": "6th Grade CBSE BYJU'S Classes May 2023"
+          },
+          {
+            "id": 3348,
+            "skuId": "TL7MZZ",
+            "imageUrl": null,
+            "skuName": "LENOVO CALLING ADD-ON (BYJUS)",
+            "status": "active",
+            "orgId": "ORG-1",
+            "city": null,
+            "basePrice": 8000,
+            "continuousPrice": 8000,
+            "hsnCode": "847130",
+            "programId": "TLP1UCHW0001",
+            "type": "product",
+            "subType": "tablet",
+            "category": "tablet",
+            "package": null,
+            "course": "",
+            "subCourse": null,
+            "grade": null,
+            "subject": null,
+            "board": null,
+            "language": null,
+            "validityType": "N/A",
+            "validity": null,
+            "validityMonth": null,
+            "brand": "lenovo",
+            "size": null,
+            "model": null,
+            "scheme": null,
+            "skuSet": 1,
+            "cohortId": null,
+            "ohProductId": "866186",
+            "productState": "new",
+            "isValidSku": true,
+            "remarks": null,
+            "validatedAt": "2021-11-09T14:34:10.001Z",
+            "financeCode": "TL7MZZ",
+            "sprId": null,
+            "orgFormattedName": "byjus",
+            "createdBy": "ayushi.bansal@byjus.com",
+            "updatedBy": "productState-update",
+            "createdAt": "2021-11-09T14:34:10.001Z",
+            "updatedAt": "2022-07-12T13:45:49.619Z",
+            "deletedAt": null,
+            "price": 8000,
+            "itemType": "tablet",
+            "skuSource": "SalesSkuMaster",
+            "itemId": "UkNPzlKxpDjpS2fIKZpA_umZ",
+            "studentId": "Shubham singh-1",
+            "tabletId": "T-866186-Shubham singh",
+            "name": "LENOVO CALLING ADD-ON (BYJUS)",
+            "sku": "LENOVO CALLING ADD-ON (BYJUS)"
+          }
+        ],
+        "addOnItems": [],
+        "mentoringDetails": [
+          {
+            "type": "neo",
+            "sessions": [
+              {
+                "day": "Monday",
+                "is_mandatory": true,
+                "time": "15:30-16:30"
+              },
+              {
+                "day": "Wednesday",
+                "is_mandatory": true,
+                "time": "15:30-16:30"
+              },
+              {
+                "day": "Friday",
+                "is_mandatory": true,
+                "time": "15:30-16:30"
+              }
+            ]
+          }
+        ],
+        "bhlpCourseDetails": [
+          {
+            "id": 14418,
+            "name": "batchtest1004",
+            "is_active": true,
+            "time_zone": "IST",
+            "batch_country": "India",
+            "batch_start_date": "2022-10-07",
+            "batch_end_date": "2023-11-16",
+            "mandatory_sessions_count": 3,
+            "optional_sessions_count": 0,
+            "course_id": 5603,
+            "course_name": "video solutions",
+            "course_fot_track_id": "cbse-6-1034-1067-lar",
+            "course_proficiency_id": 1,
+            "medium_of_instruction": "english",
+            "course_batch": null,
+            "cohort_id": 22,
+            "course_type": "neo",
+            "course_tag": "classroom",
+            "slot_group_id": 5369,
+            "tutor_language_enabled": true,
+            "slot_group_name": "Mo-We-Fr-3:30pm",
+            "batch_type": "regular",
+            "available_subjects": [
+              "Mathematics",
+              "Science"
+            ],
+            "course_sub_tag": "Regular",
+            "clash": false,
+            "is_overloading": false,
+            "is_clashing": false,
+            "slots": [
+              {
+                "id": 27614,
+                "day": "Monday",
+                "start_time": "15:30",
+                "end_time": "16:30",
+                "is_mandatory": true
+              },
+              {
+                "id": 27615,
+                "day": "Wednesday",
+                "start_time": "15:30",
+                "end_time": "16:30",
+                "is_mandatory": true
+              },
+              {
+                "id": 27616,
+                "day": "Friday",
+                "start_time": "15:30",
+                "end_time": "16:30",
+                "is_mandatory": true
+              }
+            ]
+          }
+        ],
+        "featureTag": [],
+        "_id": {
+          "oid": "638d7cd9cbfba3002124d785"
+        },
+        "course": "K10/K12",
+        "board": "CBSE",
+        "validity": "2023",
+        "initialClass": "6",
+        "tablet": "866186",
+        "deviceType": "Tablet(Lenovo/Samsung)",
+        "formValues": {
+          "course": "K10/K12",
+          "courseType": "regular",
+          "board": "CBSE",
+          "subCourse": "",
+          "yearSelection": "2023",
+          "validity": 2023,
+          "session": "",
+          "initialClass": "6",
+          "tablet": "866186",
+          "selectD4SDCard": false,
+          "userProfile": "newProfile",
+          "tabletId": "T-866186",
+          "deviceType": "Tablet(Lenovo/Samsung)",
+          "featureTag": [],
+          "mentoringDetails": [
+            {
+              "type": "neo",
+              "sessions": [
+                {
+                  "day": "Monday",
+                  "is_mandatory": true,
+                  "time": "15:30-16:30"
+                },
+                {
+                  "day": "Wednesday",
+                  "is_mandatory": true,
+                  "time": "15:30-16:30"
+                },
+                {
+                  "day": "Friday",
+                  "is_mandatory": true,
+                  "time": "15:30-16:30"
+                }
+              ]
+            }
+          ],
+          "bhlpCourseDetails": {
+            "id": 14418,
+            "name": "batchtest1004",
+            "is_active": true,
+            "time_zone": "IST",
+            "batch_country": "India",
+            "batch_start_date": "2022-10-07",
+            "batch_end_date": "2023-11-16",
+            "mandatory_sessions_count": 3,
+            "optional_sessions_count": 0,
+            "course_id": 5603,
+            "course_name": "video solutions",
+            "course_fot_track_id": "cbse-6-1034-1067-lar",
+            "course_proficiency_id": 1,
+            "medium_of_instruction": "english",
+            "course_batch": null,
+            "cohort_id": 22,
+            "course_type": "neo",
+            "course_tag": "classroom",
+            "slot_group_id": 5369,
+            "tutor_language_enabled": true,
+            "slot_group_name": "Mo-We-Fr-3:30pm",
+            "batch_type": "regular",
+            "available_subjects": [
+              "Mathematics",
+              "Science"
+            ],
+            "course_sub_tag": "Regular",
+            "clash": false,
+            "is_overloading": false,
+            "is_clashing": false,
+            "slots": [
+              {
+                "id": 27614,
+                "day": "Monday",
+                "start_time": "15:30",
+                "end_time": "16:30",
+                "is_mandatory": true
+              },
+              {
+                "id": 27615,
+                "day": "Wednesday",
+                "start_time": "15:30",
+                "end_time": "16:30",
+                "is_mandatory": true
+              },
+              {
+                "id": 27616,
+                "day": "Friday",
+                "start_time": "15:30",
+                "end_time": "16:30",
+                "is_mandatory": true
+              }
+            ]
+          },
+          "electiveDetails": [
+            {
+              "batch": {
+                "id": 14929,
+                "name": "Slot 1.0.0.0.0",
+                "is_active": true,
+                "time_zone": "IST",
+                "batch_country": "India",
+                "batch_start_date": "2022-10-31",
+                "batch_end_date": "2023-03-15",
+                "mandatory_sessions_count": 1,
+                "optional_sessions_count": 0,
+                "course_id": 4333,
+                "course_name": "6th_Electibes_Future_BSD",
+                "course_fot_track_id": null,
+                "course_proficiency_id": null,
+                "medium_of_instruction": "english",
+                "course_batch": null,
+                "cohort_id": 22,
+                "course_type": "neo",
+                "course_tag": "elective",
+                "slot_group_id": 6273,
+                "tutor_language_enabled": true,
+                "slot_group_name": "Sat-4:30PM",
+                "batch_type": "regular",
+                "available_subjects": [
+                  "English"
+                ],
+                "course_sub_tag": "Regular",
+                "clash": false,
+                "is_overloading": false,
+                "is_clashing": false,
+                "slots": [
+                  {
+                    "id": 30129,
+                    "day": "Saturday",
+                    "start_time": "16:30",
+                    "end_time": "17:30",
+                    "is_mandatory": true
+                  }
+                ]
+              },
+              "subject": "English",
+              "slot": [
+                {
+                  "id": 30129,
+                  "day": "Saturday",
+                  "start_time": "16:30",
+                  "end_time": "17:30",
+                  "is_mandatory": true
+                }
+              ]
+            },
+            {
+              "batch": {
+                "id": 14926,
+                "name": "2..0.0.0",
+                "is_active": true,
+                "time_zone": "IST",
+                "batch_country": "India",
+                "batch_start_date": "2022-11-01",
+                "batch_end_date": "2023-10-19",
+                "mandatory_sessions_count": 1,
+                "optional_sessions_count": 0,
+                "course_id": 4333,
+                "course_name": "6th_Electibes_Future_BSD",
+                "course_fot_track_id": null,
+                "course_proficiency_id": null,
+                "medium_of_instruction": "english",
+                "course_batch": null,
+                "cohort_id": 22,
+                "course_type": "neo",
+                "course_tag": "elective",
+                "slot_group_id": 6288,
+                "tutor_language_enabled": true,
+                "slot_group_name": "Tue-9:00PM",
+                "batch_type": "regular",
+                "available_subjects": [
+                  "Social Studies"
+                ],
+                "course_sub_tag": "Regular",
+                "clash": false,
+                "is_overloading": false,
+                "is_clashing": false,
+                "slots": [
+                  {
+                    "id": 30144,
+                    "day": "Tuesday",
+                    "start_time": "21:00",
+                    "end_time": "22:00",
+                    "is_mandatory": true
+                  }
+                ]
+              },
+              "subject": "Social Studies",
+              "slot": [
+                {
+                  "id": 30144,
+                  "day": "Tuesday",
+                  "start_time": "21:00",
+                  "end_time": "22:00",
+                  "is_mandatory": true
+                }
+              ]
+            },
+            {
+              "batch": {
+                "id": 14930,
+                "name": "mon eng.0.0",
+                "is_active": true,
+                "time_zone": "IST",
+                "batch_country": "India",
+                "batch_start_date": "2022-10-31",
+                "batch_end_date": "2023-03-15",
+                "mandatory_sessions_count": 1,
+                "optional_sessions_count": 0,
+                "course_id": 4333,
+                "course_name": "6th_Electibes_Future_BSD",
+                "course_fot_track_id": null,
+                "course_proficiency_id": null,
+                "medium_of_instruction": "english",
+                "course_batch": null,
+                "cohort_id": 22,
+                "course_type": "neo",
+                "course_tag": "elective",
+                "slot_group_id": 6275,
+                "tutor_language_enabled": true,
+                "slot_group_name": "Mon-4:30PM",
+                "batch_type": "regular",
+                "available_subjects": [
+                  "Coding"
+                ],
+                "course_sub_tag": "Regular",
+                "clash": false,
+                "is_overloading": false,
+                "is_clashing": false,
+                "slots": [
+                  {
+                    "id": 30131,
+                    "day": "Monday",
+                    "start_time": "16:30",
+                    "end_time": "17:30",
+                    "is_mandatory": true
+                  }
+                ]
+              },
+              "subject": "Coding",
+              "slot": [
+                {
+                  "id": 30131,
+                  "day": "Monday",
+                  "start_time": "16:30",
+                  "end_time": "17:30",
+                  "is_mandatory": true
+                }
+              ]
+            }
+          ],
+          "doubtClassDetails": [
+            {
+              "batch": {
+                "id": 14931,
+                "name": "monday batch doubt.0.0.0",
+                "is_active": true,
+                "time_zone": "IST",
+                "batch_country": "India",
+                "batch_start_date": "2022-10-31",
+                "batch_end_date": "2023-05-12",
+                "mandatory_sessions_count": 1,
+                "optional_sessions_count": 0,
+                "course_id": 5021,
+                "course_name": "DoubtresolutionA3",
+                "course_fot_track_id": null,
+                "course_proficiency_id": 2,
+                "medium_of_instruction": "english",
+                "course_batch": null,
+                "cohort_id": 22,
+                "course_type": "neo",
+                "course_tag": "doubt_resolution",
+                "slot_group_id": 7017,
+                "tutor_language_enabled": true,
+                "slot_group_name": "Mo-7:00pm",
+                "batch_type": "regular",
+                "available_subjects": [
+                  "Science",
+                  "Mathematics"
+                ],
+                "course_sub_tag": "Regular",
+                "clash": false,
+                "is_overloading": false,
+                "is_clashing": false,
+                "slots": [
+                  {
+                    "id": 32700,
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "20:00",
+                    "is_mandatory": true
+                  }
+                ]
+              },
+              "subject": "Science",
+              "slot": [
+                {
+                  "id": 32700,
+                  "day": "Monday",
+                  "start_time": "19:00",
+                  "end_time": "20:00",
+                  "is_mandatory": true
+                }
+              ]
+            }
+          ],
+          "languageOfInstruction": "english",
+          "languageOfInstructionId": 1,
+          "mathPercent": "99",
+          "sciencePercent": "99",
+          "proficiency": "A1",
+          "schoolDetails": {
+            "schoolState": "Sikkim",
+            "city": "Dentam",
+            "schoolAddress": "",
+            "newSchool": "GHB",
+            "schoolName": "other",
+            "otherSchoolName": "newSchool",
+            "schoolId": "",
+            "trackId": "cbse-6-1034-1067-lar"
+          },
+          "isTabletLock": false
+        },
+        "tabletLock": "not_applicable",
+        "productSelectionType": "byjus_classes",
+        "studentName": "Shubham singh",
+        "studentId": "Shubham singh-1",
+        "academicDetails": {
+          "mathPercent": "99",
+          "sciencePercent": "99",
+          "fotTrackId": "cbse-6-1034-1067-lar",
+          "proficiency": "A1",
+          "schoolDetails": {
+            "id": null,
+            "name": "GHB",
+            "city": "Dentam",
+            "state": "Sikkim",
+            "address": "",
+            "pincode": null
+          },
+          "languageOfInstruction": "english",
+          "languageOfInstructionId": 1
+        },
+        "premiumAccount": "1139099521"
+      }
+    ],
+    "orderPunchingType": "NORMAL_ORDER",
+    "orderPunchingCategory": "byjus_classes",
+    "paymentDetails": {
+      "payments": [
+        {
+          "isPrepaid": true,
+          "_id": {
+            "oid": "638d7d27625ffb002295d580"
+          },
+          "provider": "CHEQUE",
+          "referenceId": "16702169979291-3453453452656",
+          "amount": 43000,
+          "additionalDetails": {
+            "bank": "axis"
+          },
+          "attachments": [
+            {
+              "_id": {
+                "oid": "638d7d27625ffb002295d581"
+              },
+              "name": "cheque",
+              "url": "https://orderhive-payments.s3.ap-southeast-1.amazonaws.com/development/6389f1b4d4a146001ba3caf8/cheque/cheque-20221205_10393830.png"
+            }
+          ],
+          "type": "DOWN_PAYMENT",
+          "currency": "",
+          "isActive": true
+        }
+      ],
+      "paymentMethod": "NGP",
+      "paymentStatus": "NOT_PAID",
+      "paymentMode": "CHEQUE",
+      "paymentAmountSplit": "43000",
+      "totalAmount": 43000
+    },
+    "leadDetails": {
+      "prospectId": "sdf667sudfh",
+      "accountNo": "24692",
+      "loggedInEmailId": "praz@byjus.com",
+      "leadCreatedBy": "",
+      "leadCreatedAt": null,
+      "leadMobileNo": "+91-8736576846",
+      "isLeadMobileUsed": true,
+      "leadLink": "https://run.leadsquared.com/LeadManagement/LeadDetails?LeadID=sdf667sudfh"
+    },
+    "contactDetails": {
+      "orderPunchingContact": "8736576846",
+      "cxProvidedContact": "8736576846",
+      "leadContact": "8736576846",
+      "gpContact": "",
+      "ngpContact": "",
+      "lpContact": ""
+    },
+    "type": "product",
+    "subType": "course",
+    "status": "not_confirmed",
+    "category": "sales",
+    "statusReason": "DP_NOT_CONFIRMED",
+    "actionDetails": {
+      "createdAt": {
+        "date": {
+          "numberLong": "1670217060384"
+        }
+      },
+      "createdBy": "praz@byjus.com",
+      "notConfirmedAt": {
+        "date": {
+          "numberLong": "1670217060653"
+        }
+      },
+      "notConfirmedBy": "draft_order_job"
+    },
+    "createdAt": {
+      "date": {
+        "numberLong": "1670217009209"
+      }
+    },
+    "updatedat": {
+      "date": {
+        "numberLong": "1670217060385"
+      }
+    },
+    "sourceDetails": {},
+    "assignmentCategory": "k10",
+    "orderBatchId": "",
+    "updatedAt": {
+      "date": {
+        "numberLong": "1670217069234"
+      }
+    },
+    "salesOrderStatus": "not_confirmed"
+  }

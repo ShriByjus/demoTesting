@@ -1,0 +1,102 @@
+{
+  "uid" : "20edf205de2c39f0",
+  "name" : "log in into WMS",
+  "fullName" : "btlp workflow.log in into WMS",
+  "historyId" : "9741f606d263f8180518ac4d320cc291",
+  "time" : {
+    "start" : 1669981306870,
+    "stop" : 1669981354964,
+    "duration" : 48094
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Cannot read properties of null (reading 'packageDetails')",
+  "statusTrace" : "TypeError: Cannot read properties of null (reading 'packageDetails')\n                    at mongoConnect.getTabletItemIdFromDB (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/utils/mongoconnect.js:262:33)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/Btlp_Smoke_Testings/reveresFlow.js:18:28)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "Cannot read properties of null (reading 'packageDetails')",
+    "statusTrace" : "TypeError: Cannot read properties of null (reading 'packageDetails')\n                    at mongoConnect.getTabletItemIdFromDB (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/utils/mongoconnect.js:262:33)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/Btlp_Smoke_Testings/reveresFlow.js:18:28)",
+    "steps" : [ {
+      "name" : "Maximize the window",
+      "time" : {
+        "start" : 1669981306871,
+        "stop" : 1669981354964,
+        "duration" : 48093
+      },
+      "status" : "broken",
+      "statusMessage" : "TypeError: Cannot read properties of null (reading 'packageDetails')\n                    at mongoConnect.getTabletItemIdFromDB (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/utils/mongoconnect.js:262:33)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/Btlp_Smoke_Testings/reveresFlow.js:18:28)",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "28c55db96e583fef",
+        "name" : "Screenshot",
+        "source" : "28c55db96e583fef.png",
+        "type" : "image/png",
+        "size" : 387081
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "btlp workflow"
+  }, {
+    "name" : "testClass",
+    "value" : "btlp workflow"
+  }, {
+    "name" : "testMethod",
+    "value" : "log in into WMS"
+  }, {
+    "name" : "package",
+    "value" : "btlp workflow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-108.0.5359.71"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "20edf205de2c39f0.json",
+  "parameterValues" : [ "chrome-108.0.5359.71" ]
+}

@@ -1,0 +1,147 @@
+{
+  "uid" : "523dda2ad5eb6b3f",
+  "name" : "Verify sales and customer details",
+  "fullName" : "Validating grade 1 Single order.Verify sales and customer details",
+  "historyId" : "b615c850f3b3a9f5b0a9055dc84fede8",
+  "time" : {
+    "start" : 1669884187719,
+    "stop" : 1669884191248,
+    "duration" : 3529
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Get address details from draft order Id collection",
+      "time" : {
+        "start" : 1669884187719,
+        "stop" : 0,
+        "duration" : -1669884187719
+      },
+      "status" : "unknown",
+      "steps" : [ {
+        "name" : "Get customer details from draft order Id collection",
+        "time" : {
+          "start" : 1669884188854,
+          "stop" : 0,
+          "duration" : -1669884188854
+        },
+        "status" : "unknown",
+        "steps" : [ {
+          "name" : "Copy sales and customer details from UI",
+          "time" : {
+            "start" : 1669884189965,
+            "stop" : 0,
+            "duration" : -1669884189965
+          },
+          "status" : "unknown",
+          "steps" : [ {
+            "name" : "Validate the address details from UI matches with details from draft order collection",
+            "time" : {
+              "start" : 1669884191248,
+              "stop" : 0,
+              "duration" : -1669884191248
+            },
+            "status" : "unknown",
+            "steps" : [ {
+              "name" : "Validate the customer details from UI matches with details from draft order collection",
+              "time" : {
+                "start" : 1669884191248,
+                "stop" : 1669884191248,
+                "duration" : 0
+              },
+              "status" : "passed",
+              "steps" : [ ],
+              "attachments" : [ ],
+              "parameters" : [ ],
+              "stepsCount" : 0,
+              "attachmentsCount" : 0,
+              "shouldDisplayMessage" : false,
+              "hasContent" : false
+            } ],
+            "attachments" : [ ],
+            "parameters" : [ ],
+            "stepsCount" : 1,
+            "attachmentsCount" : 0,
+            "shouldDisplayMessage" : false,
+            "hasContent" : true
+          } ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 2,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 3,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 4,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 5,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating grade 1 Single order"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating grade 1 Single order"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify sales and customer details"
+  }, {
+    "name" : "package",
+    "value" : "Validating grade 1 Single order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.121"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "523dda2ad5eb6b3f.json",
+  "parameterValues" : [ "chrome-107.0.5304.121" ]
+}

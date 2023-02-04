@@ -1,0 +1,142 @@
+{
+    "shipmentOrderId": "SHO1-SSO1-2102110422000540",
+    "salesSubOrderId": "SSO1-2102110422000540",
+    "salesOrderId": "SO-2102110422000540",
+    "addressDetails": {
+        "billing": {
+            "country": "India",
+            "zipcode": "600001",
+            "state": "Tamil Nadu (TN)",
+            "city": "Chennai",
+            "address": "hubli\n hubli"
+        },
+        "shipping": {
+            "country": "India",
+            "zipcode": "600001",
+            "state": "Tamil Nadu (TN)",
+            "city": "Chennai",
+            "address": "hubli\n hubli"
+        }
+    },
+    "invoiceStatus": "pending",
+    "packageDetails": [
+        {
+            "_id": "6024b33493033d0d35bb668b",
+            "packageId": "P1-SSO1-2102110422000540",
+            "status": "shipped",
+            "salesSubOrderId": "SSO1-2102110422000540",
+            "salesOrderId": "SO-2102110422000540",
+            "dimensions": {
+                "length": 27,
+                "width": 20,
+                "height": 5,
+                "unit": "cm"
+            },
+            "weight": {
+                "value": 1,
+                "unit": "Kg"
+            },
+            "totalValue": 111000,
+            "shipmentLineItems": [
+                {
+                    "_id": "6024b33493033d15c3bb668c",
+                    "itemStatus": "setup_done",
+                    "type": "sd_card",
+                    "itemId": "S4JN1112545558",
+                    "studentId": "Shubhamsingh-1",
+                    "price": 49000,
+                    "skuId": "S4JN1112",
+                    "skuName": "Grade 11-12 JEE / NEET SD Card"
+                },
+                {
+                    "_id": "6024b33493033df705bb668d",
+                    "itemStatus": "setup_done",
+                    "type": "sd_card",
+                    "itemId": "S4CB0610434870",
+                    "studentId": "Shubhamsingh-1",
+                    "price": 49000,
+                    "skuId": "S4CB0610",
+                    "skuName": "Grade 06-10 CBSE SD Card"
+                },
+                {
+                    "_id": "6024b33493033d84e4bb668e",
+                    "itemStatus": "setup_done",
+                    "type": "tablet",
+                    "itemId": "TLXWZZKX656662",
+                    "studentId": "Shubhamsingh-1",
+                    "price": 13000,
+                    "skuId": "TLXWZZKX",
+                    "skuName": "K12 Lenovo 10 inch Tablet Wifi"
+                }
+            ],
+            "createdBy": "akshay.kulkarni1@byjus.com",
+            "createdAt": "2021-02-11T04:31:48.069Z",
+            "updatedAt": "2021-02-11T04:31:48.069Z",
+            "__v": 0,
+            "awbNumber": 200647316
+        }
+    ],
+    "courseType": "K10,K12",
+    "salesDetails": {
+        "typeOfSales": "DSSales",
+        "directSalesBy": "abhishek.chandak@byjus.com",
+        "directSalesByCampaign": "",
+        "salesAppointmentBy": null,
+        "salesAppointmentByCampaign": null
+    },
+    "customerDetails": {
+        "customerId": "",
+        "name": "Inba Invoice",
+        "alternateName": "Nidhi Singh",
+        "mobileNo": "+91-7488173804",
+        "alternateMobileNo": "",
+        "email": "nidhisingh.n@icloud.com",
+        "alternateEmail": null,
+        "type": null
+    },
+    "leadDetails": {
+        "prospectId": "akjkqo5hgvytvblekhg_jhcx",
+        "accountNo": "24692",
+        "loggedInEmailId": "praz@byjus.com",
+        "leadCreatedBy": "",
+        "leadCreatedAt": null,
+        "leadMobileNo": "91-7973190364,8728981217",
+        "isLeadMobileUsed": false,
+        "leadLink": "https://run.leadsquared.com/LeadManagement/LeadDetails?LeadID=akjkqo5hgvytvblekhg_jhcx"
+    },
+    "type": "product",
+    "subType": "course",
+    "status": "delivered",
+    "actionDetails": {
+        "shippedAt": "2021-02-11T04:32:19.033Z",
+        "shippedBy": "shrinath.mirashi@byjus.com",
+        "manifestedAt": "2021-02-11T04:32:41.293Z",
+        "manifestedBy": "shrinath.mirashi@byjus.com",
+        "deliveredAt": "2021-02-11T04:33:35.842Z",
+        "deliveredBy": "shrinath.mirashi@byjus.com"
+    },
+    "createdAt": "2021-02-11T04:32:19.033Z",
+    "updatedAt": "2021-02-11T04:33:37.160Z",
+    "updatedBy": "shrinath.mirashi@byjus.com",
+    "awbNumber": "200647316",
+    "deliveryPincode": "600001",
+    "destinationCode": "Chennai",
+    "originCode": "BLR",
+    "deliveryPartner": "criticalog_air",
+    "warehouse": "ibc_knowledge_park_bengaluru",
+    "timestamps": {
+        "shippedAt": "2021-02-11T04:32:19.033Z",
+        "manifestedAt": "2021-02-11T04:32:41.293Z",
+        "deliveredAt": "2021-02-11T04:33:35.842Z"
+    },
+    "__v": 0,
+    "salesOrderStatus": "delivered",
+    "salesSubOrderStatus": "delivered",
+    "batchId": "DB-1102210432410099",
+    "smsDetails": {
+        "manifestedAt": "2021-02-11T04:32:42.343Z",
+        "manifestedBy": "system",
+        "deliveredAt": "2021-02-11T04:33:37.069Z",
+        "deliveredBy": "system"
+    }
+}

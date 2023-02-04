@@ -1,0 +1,169 @@
+{
+  "uid" : "728f2ceeb5b806a7",
+  "name" : "Verify the shipment skus",
+  "fullName" : "Validating UKG Single order.Verify the shipment skus",
+  "historyId" : "99d5bb57768035b73d97e5ab34345656",
+  "time" : {
+    "start" : 1669203973751,
+    "stop" : 1669203977386,
+    "duration" : 3635
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 8,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Validate the shipment sku's",
+      "time" : {
+        "start" : 1669203977384,
+        "stop" : 0,
+        "duration" : -1669203977384
+      },
+      "status" : "unknown",
+      "steps" : [ {
+        "name" : "Validatation done for shipment sku's",
+        "time" : {
+          "start" : 1669203977386,
+          "stop" : 1669203977386,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the shipment skus"
+  }, {
+    "name" : "package",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.110"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a4b21c6578d42607",
+      "status" : "broken",
+      "statusDetails" : "shipTabletSkuw is not defined",
+      "time" : {
+        "start" : 1669203471117,
+        "stop" : 1669203474813,
+        "duration" : 3696
+      }
+    }, {
+      "uid" : "a7f1f43e20d75b8d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669203388063,
+        "stop" : 1669203391675,
+        "duration" : 3612
+      }
+    }, {
+      "uid" : "30afd0023fe34677",
+      "status" : "broken",
+      "statusDetails" : "sdCardSku is not defined",
+      "time" : {
+        "start" : 1669203265434,
+        "stop" : 1669203269014,
+        "duration" : 3580
+      }
+    }, {
+      "uid" : "a690ae76b25d3275",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669202617231,
+        "stop" : 1669202621059,
+        "duration" : 3828
+      }
+    }, {
+      "uid" : "1b5eb1e116ce9274",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669202429868,
+        "stop" : 1669202433688,
+        "duration" : 3820
+      }
+    }, {
+      "uid" : "76580e48d4b5b4de",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669202310974,
+        "stop" : 1669202314332,
+        "duration" : 3358
+      }
+    }, {
+      "uid" : "beaf4e675985682",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669201892910,
+        "stop" : 1669201896027,
+        "duration" : 3117
+      }
+    }, {
+      "uid" : "6a27292e90fc57c4",
+      "status" : "broken",
+      "statusDetails" : "Maximum call stack size exceeded",
+      "time" : {
+        "start" : 1669201676202,
+        "stop" : 1669201676480,
+        "duration" : 278
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "728f2ceeb5b806a7.json",
+  "parameterValues" : [ "chrome-107.0.5304.110" ]
+}

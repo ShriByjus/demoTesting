@@ -1,0 +1,763 @@
+
+{
+    "customerDetails": {
+      "duplicateReason": null,
+      "isBooksOpted": true,
+      "parentName": "rakshitha",
+      "studentName": "Shubham singh",
+      "parentMobileNo": "+91-8736576846",
+      "alternateMobileNo": [
+        {
+          "_id": {
+            "oid": "638599a0ddab3c001bc7f606"
+          },
+          "mobile": "+91-8736576846",
+          "relation": "self"
+        }
+      ],
+      "email": "student@gmail.com",
+      "studentMobileNo": "+91-8736576846",
+      "customerId": "CX-2210280625062228",
+      "type": "individual",
+      "identifierDetails": [],
+      "gstDetails": {
+        "isGstIn": false
+      }
+    },
+    "lineItems": {
+      "parentLineItems": [
+        {
+          "id": 4939,
+          "skuId": "SD03NA23",
+          "imageUrl": null,
+          "skuName": "Class 3 (SD Card-Byjus) May-2023",
+          "status": "active",
+          "orgId": "ORG-1",
+          "city": null,
+          "basePrice": 22000,
+          "continuousPrice": 17000,
+          "hsnCode": "852351",
+          "programId": "BTLAKXAS0001",
+          "type": "product",
+          "subType": "sd_card",
+          "category": "btlp",
+          "package": null,
+          "course": "K3",
+          "subCourse": null,
+          "grade": "3",
+          "subject": null,
+          "board": null,
+          "language": null,
+          "validityType": "year",
+          "validity": "2023",
+          "validityMonth": "MAY",
+          "brand": null,
+          "size": null,
+          "model": null,
+          "scheme": null,
+          "skuSet": 1,
+          "cohortId": 3,
+          "ohProductId": "1483872",
+          "productState": null,
+          "isValidSku": true,
+          "remarks": null,
+          "validatedAt": "2021-11-09T14:32:27.110Z",
+          "financeCode": "SD03NA",
+          "sprId": null,
+          "orgFormattedName": "byjus",
+          "createdBy": "ayushi.bansal@byjus.com",
+          "updatedBy": "price_update_datafix",
+          "createdAt": "2021-11-09T14:32:27.110Z",
+          "updatedAt": "2022-09-23T10:32:38.848Z",
+          "deletedAt": null,
+          "continousPrice": 17000,
+          "skuSource": "SalesSkuMaster",
+          "itemType": "course",
+          "combinationType": "tlp",
+          "itemId": "pnOtv3nB-asLONRMOMO77zo6",
+          "studentId": "Shubham singh-1",
+          "tabletId": "T-1865228-Shubham singh",
+          "pgItemId": 1527922
+        },
+        {
+          "id": 3347,
+          "skuId": "TS8MZZ",
+          "imageUrl": null,
+          "skuName": "SAMSUNG Tablet (Add-on-BYJUS) (8 inch-4G)",
+          "status": "active",
+          "orgId": "ORG-1",
+          "city": null,
+          "basePrice": 10000,
+          "continuousPrice": 11000,
+          "hsnCode": "847130",
+          "programId": "TLP1UCHW0001",
+          "type": "product",
+          "subType": "tablet",
+          "category": "tablet",
+          "package": null,
+          "course": null,
+          "subCourse": null,
+          "grade": null,
+          "subject": null,
+          "board": null,
+          "language": null,
+          "validityType": "N/A",
+          "validity": null,
+          "validityMonth": null,
+          "brand": "samsung",
+          "size": null,
+          "model": null,
+          "scheme": null,
+          "skuSet": 1,
+          "cohortId": null,
+          "ohProductId": "1865228",
+          "productState": "new",
+          "isValidSku": true,
+          "remarks": null,
+          "validatedAt": "2021-11-09T14:37:51.302Z",
+          "financeCode": "TS8MZZ",
+          "sprId": null,
+          "orgFormattedName": "byjus",
+          "createdBy": "ayushi.bansal@byjus.com",
+          "updatedBy": "productState-update",
+          "createdAt": "2021-11-09T14:37:51.302Z",
+          "updatedAt": "2022-07-12T13:45:49.618Z",
+          "deletedAt": null,
+          "price": 10000,
+          "itemType": "tablet",
+          "skuSource": "SalesSkuMaster",
+          "itemId": "OM2aYKDswYhffYGQjnxfVNjP",
+          "studentId": "Shubham singh-1",
+          "tabletId": "T-1865228-Shubham singh",
+          "pgItemId": 1527923
+        }
+      ],
+      "childLineItems": []
+    },
+    "productDetails": {
+      "productType": "single",
+      "mentoringDetails": [
+        null
+      ],
+      "bhlpCourseDetails": [],
+      "paymentType": "NON_EMI",
+      "maxPrice": 32000,
+      "minPrice": 27000,
+      "discountedPrice": 0,
+      "students": [
+        {
+          "studentProfileDetails": {
+            "isExistingProfile": false,
+            "existingPremiumId": "",
+            "existingFamilyId": ""
+          },
+          "hlpDetails": {
+            "courseDetails": [],
+            "sessionDetails": []
+          },
+          "courseType": [
+            "K3"
+          ],
+          "electiveDetails": [],
+          "doubtClassDetails": [],
+          "workshops": [],
+          "items": [
+            {
+              "id": 4939,
+              "skuId": "SD03NA23",
+              "imageUrl": null,
+              "skuName": "Class 3 (SD Card-Byjus) May-2023",
+              "status": "active",
+              "orgId": "ORG-1",
+              "city": null,
+              "basePrice": 22000,
+              "continuousPrice": 17000,
+              "hsnCode": "852351",
+              "programId": "BTLAKXAS0001",
+              "type": "product",
+              "subType": "sd_card",
+              "category": "btlp",
+              "package": null,
+              "course": "K3",
+              "subCourse": null,
+              "grade": "3",
+              "subject": null,
+              "board": null,
+              "language": null,
+              "validityType": "year",
+              "validity": "2023",
+              "validityMonth": "MAY",
+              "brand": null,
+              "size": null,
+              "model": null,
+              "scheme": null,
+              "skuSet": 1,
+              "cohortId": 3,
+              "ohProductId": "1483872",
+              "productState": null,
+              "isValidSku": true,
+              "remarks": null,
+              "validatedAt": "2021-11-09T14:32:27.110Z",
+              "financeCode": "SD03NA",
+              "sprId": null,
+              "orgFormattedName": "byjus",
+              "createdBy": "ayushi.bansal@byjus.com",
+              "updatedBy": "price_update_datafix",
+              "createdAt": "2021-11-09T14:32:27.110Z",
+              "updatedAt": "2022-09-23T10:32:38.848Z",
+              "deletedAt": null,
+              "continousPrice": 17000,
+              "skuSource": "SalesSkuMaster",
+              "itemType": "course",
+              "combinationType": "tlp",
+              "itemId": "pnOtv3nB-asLONRMOMO77zo6",
+              "studentId": "Shubham singh-1",
+              "tabletId": "T-1865228-Shubham singh"
+            },
+            {
+              "id": 3347,
+              "skuId": "TS8MZZ",
+              "imageUrl": null,
+              "skuName": "SAMSUNG Tablet (Add-on-BYJUS) (8 inch-4G)",
+              "status": "active",
+              "orgId": "ORG-1",
+              "city": null,
+              "basePrice": 10000,
+              "continuousPrice": 11000,
+              "hsnCode": "847130",
+              "programId": "TLP1UCHW0001",
+              "type": "product",
+              "subType": "tablet",
+              "category": "tablet",
+              "package": null,
+              "course": null,
+              "subCourse": null,
+              "grade": null,
+              "subject": null,
+              "board": null,
+              "language": null,
+              "validityType": "N/A",
+              "validity": null,
+              "validityMonth": null,
+              "brand": "samsung",
+              "size": null,
+              "model": null,
+              "scheme": null,
+              "skuSet": 1,
+              "cohortId": null,
+              "ohProductId": "1865228",
+              "productState": "new",
+              "isValidSku": true,
+              "remarks": null,
+              "validatedAt": "2021-11-09T14:37:51.302Z",
+              "financeCode": "TS8MZZ",
+              "sprId": null,
+              "orgFormattedName": "byjus",
+              "createdBy": "ayushi.bansal@byjus.com",
+              "updatedBy": "productState-update",
+              "createdAt": "2021-11-09T14:37:51.302Z",
+              "updatedAt": "2022-07-12T13:45:49.618Z",
+              "deletedAt": null,
+              "price": 10000,
+              "itemType": "tablet",
+              "skuSource": "SalesSkuMaster",
+              "itemId": "OM2aYKDswYhffYGQjnxfVNjP",
+              "studentId": "Shubham singh-1",
+              "tabletId": "T-1865228-Shubham singh"
+            }
+          ],
+          "addOnItems": [],
+          "mentoringDetails": [],
+          "bhlpCourseDetails": [],
+          "featureTag": [],
+          "_id": {
+            "oid": "638599e17f04d7001aaefd42"
+          },
+          "tablet": "1865228",
+          "course": "K10/K12",
+          "board": "CBSE",
+          "validity": "2023",
+          "initialClass": "3",
+          "formValues": {
+            "tablet": "1865228",
+            "course": "K10/K12",
+            "board": "CBSE",
+            "subCourse": "",
+            "validity": 2023,
+            "session": "",
+            "initialClass": "3",
+            "selectD4SDCard": false,
+            "userProfile": "newProfile",
+            "tabletId": "T-1865228",
+            "featureTag": [],
+            "isTabletLock": false
+          },
+          "tabletLock": "not_applicable",
+          "productSelectionType": "byjus_tlp",
+          "studentName": "Shubham singh",
+          "studentId": "Shubham singh-1",
+          "academicDetails": {
+            "mathPercent": null,
+            "sciencePercent": null,
+            "fotTrackId": null,
+            "proficiency": null,
+            "schoolDetails": {
+              "id": null,
+              "name": "",
+              "address": "",
+              "pincode": null
+            },
+            "languageOfInstruction": null,
+            "languageOfInstructionId": null
+          }
+        }
+      ],
+      "products": [
+        {
+          "id": 4939,
+          "skuId": "SD03NA23",
+          "imageUrl": null,
+          "skuName": "Class 3 (SD Card-Byjus) May-2023",
+          "status": "active",
+          "orgId": "ORG-1",
+          "city": null,
+          "basePrice": 22000,
+          "continuousPrice": 17000,
+          "hsnCode": "852351",
+          "programId": "BTLAKXAS0001",
+          "type": "product",
+          "subType": "sd_card",
+          "category": "btlp",
+          "package": null,
+          "course": "K3",
+          "subCourse": null,
+          "grade": "3",
+          "subject": null,
+          "board": null,
+          "language": null,
+          "validityType": "year",
+          "validity": "2023",
+          "validityMonth": "MAY",
+          "brand": null,
+          "size": null,
+          "model": null,
+          "scheme": null,
+          "skuSet": 1,
+          "cohortId": 3,
+          "ohProductId": "1483872",
+          "productState": null,
+          "isValidSku": true,
+          "remarks": null,
+          "validatedAt": "2021-11-09T14:32:27.110Z",
+          "financeCode": "SD03NA",
+          "sprId": null,
+          "orgFormattedName": "byjus",
+          "createdBy": "ayushi.bansal@byjus.com",
+          "updatedBy": "price_update_datafix",
+          "createdAt": "2021-11-09T14:32:27.110Z",
+          "updatedAt": "2022-09-23T10:32:38.848Z",
+          "deletedAt": null,
+          "continousPrice": 17000,
+          "skuSource": "SalesSkuMaster",
+          "itemType": "course",
+          "combinationType": "tlp",
+          "itemId": "pnOtv3nB-asLONRMOMO77zo6",
+          "studentId": "Shubham singh-1",
+          "tabletId": "T-1865228-Shubham singh"
+        },
+        {
+          "id": 3347,
+          "skuId": "TS8MZZ",
+          "imageUrl": null,
+          "skuName": "SAMSUNG Tablet (Add-on-BYJUS) (8 inch-4G)",
+          "status": "active",
+          "orgId": "ORG-1",
+          "city": null,
+          "basePrice": 10000,
+          "continuousPrice": 11000,
+          "hsnCode": "847130",
+          "programId": "TLP1UCHW0001",
+          "type": "product",
+          "subType": "tablet",
+          "category": "tablet",
+          "package": null,
+          "course": null,
+          "subCourse": null,
+          "grade": null,
+          "subject": null,
+          "board": null,
+          "language": null,
+          "validityType": "N/A",
+          "validity": null,
+          "validityMonth": null,
+          "brand": "samsung",
+          "size": null,
+          "model": null,
+          "scheme": null,
+          "skuSet": 1,
+          "cohortId": null,
+          "ohProductId": "1865228",
+          "productState": "new",
+          "isValidSku": true,
+          "remarks": null,
+          "validatedAt": "2021-11-09T14:37:51.302Z",
+          "financeCode": "TS8MZZ",
+          "sprId": null,
+          "orgFormattedName": "byjus",
+          "createdBy": "ayushi.bansal@byjus.com",
+          "updatedBy": "productState-update",
+          "createdAt": "2021-11-09T14:37:51.302Z",
+          "updatedAt": "2022-07-12T13:45:49.618Z",
+          "deletedAt": null,
+          "price": 10000,
+          "itemType": "tablet",
+          "skuSource": "SalesSkuMaster",
+          "itemId": "OM2aYKDswYhffYGQjnxfVNjP",
+          "studentId": "Shubham singh-1",
+          "tabletId": "T-1865228-Shubham singh"
+        }
+      ],
+      "mentoring": {
+        "count": 0,
+        "items": [
+          null
+        ]
+      },
+      "finalPrice": 27000
+    },
+    "paymentDetails": {
+      "type": "NON_EMI",
+      "totalAmount": 27000,
+      "totalEmiAmount": 0,
+      "totalPrepaidAmount": 27000,
+      "totalPostpaidAmount": 0,
+      "paymentMethod": "Non EMI Prepaid",
+      "payments": [
+        {
+          "isPrepaid": true,
+          "_id": {
+            "oid": "63859a03ddab3c001bc7f6a2"
+          },
+          "provider": "CHEQUE",
+          "referenceId": "16697001000236-7689353et",
+          "amount": 27000,
+          "additionalDetails": {
+            "bank": "dcb"
+          },
+          "attachments": [
+            {
+              "_id": {
+                "oid": "63859a03ddab3c001bc7f6a3"
+              },
+              "name": "cheque",
+              "url": "https://orderhive-payments.s3.ap-southeast-1.amazonaws.com/development/638599a0ddab3c001bc7f605/cheque/cheque-20221129_11048010.png"
+            }
+          ],
+          "type": "DOWN_PAYMENT",
+          "currency": ""
+        }
+      ],
+      "minDownPaymentDetails": {
+        "isMatched": true,
+        "minDownPaymentAmount": 0
+      },
+      "isRepunchedCase": false
+    },
+    "cashbackDetails": {
+      "unutilizedCashbacks": []
+    },
+    "bonusPointsDetails": {
+      "bonusPoints": 0,
+      "conversionFactor": 0,
+      "amount": 0,
+      "transactionId": ""
+    },
+    "approvalDetails": {
+      "isPaymentVerified": false,
+      "isOrderVerified": false,
+      "isCustomerVerified": false
+    },
+    "inventoryDetails": [],
+    "isImmediateDelivery": false,
+    "orderPunchingCategory": "byjus_tlp",
+    "childStatus": "soft_approved",
+    "isFOCOrder": false,
+    "salesSubOrderIds": [
+      "SSO1-2211290533200553"
+    ],
+    "isTestOrder": false,
+    "upgradedOrders": [],
+    "addOnLineItems": [],
+    "bookInvoicing": "not_applicable",
+    "orderApproval": "not_applicable",
+    "poaCommand": "applicable",
+    "sacCommand": "applicable",
+    "isOmsOrder": true,
+    "leadDetails": {
+      "homeAddress": "undefined",
+      "secretKey": "b56b69cd8b4c4be11fbac035bb5b17f4198059f0",
+      "studentMobile": "91-8736576846",
+      "CampaignName": "",
+      "UTMSource": "",
+      "userEmail": "praz@byjus.com",
+      "LeadSource": "undefined",
+      "typeOfSales": "DS Sales",
+      "studentName": "Shubham singh",
+      "SourceCampaignId": "",
+      "accountNumber": "24692",
+      "SourceMedium": "",
+      "SourceCampaign": "",
+      "appointmentBookedBy": "Meghana Negi",
+      "directSalesBy": "",
+      "studentEmail": "student@gmail.com",
+      "prospectId": "s76yujhdfd",
+      "SourceOfLead": "",
+      "accessKey": "u%24r345dfdff0767605294d91b80ac914f62",
+      "loggedInEmailId": "praz@byjus.com",
+      "createdByEmailId": "",
+      "leadCreatedAt": null,
+      "leadId": "",
+      "isLeadMobileUsed": false,
+      "isEligibleForEvalution": true,
+      "loggedInRole": null
+    },
+    "salesDetails": {
+      "typeOfSales": "DS Sales",
+      "directSalesBy": "mahima.p@byjus.com",
+      "directSalesById": "mahima.p@byjus.com",
+      "salesAppointmentByCampaign": "Hyderabad",
+      "directSalesByRole": "team_manager",
+      "directSalesByDept": "business_development",
+      "directSalesByCountry": "india",
+      "directSalesByTeamManager": "",
+      "directSalesBySeniorManager": "archa.br@byjus.com",
+      "salesAppointmentByRole": null,
+      "salesAppointmentByDept": "",
+      "isOmsOrderEligible": true
+    },
+    "status": "order_created",
+    "draftOrderId": "DO-2211290533200553",
+    "actionDetails": {
+      "detailsSavedAt": {
+        "date": {
+          "numberLong": "1669700000040"
+        }
+      },
+      "detailsSavedBy": "praz@byjus.com",
+      "productSavedAt": {
+        "date": {
+          "numberLong": "1669700065292"
+        }
+      },
+      "productSavedBy": "praz@byjus.com",
+      "addressSavedAt": {
+        "date": {
+          "numberLong": "1669700077760"
+        }
+      },
+      "addressSavedBy": "praz@byjus.com",
+      "paymentSavedAt": {
+        "date": {
+          "numberLong": "1669700099307"
+        }
+      },
+      "paymentSavedBy": "praz@byjus.com",
+      "softApprovedAt": {
+        "date": {
+          "numberLong": "1669700105127"
+        }
+      },
+      "softApprovedBy": "system"
+    },
+    "orderPunchingType": "NORMAL_ORDER",
+    "orgFormattedName": "byjus",
+    "contactDetails": [
+      {
+        "contacts": [],
+        "_id": {
+          "oid": "638599a0ddab3c001bc7f607"
+        },
+        "source": "ls_17139"
+      },
+      {
+        "contacts": [],
+        "_id": {
+          "oid": "638599a0ddab3c001bc7f608"
+        },
+        "source": "ls_24692"
+      },
+      {
+        "contacts": [
+          "+91-8736576846"
+        ],
+        "_id": {
+          "oid": "638599a0ddab3c001bc7f609"
+        },
+        "source": "middleware"
+      }
+    ],
+    "source": "kart",
+    "comments": [
+      {
+        "_id": {
+          "oid": "63859a03ddab3c001bc7f6a9"
+        },
+        "category": "product",
+        "type": "details",
+        "comment": "Student Details :  Course Details : K10/K12 CBSE : 3 -  , Initial Validity : 2023",
+        "commentedBy": "system",
+        "commentedAt": {
+          "date": {
+            "numberLong": "1669700099464"
+          }
+        },
+        "source": "kart"
+      },
+      {
+        "_id": {
+          "oid": "63859a03ddab3c001bc7f6aa"
+        },
+        "category": "price",
+        "type": "range",
+        "comment": "Price Range : 27000 - 32000\n Final Price : 27000",
+        "commentedBy": "system",
+        "commentedAt": {
+          "date": {
+            "numberLong": "1669700099464"
+          }
+        },
+        "source": "kart"
+      },
+      {
+        "_id": {
+          "oid": "63859a03ddab3c001bc7f6ab"
+        },
+        "category": "payment",
+        "type": "refIds",
+        "comment": "Payment Details : , Method:CHEQUE Amount: 27000 ReferenceId:16697001000236-7689353et",
+        "commentedBy": "system",
+        "commentedAt": {
+          "date": {
+            "numberLong": "1669700099464"
+          }
+        },
+        "source": "kart"
+      },
+      {
+        "_id": {
+          "oid": "63859a03ddab3c001bc7f6ac"
+        },
+        "category": "salesDetails",
+        "type": "for_OH_order_reference",
+        "comment": "Direct Sales Conducted By is mahima.p@byjus.com",
+        "commentedBy": "system",
+        "commentedAt": {
+          "date": {
+            "numberLong": "1669700099464"
+          }
+        },
+        "source": "kart"
+      },
+      {
+        "_id": {
+          "oid": "63859a097f04d7001aaefd9b"
+        },
+        "comment": "praz@byjus.com opted to move this order to OMS. Reason - undefined",
+        "commentedBy": "praz@byjus.com",
+        "commentedAt": {
+          "date": {
+            "numberLong": "1669700105118"
+          }
+        },
+        "source": "kart"
+      }
+    ],
+    "attachments": [
+      {
+        "_id": {
+          "oid": "63859a03ddab3c001bc7f6a1"
+        },
+        "name": "cheque",
+        "url": "https://orderhive-payments.s3.ap-southeast-1.amazonaws.com/development/638599a0ddab3c001bc7f605/cheque/cheque-20221129_11048010.png"
+      }
+    ],
+    "cloneOrderDetails": [],
+    "createdAt": {
+      "date": {
+        "numberLong": "1669700000048"
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "numberLong": "1669700220374"
+      }
+    },
+    "__v": 0,
+    "finalPrice": 27000,
+    "sourceDetails": {},
+    "addressDetails": {
+      "billing": {
+        "zipcode": "560030",
+        "addressLine1": "564 banglore temple road",
+        "country": "India",
+        "state": "Karnataka",
+        "city": "Bengaluru",
+        "addressLine2": "banashankari layout, banglore",
+        "addressLine3": "Adugodi S.O",
+        "address": "564 banglore temple road\n banashankari layout\n banglore\n Adugodi S.O",
+        "addressId": "509191"
+      },
+      "shipping": {
+        "zipcode": "560030",
+        "addressLine1": "564 banglore temple road",
+        "country": "India",
+        "state": "Karnataka",
+        "city": "Bengaluru",
+        "addressLine2": "banashankari layout, banglore",
+        "addressLine3": "Adugodi S.O",
+        "address": "564 banglore temple road\n banashankari layout\n banglore\n Adugodi S.O",
+        "addressId": "509192"
+      }
+    },
+    "currency": "",
+    "isRepunchedCase": false,
+    "repunchDetails": {},
+    "repunchOrderDetails": {
+      "paymentDetails": {}
+    },
+    "subscriptionDetails": {},
+    "userComment": null,
+    "assignmentCategory": "k3",
+    "orderType": "SINGLE",
+    "orderPlatformDetails": {
+      "platform": "oms",
+      "smsNotification": true,
+      "remark": null,
+      "ohOpReason": null,
+      "ohOpTeam": null,
+      "updatedBy": "praz@byjus.com",
+      "updatedAt": {
+        "date": {
+          "numberLong": "1669700105118"
+        }
+      }
+    },
+    "orderProcessedAt": {
+      "date": {
+        "numberLong": "1669700105127"
+      }
+    },
+    "draftOrderWorkerId": "1",
+    "processingAt": {
+      "date": {
+        "numberLong": "1669700220010"
+      }
+    },
+    "orderReferenceId": "63859a7c962bac0013f29cfa",
+    "financeOrderId": "5636e080d2fb4500a0667029c308af19",
+    "salesOrderId": "SO-2211290533200553",
+    "orderId": "SSO1-2211290533200553",
+    "orderStatus": "not_confirmed",
+    "orderValue": 27000,
+    "statusMessage": "Order created Successfully"
+  }

@@ -1,0 +1,62 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1668764511451' stop='1668764543334'>
+    <name>Verify OMS test cases</name>
+    <title>Verify OMS test cases</title>
+    <test-cases>
+        <test-case start='1668764511451' status='broken' stop='1668764543334'>
+            <name>E2E flow for SD card</name>
+            <title>E2E flow for SD card</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-107.0.5304.110'/>
+            </parameters>
+            <steps>
+                <step start='1668764511451' status='broken' stop='1668764543334'>
+                    <name>"before each" hook for Verify OMS test cases</name>
+                    <title>"before each" hook for Verify OMS test cases</title>
+                    <attachments/>
+                    <steps>
+                        <step start='1668764511451' status='broken' stop='1668764543334'>
+                            <name>Maximize the window</name>
+                            <title>Maximize the window</title>
+                            <attachments/>
+                            <steps>
+                                <step start='1668764511561' status='passed' stop='1668764515307'>
+                                    <name>Open Byjus OMS page</name>
+                                    <title>Open Byjus OMS page</title>
+                                    <attachments/>
+                                    <steps/>
+                                </step>
+                                <step start='1668764515307' status='passed' stop='1668764543183'>
+                                    <name>Login to the Home page</name>
+                                    <title>Login to the Home page</title>
+                                    <attachments/>
+                                    <steps/>
+                                </step>
+                                <step start='1668764543183' status='broken' stop='1668764543334'>
+                                    <name>Open SSO Id and copy Sku Id</name>
+                                    <title>Open SSO Id and copy Sku Id</title>
+                                    <attachments>
+                                        <attachment title='Screenshot' source='b057b28a-3a9f-433e-970d-255c8f81c706-attachment.png' type='image/png' size='100936'/>
+                                    </attachments>
+                                    <steps/>
+                                </step>
+                            </steps>
+                        </step>
+                    </steps>
+                </step>
+            </steps>
+            <attachments/>
+            <failure>
+                <message>_sdCardAndTabletOrder.default.openSSOIdandCopySkuIdByjusClasses is not a function</message>
+                <stack-trace>TypeError: _sdCardAndTabletOrder.default.openSSOIdandCopySkuIdByjusClasses is not a function
+                    at Context.&lt;anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/omse2eTest.js:18:52)
+                    at processTicksAndRejections (node:internal/process/task_queues:96:5)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

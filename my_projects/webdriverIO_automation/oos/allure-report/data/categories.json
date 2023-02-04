@@ -1,0 +1,224 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "_verifyOmsOrderDetails.default.ordersTab.waitForClickable is not a function",
+      "children" : [ {
+        "name" : "Verify the Addon Items Skus",
+        "uid" : "1aec61bbd0995b76",
+        "parentUid" : "33feee2882ab2004d6e66483877fcf6d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1669285710848,
+          "stop" : 1669285716172,
+          "duration" : 5324
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 7,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-107.0.5304.110" ]
+      } ],
+      "uid" : "33feee2882ab2004d6e66483877fcf6d"
+    }, {
+      "name" : "socket hang up",
+      "children" : [ {
+        "name" : "btlp forward workflow",
+        "uid" : "5a008274e4435daa",
+        "parentUid" : "acc0e27dc4138cc3eedde57beadca7c8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1669642383932,
+          "stop" : 1669642385848,
+          "duration" : 1916
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 31,
+        "retriesStatusChange" : true,
+        "parameters" : [ "chrome-107.0.5304.110" ]
+      }, {
+        "name" : "btlp forward workflow",
+        "uid" : "49f3f9ac3ec3c960",
+        "parentUid" : "acc0e27dc4138cc3eedde57beadca7c8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1669892960674,
+          "stop" : 1669892963506,
+          "duration" : 2832
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 5,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-107.0.5304.121" ]
+      }, {
+        "name" : "btlp forward workflow",
+        "uid" : "cf1894c591489a00",
+        "parentUid" : "acc0e27dc4138cc3eedde57beadca7c8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1670504813417,
+          "stop" : 1670504822477,
+          "duration" : 9060
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 13,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-108.0.5359.94" ]
+      } ],
+      "uid" : "acc0e27dc4138cc3eedde57beadca7c8"
+    }, {
+      "name" : "connect ECONNREFUSED 127.0.0.1:9515",
+      "children" : [ {
+        "name" : "btlp reveres workflow",
+        "uid" : "e21ade09b7de35aa",
+        "parentUid" : "aec83fff697a8a49f6e135cda14baacd",
+        "status" : "broken",
+        "time" : {
+          "start" : 1669642385848,
+          "stop" : 1669642385853,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 31,
+        "retriesStatusChange" : true,
+        "parameters" : [ "chrome-107.0.5304.110" ]
+      }, {
+        "name" : "btlp reveres workflow",
+        "uid" : "40be45cc17102e88",
+        "parentUid" : "aec83fff697a8a49f6e135cda14baacd",
+        "status" : "broken",
+        "time" : {
+          "start" : 1669892963507,
+          "stop" : 1669892963512,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 5,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-107.0.5304.121" ]
+      }, {
+        "name" : "btlp reveres workflow",
+        "uid" : "a89acbd53ce3a1bb",
+        "parentUid" : "aec83fff697a8a49f6e135cda14baacd",
+        "status" : "broken",
+        "time" : {
+          "start" : 1670504822479,
+          "stop" : 1670504822484,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 13,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-108.0.5359.94" ]
+      } ],
+      "uid" : "aec83fff697a8a49f6e135cda14baacd"
+    }, {
+      "name" : "element click intercepted: Element <a href=\"/orders/product-sales-sub-orders/...\">SSO1-2212011415340921</a> is not clickable at point (473, 253). Other element would receive the click: <div tabindex=\"-1\" class=\"overlay\">...</div>\n                  (Session info: chrome=107.0.5304.121)",
+      "children" : [ {
+        "name" : "Verify raise priority option",
+        "uid" : "7786375c0b8de636",
+        "parentUid" : "d3edabad585569eec821181dbe40c107",
+        "status" : "broken",
+        "time" : {
+          "start" : 1669884508496,
+          "stop" : 1669884515612,
+          "duration" : 7116
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-107.0.5304.121" ]
+      } ],
+      "uid" : "d3edabad585569eec821181dbe40c107"
+    }, {
+      "name" : "element (\"button[title='Scan & Assign']\") still not displayed after 5000ms",
+      "children" : [ {
+        "name" : "btlp forward workflow",
+        "uid" : "5e0e2790ae026b46",
+        "parentUid" : "79582090148f8538a238868456c27a1f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1669981018904,
+          "stop" : 1669981200539,
+          "duration" : 181635
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-108.0.5359.71" ]
+      } ],
+      "uid" : "79582090148f8538a238868456c27a1f"
+    }, {
+      "name" : "Cannot read properties of null (reading 'packageDetails')",
+      "children" : [ {
+        "name" : "log in into WMS",
+        "uid" : "20edf205de2c39f0",
+        "parentUid" : "218e5a65c6b0f632e0078fcb9717f3ad",
+        "status" : "broken",
+        "time" : {
+          "start" : 1669981306870,
+          "stop" : 1669981354964,
+          "duration" : 48094
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-108.0.5359.71" ]
+      } ],
+      "uid" : "218e5a65c6b0f632e0078fcb9717f3ad"
+    }, {
+      "name" : "element click intercepted: Element <i class=\"fa fa-bars\"></i> is not clickable at point (1164, 146). Other element would receive the click: <div tabindex=\"-1\" class=\"overlay\">...</div>\n                  (Session info: chrome=108.0.5359.98)",
+      "children" : [ {
+        "name" : "Verifying changing the status to Confirmed and Verify the order status history",
+        "uid" : "71866bb54e8c4b87",
+        "parentUid" : "3848a45114c43abde460dc37231b76f9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1671023855660,
+          "stop" : 1671023862688,
+          "duration" : 7028
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-108.0.5359.98" ]
+      } ],
+      "uid" : "3848a45114c43abde460dc37231b76f9"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ],
+  "name" : "categories"
+}

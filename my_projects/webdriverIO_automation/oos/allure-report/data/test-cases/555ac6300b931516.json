@@ -1,0 +1,377 @@
+{
+  "uid" : "555ac6300b931516",
+  "name" : "Verify the sum of sku values should match the sub total amount",
+  "fullName" : "Validating UKG Single order.Verify the sum of sku values should match the sub total amount",
+  "historyId" : "959d8fe8affb8b8dae0c57a5238a4248",
+  "time" : {
+    "start" : 1669625373168,
+    "stop" : 1669625378233,
+    "duration" : 5065
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 31,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Wait for Toggle button to be Clickable",
+      "time" : {
+        "start" : 1669625373169,
+        "stop" : 0,
+        "duration" : -1669625373169
+      },
+      "status" : "unknown",
+      "steps" : [ {
+        "name" : "Scroll to Toggle button",
+        "time" : {
+          "start" : 1669625373189,
+          "stop" : 0,
+          "duration" : -1669625373189
+        },
+        "status" : "unknown",
+        "steps" : [ {
+          "name" : "Click on Toggle button",
+          "time" : {
+            "start" : 1669625373201,
+            "stop" : 1669625378232,
+            "duration" : 5031
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 2,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the sum of sku values should match the sub total amount"
+  }, {
+    "name" : "package",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.110"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f5195b1b7067d8c4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669615973055,
+        "stop" : 1669615978128,
+        "duration" : 5073
+      }
+    }, {
+      "uid" : "36d47950c0c6cbd8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669609336189,
+        "stop" : 1669609341265,
+        "duration" : 5076
+      }
+    }, {
+      "uid" : "ce927484999c358f",
+      "status" : "broken",
+      "statusDetails" : "element (\"button[title='Toggle to sales SKUs']\") still not clickable after 30000ms",
+      "time" : {
+        "start" : 1669609094997,
+        "stop" : 1669609125181,
+        "duration" : 30184
+      }
+    }, {
+      "uid" : "6099dcd465e29ef0",
+      "status" : "broken",
+      "statusDetails" : "element (\"button[title='Toggle to sales SKUs']\") still not clickable after 30000ms",
+      "time" : {
+        "start" : 1669608921971,
+        "stop" : 1669608952177,
+        "duration" : 30206
+      }
+    }, {
+      "uid" : "faca47f280160e39",
+      "status" : "broken",
+      "statusDetails" : "element (\"button[title='Toggle to sales SKUs']\") still not clickable after 30000ms",
+      "time" : {
+        "start" : 1669608722627,
+        "stop" : 1669608752819,
+        "duration" : 30192
+      }
+    }, {
+      "uid" : "a7e303687fcb6c27",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669552591597,
+        "stop" : 1669552596690,
+        "duration" : 5093
+      }
+    }, {
+      "uid" : "e32280c448ca3a0e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669552433380,
+        "stop" : 1669552491293,
+        "duration" : 57913
+      }
+    }, {
+      "uid" : "8549f59913cea094",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669552230803,
+        "stop" : 1669552235894,
+        "duration" : 5091
+      }
+    }, {
+      "uid" : "87b9bc08fcc5f769",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669551862936,
+        "stop" : 1669551868025,
+        "duration" : 5089
+      }
+    }, {
+      "uid" : "350745b2f8dcbb4f",
+      "status" : "broken",
+      "statusDetails" : "skuName.replace is not a function",
+      "time" : {
+        "start" : 1669551456559,
+        "stop" : 1669551456839,
+        "duration" : 280
+      }
+    }, {
+      "uid" : "69755b4d3f74f571",
+      "status" : "broken",
+      "statusDetails" : "payamentSubTotalAmount.replace is not a function",
+      "time" : {
+        "start" : 1669551242419,
+        "stop" : 1669551242708,
+        "duration" : 289
+      }
+    }, {
+      "uid" : "88c841cccaa9b8df",
+      "status" : "broken",
+      "statusDetails" : "payamentSubTotalAmount.replace is not a function",
+      "time" : {
+        "start" : 1669551113070,
+        "stop" : 1669551113361,
+        "duration" : 291
+      }
+    }, {
+      "uid" : "2a12d2cde1026277",
+      "status" : "broken",
+      "statusDetails" : "Cannot read properties of undefined (reading 'getText')",
+      "time" : {
+        "start" : 1669550873168,
+        "stop" : 1669550873448,
+        "duration" : 280
+      }
+    }, {
+      "uid" : "169d0f3eb1b8ca20",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669549891685,
+        "stop" : 1669549896759,
+        "duration" : 5074
+      }
+    }, {
+      "uid" : "e415024682459824",
+      "status" : "broken",
+      "statusDetails" : "skuName.replace is not a function",
+      "time" : {
+        "start" : 1669549751725,
+        "stop" : 1669549752014,
+        "duration" : 289
+      }
+    }, {
+      "uid" : "5238aed27b28aaaa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669549495843,
+        "stop" : 1669549500936,
+        "duration" : 5093
+      }
+    }, {
+      "uid" : "2d1f8e251fe4c5ff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669549402169,
+        "stop" : 1669549407266,
+        "duration" : 5097
+      }
+    }, {
+      "uid" : "b321055eee227527",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669549238891,
+        "stop" : 1669549245975,
+        "duration" : 7084
+      }
+    }, {
+      "uid" : "def81d8e36897770",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669548726952,
+        "stop" : 1669548732046,
+        "duration" : 5094
+      }
+    }, {
+      "uid" : "a5b3e87203a8b081",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669548597778,
+        "stop" : 1669548602869,
+        "duration" : 5091
+      }
+    }, {
+      "uid" : "36b59c7b68a0d561",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669548444785,
+        "stop" : 1669548449876,
+        "duration" : 5091
+      }
+    }, {
+      "uid" : "a2f4b78881b6c144",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669547272979,
+        "stop" : 1669547272987,
+        "duration" : 8
+      }
+    }, {
+      "uid" : "742b0664bbb1f419",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669547004278,
+        "stop" : 1669547009371,
+        "duration" : 5093
+      }
+    }, {
+      "uid" : "a4bc45957a8d332d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669546573242,
+        "stop" : 1669546578318,
+        "duration" : 5076
+      }
+    }, {
+      "uid" : "1f7d34c0d684b853",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669546467647,
+        "stop" : 1669546467739,
+        "duration" : 92
+      }
+    }, {
+      "uid" : "f9957a8483a787ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669546319213,
+        "stop" : 1669546319309,
+        "duration" : 96
+      }
+    }, {
+      "uid" : "33dc1d2d958e9f56",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669546232452,
+        "stop" : 1669546232542,
+        "duration" : 90
+      }
+    }, {
+      "uid" : "4700ee963c824ac9",
+      "status" : "broken",
+      "statusDetails" : "File does not exist. Check to make sure the file path to your csv is correct.",
+      "time" : {
+        "start" : 1669546002672,
+        "stop" : 1669546002947,
+        "duration" : 275
+      }
+    }, {
+      "uid" : "d4caea9b1dc8d452",
+      "status" : "broken",
+      "statusDetails" : "File does not exist. Check to make sure the file path to your csv is correct.",
+      "time" : {
+        "start" : 1669545933957,
+        "stop" : 1669545934234,
+        "duration" : 277
+      }
+    }, {
+      "uid" : "eed144c3027fce4f",
+      "status" : "broken",
+      "statusDetails" : "File does not exist. Check to make sure the file path to your csv is correct.",
+      "time" : {
+        "start" : 1669545438421,
+        "stop" : 1669545438695,
+        "duration" : 274
+      }
+    }, {
+      "uid" : "bd353b171589b404",
+      "status" : "broken",
+      "statusDetails" : "element (\"//button/i[@class='fa bjs-toggle fa-flip-horizontal']\") still not clickable after 30000ms",
+      "time" : {
+        "start" : 1669380246840,
+        "stop" : 1669380277050,
+        "duration" : 30210
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "555ac6300b931516.json",
+  "parameterValues" : [ "chrome-107.0.5304.110" ]
+}
