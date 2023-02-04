@@ -1,0 +1,21 @@
+{
+    "paymentstatus" : "success",
+    "history" : [],
+    "salesEmail" : "pooja.a@byjus.com",
+    "customer_name" : "siddharth",
+    "amount" : 1070,
+    "customerEmail" : "swathirao2189@gmail.com",
+    "phno" : "8050018690",
+    "course" : "Aakash crp order",
+    "paytmid" : "BPTM2111050809526424",
+    "linkId" : "LI_131785",
+    "paymentUrl" : "https://securegw-stage.paytm.in/link/BYJUS/LL_131785",
+    "location" : "Bangalore",
+    "campaign" : "Aakash BST",
+    "createdBy" : "swathi.santosh@byjus.com",
+    "orders" : [ ],
+    "createdAt" : "2021-11-05T08:09:53.415Z",
+    "updatedAt" : "2021-11-05T08:09:53.415Z",
+    "__v" : 0,
+    "customerId" : "CX-2110130504352714"
+}

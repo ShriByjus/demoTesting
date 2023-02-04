@@ -1,0 +1,54 @@
+{
+  "name": "byjus-qa-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress": "cypress open",
+    "test": "node_modules\\.bin\\cypress run",
+    "headTest": "npm run test —headed",
+    "chromeBrowserTest": "npm run test — —browser chrome —config pageLoadTimeOut =10000",
+    "comboTLPGpaySuite": "cypress run --record --key 3fd1a548-3a99-4666-8f54-1bcc78ec5359 --spec 'cypress/integration/kart/kart-test-scripts/tlp-orders/combo-tlp-orders-gpay/*.js'",
+    "comboTLPSplitGpaySuite": "cypress run --record --key 3fd1a548-3a99-4666-8f54-1bcc78ec5359 --spec 'cypress/integration/kart/kart-test-scripts/tlp-orders/combo-tlp-split-orders-byjusassure-gpay/*.js'",
+    "competitiveTLPGpaySuite": "cypress run --record --key 3fd1a548-3a99-4666-8f54-1bcc78ec5359 --spec 'cypress/integration/kart/kart-test-scripts/tlp-orders/competitive-tlp-orders-gpay/*.js'",
+    "competitveTLPPayuSuite": "cypress run --record --key 3fd1a548-3a99-4666-8f54-1bcc78ec5359 --spec 'cypress/integration/kart/kart-test-scripts/tlp-orders/competitive-tlp-orders-payu/*.js'",
+    "siblingTLPGpaySuite": "cypress run --record --key 3fd1a548-3a99-4666-8f54-1bcc78ec5359 --spec 'cypress/integration/kart/kart-test-scripts/tlp-orders/sibling-tlp-orders-gpay/*.js'",
+    "singleTLPChequeSuite": "cypress run --record --key 3fd1a548-3a99-4666-8f54-1bcc78ec5359 --spec 'cypress/integration/kart/kart-test-scripts/tlp-orders/single-tlp-orders-cheque/*.js'",
+    "streamingTLPGpaySuite": "cypress run --record --key 3fd1a548-3a99-4666-8f54-1bcc78ec5359 --spec 'cypress/integration/kart/kart-test-scripts/tlp-orders/streaming-tlp-orders-gpay/*.js'",
+    "streamingTLPPayuSuite": "cypress run --record --key 3fd1a548-3a99-4666-8f54-1bcc78ec5359 --spec 'cypress/integration/kart/kart-test-scripts/tlp-orders/streaming-tlp-orders-payu/*.js'",
+    "functionalSuite": "npm run test --record --key 3fd1a548-3a99-4666-8f54-1bcc78ec5359 --spec 'cypress/integration/kart/karttestscripts/*.js'",
+    "functionalSuitWithoutDashboard": "npm run test —spec 'cypress/integration/kart/kart-test-scripts/byjus-class-orders/single-class-annual-orders/single-byjus-class-avanse-orders/singleClass5CdseAvanse.js' —reporter mochawesome"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byjus-orders/byjus-qa-automation.git"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/byjus-orders/byjus-qa-automation/issues"
+  },
+  "homepage": "https://github.com/byjus-orders/byjus-qa-automation#readme",
+  "devDependencies": {
+    "cypress": "^8.7.0",
+    "cypress-cucumber-preprocessor": "^4.1.4",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-iframe": "^1.0.1",
+    "cypress-mochawesome-reporter": "^2.3.0",
+    "dotenv": "^10.0.0",
+    "faker": "^5.5.3",
+    "match": "^1.2.10",
+    "mocha": "^5.2.0",
+    "mochawesome": "^6.3.0",
+    "mochawesome-merge": "^4.2.0",
+    "mochawesome-report-generator": "^5.2.0",
+    "moment": "^2.29.1",
+    "mongodb": "^4.1.3"
+  },
+  "dependencies": {
+    "i": "^0.3.7"
+  }
+}

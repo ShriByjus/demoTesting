@@ -1,0 +1,32 @@
+{ 
+    
+    "customFields" : {
+        "invoiceId" : "inv_IAhSJIkLGher4J", 
+        "paymentType" : "link", 
+        "orderId" : "order_IAhSJK57mawKW9"
+    }, 
+    "comments" : [
+
+    ], 
+    "orgFormattedName" : [
+        "byjus"
+    ], 
+    "customerName" : "shruti", 
+    "salesEmail" : "pooja.a@byjus.com", 
+    "amount" : 1, 
+    "location" : null, 
+    "campaign" : null, 
+    "customerEmail" : "gowthami.k@byjus.com", 
+    "courseDescription" : "Automation testing", 
+    "customerPhone" : "9743473424", 
+    "type" : "", 
+    "subDepartment" : "", 
+    "department" : "", 
+    "referenceId" : "BRZR949687421", 
+    "status" : "SUCCESS", 
+    "paymentUrl" : "https://rzp.io/i/Ez5vC8yY", 
+    "orders" : [], 
+    "createdAt" : "2021-10-18T06:26:36.575+0000", 
+    "updatedAt" : "2021-10-18T06:26:36.582+0000", 
+    "__v" : 0
+}

@@ -1,0 +1,301 @@
+{  
+    "loanDetails" : {
+        "totalPaidAmount" : 0, 
+        "tenure" : 12, 
+        "emi" : 3640, 
+        "nachRegStatus" : "dest_register_success", 
+        "nachType" : "pnach", 
+        "umrn" : "SBIN0000000050977730"
+    }, 
+    "nachDetails" : {
+        "hasBorder" : "no", 
+        "isFilledNachUploaded" : false, 
+        "relaunch" : "", 
+        "relaunchCount" : 0, 
+        "nachAgent" : "", 
+        "nachId" : "", 
+        "signStatus" : "", 
+        "sponsorBankStatus" : "", 
+        "umrn" : "", 
+        "registrationStatus" : "", 
+        "rejectedReason" : "", 
+        "autoRelaunch" : false, 
+        "isPnachUploaded" : false, 
+        "generatedNachCount" : 1, 
+        "picGeneratedNachCount" : 0, 
+        "bankDetails" : {
+            "accountNumber" : "32219572065", 
+            "ifsc" : "SBIN0000174", 
+            "bankName" : "State Bank of India", 
+            "accountType" : "savings", 
+            "name" : "Rajeev Kumar"
+        }, 
+        "corporateConfigId" : "TSE200731103824889O1CNNCPN6IWT2X", 
+        "nachStartDate" : "2020-09-15T00:00:00.000Z", 
+        "registrationAt" : "2020-09-16T21:41:12.000Z", 
+        "signAt" : "2020-11-30T06:31:32.096Z", 
+        "sponsorBank" : "ICICI Bank Ltd", 
+        "sponsorBankAt" : "2020-11-30T10:59:11.054Z", 
+        "umrnAt" : "2020-12-22T11:17:40.000Z", 
+        "utilityCode" : "UTIB01873000028707", 
+        "filledNachMandate" : {
+            "url" : "https://byjus-oms.s3.ap-southeast-1.amazonaws.com/cibil/20201016001326781/filledNachMandate-2011291141096749.jpg", 
+            "format" : "jpeg"
+        }, 
+        "updatedAt" : "2020-11-29T11:41:32.950Z", 
+        "updatedBy" : "chethan.y@byjus.com", 
+        "signedAmount" : 44000, 
+        "remarks" : "Auto-Generated filled mandate submitted to digio", 
+        "tat" : 27, 
+        "rejectionCode" : null
+    }, 
+    "enachDetails" : {
+        "relaunch" : "", 
+        "relaunchCount" : 0, 
+        "nachAgent" : "", 
+        "nachId" : "", 
+        "signStatus" : "", 
+        "umrn" : "", 
+        "registrationStatus" : "", 
+        "rejectedReason" : ""
+    }, 
+    "emandateDetails" : {
+        "relaunch" : "NA", 
+        "relaunchCount" : 0, 
+        "nachAgent" : "", 
+        "nachId" : "", 
+        "signStatus" : "signed", 
+        "umrn" : "SBIN00002123098271231", 
+        "registrationStatus" : "", 
+        "rejectedReason" : "", 
+        "bankDetails" : {
+            "accountType" : "savings", 
+            "bankName" : "State Bank of India", 
+            "name" : "shruti", 
+            "ifsc" : "SBIN0000174", 
+            "accountNumber" : "32219572065"
+        }, 
+        "source" : "icici", 
+        "enachMandateUrl" : "https://app.digio.in/#/gateway/login/ENA201016124647390NHKQHJ95PRULAP/20201016001326781/9709336335", 
+        "enachMandateUrlGeneratedAt" : "2020-10-22T01:51:54.522Z", 
+        "updatedBy" : "utkarsh.tomar@byjus.com", 
+        "updatedAt" : "2020-10-22T01:51:54.522Z", 
+        "corporateConfigId" : "TSE200731103824889O1CNNCPN6IWT2X", 
+        "registrationAt" : null, 
+        "signAt" : "2020-10-16T12:46:47.000Z", 
+        "sponsorBank" : "ICICI Bank Ltd", 
+        "umrnAt" : null, 
+        "utilityCode" : "UTIB01873000028707", 
+        "remarks" : "Due to link expired relaunch option provided manually"
+    }, 
+    "status" : "active", 
+    "assignedTo" : [
+
+    ], 
+    "isActive" : true, 
+    "amountModificationRequested" : false, 
+    "appId" : "20201016001567656", 
+    "providerStatus" : "REJECTED", 
+    "customerDetails" : {
+        "firstName" : "Name", 
+        "lastName" : "Rajeev Kumar", 
+        "dateOfBirth" : "12-12-1970", 
+        "gender" : "male"
+    }, 
+    "contactDetails" : {
+        "mobileNo" : "9709336335", 
+        "addressLine1" : "Tajpur Road, dudhpura", 
+        "addressLine2" : "", 
+        "addressLine3" : "Samastipur", 
+        "city" : "Samastipur", 
+        "pincode" : "848101", 
+        "state" : "Bihar", 
+        "street" : "s/o  birendra prasad, ward 13", 
+        "email" : "therajsansi@gmail.com"
+    }, 
+    "salesEmail" : "pooja.a@byjus.com", 
+    "campaign" : "Bangalore", 
+    "location" : "Bangalore", 
+    "statusHistory" : [
+        {
+            "_id" : "5f8945daff43ffcd55f815cd", 
+            "status" : "INITIATED", 
+            "updatedBy" : "iciciSystem", 
+            "updatedAt" : "2020-10-16T07:03:54.402Z"
+        }, 
+        {
+            "_id" : "5f894764ff43ff81b1f8169e", 
+            "status" : "PRE_APPROVED", 
+            "updatedBy" : "iciciSystem", 
+            "updatedAt" : "2020-10-16T07:10:28.522Z"
+        }, 
+        {
+            "_id" : "5f89477cff43ff27a4f816b0", 
+            "status" : "APPROVED", 
+            "updatedBy" : "iciciSystem", 
+            "updatedAt" : "2020-10-16T07:10:52.396Z"
+        }, 
+        {
+            "_id" : "5f8fc19e4231e0752d59cc73", 
+            "status" : "TERMS_AND_CONDITIONS_ACCEPTED", 
+            "updatedBy" : "iciciSystem", 
+            "updatedAt" : "2020-10-21T05:05:34.522Z"
+        }, 
+        {
+            "_id" : "5f90e5bab7c3405294fabd4c", 
+            "status" : "DATA_UPDATE", 
+            "updatedBy" : "iciciSystem", 
+            "updatedAt" : "2020-10-22T01:51:54.521Z"
+        }, 
+        {
+            "_id" : "5f90e5c8b7c340105dfabd4e", 
+            "status" : "DOCUMENTS_UPLOAD", 
+            "updatedBy" : "iciciSystem", 
+            "updatedAt" : "2020-10-22T01:52:08.534Z"
+        }, 
+        {
+            "_id" : "5f91070eb7c340384ffabf56", 
+            "status" : "doc_approved", 
+            "updatedBy" : "vivian.deol@byjus.com", 
+            "updatedAt" : "2020-10-22T04:14:06.368Z"
+        }, 
+        {
+            "_id" : "6001740229880e6563200d4c", 
+            "status" : "REJECTED", 
+            "updatedBy" : "iciciSystem", 
+            "updatedAt" : "2021-01-15T10:52:50.472Z"
+        }
+    ], 
+    "emiSchedules" : [
+
+    ], 
+    "orders" : [
+        {
+            "orderId" : "SSO1-2010220430010245", 
+            "orderStatus" : "delivered", 
+            "orderType" : "SPLIT_PARENT", 
+            "statusChangedAt" : "2020-10-27T09:05:31.835Z", 
+            "orderCreatedAt" : "2020-10-22T04:25:21.507Z", 
+            "orderUpdatedAt" : "2020-10-27T09:05:31.835Z"
+        }, 
+        {
+            "orderId" : "SSO2-2010220430010245", 
+            "orderStatus" : "not_confirmed", 
+            "orderType" : "SPLIT_CHILD", 
+            "statusChangedAt" : "2020-10-22T04:30:02.793Z", 
+            "orderCreatedAt" : "2020-10-22T04:25:21.507Z"
+        }, 
+        {
+            "orderId" : "SO-2110061215000196", 
+            "orderStatus" : "confirmed", 
+            "orderType" : "SPLIT", 
+            "statusChangedAt" : "2021-07-21T08:55:44.174Z", 
+            "orderCreatedAt" : "2021-10-06T12:14:46.636+0000", 
+            "dpMethods" : [
+                "GPAY"
+            ], 
+            "dpAmount" : 5000.0, 
+            "orderUpdatedAt" : "2021-10-06T12:26:13.214+0000"
+        }
+    ], 
+    "manualPayments" : [
+
+    ], 
+    "createdAt" : "2021-10-04T07:03:54.409+0000", 
+    "updatedAt" : "2021-10-04T10:52:50.472+0000", 
+    "__v" : 0, 
+    "bankDetails" : {
+        "name" : "Rajeev Kumar", 
+        "bankName" : "State Bank of India", 
+        "accountNo" : "32219572065", 
+        "ifsc" : "SBIN0000174", 
+        "accountType" : "savings"
+    }, 
+    "bureauName" : "cibil", 
+    "cibilScore" : 794, 
+    "documents" : {
+        "idProof" : {
+            "format" : "jpg", 
+            "url" : "https://ezcred-uploads.s3.ap-south-1.amazonaws.com/prod/documents/69830/KycOsvIdProof/IMG-20201016-WA0018_20201016_161850_642.jpg"
+        }, 
+        "bankDetailsProof" : {
+            "format" : "jpg", 
+            "url" : "https://ezcred-uploads.s3.ap-south-1.amazonaws.com/prod/documents/69830/CancelledCheque/1602849144944_1602849190418.jpg"
+        }, 
+        "addressProofFrontSide" : {
+            "format" : "jpg", 
+            "url" : "https://ezcred-uploads.s3.ap-south-1.amazonaws.com/prod/documents/69830/KycOsvAddressProofFrontMasked/mask_failed_IMG-20201016-WA0017_20201016_161851_604.jpg"
+        }, 
+        "addressProofBackSide" : {
+            "format" : "jpg", 
+            "url" : "https://ezcred-uploads.s3.ap-south-1.amazonaws.com/prod/documents/69830/KycOsvAddressProofBackMasked/mask_failed_IMG-20201016-WA0019_20201016_161852_206.jpg"
+        }, 
+        "applicantLivePhoto" : {
+            "format" : "jpg", 
+            "url" : "https://ezcred-uploads.s3.ap-south-1.amazonaws.com/prod/documents/69830/CustomerImage/AVATAR.jpg"
+        }, 
+        "generatedNachMandate" : {
+            "url" : "https://byjus-oms.s3.ap-southeast-1.amazonaws.com/cibil/20201016001326781/generatedNachMandate-2011291141329521.pdf", 
+            "format" : "pdf"
+        }, 
+        "filledNachMandate" : {
+            "url" : "https://byjus-oms.s3.ap-southeast-1.amazonaws.com/cibil/20201016001326781/filledNachMandate-2011291141096749.jpg", 
+            "format" : "jpeg"
+        }, 
+        "nachMandate" : {
+            "url" : "https://byjus-oms.s3.ap-southeast-1.amazonaws.com/cibil/20201016001326781/filledNachMandate-2011291141096749.jpg", 
+            "format" : "jpeg"
+        }
+    }, 
+    "identifierDetails" : {
+        "panNo" : "AITPK9781B"
+    }, 
+    "requestedLoanAmount" : 44000, 
+    "amount" : 50000, 
+    "approvedLoanAmount" : 44000, 
+    "cibilFirstEmiDate" : "2020-12-05T00:00:00.000Z", 
+    "disbursedLoanAmount" : 40743, 
+    "lenderDecision" : "Approved", 
+    "surrogate" : "BUREAU_SURROGATE", 
+    "eligibleForEmandate" : "Yes", 
+    "managerApprovalStatus" : "approved", 
+    "kycDetails" : {
+        "uniqueReference" : "BJY_132678121515", 
+        "status" : "COMPLETED", 
+        "completedAt" : "2020-10-22T00:00:00.000Z"
+    }, 
+    "pNachDeliveryAddress" : {
+        "addressLine1" : "Tajpur Road, dudhpura", 
+        "addressLine2" : "", 
+        "addressLine3" : "Samastipur", 
+        "street" : "s/o  birendra prasad, ward 13", 
+        "city" : "Samastipur", 
+        "state" : "Bihar", 
+        "pincode" : "848101"
+    }, 
+    "agNachEmailedAt" : "2021-10-05T02:17:53.478Z", 
+    "approvedBy" : "vivian.deol@byjus.com", 
+    "docVerifiedAt" : "2021-10-05T04:14:06.368Z", 
+    "lvStage" : "Refund Request", 
+    "actionDetails" : {
+        "initiatedAt" : "2020-10-16T07:03:54.402Z", 
+        "initiatedBy" : "iciciSystem", 
+        "preApprovedAt" : "2020-10-16T07:10:28.522Z", 
+        "preApprovedBy" : "iciciSystem", 
+        "approvedAt" : "2020-10-16T07:10:52.396Z", 
+        "approvedBy" : "iciciSystem", 
+        "termsAndConditionsAcceptedAt" : "2020-10-21T05:05:34.522Z", 
+        "termsAndConditionsAcceptedBy" : "iciciSystem", 
+        "dataUpdateAt" : "2020-10-22T01:51:54.521Z", 
+        "dataUpdateBy" : "iciciSystem", 
+        "documentsUploadAt" : "2020-10-22T01:52:08.534Z", 
+        "documentsUploadBy" : "iciciSystem", 
+        "docApprovedAt" : "2020-10-22T04:14:06.368Z", 
+        "docApprovedBy" : "vivian.deol@byjus.com", 
+        "rejectedAt" : "2021-01-15T10:52:50.472Z", 
+        "rejectedBy" : "iciciSystem"
+    }, 
+    "customerId" : "CX-2110060727479800", 
+    "rejectionReason" : "Loan Rejected.", 
+    "orgFormattedName" : "byjus"
+}
