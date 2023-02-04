@@ -1,0 +1,248 @@
+{ 
+    
+    "loanDetails" : {
+        "totalPaidAmount" : 0, 
+        "tenure" : 12, 
+        "emi" : "3333", 
+        "emiCycle" : null, 
+        "nachRegStatus" : "dest_register_success", 
+        "nachType" : "emandate", 
+        "umrn" : "SBIN7012611200006405"
+    }, 
+    "nachDetails" : {
+        "hasBorder" : "", 
+        "isFilledNachUploaded" : false, 
+        "relaunch" : "NA", 
+        "relaunchCount" : 0, 
+        "nachAgent" : "digio", 
+        "nachId" : "", 
+        "signStatus" : "", 
+        "sponsorBankStatus" : "", 
+        "umrn" : "", 
+        "registrationStatus" : "", 
+        "rejectedReason" : "", 
+        "autoRelaunch" : false, 
+        "isPnachUploaded" : false, 
+        "generatedNachCount" : 0, 
+        "picGeneratedNachCount" : 0
+    }, 
+    "enachDetails" : {
+        "relaunch" : "NA", 
+        "relaunchCount" :0, 
+        "nachAgent" : "digio", 
+        "nachId" : "", 
+        "signStatus" : "", 
+        "umrn" : "", 
+        "registrationStatus" : "", 
+        "rejectedReason" : ""
+    }, 
+    "emandateDetails" : {
+        "relaunch" : "NA", 
+        "relaunchCount" : 0, 
+        "nachAgent" : "digio", 
+        "nachId" : "ENA201126104755882FF62P9PKSD6EAP", 
+        "signStatus" : "signed", 
+        "umrn" : "SBIN7012611200006405", 
+        "registrationStatus" : "dest_register_success", 
+        "rejectedReason" : "", 
+        "signAt" : "2020-11-26T05:19:52.000Z", 
+        "updatedBy" : "anushka.a@byjus.com", 
+        "updatedAt" : "2020-11-26T05:17:56.426Z", 
+        "nachStartDate" : "2021-01-07T00:00:00.000Z", 
+        "source" : "payment", 
+        "sponsorBank" : "Kotak Mahindra Bank Ltd", 
+        "utilityCode" : "NACH00000000025333", 
+        "corporateConfigId" : "TSE200929095207093235V2OMN81PSH8", 
+        "enachMandateUrl" : "https://app.digio.in/#/gateway/login/ENA201126104755882FF62P9PKSD6EAP/94648406985224/8009200003", 
+        "enachMandateUrlGeneratedAt" : "2020-11-26T05:17:56.426Z", 
+        "signedAmount" : 40000, 
+        "bankDetails" : {
+            "accountNumber" : "00000032579451786", 
+            "ifsc" : "SBIN0004705", 
+            "bankName" : "STATE BANK OF INDIA", 
+            "accountType" : "savings", 
+            "name" : "AMAN  RAJPUT"
+        }, 
+        "rejectionCode" : "", 
+        "umrnAt" : "2020-11-27T17:37:03.000Z", 
+        "registrationAt" : "2020-11-27T17:37:03.000Z"
+    }, 
+    "documents" : {
+        "nachMandate" : {
+            "isDocUploaded" : false
+        }, 
+        "pan" : {
+            "url" : "https://byjus-oms.s3.ap-southeast-1.amazonaws.com/kotakloandocuments/94648406985224/pan-2011270615199759.jpg", 
+            "format" : "jpeg", 
+            "uploadedBy" : "sappaga.ramesh@byjus.com", 
+            "uploadedAt" : "2020-11-27T06:15:19.609Z"
+        }, 
+        "aadharFrontSide" : {
+            "isDocUploaded" : false, 
+            "url" : "https://byjus-oms.s3.ap-southeast-1.amazonaws.com/kotakloandocuments/94648406985224/aadharFrontSide-201126053356124.jpg", 
+            "format" : "jpeg"
+        }, 
+        "aadharBackSide" : {
+            "isDocUploaded" : false, 
+            "format" : "jpeg", 
+            "uploadedAt" : "2020-11-26T05:26:24.998Z", 
+            "uploadedBy" : "anushka.a@byjus.com", 
+            "url" : "https://s3-ap-southeast-1.amazonaws.com/byjus-oms/kotak/94648406985224/aadharBackSide-cibil-20201126_10565340.jpeg"
+        }, 
+        "cancelledChequeOrBankStatement" : {
+            "url" : "https://byjus-oms.s3.ap-southeast-1.amazonaws.com/kotakloandocuments/94648406985224/cancelledChequeOrBankStatement-201126053817824.jpg", 
+            "format" : "jpeg", 
+            "uploadedBy" : "sappaga.ramesh@byjus.com", 
+            "uploadedAt" : "2020-11-26T05:38:17.822Z"
+        }, 
+        "bankStatement" : {
+            "isDocUploaded" : false
+        }, 
+        "applicantLivePhoto" : {
+            "isDocUploaded" : false, 
+            "format" : "jpeg", 
+            "uploadedAt" : "2020-11-26T05:27:49.633Z", 
+            "uploadedBy" : "anushka.a@byjus.com", 
+            "url" : "https://s3-ap-southeast-1.amazonaws.com/byjus-oms/kotak/94648406985224/applicantLivePhoto-cibil-20201126_10571770.jpeg"
+        }, 
+        "loanAgreement1" : {
+            "isDocUploaded" : false
+        }, 
+        "loanAgreement2" : {
+            "isDocUploaded" : false
+        }, 
+        "invoice" : {
+            "isDocUploaded" : false
+        }, 
+        "filledNachMandate" : {
+            "isDocUploaded" : false
+        }, 
+        "esignedLoanAgreement" : {
+            "url" : "https://byjus-oms.s3.ap-southeast-1.amazonaws.com/cibil/94648406985224/esignedLoanAgreement-2011260532189500.pdf", 
+            "format" : "pdf", 
+            "uploadedBy" : "SYSTEM", 
+            "uploadedAt" : "2020-11-26T05:32:19.031Z"
+        }
+    }, 
+    "isActive" : true, 
+    "assignedTo" : [
+
+    ], 
+    "status" : "doc_approved", 
+    "appId" : "94648406985211", 
+    "tenure" : 12, 
+    "emiAmount" : 3333, 
+    "cibilFirstEmiDate" : "2021-01-07T00:00:00.000Z", 
+    "customerDetails" : {
+        "firstName" : "Shruti", 
+        "middleName" : "", 
+        "lastName" : "A", 
+        "fatherName" : "JAGDISH VERMA", 
+        "motherName" : "SUSHILA VERMA", 
+        "spouseName" : "N/A", 
+        "dateOfBirth" : "1994-06-13T18:30:00.000Z", 
+        "gender" : "Male", 
+        "maritalStatus" : "Married", 
+        "education" : "Graduate", 
+        "employment" : "Self Employed Professional", 
+        "incomeSlab" : "200001 - 500000", 
+        "companyName" : "AMAN RAJPUT TEXTILE", 
+        "officeAddress" : "125-A MANOHAR NAGAR UTTARPRADESH"
+    }, 
+    "contactDetails" : [
+        {
+            "_id" : "5fbf3f1b42295cab10f675b4", 
+            "address1" : "125-A MANOHAR NAGAR BARRA 2", 
+            "address2" : "125-A MANOHAR NAGAR BARRA 2", 
+            "city" : "KARIMNAGAR", 
+            "state" : "UTTAR PRADESH", 
+            "pincode" : "208027", 
+            "mobileNo" : "900000000", 
+            "alternateMobileNo" : "900000009", 
+            "email" : "aman.raj012@gmail.com", 
+            "landmark" : "KANPUR NAGAR", 
+            "propertyType" : "01"
+        }
+    ], 
+    "identifierDetails" : {
+        "panNo" : "BWOPR0381J"
+    }, 
+    "bankDetails" : {
+        "name" : "Shruti", 
+        "bankName" : "STATE BANK OF INDIA", 
+        "accountType" : "savings", 
+        "accountNo" : "00000032579451786", 
+        "ifsc" : "SBIN0004705"
+    }, 
+    "amount" :1, 
+    "salesEmail" : "pooja.a@byjus.com", 
+    "campaign" : "Bangalore", 
+    "location" : "Bangalore", 
+    "approvedBy" : "sappaga.ramesh@byjus.com", 
+    "cdNumber" : "CD76419755", 
+    "eligibleForEnach" : "No", 
+    "eligibleForEmandate" : "Yes", 
+    "abb" : 0, 
+    "pennyDropResponse" : {
+        "status" : true, 
+        "referenceId" : "AFXPBUCXQRQM3IH", 
+        "providerName" : "digio", 
+        "receiverName" : "Mr  AMAN  RAJPUT", 
+        "fuzzyScore" : 88, 
+        "accountNumber" : "00000032579451786", 
+        "ifsc" : "SBIN0004705", 
+        "errorReason" : null, 
+        "createdAt" : null, 
+        "providerCode" : null
+    }, 
+    "statusHistory" : [
+        {
+            "_id" : "5fbf3f1b42295c4445f675b5", 
+            "status" : "doc_approved", 
+            "updatedBy" : "sappaga.ramesh@byjus.com", 
+            "updatedAt" : "2020-11-26T05:37:31.027Z"
+        }
+    ], 
+    "agNachEmailedAt" : null, 
+    "assignedBy" : "", 
+    "orders" : [
+        {
+            "orderId" : "SSO1-2011260550100386", 
+            "orderStatus" : "hold", 
+            "orderType" : "SPLIT_PARENT", 
+            "statusChangedAt" : "2020-11-26T11:34:31.183Z", 
+            "orderCreatedAt" : "2020-11-26T05:47:33.374Z", 
+            "orderUpdatedAt" : "2020-11-26T11:34:31.183Z"
+        }, 
+        {
+            "orderId" : "SSO2-2011260550100386", 
+            "orderStatus" : "not_confirmed", 
+            "orderType" : "SPLIT_CHILD", 
+            "statusChangedAt" : "2020-11-26T05:50:13.821Z", 
+            "orderCreatedAt" : "2020-11-26T05:47:33.374Z"
+        }, 
+        {
+            "orderId" : "SO-2105031345000921", 
+            "orderStatus" : "returned", 
+            "orderType" : "SINGLE", 
+            "statusChangedAt" : "2021-05-10T10:25:37.559+0000", 
+            "orderCreatedAt" : "2021-05-03T13:44:02.568+0000", 
+            "orderUpdatedAt" : "2021-05-10T10:25:39.399+0000"
+        }
+    ], 
+    "emiSchedules" : [
+
+    ], 
+    "loanHistory" : [
+
+    ], 
+    "createdAt" : "2020-11-26T05:37:31.054+0000", 
+    "updatedAt" : "2020-11-27T17:37:52.400Z", 
+    "__v" : 0, 
+    "actionDetails" : {
+        "docApprovedAt" : "2020-11-26T05:37:31.027+0000", 
+        "docApprovedBy" : "sappaga.ramesh@byjus.com"
+    }, 
+    "customerId" : "CX-2105031337000967", 
+    "orgFormattedName" : "byjus"
+}

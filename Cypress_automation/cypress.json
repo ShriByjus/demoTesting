@@ -1,0 +1,26 @@
+{
+    "projectId": "6jt5u3",
+    "testFiles": "**/*.*",
+    "experimentalStudio": true,
+    "watchForFileChanges": false,
+    "retries": {
+        "runMode": 2,
+        "openMode": 0
+    },
+    "reporter": "cypress-mochawesome-reporter",
+    "reporterOptions": {
+        "reportDir": "cypress/report",
+        "charts": true,
+        "reportPageTitle": "Kart Test Scripts",
+        "embeddedScreenshots": true
+    },
+    "env": {
+        "db": {
+            "host": "XXXXX.amazonaws.com",
+            "user": "XXX",
+            "password": "XXX",
+            "database": "XXXX"
+        },
+        "single_tlp_orders_fd": "./cypress/integration/kart/orders/orders.json"
+    }
+}
