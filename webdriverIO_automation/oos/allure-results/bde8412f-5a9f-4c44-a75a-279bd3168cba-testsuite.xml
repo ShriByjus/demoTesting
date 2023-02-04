@@ -1,0 +1,21 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1669383718383' stop='1669383770634'>
+    <name>btlp workflow</name>
+    <title>btlp workflow</title>
+    <test-cases>
+        <test-case start='1669383718383' status='passed' stop='1669383770632'>
+            <name>Adding json to collections for generating the Order Id</name>
+            <title>Adding json to collections for generating the Order Id</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-107.0.5304.110'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

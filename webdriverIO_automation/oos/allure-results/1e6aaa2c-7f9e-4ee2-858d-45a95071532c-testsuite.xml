@@ -1,0 +1,303 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1669270195045' stop='1669270262943'>
+    <name>Validating UKG Single order</name>
+    <title>Validating UKG Single order</title>
+    <test-cases>
+        <test-case start='1669270195045' status='passed' stop='1669270200634'>
+            <name>Adding json to collections for generating the Order Id</name>
+            <title>Adding json to collections for generating the Order Id</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-107.0.5304.110'/>
+            </parameters>
+            <steps>
+                <step start='1669270195046' status='undefined'>
+                    <name>Adding order to Sales order Collection</name>
+                    <title>Adding order to Sales order Collection</title>
+                    <attachments/>
+                    <steps>
+                        <step start='1669270197114' status='undefined'>
+                            <name>Adding order to Sales Sub order Collection</name>
+                            <title>Adding order to Sales Sub order Collection</title>
+                            <attachments/>
+                            <steps>
+                                <step start='1669270198658' status='passed' stop='1669270200633'>
+                                    <name>Adding order to draft order Collection</name>
+                                    <title>Adding order to draft order Collection</title>
+                                    <attachments/>
+                                    <steps/>
+                                </step>
+                            </steps>
+                        </step>
+                    </steps>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1669270200635' status='passed' stop='1669270227084'>
+            <name>log in into oms</name>
+            <title>log in into oms</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-107.0.5304.110'/>
+            </parameters>
+            <steps>
+                <step start='1669270200636' status='undefined'>
+                    <name>Maximize the window</name>
+                    <title>Maximize the window</title>
+                    <attachments/>
+                    <steps>
+                        <step start='1669270200773' status='passed' stop='1669270203329'>
+                            <name>Open Byjus OMS page</name>
+                            <title>Open Byjus OMS page</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1669270203329' status='undefined'>
+                            <name>Login to the Home page</name>
+                            <title>Login to the Home page</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                    </steps>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1669270227084' status='passed' stop='1669270232131'>
+            <name>Verifying the Sales order Id details</name>
+            <title>Verifying the Sales order Id details</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-107.0.5304.110'/>
+            </parameters>
+            <steps>
+                <step start='1669270227084' status='undefined'>
+                    <name>Verifying the Sales order Id details</name>
+                    <title>Verifying the Sales order Id details</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1669270232131' status='passed' stop='1669270232679'>
+            <name>Verify PID is generated</name>
+            <title>Verify PID is generated</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-107.0.5304.110'/>
+            </parameters>
+            <steps>
+                <step start='1669270232132' status='undefined'>
+                    <name>Scroll to PID button</name>
+                    <title>Scroll to PID button</title>
+                    <attachments/>
+                    <steps>
+                        <step start='1669270232667' status='passed' stop='1669270232679'>
+                            <name>Verify the PID is displayed</name>
+                            <title>Verify the PID is displayed</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                    </steps>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1669270232679' status='passed' stop='1669270238824'>
+            <name>Verify the shipment skus and skus name</name>
+            <title>Verify the shipment skus and skus name</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-107.0.5304.110'/>
+            </parameters>
+            <steps>
+                <step start='1669270235837' status='undefined'>
+                    <name>Validate the shipment sku's</name>
+                    <title>Validate the shipment sku's</title>
+                    <attachments/>
+                    <steps>
+                        <step start='1669270235838' status='undefined'>
+                            <name>Validatation done for shipment sku's</name>
+                            <title>Validatation done for shipment sku's</title>
+                            <attachments/>
+                            <steps>
+                                <step start='1669270235838' status='undefined'>
+                                    <name>Validate the shipment sku's names</name>
+                                    <title>Validate the shipment sku's names</title>
+                                    <attachments/>
+                                    <steps>
+                                        <step start='1669270238823' status='passed' stop='1669270238823'>
+                                            <name>Validatation done for shipment sku's names</name>
+                                            <title>Validatation done for shipment sku's names</title>
+                                            <attachments/>
+                                            <steps/>
+                                        </step>
+                                    </steps>
+                                </step>
+                            </steps>
+                        </step>
+                    </steps>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1669270238824' status='passed' stop='1669270244598'>
+            <name>Verify the sales skus and skus names</name>
+            <title>Verify the sales skus and skus names</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-107.0.5304.110'/>
+            </parameters>
+            <steps>
+                <step start='1669270241699' status='undefined'>
+                    <name>Validate the sales sku's</name>
+                    <title>Validate the sales sku's</title>
+                    <attachments/>
+                    <steps>
+                        <step start='1669270241699' status='undefined'>
+                            <name>Validatation done for sales sku's</name>
+                            <title>Validatation done for sales sku's</title>
+                            <attachments/>
+                            <steps>
+                                <step start='1669270241699' status='undefined'>
+                                    <name>Validate the shipment sku's names</name>
+                                    <title>Validate the shipment sku's names</title>
+                                    <attachments/>
+                                    <steps>
+                                        <step start='1669270244598' status='passed' stop='1669270244598'>
+                                            <name>Validatation done for shipment sku's names</name>
+                                            <title>Validatation done for shipment sku's names</title>
+                                            <attachments/>
+                                            <steps/>
+                                        </step>
+                                    </steps>
+                                </step>
+                            </steps>
+                        </step>
+                    </steps>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1669270244601' status='passed' stop='1669270254687'>
+            <name>Verifying changing the status to Confirmed and Verify the order status history</name>
+            <title>Verifying changing the status to Confirmed and Verify the order status history</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-107.0.5304.110'/>
+            </parameters>
+            <steps>
+                <step start='1669270244601' status='passed' stop='1669270254686'>
+                    <name>Verify change status to Confirmed and verify order status history</name>
+                    <title>Verify change status to Confirmed and verify order status history</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1669270254687' status='failed' stop='1669270262942'>
+            <name>Verifying the order details and payment values from UI are equal to the values in Kart collection</name>
+            <title>Verifying the order details and payment values from UI are equal to the values in Kart collection</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-107.0.5304.110'/>
+            </parameters>
+            <steps>
+                <step start='1669270258224' status='failed' stop='1669270262942'>
+                    <name>Copy order details and payments from UI</name>
+                    <title>Copy order details and payments from UI</title>
+                    <attachments/>
+                    <steps>
+                        <step start='1669270259336' status='failed' stop='1669270262942'>
+                            <name>Get order details and payments from draft order collection</name>
+                            <title>Get order details and payments from draft order collection</title>
+                            <attachments/>
+                            <steps>
+                                <step start='1669270262787' status='failed' stop='1669270262942'>
+                                    <name>Validate the payment value on sales order page is equal to Sku sub total amount</name>
+                                    <title>Validate the payment value on sales order page is equal to Sku sub total amount</title>
+                                    <attachments/>
+                                    <steps>
+                                        <step start='1669270262788' status='failed' stop='1669270262942'>
+                                            <name>Validate the order details and payment values from UI are equal to the values from DB</name>
+                                            <title>Validate the order details and payment values from UI are equal to the values from DB</title>
+                                            <attachments>
+                                                <attachment title='Screenshot' source='483e678f-7706-4765-8175-06d99593ee43-attachment.png' type='image/png' size='209459'/>
+                                            </attachments>
+                                            <steps/>
+                                        </step>
+                                    </steps>
+                                </step>
+                            </steps>
+                        </step>
+                    </steps>
+                </step>
+            </steps>
+            <attachments/>
+            <failure>
+                <message>expect(received).toEqual(expected) // deep equality
+                
+                - Expected  - 1
+                + Received  + 1
+                
+                  Array [
+                -   "sanjay",
+                +   "Sanjay",
+                    "SO-2211241139530611",
+                    "37999",
+                    "37999",
+                  ]</message>
+                <stack-trace>Error: expect(received).toEqual(expected) // deep equality
+                
+                - Expected  - 1
+                + Received  + 1
+                
+                  Array [
+                -   "sanjay",
+                +   "Sanjay",
+                    "SO-2211241139530611",
+                    "37999",
+                    "37999",
+                  ]
+                    at Context.&lt;anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:125:43)
+                    at runMicrotasks (&lt;anonymous>)
+                    at processTicksAndRejections (node:internal/process/task_queues:96:5)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

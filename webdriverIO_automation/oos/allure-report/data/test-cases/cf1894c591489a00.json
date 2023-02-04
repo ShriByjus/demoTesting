@@ -1,0 +1,244 @@
+{
+  "uid" : "cf1894c591489a00",
+  "name" : "btlp forward workflow",
+  "fullName" : "btlp workflow.btlp forward workflow",
+  "historyId" : "bbdc804a3622ceaf3ea8ff37d471fc8",
+  "time" : {
+    "start" : 1670504813417,
+    "stop" : 1670504822477,
+    "duration" : 9060
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "socket hang up",
+  "statusTrace" : "RequestError: socket hang up\n                    at ClientRequest.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/node_modules/got/dist/source/core/index.js:970:111)\n                    at Object.onceWrapper (node:events:642:26)\n                    at ClientRequest.emit (node:events:539:35)\n                    at ClientRequest.emit (node:domain:475:12)\n                    at ClientRequest.origin.emit (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)\n                    at Socket.socketOnEnd (node:_http_client:478:9)\n                    at Socket.emit (node:events:539:35)\n                    at Socket.emit (node:domain:475:12)\n                    at endReadableNT (node:internal/streams/readable:1345:12)\n                    at connResetException (node:internal/errors:692:14)\n                    at Socket.socketOnEnd (node:_http_client:478:23)\n                    at Socket.emit (node:events:539:35)\n                    at Socket.emit (node:domain:475:12)\n                    at endReadableNT (node:internal/streams/readable:1345:12)\n                    at processTicksAndRejections (node:internal/process/task_queues:83:21)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 13,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "socket hang up",
+    "statusTrace" : "RequestError: socket hang up\n                    at ClientRequest.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/node_modules/got/dist/source/core/index.js:970:111)\n                    at Object.onceWrapper (node:events:642:26)\n                    at ClientRequest.emit (node:events:539:35)\n                    at ClientRequest.emit (node:domain:475:12)\n                    at ClientRequest.origin.emit (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)\n                    at Socket.socketOnEnd (node:_http_client:478:9)\n                    at Socket.emit (node:events:539:35)\n                    at Socket.emit (node:domain:475:12)\n                    at endReadableNT (node:internal/streams/readable:1345:12)\n                    at connResetException (node:internal/errors:692:14)\n                    at Socket.socketOnEnd (node:_http_client:478:23)\n                    at Socket.emit (node:events:539:35)\n                    at Socket.emit (node:domain:475:12)\n                    at endReadableNT (node:internal/streams/readable:1345:12)\n                    at processTicksAndRejections (node:internal/process/task_queues:83:21)",
+    "steps" : [ {
+      "name" : "Maximize the window",
+      "time" : {
+        "start" : 1670504813418,
+        "stop" : 1670504822477,
+        "duration" : 9059
+      },
+      "status" : "broken",
+      "statusMessage" : "RequestError: socket hang up\n                    at ClientRequest.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/node_modules/got/dist/source/core/index.js:970:111)\n                    at Object.onceWrapper (node:events:642:26)\n                    at ClientRequest.emit (node:events:539:35)\n                    at ClientRequest.emit (node:domain:475:12)\n                    at ClientRequest.origin.emit (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)\n                    at Socket.socketOnEnd (node:_http_client:478:9)\n                    at Socket.emit (node:events:539:35)\n                    at Socket.emit (node:domain:475:12)\n                    at endReadableNT (node:internal/streams/readable:1345:12)\n                    at connResetException (node:internal/errors:692:14)\n                    at Socket.socketOnEnd (node:_http_client:478:23)\n                    at Socket.emit (node:events:539:35)\n                    at Socket.emit (node:domain:475:12)\n                    at endReadableNT (node:internal/streams/readable:1345:12)\n                    at processTicksAndRejections (node:internal/process/task_queues:83:21)",
+      "steps" : [ {
+        "name" : "Open Byjus OMS page",
+        "time" : {
+          "start" : 1670504813877,
+          "stop" : 1670504816583,
+          "duration" : 2706
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "Login to the Home page",
+        "time" : {
+          "start" : 1670504816583,
+          "stop" : 1670504822477,
+          "duration" : 5894
+        },
+        "status" : "broken",
+        "statusMessage" : "RequestError: socket hang up\n                    at ClientRequest.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/node_modules/got/dist/source/core/index.js:970:111)\n                    at Object.onceWrapper (node:events:642:26)\n                    at ClientRequest.emit (node:events:539:35)\n                    at ClientRequest.emit (node:domain:475:12)\n                    at ClientRequest.origin.emit (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)\n                    at Socket.socketOnEnd (node:_http_client:478:9)\n                    at Socket.emit (node:events:539:35)\n                    at Socket.emit (node:domain:475:12)\n                    at endReadableNT (node:internal/streams/readable:1345:12)\n                    at connResetException (node:internal/errors:692:14)\n                    at Socket.socketOnEnd (node:_http_client:478:23)\n                    at Socket.emit (node:events:539:35)\n                    at Socket.emit (node:domain:475:12)\n                    at endReadableNT (node:internal/streams/readable:1345:12)\n                    at processTicksAndRejections (node:internal/process/task_queues:83:21)",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : true,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 2,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "btlp workflow"
+  }, {
+    "name" : "testClass",
+    "value" : "btlp workflow"
+  }, {
+    "name" : "testMethod",
+    "value" : "btlp forward workflow"
+  }, {
+    "name" : "package",
+    "value" : "btlp workflow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-108.0.5359.94"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c0abd21d86c247a7",
+      "status" : "broken",
+      "statusDetails" : "socket hang up",
+      "time" : {
+        "start" : 1670504797230,
+        "stop" : 1670504805829,
+        "duration" : 8599
+      }
+    }, {
+      "uid" : "c36657a11e63a03a",
+      "status" : "broken",
+      "statusDetails" : "socket hang up",
+      "time" : {
+        "start" : 1670311341809,
+        "stop" : 1670311344243,
+        "duration" : 2434
+      }
+    }, {
+      "uid" : "29969f9a80669f1a",
+      "status" : "broken",
+      "statusDetails" : "socket hang up",
+      "time" : {
+        "start" : 1670311297189,
+        "stop" : 1670311298904,
+        "duration" : 1715
+      }
+    }, {
+      "uid" : "f5ba07f45fa33a5a",
+      "status" : "broken",
+      "statusDetails" : "socket hang up",
+      "time" : {
+        "start" : 1670305947586,
+        "stop" : 1670305949602,
+        "duration" : 2016
+      }
+    }, {
+      "uid" : "36f7dce5f44d3e1e",
+      "status" : "broken",
+      "statusDetails" : "socket hang up",
+      "time" : {
+        "start" : 1670305937059,
+        "stop" : 1670305939511,
+        "duration" : 2452
+      }
+    }, {
+      "uid" : "9e705814306d5055",
+      "status" : "broken",
+      "statusDetails" : "socket hang up",
+      "time" : {
+        "start" : 1670305926645,
+        "stop" : 1670305928460,
+        "duration" : 1815
+      }
+    }, {
+      "uid" : "9595024b51a13e2e",
+      "status" : "broken",
+      "statusDetails" : "socket hang up",
+      "time" : {
+        "start" : 1670305914231,
+        "stop" : 1670305916080,
+        "duration" : 1849
+      }
+    }, {
+      "uid" : "b9a45f48bc53992a",
+      "status" : "broken",
+      "statusDetails" : "socket hang up",
+      "time" : {
+        "start" : 1670305900527,
+        "stop" : 1670305902006,
+        "duration" : 1479
+      }
+    }, {
+      "uid" : "7a000197329df893",
+      "status" : "broken",
+      "statusDetails" : "socket hang up",
+      "time" : {
+        "start" : 1670239400726,
+        "stop" : 1670239401763,
+        "duration" : 1037
+      }
+    }, {
+      "uid" : "da77a3040d91df0e",
+      "status" : "broken",
+      "statusDetails" : "socket hang up",
+      "time" : {
+        "start" : 1670238631333,
+        "stop" : 1670238632769,
+        "duration" : 1436
+      }
+    }, {
+      "uid" : "da78be9e4719f9a9",
+      "status" : "broken",
+      "statusDetails" : "socket hang up",
+      "time" : {
+        "start" : 1670228832942,
+        "stop" : 1670228834518,
+        "duration" : 1576
+      }
+    }, {
+      "uid" : "78bc8bd11151cf7f",
+      "status" : "broken",
+      "statusDetails" : "socket hang up",
+      "time" : {
+        "start" : 1670228815421,
+        "stop" : 1670228825493,
+        "duration" : 10072
+      }
+    }, {
+      "uid" : "709d9e4e60938cd6",
+      "status" : "broken",
+      "statusDetails" : "socket hang up",
+      "time" : {
+        "start" : 1670223220071,
+        "stop" : 1670223221703,
+        "duration" : 1632
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "cf1894c591489a00.json",
+  "parameterValues" : [ "chrome-108.0.5359.94" ]
+}

@@ -1,0 +1,33 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1672205253231' stop='1672205299616'>
+    <name>btlp workflow</name>
+    <title>btlp workflow</title>
+    <test-cases>
+        <test-case start='1672205253231' status='broken' stop='1672205299615'>
+            <name>byjusPay</name>
+            <title>byjusPay</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-108.0.5359.124'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='8fd5b747-3056-4cfe-ad6d-e8f3bc93f773-attachment.png' type='image/png' size='180651'/>
+            </attachments>
+            <failure>
+                <message>element not interactable
+                  (Session info: chrome=108.0.5359.124)</message>
+                <stack-trace>element not interactable: element not interactable
+                  (Session info: chrome=108.0.5359.124)
+                    at runMicrotasks (&lt;anonymous>)
+                    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                    at verifyOmsOrderDetails.copyRefernceID (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:424:9)
+                    at Context.&lt;anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/test.js:37:8)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

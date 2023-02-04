@@ -1,0 +1,204 @@
+{
+  "uid" : "4a8ac3c89f85974d",
+  "name" : "Verifying the order details and payment values from UI are equal to the values in Kart collection",
+  "fullName" : "Validating UKG Single order.Verifying the order details and payment values from UI are equal to the values in Kart collection",
+  "historyId" : "456511795a9853488e25e1e9a86321d0",
+  "time" : {
+    "start" : 1669883088367,
+    "stop" : 1669883100470,
+    "duration" : 12103
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 7,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Maximize the window",
+      "time" : {
+        "start" : 1669883088367,
+        "stop" : 0,
+        "duration" : -1669883088367
+      },
+      "status" : "unknown",
+      "steps" : [ {
+        "name" : "Copy order details and payments from UI",
+        "time" : {
+          "start" : 1669883098628,
+          "stop" : 0,
+          "duration" : -1669883098628
+        },
+        "status" : "unknown",
+        "steps" : [ {
+          "name" : "Get order details and payments from draft order collection",
+          "time" : {
+            "start" : 1669883099250,
+            "stop" : 0,
+            "duration" : -1669883099250
+          },
+          "status" : "unknown",
+          "steps" : [ {
+            "name" : "Validate the payment value on sales order page is equal to Sku sub total amount",
+            "time" : {
+              "start" : 1669883100468,
+              "stop" : 0,
+              "duration" : -1669883100468
+            },
+            "status" : "unknown",
+            "steps" : [ {
+              "name" : "Validate the order details and payment values from UI are equal to the values from DB",
+              "time" : {
+                "start" : 1669883100469,
+                "stop" : 1669883100469,
+                "duration" : 0
+              },
+              "status" : "passed",
+              "steps" : [ ],
+              "attachments" : [ ],
+              "parameters" : [ ],
+              "stepsCount" : 0,
+              "attachmentsCount" : 0,
+              "shouldDisplayMessage" : false,
+              "hasContent" : false
+            } ],
+            "attachments" : [ ],
+            "parameters" : [ ],
+            "stepsCount" : 1,
+            "attachmentsCount" : 0,
+            "shouldDisplayMessage" : false,
+            "hasContent" : true
+          } ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 2,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 3,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 4,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 5,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verifying the order details and payment values from UI are equal to the values in Kart collection"
+  }, {
+    "name" : "package",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.121"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "687b971b0b812bf7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669789691794,
+        "stop" : 1669789697662,
+        "duration" : 5868
+      }
+    }, {
+      "uid" : "23e48ceeaef0a02",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669789595264,
+        "stop" : 1669789601221,
+        "duration" : 5957
+      }
+    }, {
+      "uid" : "718b14fd3595a7ca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669789305275,
+        "stop" : 1669789311390,
+        "duration" : 6115
+      }
+    }, {
+      "uid" : "d99d80639b4060a9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669788453535,
+        "stop" : 1669788459621,
+        "duration" : 6086
+      }
+    }, {
+      "uid" : "9a2d4979a24f42fe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669786664345,
+        "stop" : 1669786670519,
+        "duration" : 6174
+      }
+    }, {
+      "uid" : "6975ed26ea2e760d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669784256723,
+        "stop" : 1669784262288,
+        "duration" : 5565
+      }
+    }, {
+      "uid" : "419ed7b915235455",
+      "status" : "broken",
+      "statusDetails" : "no such window: target window already closed\n                from unknown error: web view not found\n                  (Session info: chrome=107.0.5304.121)",
+      "time" : {
+        "start" : 1669702924977,
+        "stop" : 1669702924988,
+        "duration" : 11
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4a8ac3c89f85974d.json",
+  "parameterValues" : [ "chrome-107.0.5304.121" ]
+}

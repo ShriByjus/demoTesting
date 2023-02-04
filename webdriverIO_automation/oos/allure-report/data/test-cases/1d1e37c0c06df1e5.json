@@ -1,0 +1,85 @@
+{
+  "uid" : "1d1e37c0c06df1e5",
+  "name" : "Verifying the Sales order Id details",
+  "fullName" : "Validating Byjus classes single order for 6th standard.Verifying the Sales order Id details",
+  "historyId" : "c43e2c2d5c7fd4108f223b37cd0224f7",
+  "time" : {
+    "start" : 1670573401691,
+    "stop" : 1670573406438,
+    "duration" : 4747
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Verifying the Sales order Id details",
+      "time" : {
+        "start" : 1670573401692,
+        "stop" : 0,
+        "duration" : -1670573401692
+      },
+      "status" : "unknown",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Byjus classes single order for 6th standard"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Byjus classes single order for 6th standard"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verifying the Sales order Id details"
+  }, {
+    "name" : "package",
+    "value" : "Validating Byjus classes single order for 6th standard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-108.0.5359.98"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1d1e37c0c06df1e5.json",
+  "parameterValues" : [ "chrome-108.0.5359.98" ]
+}

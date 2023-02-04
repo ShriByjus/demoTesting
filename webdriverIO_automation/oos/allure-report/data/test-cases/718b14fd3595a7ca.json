@@ -1,0 +1,145 @@
+{
+  "uid" : "718b14fd3595a7ca",
+  "name" : "Verifying the order details and payment values from UI are equal to the values in Kart collection",
+  "fullName" : "Validating UKG Single order.Verifying the order details and payment values from UI are equal to the values in Kart collection",
+  "historyId" : "456511795a9853488e25e1e9a86321d0",
+  "time" : {
+    "start" : 1669789305275,
+    "stop" : 1669789311390,
+    "duration" : 6115
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Maximize the window",
+      "time" : {
+        "start" : 1669789305275,
+        "stop" : 0,
+        "duration" : -1669789305275
+      },
+      "status" : "unknown",
+      "steps" : [ {
+        "name" : "Copy order details and payments from UI",
+        "time" : {
+          "start" : 1669789309633,
+          "stop" : 0,
+          "duration" : -1669789309633
+        },
+        "status" : "unknown",
+        "steps" : [ {
+          "name" : "Get order details and payments from draft order collection",
+          "time" : {
+            "start" : 1669789310233,
+            "stop" : 0,
+            "duration" : -1669789310233
+          },
+          "status" : "unknown",
+          "steps" : [ {
+            "name" : "Validate the payment value on sales order page is equal to Sku sub total amount",
+            "time" : {
+              "start" : 1669789311388,
+              "stop" : 0,
+              "duration" : -1669789311388
+            },
+            "status" : "unknown",
+            "steps" : [ {
+              "name" : "Validate the order details and payment values from UI are equal to the values from DB",
+              "time" : {
+                "start" : 1669789311389,
+                "stop" : 1669789311390,
+                "duration" : 1
+              },
+              "status" : "passed",
+              "steps" : [ ],
+              "attachments" : [ ],
+              "parameters" : [ ],
+              "stepsCount" : 0,
+              "attachmentsCount" : 0,
+              "shouldDisplayMessage" : false,
+              "hasContent" : false
+            } ],
+            "attachments" : [ ],
+            "parameters" : [ ],
+            "stepsCount" : 1,
+            "attachmentsCount" : 0,
+            "shouldDisplayMessage" : false,
+            "hasContent" : true
+          } ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 2,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 3,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 4,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 5,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verifying the order details and payment values from UI are equal to the values in Kart collection"
+  }, {
+    "name" : "package",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.121"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "718b14fd3595a7ca.json",
+  "parameterValues" : [ "chrome-107.0.5304.121" ]
+}

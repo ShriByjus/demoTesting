@@ -1,0 +1,144 @@
+{
+  "uid" : "f84e2e79d621e17a",
+  "name" : "Verifying the Sales order Id details",
+  "fullName" : "Validating UKG Single order.Verifying the Sales order Id details",
+  "historyId" : "eafaa83296bb500367fbad7027beddc3",
+  "time" : {
+    "start" : 1669883034506,
+    "stop" : 1669883059606,
+    "duration" : 25100
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 7,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Verifying the Sales order Id details",
+      "time" : {
+        "start" : 1669883034507,
+        "stop" : 0,
+        "duration" : -1669883034507
+      },
+      "status" : "unknown",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verifying the Sales order Id details"
+  }, {
+    "name" : "package",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.121"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "510db38c686f80f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669789673789,
+        "stop" : 1669789678306,
+        "duration" : 4517
+      }
+    }, {
+      "uid" : "3c351d29d4870d8e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669789568133,
+        "stop" : 1669789572743,
+        "duration" : 4610
+      }
+    }, {
+      "uid" : "bb23dfa684541de0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669789279581,
+        "stop" : 1669789284074,
+        "duration" : 4493
+      }
+    }, {
+      "uid" : "5cb172d464cddf93",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669788378453,
+        "stop" : 1669788381402,
+        "duration" : 2949
+      }
+    }, {
+      "uid" : "c47d562a0a0c39b0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669786642327,
+        "stop" : 1669786646349,
+        "duration" : 4022
+      }
+    }, {
+      "uid" : "2294939a39002254",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669784232528,
+        "stop" : 1669784237621,
+        "duration" : 5093
+      }
+    }, {
+      "uid" : "40dc95607e73b50a",
+      "status" : "broken",
+      "statusDetails" : "waitUntil condition failed with the following reason: no such window: target window already closed\n                from unknown error: web view not found\n                  (Session info: chrome=107.0.5304.121)",
+      "time" : {
+        "start" : 1669702909159,
+        "stop" : 1669702919227,
+        "duration" : 10068
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f84e2e79d621e17a.json",
+  "parameterValues" : [ "chrome-107.0.5304.121" ]
+}

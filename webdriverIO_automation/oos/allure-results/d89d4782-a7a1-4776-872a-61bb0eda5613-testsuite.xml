@@ -1,0 +1,29 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1672205013463' stop='1672205056114'>
+    <name>btlp workflow</name>
+    <title>btlp workflow</title>
+    <test-cases>
+        <test-case start='1672205013463' status='broken' stop='1672205056110'>
+            <name>byjusPay</name>
+            <title>byjusPay</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-108.0.5359.124'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='1941ac6d-2895-48ca-bda7-1ebf539190ae-attachment.png' type='image/png' size='142106'/>
+            </attachments>
+            <failure>
+                <message>this.byjusPayOne.getText is not a function</message>
+                <stack-trace>TypeError: this.byjusPayOne.getText is not a function
+                    at verifyOmsOrderDetails.copyRefernceID (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:414:50)
+                    at Context.&lt;anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/test.js:37:36)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

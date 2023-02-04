@@ -1,0 +1,182 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1673512852838' stop='1673512870107'>
+    <name>btlp workflow</name>
+    <title>btlp workflow</title>
+    <test-cases>
+        <test-case start='1673512852838' status='passed' stop='1673512857592'>
+            <name>Adding json to collections for generating the Order Id</name>
+            <title>Adding json to collections for generating the Order Id</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-108.0.5359.124'/>
+            </parameters>
+            <steps>
+                <step start='1673512852852' status='undefined'>
+                    <name>Adding order to Sales order Collection</name>
+                    <title>Adding order to Sales order Collection</title>
+                    <attachments/>
+                    <steps>
+                        <step start='1673512854800' status='undefined'>
+                            <name>Adding order to Sales Sub order Collection</name>
+                            <title>Adding order to Sales Sub order Collection</title>
+                            <attachments/>
+                            <steps>
+                                <step start='1673512856217' status='passed' stop='1673512857591'>
+                                    <name>Adding order to draft order Collection</name>
+                                    <title>Adding order to draft order Collection</title>
+                                    <attachments/>
+                                    <steps/>
+                                </step>
+                            </steps>
+                        </step>
+                    </steps>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1673512857593' status='broken' stop='1673512870083'>
+            <name>btlp forward workflow</name>
+            <title>btlp forward workflow</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-108.0.5359.124'/>
+            </parameters>
+            <steps>
+                <step start='1673512857593' status='broken' stop='1673512870083'>
+                    <name>Maximize the window</name>
+                    <title>Maximize the window</title>
+                    <attachments/>
+                    <steps>
+                        <step start='1673512858009' status='passed' stop='1673512861744'>
+                            <name>Open Byjus OMS page</name>
+                            <title>Open Byjus OMS page</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1673512861744' status='broken' stop='1673512870083'>
+                            <name>Login to the Home page</name>
+                            <title>Login to the Home page</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                    </steps>
+                </step>
+            </steps>
+            <attachments/>
+            <failure>
+                <message>no such window: target window already closed
+                from unknown error: web view not found
+                  (Session info: chrome=108.0.5359.124)</message>
+                <stack-trace>no such window: no such window: target window already closed
+                from unknown error: web view not found
+                  (Session info: chrome=108.0.5359.124)
+                    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                    at OMShomepages.loginHomePage (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/omsSmokeData.js:935:17)
+                    at Context.&lt;anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/order_types_testing/complementary/forwardFlow.js:49:9)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1673512870083' status='broken' stop='1673512870093'>
+            <name>Verifying the Sales order Id details</name>
+            <title>Verifying the Sales order Id details</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-108.0.5359.124'/>
+            </parameters>
+            <steps>
+                <step start='1673512870083' status='broken' stop='1673512870093'>
+                    <name>Verifying the Sales order Id details</name>
+                    <title>Verifying the Sales order Id details</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <failure>
+                <message>no such window: target window already closed
+                from unknown error: web view not found
+                  (Session info: chrome=108.0.5359.124)</message>
+                <stack-trace>no such window: no such window: target window already closed
+                from unknown error: web view not found
+                  (Session info: chrome=108.0.5359.124)
+                    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                    at verifyOmsOrderDetails.openSoIdAndVerifySSO (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:356:9)
+                    at Context.&lt;anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/order_types_testing/complementary/forwardFlow.js:61:9)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1673512870093' status='broken' stop='1673512870099'>
+            <name>Verifying changing the status to Confirmed</name>
+            <title>Verifying changing the status to Confirmed</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-108.0.5359.124'/>
+            </parameters>
+            <steps>
+                <step start='1673512870093' status='broken' stop='1673512870099'>
+                    <name>Verify change status to Confirmed</name>
+                    <title>Verify change status to Confirmed</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <failure>
+                <message>no such window: target window already closed
+                from unknown error: web view not found
+                  (Session info: chrome=108.0.5359.124)</message>
+                <stack-trace>no such window: no such window: target window already closed
+                from unknown error: web view not found
+                  (Session info: chrome=108.0.5359.124)
+                    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                    at verifyOmsOrderDetails.statusConfirmation (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:365:9)
+                    at Context.&lt;anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/order_types_testing/complementary/forwardFlow.js:65:9)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1673512870099' status='broken' stop='1673512870107'>
+            <name>btlp reveres workflow</name>
+            <title>btlp reveres workflow</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-108.0.5359.124'/>
+            </parameters>
+            <steps>
+                <step start='1673512870099' status='broken' stop='1673512870107'>
+                    <name>Maximize the window</name>
+                    <title>Maximize the window</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <failure>
+                <message>no such window: target window already closed
+                from unknown error: web view not found
+                  (Session info: chrome=108.0.5359.124)</message>
+                <stack-trace>no such window: no such window: target window already closed
+                from unknown error: web view not found
+                  (Session info: chrome=108.0.5359.124)
+                    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                    at Context.&lt;anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/order_types_testing/complementary/forwardFlow.js:70:9)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,401 @@
+{
+  "uid" : "9cedd1d9807da75a",
+  "name" : "Verifying the order details and payment values from UI are equal to the values in Kart collection",
+  "fullName" : "Validating UKG Single order.Verifying the order details and payment values from UI are equal to the values in Kart collection",
+  "historyId" : "2d3c850a8d70c957b2abf960234c195c",
+  "time" : {
+    "start" : 1669625339903,
+    "stop" : 1669625349834,
+    "duration" : 9931
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 30,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Maximize the window",
+      "time" : {
+        "start" : 1669625339905,
+        "stop" : 0,
+        "duration" : -1669625339905
+      },
+      "status" : "unknown",
+      "steps" : [ {
+        "name" : "Copy order details and payments from UI",
+        "time" : {
+          "start" : 1669625346451,
+          "stop" : 0,
+          "duration" : -1669625346451
+        },
+        "status" : "unknown",
+        "steps" : [ {
+          "name" : "Get order details and payments from draft order collection",
+          "time" : {
+            "start" : 1669625348074,
+            "stop" : 0,
+            "duration" : -1669625348074
+          },
+          "status" : "unknown",
+          "steps" : [ {
+            "name" : "Validate the payment value on sales order page is equal to Sku sub total amount",
+            "time" : {
+              "start" : 1669625349833,
+              "stop" : 0,
+              "duration" : -1669625349833
+            },
+            "status" : "unknown",
+            "steps" : [ {
+              "name" : "Validate the order details and payment values from UI are equal to the values from DB",
+              "time" : {
+                "start" : 1669625349833,
+                "stop" : 1669625349834,
+                "duration" : 1
+              },
+              "status" : "passed",
+              "steps" : [ ],
+              "attachments" : [ ],
+              "parameters" : [ ],
+              "stepsCount" : 0,
+              "attachmentsCount" : 0,
+              "shouldDisplayMessage" : false,
+              "hasContent" : false
+            } ],
+            "attachments" : [ ],
+            "parameters" : [ ],
+            "stepsCount" : 1,
+            "attachmentsCount" : 0,
+            "shouldDisplayMessage" : false,
+            "hasContent" : true
+          } ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 2,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 3,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 4,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 5,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verifying the order details and payment values from UI are equal to the values in Kart collection"
+  }, {
+    "name" : "package",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.110"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8b54169fa3c32c19",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669618476747,
+        "stop" : 1669618483544,
+        "duration" : 6797
+      }
+    }, {
+      "uid" : "c14d1cd3f2bb5f1d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669615943886,
+        "stop" : 1669615950404,
+        "duration" : 6518
+      }
+    }, {
+      "uid" : "385eb15a782734ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669611359759,
+        "stop" : 1669611365408,
+        "duration" : 5649
+      }
+    }, {
+      "uid" : "3a58163b39df6d9b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669611029752,
+        "stop" : 1669611035587,
+        "duration" : 5835
+      }
+    }, {
+      "uid" : "3efe197a12366600",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669610750839,
+        "stop" : 1669610758171,
+        "duration" : 7332
+      }
+    }, {
+      "uid" : "1daaf965b4bdc717",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669610547144,
+        "stop" : 1669610553996,
+        "duration" : 6852
+      }
+    }, {
+      "uid" : "610541e5d7e47047",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669609467499,
+        "stop" : 1669609482714,
+        "duration" : 15215
+      }
+    }, {
+      "uid" : "7df63315f37580a8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669609308906,
+        "stop" : 1669609314379,
+        "duration" : 5473
+      }
+    }, {
+      "uid" : "fbb10242c5e367a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669609084686,
+        "stop" : 1669609090704,
+        "duration" : 6018
+      }
+    }, {
+      "uid" : "bdb4e6d38ce4d19f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669608909209,
+        "stop" : 1669608917665,
+        "duration" : 8456
+      }
+    }, {
+      "uid" : "bfa32446ca5b065d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669608709849,
+        "stop" : 1669608716541,
+        "duration" : 6692
+      }
+    }, {
+      "uid" : "2819ed5a8c88bfad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669380234651,
+        "stop" : 1669380239910,
+        "duration" : 5259
+      }
+    }, {
+      "uid" : "f4cd7bd8e39c5e5d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669299244357,
+        "stop" : 1669299254130,
+        "duration" : 9773
+      }
+    }, {
+      "uid" : "1e7e0a636a5b1e46",
+      "status" : "broken",
+      "statusDetails" : "this.customerName.waitForClickable is not a function",
+      "time" : {
+        "start" : 1669285721823,
+        "stop" : 1669285727446,
+        "duration" : 5623
+      }
+    }, {
+      "uid" : "1a9c7a4db036afa1",
+      "status" : "broken",
+      "statusDetails" : "this.ordersTab.waitForClickable is not a function",
+      "time" : {
+        "start" : 1669274098675,
+        "stop" : 1669274098940,
+        "duration" : 265
+      }
+    }, {
+      "uid" : "cac00a08e2810c24",
+      "status" : "broken",
+      "statusDetails" : "this.ordersTab.click is not a function",
+      "time" : {
+        "start" : 1669273977834,
+        "stop" : 1669273978098,
+        "duration" : 264
+      }
+    }, {
+      "uid" : "60ff88585d3c13c9",
+      "status" : "broken",
+      "statusDetails" : "this.ordersTab.waitForClickable is not a function",
+      "time" : {
+        "start" : 1669273233773,
+        "stop" : 1669273234035,
+        "duration" : 262
+      }
+    }, {
+      "uid" : "8d06b3319e60778d",
+      "status" : "broken",
+      "statusDetails" : "this.ordersTab.waitForClickable is not a function",
+      "time" : {
+        "start" : 1669273141572,
+        "stop" : 1669273141848,
+        "duration" : 276
+      }
+    }, {
+      "uid" : "7194f7e9839730e7",
+      "status" : "broken",
+      "statusDetails" : "this.ordersTab.waitForClickable is not a function",
+      "time" : {
+        "start" : 1669272984965,
+        "stop" : 1669272985231,
+        "duration" : 266
+      }
+    }, {
+      "uid" : "debe405a932480b5",
+      "status" : "broken",
+      "statusDetails" : "this.ordersTab.waitForClickable is not a function",
+      "time" : {
+        "start" : 1669272932082,
+        "stop" : 1669272932351,
+        "duration" : 269
+      }
+    }, {
+      "uid" : "73c106e206bb6a7c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669271573449,
+        "stop" : 1669271584893,
+        "duration" : 11444
+      }
+    }, {
+      "uid" : "14126189fe85b458",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669271431619,
+        "stop" : 1669271442038,
+        "duration" : 10419
+      }
+    }, {
+      "uid" : "912c6115036deb99",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669270822107,
+        "stop" : 1669270829571,
+        "duration" : 7464
+      }
+    }, {
+      "uid" : "5f9acdef2cda9d35",
+      "status" : "failed",
+      "statusDetails" : "expect(received).toEqual(expected) // deep equality\n                \n                - Expected  - 1\n                + Received  + 1\n                \n                  Array [\n                -   \"sanjay\",\n                +   \"Sanjay\",\n                    \"SO-2211241139530611\",\n                    \"37999\",\n                    \"37999\",\n                  ]",
+      "time" : {
+        "start" : 1669270254687,
+        "stop" : 1669270262942,
+        "duration" : 8255
+      }
+    }, {
+      "uid" : "6c36a8518129725f",
+      "status" : "broken",
+      "statusDetails" : "Cannot read properties of null (reading 'customerDetails')",
+      "time" : {
+        "start" : 1669269231314,
+        "stop" : 1669269236745,
+        "duration" : 5431
+      }
+    }, {
+      "uid" : "1501a5aef537e5a0",
+      "status" : "broken",
+      "statusDetails" : "Cannot read properties of null (reading 'customerDetails')",
+      "time" : {
+        "start" : 1669269096481,
+        "stop" : 1669269102603,
+        "duration" : 6122
+      }
+    }, {
+      "uid" : "2150579b54f45651",
+      "status" : "broken",
+      "statusDetails" : "Cannot read properties of null (reading 'customerDetails')",
+      "time" : {
+        "start" : 1669268722070,
+        "stop" : 1669268729073,
+        "duration" : 7003
+      }
+    }, {
+      "uid" : "8a37d7283948d71f",
+      "status" : "broken",
+      "statusDetails" : "Cannot read properties of null (reading 'customerDetails')",
+      "time" : {
+        "start" : 1669265668523,
+        "stop" : 1669265671145,
+        "duration" : 2622
+      }
+    }, {
+      "uid" : "e6010291c5025a0b",
+      "status" : "broken",
+      "statusDetails" : "element (\"//div[@class='mb-1']/a\") still not clickable after 30000ms",
+      "time" : {
+        "start" : 1669265053195,
+        "stop" : 1669265083393,
+        "duration" : 30198
+      }
+    }, {
+      "uid" : "d00fd200261f4a53",
+      "status" : "broken",
+      "statusDetails" : "waitUntil condition failed with the following reason: no such window: target window already closed\n                from unknown error: web view not found\n                  (Session info: chrome=107.0.5304.110)",
+      "time" : {
+        "start" : 1668765057864,
+        "stop" : 1668765093682,
+        "duration" : 35818
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9cedd1d9807da75a.json",
+  "parameterValues" : [ "chrome-107.0.5304.110" ]
+}

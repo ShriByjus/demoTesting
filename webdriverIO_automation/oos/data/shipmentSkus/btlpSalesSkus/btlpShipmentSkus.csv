@@ -1,0 +1,5 @@
+"courseDetails","skuId","skuName"
+"Single order validation for UKG with CBSE","SBXMGZUC,D1NALKLK","BYJU'S LearnStation 10inch Mobile Data Grey Tablet,Learnstation Grade LK SD Card"
+"Combo order validation for UKG-LKG with CBSE","SBXMGZUC,D2NALKUK","BYJU'S LearnStation 10inch Mobile Data Grey Tablet,Learnstation Grade LK-UK SD Card"
+"Single Sibling order validation for UKG-LKG with CBSE","SBXMGZUC,D2NALKUK","BYJU'S LearnStation 10inch Mobile Data Grey Tablet,Learnstation Grade LK-UK SD Card"
+"Two Sibling order validation for UKG-LKG with both as CBSE","SBXMGZUC,D2NALKUK,D2NALKUK","BYJU'S LearnStation 10inch Mobile Data Grey Tablet,Learnstation Grade LK-UK SD Card, Learnstation Grade LK-UK SD Card"

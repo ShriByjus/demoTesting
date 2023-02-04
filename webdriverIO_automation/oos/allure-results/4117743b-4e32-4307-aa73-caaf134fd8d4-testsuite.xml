@@ -1,0 +1,113 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1672810035697' stop='1672810056554'>
+    <name>btlp workflow</name>
+    <title>btlp workflow</title>
+    <test-cases>
+        <test-case start='1672810035697' status='passed' stop='1672810041531'>
+            <name>Adding json to collections for generating the Order Id</name>
+            <title>Adding json to collections for generating the Order Id</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-108.0.5359.124'/>
+            </parameters>
+            <steps>
+                <step start='1672810035698' status='undefined'>
+                    <name>Adding order to Sales order Collection</name>
+                    <title>Adding order to Sales order Collection</title>
+                    <attachments/>
+                    <steps>
+                        <step start='1672810037594' status='undefined'>
+                            <name>Adding order to Sales Sub order Collection</name>
+                            <title>Adding order to Sales Sub order Collection</title>
+                            <attachments/>
+                            <steps>
+                                <step start='1672810039519' status='passed' stop='1672810041530'>
+                                    <name>Adding order to draft order Collection</name>
+                                    <title>Adding order to draft order Collection</title>
+                                    <attachments/>
+                                    <steps/>
+                                </step>
+                            </steps>
+                        </step>
+                    </steps>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1672810041531' status='broken' stop='1672810050889'>
+            <name>btlp forward workflow</name>
+            <title>btlp forward workflow</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-108.0.5359.124'/>
+            </parameters>
+            <steps>
+                <step start='1672810041531' status='broken' stop='1672810050889'>
+                    <name>Maximize the window</name>
+                    <title>Maximize the window</title>
+                    <attachments/>
+                    <steps>
+                        <step start='1672810041941' status='passed' stop='1672810045589'>
+                            <name>Open Byjus OMS page</name>
+                            <title>Open Byjus OMS page</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1672810045589' status='broken' stop='1672810050889'>
+                            <name>Login to the Home page</name>
+                            <title>Login to the Home page</title>
+                            <attachments>
+                                <attachment title='Screenshot' source='f595b253-ac0e-485d-9c78-2c610fe580d9-attachment.png' type='image/png' size='521524'/>
+                            </attachments>
+                            <steps/>
+                        </step>
+                    </steps>
+                </step>
+            </steps>
+            <attachments/>
+            <failure>
+                <message>this.btnSignInWithGoogle.isDisplayed is not a function</message>
+                <stack-trace>TypeError: this.btnSignInWithGoogle.isDisplayed is not a function
+                    at OMShomepages.loginHomePage (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/omsSmokeData.js:932:71)
+                    at Context.&lt;anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/order_types_testing/upgradeOrder/forwardFlow.js:48:9)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1672810050890' status='broken' stop='1672810056553'>
+            <name>btlp reveres workflow</name>
+            <title>btlp reveres workflow</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-108.0.5359.124'/>
+            </parameters>
+            <steps>
+                <step start='1672810050890' status='broken' stop='1672810056553'>
+                    <name>Maximize the window</name>
+                    <title>Maximize the window</title>
+                    <attachments>
+                        <attachment title='Screenshot' source='e7f594d9-d337-44ad-9aac-ac4abb7be902-attachment.png' type='image/png' size='521524'/>
+                    </attachments>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <failure>
+                <message>this.btnSignInWithGoogle.isDisplayed is not a function</message>
+                <stack-trace>TypeError: this.btnSignInWithGoogle.isDisplayed is not a function
+                    at OMShomepages.loginHomePage (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/omsSmokeData.js:932:71)
+                    at Context.&lt;anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/order_types_testing/upgradeOrder/forwardFlow.js:79:9)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

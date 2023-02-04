@@ -1,0 +1,60 @@
+{
+  "uid" : "8ece1d2e344397b7",
+  "name" : "Adding json to collections for generating the Order Id",
+  "fullName" : "btlp workflow.Adding json to collections for generating the Order Id",
+  "historyId" : "22f2466cd16e0d0f05a261e5f6dfa95e",
+  "time" : {
+    "start" : 1669382562317,
+    "stop" : 1669382593867,
+    "duration" : 31550
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "btlp workflow"
+  }, {
+    "name" : "testClass",
+    "value" : "btlp workflow"
+  }, {
+    "name" : "testMethod",
+    "value" : "Adding json to collections for generating the Order Id"
+  }, {
+    "name" : "package",
+    "value" : "btlp workflow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.110"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8ece1d2e344397b7.json",
+  "parameterValues" : [ "chrome-107.0.5304.110" ]
+}

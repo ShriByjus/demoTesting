@@ -1,0 +1,36 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1667562158745' stop='1667562159045'>
+    <name>btlp workflow</name>
+    <title>btlp workflow</title>
+    <test-cases>
+        <test-case start='1667562158745' status='broken' stop='1667562159044'>
+            <name>log in into WMS</name>
+            <title>log in into WMS</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-107.0.5304.87'/>
+            </parameters>
+            <steps>
+                <step start='1667562158745' status='broken' stop='1667562159044'>
+                    <name>Maximize the window</name>
+                    <title>Maximize the window</title>
+                    <attachments>
+                        <attachment title='Screenshot' source='4536de75-77c2-40f3-a959-11744da0bc3e-attachment.png' type='image/png' size='18495'/>
+                    </attachments>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <failure>
+                <message>_omsSmokeData.default.openWMSPage is not a function</message>
+                <stack-trace>TypeError: _omsSmokeData.default.openWMSPage is not a function
+                    at Context.&lt;anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/Btlp_Smoke_Testings/reveresFlow.js:12:31)
+                    at processTicksAndRejections (node:internal/process/task_queues:96:5)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

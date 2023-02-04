@@ -1,0 +1,187 @@
+{
+  "uid" : "96ed762f9d532a53",
+  "name" : "Verifying the order details and payment values from UI are equal to the values in Kart collection",
+  "fullName" : "Validating Byjus classes single order for 6th standard.Verifying the order details and payment values from UI are equal to the values in Kart collection",
+  "historyId" : "2cfa8b92d72afd209cdcba2158e9268a",
+  "time" : {
+    "start" : 1670588613280,
+    "stop" : 1670588619890,
+    "duration" : 6610
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 5,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Maximize the window",
+      "time" : {
+        "start" : 1670588613280,
+        "stop" : 0,
+        "duration" : -1670588613280
+      },
+      "status" : "unknown",
+      "steps" : [ {
+        "name" : "Copy order details and payments from UI",
+        "time" : {
+          "start" : 1670588616856,
+          "stop" : 0,
+          "duration" : -1670588616856
+        },
+        "status" : "unknown",
+        "steps" : [ {
+          "name" : "Get order details and payments from draft order collection",
+          "time" : {
+            "start" : 1670588617996,
+            "stop" : 0,
+            "duration" : -1670588617996
+          },
+          "status" : "unknown",
+          "steps" : [ {
+            "name" : "Validate the payment value on sales order page is equal to Sku sub total amount",
+            "time" : {
+              "start" : 1670588619889,
+              "stop" : 0,
+              "duration" : -1670588619889
+            },
+            "status" : "unknown",
+            "steps" : [ {
+              "name" : "Validate the order details and payment values from UI are equal to the values from DB",
+              "time" : {
+                "start" : 1670588619890,
+                "stop" : 1670588619890,
+                "duration" : 0
+              },
+              "status" : "passed",
+              "steps" : [ ],
+              "attachments" : [ ],
+              "parameters" : [ ],
+              "stepsCount" : 0,
+              "attachmentsCount" : 0,
+              "shouldDisplayMessage" : false,
+              "hasContent" : false
+            } ],
+            "attachments" : [ ],
+            "parameters" : [ ],
+            "stepsCount" : 1,
+            "attachmentsCount" : 0,
+            "shouldDisplayMessage" : false,
+            "hasContent" : true
+          } ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 2,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 3,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 4,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 5,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Byjus classes single order for 6th standard"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Byjus classes single order for 6th standard"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verifying the order details and payment values from UI are equal to the values in Kart collection"
+  }, {
+    "name" : "package",
+    "value" : "Validating Byjus classes single order for 6th standard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-108.0.5359.98"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f982482d5eae0998",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670573531156,
+        "stop" : 1670573538958,
+        "duration" : 7802
+      }
+    }, {
+      "uid" : "2efbbe4ac85f29c2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670573431496,
+        "stop" : 1670573442277,
+        "duration" : 10781
+      }
+    }, {
+      "uid" : "b8041fcb57044d1f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670573342140,
+        "stop" : 1670573347715,
+        "duration" : 5575
+      }
+    }, {
+      "uid" : "bc24575e14c8781c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670571677251,
+        "stop" : 1670571684108,
+        "duration" : 6857
+      }
+    }, {
+      "uid" : "296e4b34a6d2f6f9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670568105222,
+        "stop" : 1670568111560,
+        "duration" : 6338
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "96ed762f9d532a53.json",
+  "parameterValues" : [ "chrome-108.0.5359.98" ]
+}

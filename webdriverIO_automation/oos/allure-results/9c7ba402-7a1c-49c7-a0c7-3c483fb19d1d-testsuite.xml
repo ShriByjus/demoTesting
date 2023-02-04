@@ -1,0 +1,119 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1669181482284' stop='1669181540548'>
+    <name>Validating UKG Single order</name>
+    <title>Validating UKG Single order</title>
+    <test-cases>
+        <test-case start='1669181482284' status='passed' stop='1669181486922'>
+            <name>Adding json to collections for generating the Order Id</name>
+            <title>Adding json to collections for generating the Order Id</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-107.0.5304.110'/>
+            </parameters>
+            <steps>
+                <step start='1669181482285' status='undefined'>
+                    <name>Adding order to Sales order Collection</name>
+                    <title>Adding order to Sales order Collection</title>
+                    <attachments/>
+                    <steps>
+                        <step start='1669181485018' status='passed' stop='1669181486921'>
+                            <name>Adding order to Sales Sub order Collection</name>
+                            <title>Adding order to Sales Sub order Collection</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                    </steps>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1669181486923' status='passed' stop='1669181524073'>
+            <name>log in into oms</name>
+            <title>log in into oms</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-107.0.5304.110'/>
+            </parameters>
+            <steps>
+                <step start='1669181486923' status='undefined'>
+                    <name>Maximize the window</name>
+                    <title>Maximize the window</title>
+                    <attachments/>
+                    <steps>
+                        <step start='1669181487062' status='passed' stop='1669181492271'>
+                            <name>Open Byjus OMS page</name>
+                            <title>Open Byjus OMS page</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1669181492271' status='undefined'>
+                            <name>Login to the Home page</name>
+                            <title>Login to the Home page</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                    </steps>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1669181524074' status='passed' stop='1669181540347'>
+            <name>Verifying the Sales order Id details</name>
+            <title>Verifying the Sales order Id details</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-107.0.5304.110'/>
+            </parameters>
+            <steps>
+                <step start='1669181524075' status='passed' stop='1669181540346'>
+                    <name>Verifying the Sales order Id details</name>
+                    <title>Verifying the Sales order Id details</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1669181540347' status='broken' stop='1669181540548'>
+            <name>Verify the sales skus</name>
+            <title>Verify the sales skus</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-107.0.5304.110'/>
+            </parameters>
+            <steps>
+                <step start='1669181540348' status='broken' stop='1669181540548'>
+                    <name>Wait for Toggle button to be Clickable</name>
+                    <title>Wait for Toggle button to be Clickable</title>
+                    <attachments>
+                        <attachment title='Screenshot' source='333258bf-e5b6-4db2-b4ab-9a34538b5dfc-attachment.png' type='image/png' size='117501'/>
+                    </attachments>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <failure>
+                <message>elem[prop] is not a function</message>
+                <stack-trace>TypeError: elem[prop] is not a function
+                    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                    at Context.&lt;anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:47:9)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

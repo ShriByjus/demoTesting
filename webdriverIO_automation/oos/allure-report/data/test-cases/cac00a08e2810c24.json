@@ -1,0 +1,96 @@
+{
+  "uid" : "cac00a08e2810c24",
+  "name" : "Verifying the order details and payment values from UI are equal to the values in Kart collection",
+  "fullName" : "Validating UKG Single order.Verifying the order details and payment values from UI are equal to the values in Kart collection",
+  "historyId" : "2d3c850a8d70c957b2abf960234c195c",
+  "time" : {
+    "start" : 1669273977834,
+    "stop" : 1669273978098,
+    "duration" : 264
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "this.ordersTab.click is not a function",
+  "statusTrace" : "TypeError: this.ordersTab.click is not a function\n                    at verifyOmsOrderDetails.openSoIdVerifyDetails (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:255:30)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:118:37)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "this.ordersTab.click is not a function",
+    "statusTrace" : "TypeError: this.ordersTab.click is not a function\n                    at verifyOmsOrderDetails.openSoIdVerifyDetails (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:255:30)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:118:37)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+    "steps" : [ {
+      "name" : "Maximize the window",
+      "time" : {
+        "start" : 1669273977834,
+        "stop" : 1669273978098,
+        "duration" : 264
+      },
+      "status" : "broken",
+      "statusMessage" : "TypeError: this.ordersTab.click is not a function\n                    at verifyOmsOrderDetails.openSoIdVerifyDetails (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:255:30)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:118:37)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "9eb617d3e59ce85b",
+        "name" : "Screenshot",
+        "source" : "9eb617d3e59ce85b.png",
+        "type" : "image/png",
+        "size" : 178786
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verifying the order details and payment values from UI are equal to the values in Kart collection"
+  }, {
+    "name" : "package",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.110"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cac00a08e2810c24.json",
+  "parameterValues" : [ "chrome-107.0.5304.110" ]
+}

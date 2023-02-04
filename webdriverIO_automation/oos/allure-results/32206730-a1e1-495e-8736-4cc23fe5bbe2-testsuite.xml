@@ -1,0 +1,28 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1674126513913' stop='1674126556596'>
+    <name>btlp workflow</name>
+    <title>btlp workflow</title>
+    <test-cases>
+        <test-case start='1674126513916' status='broken' stop='1674126556592'>
+            <name>byjusPay</name>
+            <title>byjusPay</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-109.0.5414.87'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='9ccfcd6b-1de3-46f5-87d3-c3e70b10a6df-attachment.png' type='image/png' size='143008'/>
+            </attachments>
+            <failure>
+                <message>_verifyOmsOrderDetails.default.copyRefernceID is not a function</message>
+                <stack-trace>TypeError: _verifyOmsOrderDetails.default.copyRefernceID is not a function
+                    at Context.&lt;anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/test.js:37:67)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

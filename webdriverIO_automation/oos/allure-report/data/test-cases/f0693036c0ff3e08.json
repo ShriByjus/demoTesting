@@ -1,0 +1,115 @@
+{
+  "uid" : "f0693036c0ff3e08",
+  "name" : "Adding json to collections for generating the Order Id",
+  "fullName" : "Validating UKG Single order.Adding json to collections for generating the Order Id",
+  "historyId" : "dd76a5c7301a24c2436ee73201f56c18",
+  "time" : {
+    "start" : 1669786613825,
+    "stop" : 1669786618180,
+    "duration" : 4355
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Adding order to Sales order Collection",
+      "time" : {
+        "start" : 1669786613826,
+        "stop" : 0,
+        "duration" : -1669786613826
+      },
+      "status" : "unknown",
+      "steps" : [ {
+        "name" : "Adding order to Sales Sub order Collection",
+        "time" : {
+          "start" : 1669786615480,
+          "stop" : 0,
+          "duration" : -1669786615480
+        },
+        "status" : "unknown",
+        "steps" : [ {
+          "name" : "Adding order to draft order Collection",
+          "time" : {
+            "start" : 1669786617043,
+            "stop" : 1669786618179,
+            "duration" : 1136
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 2,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testMethod",
+    "value" : "Adding json to collections for generating the Order Id"
+  }, {
+    "name" : "package",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.121"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f0693036c0ff3e08.json",
+  "parameterValues" : [ "chrome-107.0.5304.121" ]
+}

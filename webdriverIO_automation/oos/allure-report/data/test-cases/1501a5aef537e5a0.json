@@ -1,0 +1,112 @@
+{
+  "uid" : "1501a5aef537e5a0",
+  "name" : "Verifying the order details and payment values from UI are equal to the values in Kart collection",
+  "fullName" : "Validating UKG Single order.Verifying the order details and payment values from UI are equal to the values in Kart collection",
+  "historyId" : "2d3c850a8d70c957b2abf960234c195c",
+  "time" : {
+    "start" : 1669269096481,
+    "stop" : 1669269102603,
+    "duration" : 6122
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Cannot read properties of null (reading 'customerDetails')",
+  "statusTrace" : "TypeError: Cannot read properties of null (reading 'customerDetails')\n                    at mongoConnect.getOrderAndPaymentDetails (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/utils/mongoconnect.js:148:37)\n                    at runMicrotasks (<anonymous>)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:111:42)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "Cannot read properties of null (reading 'customerDetails')",
+    "statusTrace" : "TypeError: Cannot read properties of null (reading 'customerDetails')\n                    at mongoConnect.getOrderAndPaymentDetails (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/utils/mongoconnect.js:148:37)\n                    at runMicrotasks (<anonymous>)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:111:42)",
+    "steps" : [ {
+      "name" : "Copy order details and payments from UI",
+      "time" : {
+        "start" : 1669269099852,
+        "stop" : 1669269102603,
+        "duration" : 2751
+      },
+      "status" : "broken",
+      "statusMessage" : "TypeError: Cannot read properties of null (reading 'customerDetails')\n                    at mongoConnect.getOrderAndPaymentDetails (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/utils/mongoconnect.js:148:37)\n                    at runMicrotasks (<anonymous>)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:111:42)",
+      "steps" : [ {
+        "name" : "Get order details and payments from draft order collection",
+        "time" : {
+          "start" : 1669269100967,
+          "stop" : 1669269102603,
+          "duration" : 1636
+        },
+        "status" : "broken",
+        "statusMessage" : "TypeError: Cannot read properties of null (reading 'customerDetails')\n                    at mongoConnect.getOrderAndPaymentDetails (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/utils/mongoconnect.js:148:37)\n                    at runMicrotasks (<anonymous>)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:111:42)",
+        "steps" : [ ],
+        "attachments" : [ {
+          "uid" : "eb33bb69b9b042ff",
+          "name" : "Screenshot",
+          "source" : "eb33bb69b9b042ff.png",
+          "type" : "image/png",
+          "size" : 198530
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : true,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verifying the order details and payment values from UI are equal to the values in Kart collection"
+  }, {
+    "name" : "package",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.110"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1501a5aef537e5a0.json",
+  "parameterValues" : [ "chrome-107.0.5304.110" ]
+}

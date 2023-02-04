@@ -1,0 +1,109 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1669296526186' stop='1669296578041'>
+    <name>Validating UKG Single order</name>
+    <title>Validating UKG Single order</title>
+    <test-cases>
+        <test-case start='1669296526186' status='passed' stop='1669296534770'>
+            <name>Adding json to collections for generating the Order Id</name>
+            <title>Adding json to collections for generating the Order Id</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-107.0.5304.110'/>
+            </parameters>
+            <steps>
+                <step start='1669296526186' status='undefined'>
+                    <name>Adding order to Sales order Collection</name>
+                    <title>Adding order to Sales order Collection</title>
+                    <attachments/>
+                    <steps>
+                        <step start='1669296529222' status='undefined'>
+                            <name>Adding order to Sales Sub order Collection</name>
+                            <title>Adding order to Sales Sub order Collection</title>
+                            <attachments/>
+                            <steps>
+                                <step start='1669296531158' status='passed' stop='1669296534768'>
+                                    <name>Adding order to draft order Collection</name>
+                                    <title>Adding order to draft order Collection</title>
+                                    <attachments/>
+                                    <steps/>
+                                </step>
+                            </steps>
+                        </step>
+                    </steps>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1669296534771' status='passed' stop='1669296573487'>
+            <name>log in into oms</name>
+            <title>log in into oms</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-107.0.5304.110'/>
+            </parameters>
+            <steps>
+                <step start='1669296534771' status='undefined'>
+                    <name>Maximize the window</name>
+                    <title>Maximize the window</title>
+                    <attachments/>
+                    <steps>
+                        <step start='1669296534905' status='passed' stop='1669296540026'>
+                            <name>Open Byjus OMS page</name>
+                            <title>Open Byjus OMS page</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1669296540026' status='undefined'>
+                            <name>Login to the Home page</name>
+                            <title>Login to the Home page</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                    </steps>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1669296573487' status='broken' stop='1669296578040'>
+            <name>Verify raise priority option</name>
+            <title>Verify raise priority option</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-107.0.5304.110'/>
+            </parameters>
+            <steps>
+                <step start='1669296573487' status='broken' stop='1669296578040'>
+                    <name>Verify raise priority option</name>
+                    <title>Verify raise priority option</title>
+                    <attachments>
+                        <attachment title='Screenshot' source='7b31faca-72b4-4a77-8e27-995e6701c8d8-attachment.png' type='image/png' size='139302'/>
+                    </attachments>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <failure>
+                <message>element click intercepted: Element is not clickable at point (33, 955)
+                  (Session info: chrome=107.0.5304.110)</message>
+                <stack-trace>element click intercepted: element click intercepted: Element is not clickable at point (33, 955)
+                  (Session info: chrome=107.0.5304.110)
+                    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                    at waitAndDoClick (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/utils/function.js:22:5)
+                    at verifyOmsOrderDetails.raisePriorityAndVerify (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:416:9)
+                    at Context.&lt;anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:146:9)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

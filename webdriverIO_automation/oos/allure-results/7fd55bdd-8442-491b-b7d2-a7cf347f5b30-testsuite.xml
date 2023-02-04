@@ -1,0 +1,160 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1667563702576' stop='1667563991339'>
+    <name>btlp workflow</name>
+    <title>btlp workflow</title>
+    <test-cases>
+        <test-case start='1667563702576' status='passed' stop='1667563705680'>
+            <name>Adding json to collections for generating the Order Id</name>
+            <title>Adding json to collections for generating the Order Id</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-107.0.5304.87'/>
+            </parameters>
+            <steps>
+                <step start='1667563702634' status='undefined'>
+                    <name>Adding order to Sales order Collection</name>
+                    <title>Adding order to Sales order Collection</title>
+                    <attachments/>
+                    <steps>
+                        <step start='1667563704260' status='passed' stop='1667563705680'>
+                            <name>Adding order to Sales Sub order Collection</name>
+                            <title>Adding order to Sales Sub order Collection</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                    </steps>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1667563705681' status='passed' stop='1667563884195'>
+            <name>btlp forward workflow</name>
+            <title>btlp forward workflow</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-107.0.5304.87'/>
+            </parameters>
+            <steps>
+                <step start='1667563705681' status='undefined'>
+                    <name>Maximize the window</name>
+                    <title>Maximize the window</title>
+                    <attachments/>
+                    <steps>
+                        <step start='1667563705833' status='passed' stop='1667563709601'>
+                            <name>Open Byjus OMS page</name>
+                            <title>Open Byjus OMS page</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1667563709601' status='undefined'>
+                            <name>Login to the Home page</name>
+                            <title>Login to the Home page</title>
+                            <attachments/>
+                            <steps>
+                                <step start='1667563730879' status='undefined'>
+                                    <name>Open SSO Id</name>
+                                    <title>Open SSO Id</title>
+                                    <attachments/>
+                                    <steps>
+                                        <step start='1667563739797' status='undefined'>
+                                            <name>adding present owner</name>
+                                            <title>adding present owner</title>
+                                            <attachments/>
+                                            <steps>
+                                                <step start='1667563751203' status='undefined'>
+                                                    <name>impersonating set up user</name>
+                                                    <title>impersonating set up user</title>
+                                                    <attachments/>
+                                                    <steps>
+                                                        <step start='1667563766124' status='undefined'>
+                                                            <name>impersonating is done</name>
+                                                            <title>impersonating is done</title>
+                                                            <attachments/>
+                                                            <steps>
+                                                                <step start='1667563770319' status='undefined'>
+                                                                    <name>Open SSO Id and mapping inventory &amp; packaging</name>
+                                                                    <title>Open SSO Id and mapping inventory &amp; packaging</title>
+                                                                    <attachments/>
+                                                                    <steps>
+                                                                        <step start='1667563845817' status='undefined'>
+                                                                            <name>shipment creation</name>
+                                                                            <title>shipment creation</title>
+                                                                            <attachments/>
+                                                                            <steps>
+                                                                                <step start='1667563849794' status='undefined'>
+                                                                                    <name>Get AWB no from DB</name>
+                                                                                    <title>Get AWB no from DB</title>
+                                                                                    <attachments/>
+                                                                                    <steps>
+                                                                                        <step start='1667563851237' status='undefined'>
+                                                                                            <name>Wait for 5 sec to get AWB no from DB</name>
+                                                                                            <title>Wait for 5 sec to get AWB no from DB</title>
+                                                                                            <attachments/>
+                                                                                            <steps>
+                                                                                                <step start='1667563851238' status='undefined'>
+                                                                                                    <name>creation of dispatchBatch</name>
+                                                                                                    <title>creation of dispatchBatch</title>
+                                                                                                    <attachments/>
+                                                                                                    <steps>
+                                                                                                        <step start='1667563863835' status='undefined'>
+                                                                                                            <name>completed creation of dispatchBatch</name>
+                                                                                                            <title>completed creation of dispatchBatch</title>
+                                                                                                            <attachments/>
+                                                                                                            <steps/>
+                                                                                                        </step>
+                                                                                                    </steps>
+                                                                                                </step>
+                                                                                            </steps>
+                                                                                        </step>
+                                                                                    </steps>
+                                                                                </step>
+                                                                            </steps>
+                                                                        </step>
+                                                                    </steps>
+                                                                </step>
+                                                            </steps>
+                                                        </step>
+                                                    </steps>
+                                                </step>
+                                            </steps>
+                                        </step>
+                                    </steps>
+                                </step>
+                            </steps>
+                        </step>
+                    </steps>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1667563884198' status='passed' stop='1667563991336'>
+            <name>btlp reveres workflow</name>
+            <title>btlp reveres workflow</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-107.0.5304.87'/>
+            </parameters>
+            <steps>
+                <step start='1667563884199' status='undefined'>
+                    <name>Maximize the window</name>
+                    <title>Maximize the window</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

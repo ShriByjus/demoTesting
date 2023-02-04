@@ -1,0 +1,115 @@
+{
+  "uid" : "609d62239ac41e53",
+  "name" : "Adding json to collections for generating the Order Id",
+  "fullName" : "Validating grade 4 Single order.Adding json to collections for generating the Order Id",
+  "historyId" : "d60f8bffda739f99ac595396ed467883",
+  "time" : {
+    "start" : 1671018684310,
+    "stop" : 1671018690684,
+    "duration" : 6374
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Adding order to Sales order Collection",
+      "time" : {
+        "start" : 1671018684310,
+        "stop" : 0,
+        "duration" : -1671018684310
+      },
+      "status" : "unknown",
+      "steps" : [ {
+        "name" : "Adding order to Sales Sub order Collection",
+        "time" : {
+          "start" : 1671018686905,
+          "stop" : 0,
+          "duration" : -1671018686905
+        },
+        "status" : "unknown",
+        "steps" : [ {
+          "name" : "Adding order to draft order Collection",
+          "time" : {
+            "start" : 1671018688753,
+            "stop" : 1671018690683,
+            "duration" : 1930
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 2,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating grade 4 Single order"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating grade 4 Single order"
+  }, {
+    "name" : "testMethod",
+    "value" : "Adding json to collections for generating the Order Id"
+  }, {
+    "name" : "package",
+    "value" : "Validating grade 4 Single order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-108.0.5359.98"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "609d62239ac41e53.json",
+  "parameterValues" : [ "chrome-108.0.5359.98" ]
+}

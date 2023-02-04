@@ -1,0 +1,1197 @@
+{
+    "salesSubOrderId" : "SSO1-2210030955250167",
+    "salesOrderId" : "SO-2210030955250167",
+    "orgFormattedName" : "aakash",
+    "orgId" : "ORG-2",
+    "currency" : "INR",
+    "orderType" : "SPLIT_PARENT",
+    "courseType" : "K10",
+    "lineItems" : [ 
+        {
+            "id" : 3149,
+            "skuId" : "TL8WZZ",
+            "imageUrl" : null,
+            "skuName" : "Lenovo Tablet (Add-on-BYJUS) (8 inch-WIFI)",
+            "status" : "active",
+            "orgId" : "ORG-1",
+            "basePrice" : 7000,
+            "continuousPrice" : 5000,
+            "hsnCode" : "847130",
+            "programId" : "TLP1UCHW0001",
+            "type" : "product",
+            "subType" : "tablet",
+            "category" : "tablet",
+            "course" : "",
+            "subCourse" : null,
+            "grade" : null,
+            "subject" : null,
+            "board" : null,
+            "language" : null,
+            "validityType" : "N/A",
+            "validity" : null,
+            "validityMonth" : null,
+            "brand" : "lenovo",
+            "size" : null,
+            "model" : null,
+            "scheme" : null,
+            "skuSet" : 1,
+            "cohortId" : null,
+            "ohProductId" : "1923980",
+            "productState" : "new",
+            "isValidSku" : true,
+            "remarks" : null,
+            "validatedAt" : "2021-11-09T14:40:16.344Z",
+            "financeCode" : "TL8WZZ",
+            "sprId" : null,
+            "orgFormattedName" : "byjus",
+            "createdBy" : "ayushi.bansal@byjus.com",
+            "createdAt" : "2021-11-09T14:40:16.344Z",
+            "deletedAt" : null,
+            "price" : 7000,
+            "itemType" : "tablet",
+            "itemId" : "rMwg4mU_-ltEvymAOBpI1O3u",
+            "studentId" : "Shubham singh-1",
+            "tabletId" : "T-TL8WZZ-Shubham singh",
+            "name" : "Lenovo Tablet (Add-on-BYJUS) (8 inch-WIFI)",
+            "sku" : "Lenovo Tablet (Add-on-BYJUS) (8 inch-WIFI)",
+            "salesSubOrderId" : "SSO1-2210030955250167",
+            "itemStatus" : "mapping_pending",
+            "invoicePrice" : "7000.00",
+            "pgLineItemId" : 1284372
+        }, 
+        {
+            "id" : 9211,
+            "skuId" : "FD08NA23",
+            "imageUrl" : null,
+            "skuName" : "Aakash Byjus 8th Grade Foundation SD Card 2023",
+            "status" : "active",
+            "orgId" : "ORG-2",
+            "basePrice" : 25000,
+            "continuousPrice" : 20000,
+            "hsnCode" : "85235100",
+            "programId" : "BALAKXAS0001",
+            "type" : "product",
+            "subType" : "sd_card",
+            "category" : "aakash",
+            "course" : "K10",
+            "subCourse" : null,
+            "grade" : "8",
+            "subject" : null,
+            "board" : "CBSE",
+            "language" : null,
+            "validityType" : "year",
+            "validity" : "2023",
+            "validityMonth" : "MAY",
+            "brand" : null,
+            "size" : null,
+            "model" : null,
+            "scheme" : null,
+            "skuSet" : 1,
+            "cohortId" : 252,
+            "ohProductId" : "1985756",
+            "productState" : null,
+            "isValidSku" : true,
+            "remarks" : null,
+            "validatedAt" : null,
+            "financeCode" : "FD08NA",
+            "sprId" : null,
+            "orgFormattedName" : "aakash",
+            "createdBy" : "ijaz.shaik@byjus.com",
+            "createdAt" : "2022-04-27T07:15:02.072Z",
+            "deletedAt" : null,
+            "price" : 20000,
+            "itemId" : "vUekVyBH9-T5Yua9px3P3vjM",
+            "studentId" : "Shubham singh-1",
+            "tabletId" : "T-TL8WZZ-Shubham singh",
+            "name" : "Aakash Byjus 8th Grade Foundation SD Card 2023",
+            "sku" : "Aakash Byjus 8th Grade Foundation SD Card 2023",
+            "itemType" : "sd_card",
+            "salesSubOrderId" : "SSO1-2210030955250167",
+            "itemStatus" : "mapping_pending",
+            "invoicePrice" : "15750.00",
+            "pgLineItemId" : 1284373
+        }, 
+        {
+            "id" : 9215,
+            "skuId" : "FD09NA24",
+            "imageUrl" : null,
+            "skuName" : "Aakash Byjus 9th Grade Foundation SD Card 2024",
+            "status" : "active",
+            "orgId" : "ORG-2",
+            "basePrice" : 25000,
+            "continuousPrice" : 20000,
+            "hsnCode" : "85235100",
+            "programId" : "BALAKXAS0001",
+            "type" : "product",
+            "subType" : "sd_card",
+            "category" : "aakash",
+            "course" : "K10",
+            "subCourse" : null,
+            "grade" : "9",
+            "subject" : null,
+            "board" : "CBSE",
+            "language" : null,
+            "validityType" : "year",
+            "validity" : "2024",
+            "validityMonth" : "MAY",
+            "brand" : null,
+            "size" : null,
+            "model" : null,
+            "scheme" : null,
+            "skuSet" : 1,
+            "cohortId" : 232,
+            "ohProductId" : "1985760",
+            "productState" : null,
+            "isValidSku" : true,
+            "remarks" : null,
+            "validatedAt" : null,
+            "financeCode" : "FD09NA",
+            "sprId" : null,
+            "orgFormattedName" : "aakash",
+            "createdBy" : "ijaz.shaik@byjus.com",
+            "createdAt" : "2022-04-27T07:15:02.107Z",
+            "deletedAt" : null,
+            "price" : 25000,
+            "itemId" : "aLKQ56iUVoYNvGyGUdKz2XzY",
+            "studentId" : "Shubham singh-1",
+            "tabletId" : "T-TL8WZZ-Shubham singh",
+            "name" : "Aakash Byjus 9th Grade Foundation SD Card 2024",
+            "sku" : "Aakash Byjus 9th Grade Foundation SD Card 2024",
+            "itemType" : "sd_card",
+            "salesSubOrderId" : "SSO1-2210030955250167",
+            "itemStatus" : "mapping_pending",
+            "invoicePrice" : "15750.00",
+            "pgLineItemId" : 1284374
+        }
+    ],
+    "shipmentLineItems" : [ 
+        {
+            "skuId" : "TL8WZZKX",
+            "skuName" : "K12 Lenovo 8 inch Tablet Wifi",
+            "status" : "active",
+            "type" : "tablet",
+            "properties" : {
+                "grade" : null,
+                "course" : null,
+                "board" : null,
+                "color" : null,
+                "brand" : "Lenovo",
+                "manufacturer" : "Lenovo",
+                "warehouse" : [],
+                "sdCardMemory" : null,
+                "appVersion" : null,
+                "sdCardVersion" : null,
+                "apkRelease" : "2022-01-19T03:48:48.593Z",
+                "contentRelease" : "2022-01-19T03:48:48.593Z",
+                "location" : null,
+                "comboDetails" : [],
+                "userType" : null,
+                "programId" : "TLP1UCAS0001",
+                "size" : null,
+                "model" : null,
+                "skuSet" : null,
+                "subject" : null,
+                "language" : null,
+                "scheme" : null
+            },
+            "dimensions" : {
+                "length" : null,
+                "width" : null,
+                "height" : null,
+                "unit" : null
+            },
+            "weight" : {
+                "value" : null,
+                "unit" : null
+            },
+            "productionStrategy" : null,
+            "financeMaterialCode" : "TL8WZZKX",
+            "financeProductCode" : "TL8W",
+            "createdBy" : "johnson.cherian@byjus.com",
+            "updatedBy" : "system",
+            "createdAt" : "2020-10-12T12:41:24.108Z",
+            "updatedAt" : "2022-08-18T14:33:14.737Z",
+            "deletedAt" : null,
+            "productState" : "new",
+            "activeSalesItems" : [ 
+                "TL8WZZ"
+            ],
+            "activeLineItemIds" : [ 
+                "rMwg4mU_-ltEvymAOBpI1O3u"
+            ],
+            "price" : 7000,
+            "studentId" : "Shubham singh-1",
+            "students" : [ 
+                "Shubham singh-1"
+            ],
+            "tabletId" : "T-TL8WZZ-Shubham singh",
+            "itemStatus" : "mapping_pending",
+            "pgShipmentLineItemId" : 13398588
+        }, 
+        {
+            "skuId" : "F3CB0808",
+            "properties" : {
+                "board" : "CBSE",
+                "grade" : "08-08",
+                "appVersion" : "",
+                "sdCardVersion" : "NA",
+                "sdCardMemory" : 64,
+                "location" : "NA",
+                "noOfGrade" : "",
+                "apkRelease" : "2022-05-09T11:32:57.126Z",
+                "contentRelease" : "2022-05-09T11:32:57.126Z",
+                "inventoryRelease" : "2022-05-09T11:32:57.126Z",
+                "manufacturer" : "",
+                "brand" : "null",
+                "warehouse" : [ 
+                    ""
+                ],
+                "course" : "null",
+                "model" : "",
+                "scheme" : "",
+                "programId" : "BALAKXAS0001",
+                "userType" : "",
+                "language" : "",
+                "subject" : "",
+                "skuSet" : null,
+                "commodity" : "",
+                "content" : "",
+                "combinations" : [ 
+                    {
+                        "label" : "8-8",
+                        "value" : "8-8"
+                    }
+                ],
+                "comboDetails" : [ 
+                    {
+                        "_id" : "627d0885b327a016b74be213",
+                        "finalClass" : 8,
+                        "initialClass" : 8
+                    }
+                ]
+            },
+            "skuName" : "Grade 08 Aakash Byju's Live Foundation SD Card",
+            "type" : "sd_card",
+            "productState" : null,
+            "activeGrades" : [ 
+                8
+            ],
+            "activeSalesItems" : [ 
+                "FD08NA23", 
+                "FL08NA23"
+            ],
+            "activeLineItemIds" : [ 
+                "vUekVyBH9-T5Yua9px3P3vjM", 
+                "B3DobF7crhunka6zv_W2TT8L"
+            ],
+            "studentId" : "Shubham singh-1",
+            "tabletId" : "T-TL8WZZ-Shubham singh",
+            "itemStatus" : "mapping_pending",
+            "pgShipmentLineItemId" : 13398589
+        }, 
+        {
+            "skuId" : "F4CB0909",
+            "properties" : {
+                "board" : "CBSE",
+                "grade" : "09-09",
+                "appVersion" : "",
+                "sdCardVersion" : "NA",
+                "sdCardMemory" : 128,
+                "noOfGrade" : "",
+                "apkRelease" : "2022-05-09T11:32:56.176Z",
+                "contentRelease" : "2022-05-09T11:32:56.176Z",
+                "inventoryRelease" : "2022-05-09T11:32:56.176Z",
+                "manufacturer" : "",
+                "brand" : "null",
+                "course" : "null",
+                "model" : "",
+                "scheme" : "",
+                "programId" : "BALAKXAS0001",
+                "userType" : "",
+                "language" : "",
+                "subject" : "",
+                "skuSet" : null,
+                "commodity" : "",
+                "content" : "",
+                "combinations" : [ 
+                    {
+                        "label" : "9-9",
+                        "value" : "9-9"
+                    }
+                ],
+                "comboDetails" : [ 
+                    {
+                        "_id" : "62a18378a42f06576911fec8",
+                        "finalClass" : 9,
+                        "initialClass" : 9
+                    }
+                ]
+            },
+            "skuName" : "Grade 09 Aakash Byju's Live Foundation SD Card",
+            "type" : "sd_card",
+            "productState" : null,
+            "activeGrades" : [ 
+                9
+            ],
+            "activeSalesItems" : [ 
+                "FD09NA24", 
+                "FL09NA24"
+            ],
+            "activeLineItemIds" : [ 
+                "aLKQ56iUVoYNvGyGUdKz2XzY", 
+                "WKTRtZ7BeTiGqt0mjA60tgS7"
+            ],
+            "studentId" : "Shubham singh-1",
+            "tabletId" : "T-TL8WZZ-Shubham singh",
+            "itemStatus" : "mapping_pending",
+            "pgShipmentLineItemId" : 13398590
+        }
+    ],
+    "returnLineItems" : [],
+    "salesDetails" : {
+        "typeOfSales" : "DS Sales",
+        "directSalesBy" : "sanjay.karkera@byjus.com",
+        "directSalesByCampaign" : "Livechat Calling",
+        "salesAppointmentBy" : null,
+        "salesAppointmentByCampaign" : "Hyderabad",
+        "incentiveDate" : "2022-10-03T10:10:50.470Z",
+        "salesAppointmentByRole" : null,
+        "directSalesByDept" : "business_development",
+        "salesAppointmentByDept" : "",
+        "salesIndex" : 175
+    },
+    "customerDetails" : {
+        "customerId" : "CX-2210030955221842",
+        "name" : "Rakesh",
+        "identifierDetails" : [],
+        "alternateName" : "Shubham singh",
+        "mobileNo" : "+91-8889996781",
+        "alternateMobileNo" : "+91-8889996781",
+        "email" : "8889996781@gmail.com",
+        "alternateEmail" : null,
+        "type" : null,
+        "communicationPreferences" : {},
+        "isBooksOpted" : true,
+        "billingCustomerId" : null
+    },
+    "billingCustomerDetails" : null,
+    "addressDetails" : {
+        "billing" : {
+            "zipcode" : "411057",
+            "addressLine1" : "Address Address AddressAddress",
+            "country" : "India",
+            "state" : "Maharashtra",
+            "city" : "Pune",
+            "addressLine2" : "Address ,",
+            "addressLine3" : "Infotech  Park (Hinjawadi) S.O",
+            "address" : "Address Address AddressAddress\n Address \n Infotech  Park (Hinjawadi) S.O",
+            "addressId" : "348411"
+        },
+        "shipping" : {
+            "zipcode" : "411057",
+            "addressLine1" : "Address Address AddressAddress",
+            "country" : "India",
+            "state" : "Maharashtra",
+            "city" : "Pune",
+            "addressLine2" : "Address ,",
+            "addressLine3" : "Infotech  Park (Hinjawadi) S.O",
+            "address" : "Address Address AddressAddress\n Address \n Infotech  Park (Hinjawadi) S.O",
+            "addressId" : "348423"
+        }
+    },
+    "attachments" : [],
+    "studentDetails" : [ 
+        {
+            "studentProfileDetails" : {
+                "isExistingProfile" : false,
+                "existingPremiumId" : "",
+                "existingFamilyId" : ""
+            },
+            "hlpDetails" : {
+                "courseDetails" : [],
+                "sessionDetails" : []
+            },
+            "courseType" : [ 
+                "K10"
+            ],
+            "electiveDetails" : [],
+            "doubtClassDetails" : [],
+            "workshops" : [],
+            "items" : [ 
+                {
+                    "id" : 9187,
+                    "skuId" : "FL08NA23",
+                    "imageUrl" : null,
+                    "skuName" : "Aakash Byjus 8th Grade Foundation Live 2023",
+                    "status" : "active",
+                    "orgId" : "ORG-2",
+                    "city" : null,
+                    "basePrice" : 20000,
+                    "continuousPrice" : 10000,
+                    "hsnCode" : "999293",
+                    "programId" : "ACOPKXSY0003",
+                    "type" : "service",
+                    "subType" : "live",
+                    "category" : "aakash_neo_classes",
+                    "course" : "K10",
+                    "subCourse" : null,
+                    "grade" : "8",
+                    "subject" : null,
+                    "board" : "CBSE",
+                    "language" : null,
+                    "validityType" : "year",
+                    "validity" : "2023",
+                    "validityMonth" : "MAY",
+                    "brand" : null,
+                    "size" : null,
+                    "model" : null,
+                    "scheme" : null,
+                    "skuSet" : 1,
+                    "cohortId" : 252,
+                    "ohProductId" : "1985733",
+                    "productState" : null,
+                    "isValidSku" : true,
+                    "remarks" : null,
+                    "validatedAt" : null,
+                    "financeCode" : "FL08NA",
+                    "sprId" : null,
+                    "orgFormattedName" : "aakash",
+                    "createdBy" : "ijaz.shaik@byjus.com",
+                    "updatedBy" : "amey.bhojane@byjus.com",
+                    "createdAt" : "2022-04-27T07:15:01.836Z",
+                    "updatedAt" : "2022-05-13T06:29:53.198Z",
+                    "deletedAt" : null,
+                    "price" : 10000,
+                    "combinationType" : "aakash_neo_classes",
+                    "itemId" : "B3DobF7crhunka6zv_W2TT8L",
+                    "studentId" : "Shubham singh-1",
+                    "tabletId" : "T-TL8WZZ-Shubham singh",
+                    "name" : "Aakash Byjus 8th Grade Foundation Live 2023",
+                    "sku" : "Aakash Byjus 8th Grade Foundation Live 2023",
+                    "itemType" : "live"
+                }, 
+                {
+                    "id" : 9211,
+                    "skuId" : "FD08NA23",
+                    "imageUrl" : null,
+                    "skuName" : "Aakash Byjus 8th Grade Foundation SD Card 2023",
+                    "status" : "active",
+                    "orgId" : "ORG-2",
+                    "city" : null,
+                    "basePrice" : 25000,
+                    "continuousPrice" : 20000,
+                    "hsnCode" : "85235100",
+                    "programId" : "BALAKXAS0001",
+                    "type" : "product",
+                    "subType" : "sd_card",
+                    "category" : "aakash",
+                    "course" : "K10",
+                    "subCourse" : null,
+                    "grade" : "8",
+                    "subject" : null,
+                    "board" : "CBSE",
+                    "language" : null,
+                    "validityType" : "year",
+                    "validity" : "2023",
+                    "validityMonth" : "MAY",
+                    "brand" : null,
+                    "size" : null,
+                    "model" : null,
+                    "scheme" : null,
+                    "skuSet" : 1,
+                    "cohortId" : 252,
+                    "ohProductId" : "1985756",
+                    "productState" : null,
+                    "isValidSku" : true,
+                    "remarks" : null,
+                    "validatedAt" : null,
+                    "financeCode" : "FD08NA",
+                    "sprId" : null,
+                    "orgFormattedName" : "aakash",
+                    "createdBy" : "ijaz.shaik@byjus.com",
+                    "updatedBy" : "amey.bhojane@byjus.com",
+                    "createdAt" : "2022-04-27T07:15:02.072Z",
+                    "updatedAt" : "2022-05-13T06:29:53.198Z",
+                    "deletedAt" : null,
+                    "price" : 20000,
+                    "combinationType" : "aakash",
+                    "itemId" : "vUekVyBH9-T5Yua9px3P3vjM",
+                    "studentId" : "Shubham singh-1",
+                    "tabletId" : "T-TL8WZZ-Shubham singh",
+                    "name" : "Aakash Byjus 8th Grade Foundation SD Card 2023",
+                    "sku" : "Aakash Byjus 8th Grade Foundation SD Card 2023",
+                    "itemType" : "sd_card"
+                }, 
+                {
+                    "id" : 9191,
+                    "skuId" : "FL09NA24",
+                    "imageUrl" : null,
+                    "skuName" : "Aakash Byjus 9th Grade Foundation Live 2024",
+                    "status" : "active",
+                    "orgId" : "ORG-2",
+                    "city" : null,
+                    "basePrice" : 20000,
+                    "continuousPrice" : 10000,
+                    "hsnCode" : "999293",
+                    "programId" : "ACOPKXSY0003",
+                    "type" : "service",
+                    "subType" : "live",
+                    "category" : "aakash_neo_classes",
+                    "course" : "K10",
+                    "subCourse" : null,
+                    "grade" : "9",
+                    "subject" : null,
+                    "board" : "CBSE",
+                    "language" : null,
+                    "validityType" : "year",
+                    "validity" : "2024",
+                    "validityMonth" : "MAY",
+                    "brand" : null,
+                    "size" : null,
+                    "model" : null,
+                    "scheme" : null,
+                    "skuSet" : 1,
+                    "cohortId" : 232,
+                    "ohProductId" : "1985737",
+                    "productState" : null,
+                    "isValidSku" : true,
+                    "remarks" : null,
+                    "validatedAt" : null,
+                    "financeCode" : "FL09NA",
+                    "sprId" : null,
+                    "orgFormattedName" : "aakash",
+                    "createdBy" : "ijaz.shaik@byjus.com",
+                    "updatedBy" : "amey.bhojane@byjus.com",
+                    "createdAt" : "2022-04-27T07:15:01.893Z",
+                    "updatedAt" : "2022-05-13T06:29:53.198Z",
+                    "deletedAt" : null,
+                    "price" : 20000,
+                    "combinationType" : "aakash_neo_classes",
+                    "itemId" : "WKTRtZ7BeTiGqt0mjA60tgS7",
+                    "studentId" : "Shubham singh-1",
+                    "tabletId" : "T-TL8WZZ-Shubham singh",
+                    "name" : "Aakash Byjus 9th Grade Foundation Live 2024",
+                    "sku" : "Aakash Byjus 9th Grade Foundation Live 2024",
+                    "itemType" : "live"
+                }, 
+                {
+                    "id" : 9215,
+                    "skuId" : "FD09NA24",
+                    "imageUrl" : null,
+                    "skuName" : "Aakash Byjus 9th Grade Foundation SD Card 2024",
+                    "status" : "active",
+                    "orgId" : "ORG-2",
+                    "city" : null,
+                    "basePrice" : 25000,
+                    "continuousPrice" : 20000,
+                    "hsnCode" : "85235100",
+                    "programId" : "BALAKXAS0001",
+                    "type" : "product",
+                    "subType" : "sd_card",
+                    "category" : "aakash",
+                    "course" : "K10",
+                    "subCourse" : null,
+                    "grade" : "9",
+                    "subject" : null,
+                    "board" : "CBSE",
+                    "language" : null,
+                    "validityType" : "year",
+                    "validity" : "2024",
+                    "validityMonth" : "MAY",
+                    "brand" : null,
+                    "size" : null,
+                    "model" : null,
+                    "scheme" : null,
+                    "skuSet" : 1,
+                    "cohortId" : 232,
+                    "ohProductId" : "1985760",
+                    "productState" : null,
+                    "isValidSku" : true,
+                    "remarks" : null,
+                    "validatedAt" : null,
+                    "financeCode" : "FD09NA",
+                    "sprId" : null,
+                    "orgFormattedName" : "aakash",
+                    "createdBy" : "ijaz.shaik@byjus.com",
+                    "updatedBy" : "amey.bhojane@byjus.com",
+                    "createdAt" : "2022-04-27T07:15:02.107Z",
+                    "updatedAt" : "2022-05-13T06:29:53.198Z",
+                    "deletedAt" : null,
+                    "price" : 25000,
+                    "combinationType" : "aakash",
+                    "itemId" : "aLKQ56iUVoYNvGyGUdKz2XzY",
+                    "studentId" : "Shubham singh-1",
+                    "tabletId" : "T-TL8WZZ-Shubham singh",
+                    "name" : "Aakash Byjus 9th Grade Foundation SD Card 2024",
+                    "sku" : "Aakash Byjus 9th Grade Foundation SD Card 2024",
+                    "itemType" : "sd_card"
+                }, 
+                {
+                    "id" : 3149,
+                    "skuId" : "TL8WZZ",
+                    "imageUrl" : null,
+                    "skuName" : "Lenovo Tablet (Add-on-BYJUS) (8 inch-WIFI)",
+                    "status" : "active",
+                    "orgId" : "ORG-1",
+                    "city" : null,
+                    "basePrice" : 7000,
+                    "continuousPrice" : 5000,
+                    "hsnCode" : "847130",
+                    "programId" : "TLP1UCHW0001",
+                    "type" : "product",
+                    "subType" : "tablet",
+                    "category" : "tablet",
+                    "course" : "",
+                    "subCourse" : null,
+                    "grade" : null,
+                    "subject" : null,
+                    "board" : null,
+                    "language" : null,
+                    "validityType" : "N/A",
+                    "validity" : null,
+                    "validityMonth" : null,
+                    "brand" : "lenovo",
+                    "size" : null,
+                    "model" : null,
+                    "scheme" : null,
+                    "skuSet" : 1,
+                    "cohortId" : null,
+                    "ohProductId" : "1923980",
+                    "productState" : "new",
+                    "isValidSku" : true,
+                    "remarks" : null,
+                    "validatedAt" : "2021-11-09T14:40:16.344Z",
+                    "financeCode" : "TL8WZZ",
+                    "sprId" : null,
+                    "orgFormattedName" : "byjus",
+                    "createdBy" : "ayushi.bansal@byjus.com",
+                    "updatedBy" : "productState-update",
+                    "createdAt" : "2021-11-09T14:40:16.344Z",
+                    "updatedAt" : "2022-07-12T13:45:49.615Z",
+                    "deletedAt" : null,
+                    "price" : 7000,
+                    "itemType" : "tablet",
+                    "itemId" : "rMwg4mU_-ltEvymAOBpI1O3u",
+                    "combinationType" : "product",
+                    "studentId" : "Shubham singh-1",
+                    "tabletId" : "T-TL8WZZ-Shubham singh",
+                    "name" : "Lenovo Tablet (Add-on-BYJUS) (8 inch-WIFI)",
+                    "sku" : "Lenovo Tablet (Add-on-BYJUS) (8 inch-WIFI)"
+                }
+            ],
+            "addOnItems" : [],
+            "mentoringDetails" : [ 
+                {
+                    "type" : "neo",
+                    "sessions" : [ 
+                        {
+                            "day" : "Monday",
+                            "is_mandatory" : true,
+                            "time" : "11:00-13:00"
+                        }, 
+                        {
+                            "day" : "Monday",
+                            "is_mandatory" : true,
+                            "time" : "14:00-18:00"
+                        }, 
+                        {
+                            "day" : "Tuesday",
+                            "is_mandatory" : true,
+                            "time" : "11:00-13:00"
+                        }, 
+                        {
+                            "day" : "Tuesday",
+                            "is_mandatory" : true,
+                            "time" : "14:00-18:00"
+                        }, 
+                        {
+                            "day" : "Wednesday",
+                            "is_mandatory" : true,
+                            "time" : "11:00-13:00"
+                        }, 
+                        {
+                            "day" : "Wednesday",
+                            "is_mandatory" : true,
+                            "time" : "14:00-18:00"
+                        }, 
+                        {
+                            "day" : "Thursday",
+                            "is_mandatory" : true,
+                            "time" : "11:00-13:00"
+                        }, 
+                        {
+                            "day" : "Thursday",
+                            "is_mandatory" : true,
+                            "time" : "14:00-18:00"
+                        }, 
+                        {
+                            "day" : "Friday",
+                            "is_mandatory" : true,
+                            "time" : "11:00-13:00"
+                        }, 
+                        {
+                            "day" : "Friday",
+                            "is_mandatory" : true,
+                            "time" : "14:00-18:00"
+                        }, 
+                        {
+                            "day" : "Saturday",
+                            "is_mandatory" : true,
+                            "time" : "14:00-18:00"
+                        }, 
+                        {
+                            "day" : "Saturday",
+                            "is_mandatory" : true,
+                            "time" : "18:00-20:00"
+                        }, 
+                        {
+                            "day" : "Sunday",
+                            "is_mandatory" : true,
+                            "time" : "11:00-13:00"
+                        }, 
+                        {
+                            "day" : "Sunday",
+                            "is_mandatory" : true,
+                            "time" : "14:00-18:00"
+                        }
+                    ]
+                }
+            ],
+            "bhlpCourseDetails" : [ 
+                {
+                    "id" : 306,
+                    "name" : "10062022_foundation_08",
+                    "is_active" : true,
+                    "live_on_kart" : true,
+                    "time_zone" : "IST",
+                    "batch_country" : "India",
+                    "batch_start_date" : "2022-06-11",
+                    "batch_end_date" : "2023-07-11",
+                    "mandatory_sessions_count" : 14,
+                    "optional_sessions_count" : 0,
+                    "course_id" : 164,
+                    "course_name" : "10062022_foundation_08",
+                    "course_fot_track_id" : null,
+                    "course_proficiency_id" : null,
+                    "medium_of_instruction" : "english",
+                    "course_batch" : "12th",
+                    "cohort_id" : 252,
+                    "course_type" : "neo",
+                    "course_tag" : "classroom",
+                    "slot_group_id" : 237,
+                    "tutor_language_enabled" : true,
+                    "slot_group_name" : "10062022_foundation_08",
+                    "batch_type" : "regular",
+                    "available_subjects" : [],
+                    "course_sub_tag" : "Regular",
+                    "slots" : [ 
+                        {
+                            "id" : 2635,
+                            "day" : "Monday",
+                            "start_time" : "11:00",
+                            "end_time" : "13:00",
+                            "is_mandatory" : true
+                        }, 
+                        {
+                            "id" : 2636,
+                            "day" : "Monday",
+                            "start_time" : "14:00",
+                            "end_time" : "18:00",
+                            "is_mandatory" : true
+                        }, 
+                        {
+                            "id" : 2637,
+                            "day" : "Tuesday",
+                            "start_time" : "11:00",
+                            "end_time" : "13:00",
+                            "is_mandatory" : true
+                        }, 
+                        {
+                            "id" : 2638,
+                            "day" : "Tuesday",
+                            "start_time" : "14:00",
+                            "end_time" : "18:00",
+                            "is_mandatory" : true
+                        }, 
+                        {
+                            "id" : 2639,
+                            "day" : "Wednesday",
+                            "start_time" : "11:00",
+                            "end_time" : "13:00",
+                            "is_mandatory" : true
+                        }, 
+                        {
+                            "id" : 2640,
+                            "day" : "Wednesday",
+                            "start_time" : "14:00",
+                            "end_time" : "18:00",
+                            "is_mandatory" : true
+                        }, 
+                        {
+                            "id" : 2641,
+                            "day" : "Thursday",
+                            "start_time" : "11:00",
+                            "end_time" : "13:00",
+                            "is_mandatory" : true
+                        }, 
+                        {
+                            "id" : 2642,
+                            "day" : "Thursday",
+                            "start_time" : "14:00",
+                            "end_time" : "18:00",
+                            "is_mandatory" : true
+                        }, 
+                        {
+                            "id" : 2643,
+                            "day" : "Friday",
+                            "start_time" : "11:00",
+                            "end_time" : "13:00",
+                            "is_mandatory" : true
+                        }, 
+                        {
+                            "id" : 2644,
+                            "day" : "Friday",
+                            "start_time" : "14:00",
+                            "end_time" : "18:00",
+                            "is_mandatory" : true
+                        }, 
+                        {
+                            "id" : 2645,
+                            "day" : "Saturday",
+                            "start_time" : "14:00",
+                            "end_time" : "18:00",
+                            "is_mandatory" : true
+                        }, 
+                        {
+                            "id" : 2646,
+                            "day" : "Saturday",
+                            "start_time" : "18:00",
+                            "end_time" : "20:00",
+                            "is_mandatory" : true
+                        }, 
+                        {
+                            "id" : 2647,
+                            "day" : "Sunday",
+                            "start_time" : "11:00",
+                            "end_time" : "13:00",
+                            "is_mandatory" : true
+                        }, 
+                        {
+                            "id" : 2648,
+                            "day" : "Sunday",
+                            "start_time" : "14:00",
+                            "end_time" : "18:00",
+                            "is_mandatory" : true
+                        }
+                    ]
+                }
+            ],
+            "featureTag" : [],
+            "_id" : "633ab2ef6e8445001daf07ce",
+            "initialClass" : "8",
+            "finalClass" : "9",
+            "validity" : "2023",
+            "tablet" : "TL8WZZ",
+            "formValues" : {
+                "productLearningType" : "aakash_byjus_live",
+                "initialClass" : "8",
+                "finalClass" : "9",
+                "initialGradeProductLearningType" : "",
+                "finalGradeProductLearningType" : "",
+                "subCourse" : "",
+                "validity" : 2023,
+                "tablet" : "TL8WZZ",
+                "mentoringDetails" : [ 
+                    {
+                        "type" : "neo",
+                        "sessions" : [ 
+                            {
+                                "day" : "Monday",
+                                "is_mandatory" : true,
+                                "time" : "11:00-13:00"
+                            }, 
+                            {
+                                "day" : "Monday",
+                                "is_mandatory" : true,
+                                "time" : "14:00-18:00"
+                            }, 
+                            {
+                                "day" : "Tuesday",
+                                "is_mandatory" : true,
+                                "time" : "11:00-13:00"
+                            }, 
+                            {
+                                "day" : "Tuesday",
+                                "is_mandatory" : true,
+                                "time" : "14:00-18:00"
+                            }, 
+                            {
+                                "day" : "Wednesday",
+                                "is_mandatory" : true,
+                                "time" : "11:00-13:00"
+                            }, 
+                            {
+                                "day" : "Wednesday",
+                                "is_mandatory" : true,
+                                "time" : "14:00-18:00"
+                            }, 
+                            {
+                                "day" : "Thursday",
+                                "is_mandatory" : true,
+                                "time" : "11:00-13:00"
+                            }, 
+                            {
+                                "day" : "Thursday",
+                                "is_mandatory" : true,
+                                "time" : "14:00-18:00"
+                            }, 
+                            {
+                                "day" : "Friday",
+                                "is_mandatory" : true,
+                                "time" : "11:00-13:00"
+                            }, 
+                            {
+                                "day" : "Friday",
+                                "is_mandatory" : true,
+                                "time" : "14:00-18:00"
+                            }, 
+                            {
+                                "day" : "Saturday",
+                                "is_mandatory" : true,
+                                "time" : "14:00-18:00"
+                            }, 
+                            {
+                                "day" : "Saturday",
+                                "is_mandatory" : true,
+                                "time" : "18:00-20:00"
+                            }, 
+                            {
+                                "day" : "Sunday",
+                                "is_mandatory" : true,
+                                "time" : "11:00-13:00"
+                            }, 
+                            {
+                                "day" : "Sunday",
+                                "is_mandatory" : true,
+                                "time" : "14:00-18:00"
+                            }
+                        ]
+                    }
+                ],
+                "bhlpCourseDetails" : {
+                    "id" : 306,
+                    "name" : "10062022_foundation_08",
+                    "is_active" : true,
+                    "live_on_kart" : true,
+                    "time_zone" : "IST",
+                    "batch_country" : "India",
+                    "batch_start_date" : "2022-06-11",
+                    "batch_end_date" : "2023-07-11",
+                    "mandatory_sessions_count" : 14,
+                    "optional_sessions_count" : 0,
+                    "course_id" : 164,
+                    "course_name" : "10062022_foundation_08",
+                    "course_fot_track_id" : null,
+                    "course_proficiency_id" : null,
+                    "medium_of_instruction" : "english",
+                    "course_batch" : "12th",
+                    "cohort_id" : 252,
+                    "course_type" : "neo",
+                    "course_tag" : "classroom",
+                    "slot_group_id" : 237,
+                    "tutor_language_enabled" : true,
+                    "slot_group_name" : "10062022_foundation_08",
+                    "batch_type" : "regular",
+                    "available_subjects" : [],
+                    "course_sub_tag" : "Regular",
+                    "slots" : [ 
+                        {
+                            "id" : 2635,
+                            "day" : "Monday",
+                            "start_time" : "11:00",
+                            "end_time" : "13:00",
+                            "is_mandatory" : true
+                        }, 
+                        {
+                            "id" : 2636,
+                            "day" : "Monday",
+                            "start_time" : "14:00",
+                            "end_time" : "18:00",
+                            "is_mandatory" : true
+                        }, 
+                        {
+                            "id" : 2637,
+                            "day" : "Tuesday",
+                            "start_time" : "11:00",
+                            "end_time" : "13:00",
+                            "is_mandatory" : true
+                        }, 
+                        {
+                            "id" : 2638,
+                            "day" : "Tuesday",
+                            "start_time" : "14:00",
+                            "end_time" : "18:00",
+                            "is_mandatory" : true
+                        }, 
+                        {
+                            "id" : 2639,
+                            "day" : "Wednesday",
+                            "start_time" : "11:00",
+                            "end_time" : "13:00",
+                            "is_mandatory" : true
+                        }, 
+                        {
+                            "id" : 2640,
+                            "day" : "Wednesday",
+                            "start_time" : "14:00",
+                            "end_time" : "18:00",
+                            "is_mandatory" : true
+                        }, 
+                        {
+                            "id" : 2641,
+                            "day" : "Thursday",
+                            "start_time" : "11:00",
+                            "end_time" : "13:00",
+                            "is_mandatory" : true
+                        }, 
+                        {
+                            "id" : 2642,
+                            "day" : "Thursday",
+                            "start_time" : "14:00",
+                            "end_time" : "18:00",
+                            "is_mandatory" : true
+                        }, 
+                        {
+                            "id" : 2643,
+                            "day" : "Friday",
+                            "start_time" : "11:00",
+                            "end_time" : "13:00",
+                            "is_mandatory" : true
+                        }, 
+                        {
+                            "id" : 2644,
+                            "day" : "Friday",
+                            "start_time" : "14:00",
+                            "end_time" : "18:00",
+                            "is_mandatory" : true
+                        }, 
+                        {
+                            "id" : 2645,
+                            "day" : "Saturday",
+                            "start_time" : "14:00",
+                            "end_time" : "18:00",
+                            "is_mandatory" : true
+                        }, 
+                        {
+                            "id" : 2646,
+                            "day" : "Saturday",
+                            "start_time" : "18:00",
+                            "end_time" : "20:00",
+                            "is_mandatory" : true
+                        }, 
+                        {
+                            "id" : 2647,
+                            "day" : "Sunday",
+                            "start_time" : "11:00",
+                            "end_time" : "13:00",
+                            "is_mandatory" : true
+                        }, 
+                        {
+                            "id" : 2648,
+                            "day" : "Sunday",
+                            "start_time" : "14:00",
+                            "end_time" : "18:00",
+                            "is_mandatory" : true
+                        }
+                    ]
+                },
+                "proficiency" : "",
+                "mathPercent" : "",
+                "sciencePercent" : "",
+                "languageOfInstruction" : "english",
+                "languageOfInstructionId" : 1,
+                "tabletId" : "T-TL8WZZ",
+                "isTabletLock" : false
+            },
+            "tabletLock" : "not_applicable",
+            "productSelectionType" : "byjus_aakash_neo",
+            "studentName" : "Shubham singh",
+            "studentId" : "Shubham singh-1",
+            "academicDetails" : {
+                "mathPercent" : "",
+                "sciencePercent" : "",
+                "fotTrackId" : null,
+                "proficiency" : "",
+                "schoolDetails" : {
+                    "id" : null,
+                    "name" : "",
+                    "address" : "",
+                    "pincode" : null
+                },
+                "languageOfInstruction" : "english",
+                "languageOfInstructionId" : 1
+            },
+            "premiumAccount" : "1069926349"
+        }
+    ],
+    "orderPunchingType" : "normal_order",
+    "orderPunchingCategory" : "aakash_neo_classes",
+    "paymentDetails" : {
+        "payments" : [ 
+            {
+                "isPrepaid" : true,
+                "_id" : "633ab5216e8445001daf0eb9",
+                "provider" : "PAYU",
+                "referenceId" : "BYJUS0002210034704",
+                "amount" : 70000,
+                "type" : "DOWN_PAYMENT",
+                "currency" : "",
+                "attachments" : [],
+                "isActive" : true
+            }
+        ],
+        "paymentMethod" : "GP",
+        "paymentStatus" : "PAID",
+        "paymentMode" : "PAYU",
+        "paymentAmountSplit" : "70000",
+        "totalAmount" : 70000
+    },
+    "leadDetails" : {
+        "prospectId" : "en8889996781qwe2",
+        "accountNo" : "24692",
+        "loggedInEmailId" : "praz@byjus.com",
+        "leadCreatedBy" : "",
+        "leadCreatedAt" : null,
+        "leadMobileNo" : "+91-8889996781",
+        "isLeadMobileUsed" : true,
+        "leadLink" : "https://run.leadsquared.com/LeadManagement/LeadDetails?LeadID=en8889996781qwe2"
+    },
+    "contactDetails" : {
+        "orderPunchingContact" : "8889996781",
+        "cxProvidedContact" : "8889996781",
+        "leadContact" : "8889996781",
+        "gpContact" : "",
+        "ngpContact" : "",
+        "lpContact" : ""
+    },
+    "type" : "product",
+    "subType" : "course",
+    "status" : "not_confirmed",
+    "category" : "sales",
+    "statusReason" : "AUTO_CONFIRMED",
+    "actionDetails" : {
+        "createdAt" : "2022-10-03T10:11:00.347Z",
+        "createdBy" : "praz@byjus.com",
+        "confirmedAt" : "2022-10-03T10:11:02.012Z",
+        "confirmedBy" : "system_draft_order_job",
+        "notConfirmedAt" : "2022-10-03T10:11:00.529Z",
+        "notConfirmedBy" : "draft_order_job"
+    },
+    "createdAt" : "2022-10-03T10:10:50.470Z",
+    "updatedat" : "2022-10-03T10:11:00.347Z",
+    "sourceDetails" : null,
+    "assignmentCategory" : "k10",
+    "updatedAt" : "2022-10-03T10:11:02.688Z",
+    "estimatedDispatchDate" : "2022-10-04T10:11:00.538Z",
+    "salesOrderStatus" : "not_confirmed"
+}

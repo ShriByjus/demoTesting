@@ -1,0 +1,127 @@
+{
+  "uid" : "edc97ec739f42d53",
+  "name" : "Verifying the Sales order Id details",
+  "fullName" : "Validating Byjus classes single order for 6th standard.Verifying the Sales order Id details",
+  "historyId" : "c43e2c2d5c7fd4108f223b37cd0224f7",
+  "time" : {
+    "start" : 1670588555391,
+    "stop" : 1670588574668,
+    "duration" : 19277
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 5,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Verifying the Sales order Id details",
+      "time" : {
+        "start" : 1670588555391,
+        "stop" : 0,
+        "duration" : -1670588555391
+      },
+      "status" : "unknown",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Byjus classes single order for 6th standard"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Byjus classes single order for 6th standard"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verifying the Sales order Id details"
+  }, {
+    "name" : "package",
+    "value" : "Validating Byjus classes single order for 6th standard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-108.0.5359.98"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e5fd14c7567d69c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670573496463,
+        "stop" : 1670573504448,
+        "duration" : 7985
+      }
+    }, {
+      "uid" : "1d1e37c0c06df1e5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670573401691,
+        "stop" : 1670573406438,
+        "duration" : 4747
+      }
+    }, {
+      "uid" : "784095501bcc37fd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670573307325,
+        "stop" : 1670573315426,
+        "duration" : 8101
+      }
+    }, {
+      "uid" : "9d699adf0d49a4ec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670571626364,
+        "stop" : 1670571642338,
+        "duration" : 15974
+      }
+    }, {
+      "uid" : "cfd13bfff0ceaebf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1670568079544,
+        "stop" : 1670568085022,
+        "duration" : 5478
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "edc97ec739f42d53.json",
+  "parameterValues" : [ "chrome-108.0.5359.98" ]
+}

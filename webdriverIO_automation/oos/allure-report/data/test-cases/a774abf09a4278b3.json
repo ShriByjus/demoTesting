@@ -1,0 +1,144 @@
+{
+  "uid" : "a774abf09a4278b3",
+  "name" : "Verify the shipment skus and skus name",
+  "fullName" : "Validating UKG Single order.Verify the shipment skus and skus name",
+  "historyId" : "1423609e37ae6158a77c94a096685488",
+  "time" : {
+    "start" : 1669215071073,
+    "stop" : 1669215078267,
+    "duration" : 7194
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "getText is not defined",
+  "statusTrace" : "ReferenceError: getText is not defined\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:75:51)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "getText is not defined",
+    "statusTrace" : "ReferenceError: getText is not defined\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:75:51)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+    "steps" : [ {
+      "name" : "Validate the shipment sku's",
+      "time" : {
+        "start" : 1669215074523,
+        "stop" : 1669215078267,
+        "duration" : 3744
+      },
+      "status" : "broken",
+      "statusMessage" : "ReferenceError: getText is not defined\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:75:51)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+      "steps" : [ {
+        "name" : "Validatation done for shipment sku's",
+        "time" : {
+          "start" : 1669215074527,
+          "stop" : 1669215078267,
+          "duration" : 3740
+        },
+        "status" : "broken",
+        "statusMessage" : "ReferenceError: getText is not defined\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:75:51)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+        "steps" : [ {
+          "name" : "Validate the shipment sku's names",
+          "time" : {
+            "start" : 1669215074527,
+            "stop" : 1669215078267,
+            "duration" : 3740
+          },
+          "status" : "broken",
+          "statusMessage" : "ReferenceError: getText is not defined\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:75:51)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+          "steps" : [ {
+            "name" : "Validatation done for shipment sku's names",
+            "time" : {
+              "start" : 1669215078041,
+              "stop" : 1669215078267,
+              "duration" : 226
+            },
+            "status" : "broken",
+            "statusMessage" : "ReferenceError: getText is not defined\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:75:51)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "621c488633764c82",
+              "name" : "Screenshot",
+              "source" : "621c488633764c82.png",
+              "type" : "image/png",
+              "size" : 304148
+            } ],
+            "parameters" : [ ],
+            "stepsCount" : 0,
+            "attachmentsCount" : 1,
+            "shouldDisplayMessage" : true,
+            "hasContent" : true
+          } ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 1,
+          "attachmentsCount" : 1,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 2,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 3,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the shipment skus and skus name"
+  }, {
+    "name" : "package",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.110"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a774abf09a4278b3.json",
+  "parameterValues" : [ "chrome-107.0.5304.110" ]
+}

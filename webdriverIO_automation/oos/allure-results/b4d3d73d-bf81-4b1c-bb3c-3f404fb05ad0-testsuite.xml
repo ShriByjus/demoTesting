@@ -1,0 +1,329 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1669274059849' stop='1669274103290'>
+    <name>Validating UKG Single order</name>
+    <title>Validating UKG Single order</title>
+    <test-cases>
+        <test-case start='1669274059849' status='passed' stop='1669274065592'>
+            <name>Adding json to collections for generating the Order Id</name>
+            <title>Adding json to collections for generating the Order Id</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-107.0.5304.110'/>
+            </parameters>
+            <steps>
+                <step start='1669274059850' status='undefined'>
+                    <name>Adding order to Sales order Collection</name>
+                    <title>Adding order to Sales order Collection</title>
+                    <attachments/>
+                    <steps>
+                        <step start='1669274061681' status='undefined'>
+                            <name>Adding order to Sales Sub order Collection</name>
+                            <title>Adding order to Sales Sub order Collection</title>
+                            <attachments/>
+                            <steps>
+                                <step start='1669274063590' status='passed' stop='1669274065591'>
+                                    <name>Adding order to draft order Collection</name>
+                                    <title>Adding order to draft order Collection</title>
+                                    <attachments/>
+                                    <steps/>
+                                </step>
+                            </steps>
+                        </step>
+                    </steps>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1669274065593' status='passed' stop='1669274092394'>
+            <name>log in into oms</name>
+            <title>log in into oms</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-107.0.5304.110'/>
+            </parameters>
+            <steps>
+                <step start='1669274065593' status='undefined'>
+                    <name>Maximize the window</name>
+                    <title>Maximize the window</title>
+                    <attachments/>
+                    <steps>
+                        <step start='1669274065720' status='passed' stop='1669274068307'>
+                            <name>Open Byjus OMS page</name>
+                            <title>Open Byjus OMS page</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1669274068307' status='undefined'>
+                            <name>Login to the Home page</name>
+                            <title>Login to the Home page</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                    </steps>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1669274092395' status='broken' stop='1669274092558'>
+            <name>Verifying the Sales order Id details</name>
+            <title>Verifying the Sales order Id details</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-107.0.5304.110'/>
+            </parameters>
+            <steps>
+                <step start='1669274092396' status='broken' stop='1669274092558'>
+                    <name>Verifying the Sales order Id details</name>
+                    <title>Verifying the Sales order Id details</title>
+                    <attachments>
+                        <attachment title='Screenshot' source='62ead22c-9e48-4e79-9314-b3eec432e2af-attachment.png' type='image/png' size='178722'/>
+                    </attachments>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <failure>
+                <message>this.ordersTab.waitForClickable is not a function</message>
+                <stack-trace>TypeError: this.ordersTab.waitForClickable is not a function
+                    at verifyOmsOrderDetails.openSoIdVerifyDetails (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:254:30)
+                    at Context.&lt;anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:43:37)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1669274092558' status='broken' stop='1669274092706'>
+            <name>Verify PID is generated</name>
+            <title>Verify PID is generated</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-107.0.5304.110'/>
+            </parameters>
+            <steps>
+                <step start='1669274092558' status='broken' stop='1669274092706'>
+                    <name>Scroll to PID button</name>
+                    <title>Scroll to PID button</title>
+                    <attachments>
+                        <attachment title='Screenshot' source='d0e6bc01-aa88-4958-9243-95638e3b2868-attachment.png' type='image/png' size='178722'/>
+                    </attachments>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <failure>
+                <message>_verifyOmsOrderDetails.default.verifyPid.scrollIntoView is not a function</message>
+                <stack-trace>TypeError: _verifyOmsOrderDetails.default.verifyPid.scrollIntoView is not a function
+                    at Context.&lt;anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:58:47)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1669274092706' status='broken' stop='1669274092857'>
+            <name>Verify the shipment skus and skus name</name>
+            <title>Verify the shipment skus and skus name</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-107.0.5304.110'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='17213782-f619-4604-924e-9d498e166c76-attachment.png' type='image/png' size='178722'/>
+            </attachments>
+            <failure>
+                <message>_verifyOmsOrderDetails.default.toggleToSalesSku.click is not a function</message>
+                <stack-trace>TypeError: _verifyOmsOrderDetails.default.toggleToSalesSku.click is not a function
+                    at Context.&lt;anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:69:54)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1669274092857' status='passed' stop='1669274098498'>
+            <name>Verify the sales skus and skus names</name>
+            <title>Verify the sales skus and skus names</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-107.0.5304.110'/>
+            </parameters>
+            <steps>
+                <step start='1669274095626' status='undefined'>
+                    <name>Validate the sales sku's</name>
+                    <title>Validate the sales sku's</title>
+                    <attachments/>
+                    <steps>
+                        <step start='1669274095630' status='undefined'>
+                            <name>Validatation done for sales sku's</name>
+                            <title>Validatation done for sales sku's</title>
+                            <attachments/>
+                            <steps>
+                                <step start='1669274095630' status='undefined'>
+                                    <name>Validate the shipment sku's names</name>
+                                    <title>Validate the shipment sku's names</title>
+                                    <attachments/>
+                                    <steps>
+                                        <step start='1669274098497' status='passed' stop='1669274098498'>
+                                            <name>Validatation done for shipment sku's names</name>
+                                            <title>Validatation done for shipment sku's names</title>
+                                            <attachments/>
+                                            <steps/>
+                                        </step>
+                                    </steps>
+                                </step>
+                            </steps>
+                        </step>
+                    </steps>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1669274098499' status='broken' stop='1669274098675'>
+            <name>Verifying changing the status to Confirmed and Verify the order status history</name>
+            <title>Verifying changing the status to Confirmed and Verify the order status history</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-107.0.5304.110'/>
+            </parameters>
+            <steps>
+                <step start='1669274098499' status='broken' stop='1669274098675'>
+                    <name>Verify change status to Confirmed and verify order status history</name>
+                    <title>Verify change status to Confirmed and verify order status history</title>
+                    <attachments>
+                        <attachment title='Screenshot' source='bf4c3868-9fb6-41bc-a7f7-01fe4ba67dc7-attachment.png' type='image/png' size='178722'/>
+                    </attachments>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <failure>
+                <message>this.ordersTab.waitForDisplayed is not a function</message>
+                <stack-trace>TypeError: this.ordersTab.waitForDisplayed is not a function
+                    at verifyOmsOrderDetails.statusConfirmedAndVerifyOrderStatusHistory (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:279:30)
+                    at Context.&lt;anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:111:37)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1669274098675' status='broken' stop='1669274098940'>
+            <name>Verifying the order details and payment values from UI are equal to the values in Kart collection</name>
+            <title>Verifying the order details and payment values from UI are equal to the values in Kart collection</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-107.0.5304.110'/>
+            </parameters>
+            <steps>
+                <step start='1669274098675' status='broken' stop='1669274098940'>
+                    <name>Maximize the window</name>
+                    <title>Maximize the window</title>
+                    <attachments>
+                        <attachment title='Screenshot' source='ac9fd1e3-47a2-4d4b-a49c-1ce773cdee08-attachment.png' type='image/png' size='178722'/>
+                    </attachments>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <failure>
+                <message>this.ordersTab.waitForClickable is not a function</message>
+                <stack-trace>TypeError: this.ordersTab.waitForClickable is not a function
+                    at verifyOmsOrderDetails.openSoIdVerifyDetails (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:254:30)
+                    at Context.&lt;anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:118:37)
+                    at processTicksAndRejections (node:internal/process/task_queues:96:5)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1669274098940' status='broken' stop='1669274103145'>
+            <name>Verify sales and customer details</name>
+            <title>Verify sales and customer details</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-107.0.5304.110'/>
+            </parameters>
+            <steps>
+                <step start='1669274098940' status='broken' stop='1669274103145'>
+                    <name>Get address details from draft order Id collection</name>
+                    <title>Get address details from draft order Id collection</title>
+                    <attachments/>
+                    <steps>
+                        <step start='1669274101289' status='broken' stop='1669274103145'>
+                            <name>Get customer details from draft order Id collection</name>
+                            <title>Get customer details from draft order Id collection</title>
+                            <attachments/>
+                            <steps>
+                                <step start='1669274102999' status='broken' stop='1669274103145'>
+                                    <name>Copy sales and customer details from UI</name>
+                                    <title>Copy sales and customer details from UI</title>
+                                    <attachments>
+                                        <attachment title='Screenshot' source='a1f88680-c384-4402-be4a-67a7830599bc-attachment.png' type='image/png' size='178722'/>
+                                    </attachments>
+                                    <steps/>
+                                </step>
+                            </steps>
+                        </step>
+                    </steps>
+                </step>
+            </steps>
+            <attachments/>
+            <failure>
+                <message>this.btnSalesAndCustomerDetails.waitForClickable is not a function</message>
+                <stack-trace>TypeError: this.btnSalesAndCustomerDetails.waitForClickable is not a function
+                    at verifyOmsOrderDetails.verifySalesAndCustomerDetails (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:360:47)
+                    at Context.&lt;anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:136:49)
+                    at processTicksAndRejections (node:internal/process/task_queues:96:5)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1669274103145' status='broken' stop='1669274103290'>
+            <name>Verify raise priority option</name>
+            <title>Verify raise priority option</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-107.0.5304.110'/>
+            </parameters>
+            <steps>
+                <step start='1669274103146' status='broken' stop='1669274103290'>
+                    <name>Verify raise priority option</name>
+                    <title>Verify raise priority option</title>
+                    <attachments>
+                        <attachment title='Screenshot' source='a9a39298-8ece-42b7-8e5e-2d91cc4306bd-attachment.png' type='image/png' size='178722'/>
+                    </attachments>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <failure>
+                <message>element.waitForExist is not a function</message>
+                <stack-trace>TypeError: element.waitForExist is not a function
+                    at waitAndDoClick (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/utils/function.js:21:19)
+                    at verifyOmsOrderDetails.raisePriorityAndVerify (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:417:29)
+                    at Context.&lt;anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:146:37)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

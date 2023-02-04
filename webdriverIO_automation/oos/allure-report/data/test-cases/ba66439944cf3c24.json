@@ -1,0 +1,130 @@
+{
+  "uid" : "ba66439944cf3c24",
+  "name" : "Verify the sales skus and skus names",
+  "fullName" : "Validating UKG Single order.Verify the sales skus and skus names",
+  "historyId" : "2797444268a0bd1b3a4dcb5d8312d687",
+  "time" : {
+    "start" : 1669273970994,
+    "stop" : 1669273977660,
+    "duration" : 6666
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Validate the sales sku's",
+      "time" : {
+        "start" : 1669273974302,
+        "stop" : 0,
+        "duration" : -1669273974302
+      },
+      "status" : "unknown",
+      "steps" : [ {
+        "name" : "Validatation done for sales sku's",
+        "time" : {
+          "start" : 1669273974305,
+          "stop" : 0,
+          "duration" : -1669273974305
+        },
+        "status" : "unknown",
+        "steps" : [ {
+          "name" : "Validate the shipment sku's names",
+          "time" : {
+            "start" : 1669273974305,
+            "stop" : 0,
+            "duration" : -1669273974305
+          },
+          "status" : "unknown",
+          "steps" : [ {
+            "name" : "Validatation done for shipment sku's names",
+            "time" : {
+              "start" : 1669273977659,
+              "stop" : 1669273977660,
+              "duration" : 1
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ ],
+            "parameters" : [ ],
+            "stepsCount" : 0,
+            "attachmentsCount" : 0,
+            "shouldDisplayMessage" : false,
+            "hasContent" : false
+          } ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 1,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 2,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 3,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the sales skus and skus names"
+  }, {
+    "name" : "package",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.110"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ba66439944cf3c24.json",
+  "parameterValues" : [ "chrome-107.0.5304.110" ]
+}

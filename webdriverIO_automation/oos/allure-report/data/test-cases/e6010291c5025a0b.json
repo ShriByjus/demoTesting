@@ -1,0 +1,96 @@
+{
+  "uid" : "e6010291c5025a0b",
+  "name" : "Verifying the order details and payment values from UI are equal to the values in Kart collection",
+  "fullName" : "Validating UKG Single order.Verifying the order details and payment values from UI are equal to the values in Kart collection",
+  "historyId" : "2d3c850a8d70c957b2abf960234c195c",
+  "time" : {
+    "start" : 1669265053195,
+    "stop" : 1669265083393,
+    "duration" : 30198
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "element (\"//div[@class='mb-1']/a\") still not clickable after 30000ms",
+  "statusTrace" : "Error: element (\"//div[@class='mb-1']/a\") still not clickable after 30000ms\n                    at verifyOmsOrderDetails.verifyOrderDetailsAndPayments (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:251:9)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:62:41)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "element (\"//div[@class='mb-1']/a\") still not clickable after 30000ms",
+    "statusTrace" : "Error: element (\"//div[@class='mb-1']/a\") still not clickable after 30000ms\n                    at verifyOmsOrderDetails.verifyOrderDetailsAndPayments (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:251:9)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:62:41)",
+    "steps" : [ {
+      "name" : "Copy order details and payments from UI",
+      "time" : {
+        "start" : 1669265053195,
+        "stop" : 1669265083393,
+        "duration" : 30198
+      },
+      "status" : "broken",
+      "statusMessage" : "Error: element (\"//div[@class='mb-1']/a\") still not clickable after 30000ms\n                    at verifyOmsOrderDetails.verifyOrderDetailsAndPayments (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:251:9)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:62:41)",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "db25382474d6cb33",
+        "name" : "Screenshot",
+        "source" : "db25382474d6cb33.png",
+        "type" : "image/png",
+        "size" : 223534
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verifying the order details and payment values from UI are equal to the values in Kart collection"
+  }, {
+    "name" : "package",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.110"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e6010291c5025a0b.json",
+  "parameterValues" : [ "chrome-107.0.5304.110" ]
+}

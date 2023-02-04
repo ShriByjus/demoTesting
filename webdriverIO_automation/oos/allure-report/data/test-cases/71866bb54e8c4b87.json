@@ -1,0 +1,102 @@
+{
+  "uid" : "71866bb54e8c4b87",
+  "name" : "Verifying changing the status to Confirmed and Verify the order status history",
+  "fullName" : "Validating Aakash Byjus Courses single order for 8th standard.Verifying changing the status to Confirmed and Verify the order status history",
+  "historyId" : "7269d8563c228f3e5b31a836719dd0ad",
+  "time" : {
+    "start" : 1671023855660,
+    "stop" : 1671023862688,
+    "duration" : 7028
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "element click intercepted: Element <i class=\"fa fa-bars\"></i> is not clickable at point (1164, 146). Other element would receive the click: <div tabindex=\"-1\" class=\"overlay\">...</div>\n                  (Session info: chrome=108.0.5359.98)",
+  "statusTrace" : "element click intercepted: element click intercepted: Element <i class=\"fa fa-bars\"></i> is not clickable at point (1164, 146). Other element would receive the click: <div tabindex=\"-1\" class=\"overlay\">...</div>\n                  (Session info: chrome=108.0.5359.98)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at waitAndDoClick (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/utils/function.js:22:5)\n                    at verifyOmsOrderDetails.statusConfirmedAndVerifyOrderStatusHistory (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:288:9)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/akash-byjus-course/testAkashByjusCourse8th.js:109:9)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "element click intercepted: Element <i class=\"fa fa-bars\"></i> is not clickable at point (1164, 146). Other element would receive the click: <div tabindex=\"-1\" class=\"overlay\">...</div>\n                  (Session info: chrome=108.0.5359.98)",
+    "statusTrace" : "element click intercepted: element click intercepted: Element <i class=\"fa fa-bars\"></i> is not clickable at point (1164, 146). Other element would receive the click: <div tabindex=\"-1\" class=\"overlay\">...</div>\n                  (Session info: chrome=108.0.5359.98)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at waitAndDoClick (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/utils/function.js:22:5)\n                    at verifyOmsOrderDetails.statusConfirmedAndVerifyOrderStatusHistory (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:288:9)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/akash-byjus-course/testAkashByjusCourse8th.js:109:9)",
+    "steps" : [ {
+      "name" : "Verify change status to Confirmed and verify order status history",
+      "time" : {
+        "start" : 1671023855661,
+        "stop" : 1671023862688,
+        "duration" : 7027
+      },
+      "status" : "broken",
+      "statusMessage" : "element click intercepted: element click intercepted: Element <i class=\"fa fa-bars\"></i> is not clickable at point (1164, 146). Other element would receive the click: <div tabindex=\"-1\" class=\"overlay\">...</div>\n                  (Session info: chrome=108.0.5359.98)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at waitAndDoClick (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/utils/function.js:22:5)\n                    at verifyOmsOrderDetails.statusConfirmedAndVerifyOrderStatusHistory (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:288:9)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/akash-byjus-course/testAkashByjusCourse8th.js:109:9)",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "9f710c37b2fa172d",
+        "name" : "Screenshot",
+        "source" : "9f710c37b2fa172d.png",
+        "type" : "image/png",
+        "size" : 105775
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Aakash Byjus Courses single order for 8th standard"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Aakash Byjus Courses single order for 8th standard"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verifying changing the status to Confirmed and Verify the order status history"
+  }, {
+    "name" : "package",
+    "value" : "Validating Aakash Byjus Courses single order for 8th standard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-108.0.5359.98"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "71866bb54e8c4b87.json",
+  "parameterValues" : [ "chrome-108.0.5359.98" ]
+}

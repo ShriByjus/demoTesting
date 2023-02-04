@@ -1,0 +1,130 @@
+{
+  "uid" : "1457943124c03be3",
+  "name" : "Verify the sales skus and skus names",
+  "fullName" : "Validating grade 4 Single order.Verify the sales skus and skus names",
+  "historyId" : "314e5b7884902bc0c05bee3678cb3e8b",
+  "time" : {
+    "start" : 1671019735775,
+    "stop" : 1671019743377,
+    "duration" : 7602
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Validate the sales sku's",
+      "time" : {
+        "start" : 1671019739592,
+        "stop" : 0,
+        "duration" : -1671019739592
+      },
+      "status" : "unknown",
+      "steps" : [ {
+        "name" : "Validatation done for sales sku's",
+        "time" : {
+          "start" : 1671019739593,
+          "stop" : 0,
+          "duration" : -1671019739593
+        },
+        "status" : "unknown",
+        "steps" : [ {
+          "name" : "Validate the shipment sku's names",
+          "time" : {
+            "start" : 1671019739593,
+            "stop" : 0,
+            "duration" : -1671019739593
+          },
+          "status" : "unknown",
+          "steps" : [ {
+            "name" : "Validatation done for shipment sku's names",
+            "time" : {
+              "start" : 1671019743376,
+              "stop" : 1671019743376,
+              "duration" : 0
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ ],
+            "parameters" : [ ],
+            "stepsCount" : 0,
+            "attachmentsCount" : 0,
+            "shouldDisplayMessage" : false,
+            "hasContent" : false
+          } ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 1,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 2,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 3,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating grade 4 Single order"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating grade 4 Single order"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the sales skus and skus names"
+  }, {
+    "name" : "package",
+    "value" : "Validating grade 4 Single order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-108.0.5359.98"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1457943124c03be3.json",
+  "parameterValues" : [ "chrome-108.0.5359.98" ]
+}

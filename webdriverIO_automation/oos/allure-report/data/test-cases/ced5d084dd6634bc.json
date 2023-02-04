@@ -1,0 +1,165 @@
+{
+  "uid" : "ced5d084dd6634bc",
+  "name" : "Adding json to collections for generating the Order Id",
+  "fullName" : "Validating grade 4 Single order.Adding json to collections for generating the Order Id",
+  "historyId" : "d60f8bffda739f99ac595396ed467883",
+  "time" : {
+    "start" : 1671023614384,
+    "stop" : 1671023620260,
+    "duration" : 5876
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 6,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Adding order to Sales order Collection",
+      "time" : {
+        "start" : 1671023614385,
+        "stop" : 0,
+        "duration" : -1671023614385
+      },
+      "status" : "unknown",
+      "steps" : [ {
+        "name" : "Adding order to Sales Sub order Collection",
+        "time" : {
+          "start" : 1671023616488,
+          "stop" : 0,
+          "duration" : -1671023616488
+        },
+        "status" : "unknown",
+        "steps" : [ {
+          "name" : "Adding order to draft order Collection",
+          "time" : {
+            "start" : 1671023618367,
+            "stop" : 1671023620259,
+            "duration" : 1892
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 2,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating grade 4 Single order"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating grade 4 Single order"
+  }, {
+    "name" : "testMethod",
+    "value" : "Adding json to collections for generating the Order Id"
+  }, {
+    "name" : "package",
+    "value" : "Validating grade 4 Single order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-108.0.5359.98"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4dd91153c0b54ede",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671022709870,
+        "stop" : 1671022715821,
+        "duration" : 5951
+      }
+    }, {
+      "uid" : "5468531bbf99062b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671022660956,
+        "stop" : 1671022667106,
+        "duration" : 6150
+      }
+    }, {
+      "uid" : "d4c8e81c237df880",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671020643739,
+        "stop" : 1671020650681,
+        "duration" : 6942
+      }
+    }, {
+      "uid" : "46817ecbfc880cea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671019686013,
+        "stop" : 1671019692378,
+        "duration" : 6365
+      }
+    }, {
+      "uid" : "7305929f9cb24cf1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671018759439,
+        "stop" : 1671018766802,
+        "duration" : 7363
+      }
+    }, {
+      "uid" : "609d62239ac41e53",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671018684310,
+        "stop" : 1671018690684,
+        "duration" : 6374
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ced5d084dd6634bc.json",
+  "parameterValues" : [ "chrome-108.0.5359.98" ]
+}

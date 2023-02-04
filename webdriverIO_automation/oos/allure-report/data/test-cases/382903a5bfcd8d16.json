@@ -1,0 +1,158 @@
+{
+  "uid" : "382903a5bfcd8d16",
+  "name" : "E2E flow for SD card",
+  "fullName" : "Verify OMS test cases.E2E flow for SD card",
+  "historyId" : "fa8fada80924292011788cc49d410d1c",
+  "time" : {
+    "start" : 1668764780087,
+    "stop" : 0,
+    "duration" : -1668764780087
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "unknown",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "unknown",
+    "steps" : [ {
+      "name" : "\"before each\" hook for Verify OMS test cases",
+      "time" : {
+        "start" : 1668764780087,
+        "stop" : 0,
+        "duration" : -1668764780087
+      },
+      "status" : "unknown",
+      "steps" : [ {
+        "name" : "Maximize the window",
+        "time" : {
+          "start" : 1668764780087,
+          "stop" : 0,
+          "duration" : -1668764780087
+        },
+        "status" : "unknown",
+        "steps" : [ {
+          "name" : "Open Byjus OMS page",
+          "time" : {
+            "start" : 1668764780204,
+            "stop" : 1668764784031,
+            "duration" : 3827
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        }, {
+          "name" : "Login to the Home page",
+          "time" : {
+            "start" : 1668764784031,
+            "stop" : 1668764790247,
+            "duration" : 6216
+          },
+          "status" : "failed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 2,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 3,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify OMS test cases"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify OMS test cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "E2E flow for SD card"
+  }, {
+    "name" : "package",
+    "value" : "Verify OMS test cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.110"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "397b7a92652e6a0b",
+      "status" : "broken",
+      "statusDetails" : "_sdCardAndTabletOrder.default.openSSOIdandCopySkuIdByjusClasses is not a function",
+      "time" : {
+        "start" : 1668764678111,
+        "stop" : 1668764706302,
+        "duration" : 28191
+      }
+    }, {
+      "uid" : "d511f2f96a2ae6d9",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1668764547245,
+        "stop" : 0,
+        "duration" : -1668764547245
+      }
+    }, {
+      "uid" : "33238f88257d5ffe",
+      "status" : "broken",
+      "statusDetails" : "_sdCardAndTabletOrder.default.openSSOIdandCopySkuIdByjusClasses is not a function",
+      "time" : {
+        "start" : 1668764511451,
+        "stop" : 1668764543334,
+        "duration" : 31883
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "382903a5bfcd8d16.json",
+  "parameterValues" : [ "chrome-107.0.5304.110" ]
+}

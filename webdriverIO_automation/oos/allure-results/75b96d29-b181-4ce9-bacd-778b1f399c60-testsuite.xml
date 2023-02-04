@@ -1,0 +1,30 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1672202914225' stop='1672202963458'>
+    <name>Validating grade 3 Single order</name>
+    <title>Validating grade 3 Single order</title>
+    <test-cases>
+        <test-case start='1672202914225' status='broken' stop='1672202963457'>
+            <name>byjusPay</name>
+            <title>byjusPay</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-108.0.5359.124'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='20f7bdef-30b4-47ad-ba82-46e84318b989-attachment.png' type='image/png' size='227949'/>
+            </attachments>
+            <failure>
+                <message>sdCardPriceTwo is not defined</message>
+                <stack-trace>ReferenceError: sdCardPriceTwo is not defined
+                    at verifyOmsOrderDetails.copyRefernceID (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:409:32)
+                    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                    at Context.&lt;anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleClass3.js:54:11)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

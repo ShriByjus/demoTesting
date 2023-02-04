@@ -1,0 +1,2195 @@
+
+{
+    "draftOrderRefId": "6391cb5ed1e75c001aa4cf3c",
+    "draftOrderId": "DO-2212081132460656",
+    "salesOrderId": "SO-2212081132460656",
+    "baseOrderId": "",
+    "orderType": "SPLIT",
+    "courseType": "K10",
+    "orgFormattedName": "aakash",
+    "orgId": "ORG-2",
+    "currency": "INR",
+    "salesSubOrderIds": [
+      "SSO1-2212081132460656",
+      "SSO2-2212081132460656"
+    ],
+    "customerDetails": {
+      "customerId": "CX-2210280625062228",
+      "name": "sanjay",
+      "identifierDetails": [],
+      "alternateName": "Shubham singh",
+      "mobileNo": "+91-8736576846",
+      "alternateMobileNo": "+91-8736576846",
+      "email": "sd56uysfgdf@gmail.com",
+      "alternateEmail": null,
+      "type": "individual",
+      "communicationPreferences": {},
+      "isBooksOpted": true,
+      "billingCustomerId": null
+    },
+    "billingCustomerDetails": null,
+    "lineItems": [
+      {
+        "id": 3347,
+        "skuId": "TS8MZZ",
+        "imageUrl": null,
+        "skuName": "SAMSUNG Tablet (Add-on-BYJUS) (8 inch-4G)",
+        "status": "active",
+        "orgId": "ORG-1",
+        "basePrice": 10000,
+        "continuousPrice": 11000,
+        "hsnCode": "847130",
+        "programId": "TLP1UCHW0001",
+        "type": "product",
+        "subType": "tablet",
+        "category": "tablet",
+        "package": null,
+        "course": "",
+        "subCourse": null,
+        "grade": null,
+        "subject": null,
+        "board": null,
+        "language": null,
+        "validityType": "N/A",
+        "validity": null,
+        "validityMonth": null,
+        "brand": "samsung",
+        "size": null,
+        "model": null,
+        "scheme": null,
+        "skuSet": 1,
+        "cohortId": null,
+        "ohProductId": "1865228",
+        "productState": "new",
+        "isValidSku": true,
+        "remarks": null,
+        "validatedAt": "2021-11-09T14:37:51.302Z",
+        "financeCode": "TS8MZZ",
+        "sprId": null,
+        "orgFormattedName": "byjus",
+        "createdBy": "ayushi.bansal@byjus.com",
+        "createdAt": "2021-11-09T14:37:51.302Z",
+        "deletedAt": null,
+        "price": 10000,
+        "itemType": "tablet",
+        "itemId": "tFIGLd_mQ_m-rCiB3e-kfVOS",
+        "studentId": "Shubham singh-1",
+        "tabletId": "T-1865228-Shubham singh",
+        "pgItemId": 1538662,
+        "name": "SAMSUNG Tablet (Add-on-BYJUS) (8 inch-4G)",
+        "sku": "SAMSUNG Tablet (Add-on-BYJUS) (8 inch-4G)",
+        "salesSubOrderId": "SSO1-2212081132460656",
+        "itemStatus": "mapping_pending",
+        "invoicePrice": "10000.00",
+        "pgLineItemId": 1538665
+      },
+      {
+        "id": 9211,
+        "skuId": "FD08NA23",
+        "imageUrl": null,
+        "skuName": "Aakash Byjus 8th Grade Foundation SD Card 2023",
+        "status": "active",
+        "orgId": "ORG-2",
+        "basePrice": 25000,
+        "continuousPrice": 20000,
+        "hsnCode": "85235100",
+        "programId": "BALAKXAS0001",
+        "type": "product",
+        "subType": "sd_card",
+        "category": "aakash",
+        "package": null,
+        "course": "K10",
+        "subCourse": null,
+        "grade": "8",
+        "subject": null,
+        "board": "CBSE",
+        "language": null,
+        "validityType": "year",
+        "validity": "2023",
+        "validityMonth": "MAY",
+        "brand": null,
+        "size": null,
+        "model": null,
+        "scheme": null,
+        "skuSet": 1,
+        "cohortId": 252,
+        "ohProductId": "1985756",
+        "productState": null,
+        "isValidSku": true,
+        "remarks": null,
+        "validatedAt": null,
+        "financeCode": "FD08NA",
+        "sprId": null,
+        "orgFormattedName": "aakash",
+        "createdBy": "ijaz.shaik@byjus.com",
+        "createdAt": "2022-04-27T07:15:02.072Z",
+        "deletedAt": null,
+        "price": 25000,
+        "itemId": "EUe-Taf4fKzE_PFXfi-KcOuK",
+        "studentId": "Shubham singh-1",
+        "tabletId": "T-1865228-Shubham singh",
+        "pgItemId": 1538663,
+        "name": "Aakash Byjus 8th Grade Foundation SD Card 2023",
+        "sku": "Aakash Byjus 8th Grade Foundation SD Card 2023",
+        "itemType": "sd_card",
+        "salesSubOrderId": "SSO1-2212081132460656",
+        "itemStatus": "mapping_pending",
+        "invoicePrice": "22500.00",
+        "pgLineItemId": 1538666
+      },
+      {
+        "id": 9187,
+        "skuId": "FL08NA23",
+        "imageUrl": null,
+        "skuName": "Aakash Byjus 8th Grade Foundation Live 2023",
+        "status": "active",
+        "orgId": "ORG-2",
+        "basePrice": 20000,
+        "continuousPrice": 10000,
+        "hsnCode": "999293",
+        "programId": "ACOPKXSY0003",
+        "type": "service",
+        "subType": "live",
+        "category": "aakash_neo_classes",
+        "package": null,
+        "course": "K10",
+        "subCourse": null,
+        "grade": "8",
+        "subject": null,
+        "board": "CBSE",
+        "language": null,
+        "validityType": "year",
+        "validity": "2023",
+        "validityMonth": "MAY",
+        "brand": null,
+        "size": null,
+        "model": null,
+        "scheme": null,
+        "skuSet": 1,
+        "cohortId": 252,
+        "ohProductId": "1985733",
+        "productState": null,
+        "isValidSku": true,
+        "remarks": null,
+        "validatedAt": null,
+        "financeCode": "FL08NA",
+        "sprId": null,
+        "orgFormattedName": "aakash",
+        "createdBy": "ijaz.shaik@byjus.com",
+        "createdAt": "2022-04-27T07:15:01.836Z",
+        "deletedAt": null,
+        "price": 20000,
+        "itemId": "8NcATC2trOTGIi0tHNNL6vf2",
+        "studentId": "Shubham singh-1",
+        "tabletId": "T-1865228-Shubham singh",
+        "pgItemId": 1538664,
+        "name": "Aakash Byjus 8th Grade Foundation Live 2023",
+        "sku": "Aakash Byjus 8th Grade Foundation Live 2023",
+        "itemType": "byjus_premium",
+        "salesSubOrderId": "SSO2-2212081132460656",
+        "itemStatus": "mapping_pending",
+        "invoicePrice": "22500.00",
+        "pgLineItemId": 1538667
+      }
+    ],
+    "shipmentLineItems": [
+      {
+        "skuId": "TS8MZZKX",
+        "skuName": "K12 Samsung 8 inch Tablet Mobile Data",
+        "status": "active",
+        "type": "tablet",
+        "properties": {
+          "grade": null,
+          "course": null,
+          "board": null,
+          "color": null,
+          "brand": "Samsung",
+          "manufacturer": "Samsung",
+          "warehouse": [],
+          "sdCardMemory": null,
+          "appVersion": null,
+          "sdCardVersion": null,
+          "apkRelease": {
+            "date": {
+              "numberLong": "1642564128879"
+            }
+          },
+          "contentRelease": {
+            "date": {
+              "numberLong": "1642564128879"
+            }
+          },
+          "location": null,
+          "comboDetails": [],
+          "userType": null,
+          "programId": "TLP1UCAS0001",
+          "size": null,
+          "model": null,
+          "skuSet": null,
+          "subject": null,
+          "language": null,
+          "scheme": null
+        },
+        "dimensions": {
+          "length": null,
+          "width": null,
+          "height": null,
+          "unit": null
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "productionStrategy": null,
+        "financeMaterialCode": "TS8MZZKX",
+        "financeProductCode": "TS8M",
+        "createdBy": "johnson.cherian@byjus.com",
+        "updatedBy": "system",
+        "createdAt": {
+          "date": {
+            "numberLong": "1597828825283"
+          }
+        },
+        "updatedAt": {
+          "date": {
+            "numberLong": "1660833194737"
+          }
+        },
+        "deletedAt": null,
+        "productState": "new",
+        "activeSalesItems": [
+          "TS8MZZ"
+        ],
+        "activeLineItemIds": [
+          "tFIGLd_mQ_m-rCiB3e-kfVOS"
+        ],
+        "price": 10000,
+        "studentId": "Shubham singh-1",
+        "students": [
+          "Shubham singh-1"
+        ],
+        "tabletId": "T-1865228-Shubham singh",
+        "itemStatus": "mapping_pending",
+        "pgShipmentLineItemId": 17068995
+      },
+      {
+        "skuId": "F3CB0808",
+        "properties": {
+          "board": "CBSE",
+          "grade": "08-08",
+          "appVersion": "",
+          "sdCardVersion": "NA",
+          "sdCardMemory": 64,
+          "location": "NA",
+          "noOfGrade": "",
+          "apkRelease": {
+            "date": {
+              "numberLong": "1652095977126"
+            }
+          },
+          "contentRelease": {
+            "date": {
+              "numberLong": "1652095977126"
+            }
+          },
+          "inventoryRelease": {
+            "date": {
+              "numberLong": "1652095977126"
+            }
+          },
+          "manufacturer": "",
+          "brand": "null",
+          "warehouse": [
+            ""
+          ],
+          "course": "null",
+          "model": "",
+          "scheme": "",
+          "programId": "BALAKXAS0001",
+          "userType": "",
+          "language": "",
+          "subject": "",
+          "skuSet": null,
+          "commodity": "",
+          "content": "",
+          "combinations": [
+            {
+              "label": "8-8",
+              "value": "8-8"
+            }
+          ],
+          "comboDetails": [
+            {
+              "_id": {
+                "oid": "627d0885b327a016b74be213"
+              },
+              "finalClass": 8,
+              "initialClass": 8
+            }
+          ]
+        },
+        "skuName": "Grade 08 Aakash Byju's Live Foundation SD Card",
+        "type": "sd_card",
+        "productState": null,
+        "activeGrades": [
+          8
+        ],
+        "activeSalesItems": [
+          "FD08NA23",
+          "FL08NA23"
+        ],
+        "activeLineItemIds": [
+          "EUe-Taf4fKzE_PFXfi-KcOuK",
+          "8NcATC2trOTGIi0tHNNL6vf2"
+        ],
+        "studentId": "Shubham singh-1",
+        "tabletId": "T-1865228-Shubham singh",
+        "itemStatus": "mapping_pending",
+        "pgShipmentLineItemId": 17068994
+      }
+    ],
+    "returnLineItems": [],
+    "addonLineItems": [
+      {
+        "skuName": "Textbook Class 8 Foundation Course Test Prep - Aakash Byju's",
+        "type": "product",
+        "subType": "book",
+        "skuId": "BK08FCTP",
+        "ohProductId": "1990751",
+        "course": "K10",
+        "grade": "8",
+        "board": "CBSE",
+        "subject": null,
+        "programId": "BALAKXAS0001",
+        "skuSet": 1,
+        "basePrice": 600,
+        "language": null,
+        "studentId": "Shubham singh-1",
+        "price": 600,
+        "validity": "2023",
+        "scheduledYear": 2023,
+        "invoicePrice": "0.00"
+      }
+    ],
+    "salesDetails": {
+      "typeOfSales": "DS Sales",
+      "directSalesBy": "sanjay.karkera@byjus.com",
+      "directSalesByCampaign": "Livechat Calling",
+      "salesAppointmentBy": null,
+      "salesAppointmentByCampaign": "Hyderabad",
+      "incentiveDate": {
+        "date": {
+          "numberLong": "1670371200000"
+        }
+      },
+      "salesAppointmentByRole": null,
+      "directSalesByDept": "business_development",
+      "salesAppointmentByDept": "",
+      "salesIndex": 175
+    },
+    "addressDetails": {
+      "billing": {
+        "zipcode": "600001",
+        "addressLine1": "Akshya Nagar 1st Block 1st Cro",
+        "country": "India",
+        "state": "Tamil Nadu",
+        "city": "Chennai",
+        "addressLine2": "Akshya Nagar 1st Block 1st Cro,",
+        "addressLine3": "Flower Bazaar",
+        "address": "Akshya Nagar 1st Block 1st Cro\n Akshya Nagar 1st Block 1st Cro\n Flower Bazaar",
+        "addressId": "496870"
+      },
+      "shipping": {
+        "zipcode": "600001",
+        "addressLine1": "Akshya Nagar 1st Block 1st Cro",
+        "country": "India",
+        "state": "Tamil Nadu",
+        "city": "Chennai",
+        "addressLine2": "Akshya Nagar 1st Block 1st Cro,",
+        "addressLine3": "Flower Bazaar",
+        "address": "Akshya Nagar 1st Block 1st Cro\n Akshya Nagar 1st Block 1st Cro\n Flower Bazaar",
+        "addressId": "496871"
+      }
+    },
+    "paymentDetails": {
+      "type": "NON_EMI",
+      "totalAmount": 55000,
+      "totalEmiAmount": 0,
+      "totalPrepaidAmount": 55000,
+      "totalPostpaidAmount": 0,
+      "paymentMethod": "NGP",
+      "payments": [
+        {
+          "isPrepaid": true,
+          "_id": {
+            "oid": "6391cc96a314a9001b6adb70"
+          },
+          "provider": "CHEQUE",
+          "referenceId": "16704994772576-34534534523434",
+          "amount": 55000,
+          "additionalDetails": {
+            "bank": "axis"
+          },
+          "attachments": [
+            {
+              "_id": {
+                "oid": "6391cc96a314a9001b6adb71"
+              },
+              "name": "cheque",
+              "url": "https://orderhive-payments.s3.ap-southeast-1.amazonaws.com/development/6391cb5ed1e75c001aa4cf3c/cheque/cheque-20221208_17077850.png"
+            }
+          ],
+          "type": "DOWN_PAYMENT",
+          "currency": "",
+          "isActive": true
+        }
+      ],
+      "minDownPaymentDetails": {
+        "isMatched": true,
+        "minDownPaymentAmount": 0
+      },
+      "isRepunchedCase": false,
+      "paymentMode": "CHEQUE",
+      "paymentAmountSplit": "55000",
+      "subscriptionDetails": {},
+      "paymentStatus": "NOT_PAID"
+    },
+    "financeOrderId": "7b896a87fd5040eaa65d4311bccd5243",
+    "productDetails": {
+      "productType": "combo",
+      "mentoringDetails": [
+        null
+      ],
+      "bhlpCourseDetails": [
+        {
+          "id": 307,
+          "name": "sumit",
+          "is_active": true,
+          "live_on_kart": true,
+          "time_zone": "IST",
+          "batch_country": "India",
+          "batch_start_date": "2022-06-14",
+          "batch_end_date": "2022-07-07",
+          "mandatory_sessions_count": 14,
+          "optional_sessions_count": 0,
+          "course_id": 164,
+          "course_name": "10062022_foundation_08",
+          "course_fot_track_id": null,
+          "course_proficiency_id": null,
+          "medium_of_instruction": "english",
+          "course_batch": "12th",
+          "cohort_id": 252,
+          "course_type": "neo",
+          "course_tag": "classroom",
+          "slot_group_id": 237,
+          "tutor_language_enabled": true,
+          "slot_group_name": "10062022_foundation_08",
+          "batch_type": "regular",
+          "available_subjects": [],
+          "course_sub_tag": "Regular",
+          "slots": [
+            {
+              "id": 2635,
+              "day": "Monday",
+              "start_time": "11:00",
+              "end_time": "13:00",
+              "is_mandatory": true
+            },
+            {
+              "id": 2636,
+              "day": "Monday",
+              "start_time": "14:00",
+              "end_time": "18:00",
+              "is_mandatory": true
+            },
+            {
+              "id": 2637,
+              "day": "Tuesday",
+              "start_time": "11:00",
+              "end_time": "13:00",
+              "is_mandatory": true
+            },
+            {
+              "id": 2638,
+              "day": "Tuesday",
+              "start_time": "14:00",
+              "end_time": "18:00",
+              "is_mandatory": true
+            },
+            {
+              "id": 2639,
+              "day": "Wednesday",
+              "start_time": "11:00",
+              "end_time": "13:00",
+              "is_mandatory": true
+            },
+            {
+              "id": 2640,
+              "day": "Wednesday",
+              "start_time": "14:00",
+              "end_time": "18:00",
+              "is_mandatory": true
+            },
+            {
+              "id": 2641,
+              "day": "Thursday",
+              "start_time": "11:00",
+              "end_time": "13:00",
+              "is_mandatory": true
+            },
+            {
+              "id": 2642,
+              "day": "Thursday",
+              "start_time": "14:00",
+              "end_time": "18:00",
+              "is_mandatory": true
+            },
+            {
+              "id": 2643,
+              "day": "Friday",
+              "start_time": "11:00",
+              "end_time": "13:00",
+              "is_mandatory": true
+            },
+            {
+              "id": 2644,
+              "day": "Friday",
+              "start_time": "14:00",
+              "end_time": "18:00",
+              "is_mandatory": true
+            },
+            {
+              "id": 2645,
+              "day": "Saturday",
+              "start_time": "14:00",
+              "end_time": "18:00",
+              "is_mandatory": true
+            },
+            {
+              "id": 2646,
+              "day": "Saturday",
+              "start_time": "18:00",
+              "end_time": "20:00",
+              "is_mandatory": true
+            },
+            {
+              "id": 2647,
+              "day": "Sunday",
+              "start_time": "11:00",
+              "end_time": "13:00",
+              "is_mandatory": true
+            },
+            {
+              "id": 2648,
+              "day": "Sunday",
+              "start_time": "14:00",
+              "end_time": "18:00",
+              "is_mandatory": true
+            }
+          ]
+        }
+      ],
+      "paymentType": "NON_EMI",
+      "maxPrice": 55000,
+      "minPrice": 46000,
+      "discountedPrice": 0,
+      "students": [
+        {
+          "studentProfileDetails": {
+            "isExistingProfile": false,
+            "existingPremiumId": "",
+            "existingFamilyId": ""
+          },
+          "hlpDetails": {
+            "courseDetails": [],
+            "sessionDetails": []
+          },
+          "courseType": [
+            "K10"
+          ],
+          "electiveDetails": [],
+          "doubtClassDetails": [],
+          "workshops": [],
+          "items": [
+            {
+              "id": 9187,
+              "skuId": "FL08NA23",
+              "imageUrl": null,
+              "skuName": "Aakash Byjus 8th Grade Foundation Live 2023",
+              "status": "active",
+              "orgId": "ORG-2",
+              "city": null,
+              "basePrice": 20000,
+              "continuousPrice": 10000,
+              "hsnCode": "999293",
+              "programId": "ACOPKXSY0003",
+              "type": "service",
+              "subType": "live",
+              "category": "aakash_neo_classes",
+              "package": null,
+              "course": "K10",
+              "subCourse": null,
+              "grade": "8",
+              "subject": null,
+              "board": "CBSE",
+              "language": null,
+              "validityType": "year",
+              "validity": "2023",
+              "validityMonth": "MAY",
+              "brand": null,
+              "size": null,
+              "model": null,
+              "scheme": null,
+              "skuSet": 1,
+              "cohortId": 252,
+              "ohProductId": "1985733",
+              "productState": null,
+              "isValidSku": true,
+              "remarks": null,
+              "validatedAt": null,
+              "financeCode": "FL08NA",
+              "sprId": null,
+              "orgFormattedName": "aakash",
+              "createdBy": "ijaz.shaik@byjus.com",
+              "updatedBy": "amey.bhojane@byjus.com",
+              "createdAt": "2022-04-27T07:15:01.836Z",
+              "updatedAt": "2022-05-13T06:29:53.198Z",
+              "deletedAt": null,
+              "price": 20000,
+              "combinationType": "aakash_neo_classes",
+              "itemId": "8NcATC2trOTGIi0tHNNL6vf2",
+              "studentId": "Shubham singh-1",
+              "tabletId": "T-1865228-Shubham singh",
+              "name": "Aakash Byjus 8th Grade Foundation Live 2023",
+              "sku": "Aakash Byjus 8th Grade Foundation Live 2023",
+              "itemType": "live"
+            },
+            {
+              "id": 9211,
+              "skuId": "FD08NA23",
+              "imageUrl": null,
+              "skuName": "Aakash Byjus 8th Grade Foundation SD Card 2023",
+              "status": "active",
+              "orgId": "ORG-2",
+              "city": null,
+              "basePrice": 25000,
+              "continuousPrice": 20000,
+              "hsnCode": "85235100",
+              "programId": "BALAKXAS0001",
+              "type": "product",
+              "subType": "sd_card",
+              "category": "aakash",
+              "package": null,
+              "course": "K10",
+              "subCourse": null,
+              "grade": "8",
+              "subject": null,
+              "board": "CBSE",
+              "language": null,
+              "validityType": "year",
+              "validity": "2023",
+              "validityMonth": "MAY",
+              "brand": null,
+              "size": null,
+              "model": null,
+              "scheme": null,
+              "skuSet": 1,
+              "cohortId": 252,
+              "ohProductId": "1985756",
+              "productState": null,
+              "isValidSku": true,
+              "remarks": null,
+              "validatedAt": null,
+              "financeCode": "FD08NA",
+              "sprId": null,
+              "orgFormattedName": "aakash",
+              "createdBy": "ijaz.shaik@byjus.com",
+              "updatedBy": "amey.bhojane@byjus.com",
+              "createdAt": "2022-04-27T07:15:02.072Z",
+              "updatedAt": "2022-05-13T06:29:53.198Z",
+              "deletedAt": null,
+              "price": 25000,
+              "combinationType": "aakash",
+              "itemId": "EUe-Taf4fKzE_PFXfi-KcOuK",
+              "studentId": "Shubham singh-1",
+              "tabletId": "T-1865228-Shubham singh",
+              "name": "Aakash Byjus 8th Grade Foundation SD Card 2023",
+              "sku": "Aakash Byjus 8th Grade Foundation SD Card 2023",
+              "itemType": "sd_card"
+            },
+            {
+              "id": 3347,
+              "skuId": "TS8MZZ",
+              "imageUrl": null,
+              "skuName": "SAMSUNG Tablet (Add-on-BYJUS) (8 inch-4G)",
+              "status": "active",
+              "orgId": "ORG-1",
+              "city": null,
+              "basePrice": 10000,
+              "continuousPrice": 11000,
+              "hsnCode": "847130",
+              "programId": "TLP1UCHW0001",
+              "type": "product",
+              "subType": "tablet",
+              "category": "tablet",
+              "package": null,
+              "course": "",
+              "subCourse": null,
+              "grade": null,
+              "subject": null,
+              "board": null,
+              "language": null,
+              "validityType": "N/A",
+              "validity": null,
+              "validityMonth": null,
+              "brand": "samsung",
+              "size": null,
+              "model": null,
+              "scheme": null,
+              "skuSet": 1,
+              "cohortId": null,
+              "ohProductId": "1865228",
+              "productState": "new",
+              "isValidSku": true,
+              "remarks": null,
+              "validatedAt": "2021-11-09T14:37:51.302Z",
+              "financeCode": "TS8MZZ",
+              "sprId": null,
+              "orgFormattedName": "byjus",
+              "createdBy": "ayushi.bansal@byjus.com",
+              "updatedBy": "productState-update",
+              "createdAt": "2021-11-09T14:37:51.302Z",
+              "updatedAt": "2022-07-12T13:45:49.618Z",
+              "deletedAt": null,
+              "price": 10000,
+              "itemType": "tablet",
+              "itemId": "tFIGLd_mQ_m-rCiB3e-kfVOS",
+              "combinationType": "product",
+              "studentId": "Shubham singh-1",
+              "tabletId": "T-1865228-Shubham singh",
+              "name": "SAMSUNG Tablet (Add-on-BYJUS) (8 inch-4G)",
+              "sku": "SAMSUNG Tablet (Add-on-BYJUS) (8 inch-4G)"
+            }
+          ],
+          "addOnItems": [],
+          "mentoringDetails": [
+            {
+              "type": "neo",
+              "sessions": [
+                {
+                  "day": "Monday",
+                  "is_mandatory": true,
+                  "time": "11:00-13:00"
+                },
+                {
+                  "day": "Monday",
+                  "is_mandatory": true,
+                  "time": "14:00-18:00"
+                },
+                {
+                  "day": "Tuesday",
+                  "is_mandatory": true,
+                  "time": "11:00-13:00"
+                },
+                {
+                  "day": "Tuesday",
+                  "is_mandatory": true,
+                  "time": "14:00-18:00"
+                },
+                {
+                  "day": "Wednesday",
+                  "is_mandatory": true,
+                  "time": "11:00-13:00"
+                },
+                {
+                  "day": "Wednesday",
+                  "is_mandatory": true,
+                  "time": "14:00-18:00"
+                },
+                {
+                  "day": "Thursday",
+                  "is_mandatory": true,
+                  "time": "11:00-13:00"
+                },
+                {
+                  "day": "Thursday",
+                  "is_mandatory": true,
+                  "time": "14:00-18:00"
+                },
+                {
+                  "day": "Friday",
+                  "is_mandatory": true,
+                  "time": "11:00-13:00"
+                },
+                {
+                  "day": "Friday",
+                  "is_mandatory": true,
+                  "time": "14:00-18:00"
+                },
+                {
+                  "day": "Saturday",
+                  "is_mandatory": true,
+                  "time": "14:00-18:00"
+                },
+                {
+                  "day": "Saturday",
+                  "is_mandatory": true,
+                  "time": "18:00-20:00"
+                },
+                {
+                  "day": "Sunday",
+                  "is_mandatory": true,
+                  "time": "11:00-13:00"
+                },
+                {
+                  "day": "Sunday",
+                  "is_mandatory": true,
+                  "time": "14:00-18:00"
+                }
+              ]
+            }
+          ],
+          "bhlpCourseDetails": [
+            {
+              "id": 307,
+              "name": "sumit",
+              "is_active": true,
+              "live_on_kart": true,
+              "time_zone": "IST",
+              "batch_country": "India",
+              "batch_start_date": "2022-06-14",
+              "batch_end_date": "2022-07-07",
+              "mandatory_sessions_count": 14,
+              "optional_sessions_count": 0,
+              "course_id": 164,
+              "course_name": "10062022_foundation_08",
+              "course_fot_track_id": null,
+              "course_proficiency_id": null,
+              "medium_of_instruction": "english",
+              "course_batch": "12th",
+              "cohort_id": 252,
+              "course_type": "neo",
+              "course_tag": "classroom",
+              "slot_group_id": 237,
+              "tutor_language_enabled": true,
+              "slot_group_name": "10062022_foundation_08",
+              "batch_type": "regular",
+              "available_subjects": [],
+              "course_sub_tag": "Regular",
+              "slots": [
+                {
+                  "id": 2635,
+                  "day": "Monday",
+                  "start_time": "11:00",
+                  "end_time": "13:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2636,
+                  "day": "Monday",
+                  "start_time": "14:00",
+                  "end_time": "18:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2637,
+                  "day": "Tuesday",
+                  "start_time": "11:00",
+                  "end_time": "13:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2638,
+                  "day": "Tuesday",
+                  "start_time": "14:00",
+                  "end_time": "18:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2639,
+                  "day": "Wednesday",
+                  "start_time": "11:00",
+                  "end_time": "13:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2640,
+                  "day": "Wednesday",
+                  "start_time": "14:00",
+                  "end_time": "18:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2641,
+                  "day": "Thursday",
+                  "start_time": "11:00",
+                  "end_time": "13:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2642,
+                  "day": "Thursday",
+                  "start_time": "14:00",
+                  "end_time": "18:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2643,
+                  "day": "Friday",
+                  "start_time": "11:00",
+                  "end_time": "13:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2644,
+                  "day": "Friday",
+                  "start_time": "14:00",
+                  "end_time": "18:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2645,
+                  "day": "Saturday",
+                  "start_time": "14:00",
+                  "end_time": "18:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2646,
+                  "day": "Saturday",
+                  "start_time": "18:00",
+                  "end_time": "20:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2647,
+                  "day": "Sunday",
+                  "start_time": "11:00",
+                  "end_time": "13:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2648,
+                  "day": "Sunday",
+                  "start_time": "14:00",
+                  "end_time": "18:00",
+                  "is_mandatory": true
+                }
+              ]
+            }
+          ],
+          "featureTag": [],
+          "_id": {
+            "oid": "6391cc6fa314a9001b6adb1a"
+          },
+          "board": "CBSE",
+          "initialClass": "8",
+          "finalClass": "8",
+          "validity": "2023",
+          "tablet": "1865228",
+          "formValues": {
+            "userProfile": "newProfile",
+            "productLearningType": "aakash_byjus_live",
+            "subType": "",
+            "board": "CBSE",
+            "initialClass": "8",
+            "finalClass": "8",
+            "duration": "",
+            "initialGradeProductLearningType": "",
+            "finalGradeProductLearningType": "",
+            "subCourse": "",
+            "validity": 2023,
+            "tablet": "1865228",
+            "mentoringDetails": [
+              {
+                "type": "neo",
+                "sessions": [
+                  {
+                    "day": "Monday",
+                    "is_mandatory": true,
+                    "time": "11:00-13:00"
+                  },
+                  {
+                    "day": "Monday",
+                    "is_mandatory": true,
+                    "time": "14:00-18:00"
+                  },
+                  {
+                    "day": "Tuesday",
+                    "is_mandatory": true,
+                    "time": "11:00-13:00"
+                  },
+                  {
+                    "day": "Tuesday",
+                    "is_mandatory": true,
+                    "time": "14:00-18:00"
+                  },
+                  {
+                    "day": "Wednesday",
+                    "is_mandatory": true,
+                    "time": "11:00-13:00"
+                  },
+                  {
+                    "day": "Wednesday",
+                    "is_mandatory": true,
+                    "time": "14:00-18:00"
+                  },
+                  {
+                    "day": "Thursday",
+                    "is_mandatory": true,
+                    "time": "11:00-13:00"
+                  },
+                  {
+                    "day": "Thursday",
+                    "is_mandatory": true,
+                    "time": "14:00-18:00"
+                  },
+                  {
+                    "day": "Friday",
+                    "is_mandatory": true,
+                    "time": "11:00-13:00"
+                  },
+                  {
+                    "day": "Friday",
+                    "is_mandatory": true,
+                    "time": "14:00-18:00"
+                  },
+                  {
+                    "day": "Saturday",
+                    "is_mandatory": true,
+                    "time": "14:00-18:00"
+                  },
+                  {
+                    "day": "Saturday",
+                    "is_mandatory": true,
+                    "time": "18:00-20:00"
+                  },
+                  {
+                    "day": "Sunday",
+                    "is_mandatory": true,
+                    "time": "11:00-13:00"
+                  },
+                  {
+                    "day": "Sunday",
+                    "is_mandatory": true,
+                    "time": "14:00-18:00"
+                  }
+                ]
+              }
+            ],
+            "bhlpCourseDetails": {
+              "id": 307,
+              "name": "sumit",
+              "is_active": true,
+              "live_on_kart": true,
+              "time_zone": "IST",
+              "batch_country": "India",
+              "batch_start_date": "2022-06-14",
+              "batch_end_date": "2022-07-07",
+              "mandatory_sessions_count": 14,
+              "optional_sessions_count": 0,
+              "course_id": 164,
+              "course_name": "10062022_foundation_08",
+              "course_fot_track_id": null,
+              "course_proficiency_id": null,
+              "medium_of_instruction": "english",
+              "course_batch": "12th",
+              "cohort_id": 252,
+              "course_type": "neo",
+              "course_tag": "classroom",
+              "slot_group_id": 237,
+              "tutor_language_enabled": true,
+              "slot_group_name": "10062022_foundation_08",
+              "batch_type": "regular",
+              "available_subjects": [],
+              "course_sub_tag": "Regular",
+              "slots": [
+                {
+                  "id": 2635,
+                  "day": "Monday",
+                  "start_time": "11:00",
+                  "end_time": "13:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2636,
+                  "day": "Monday",
+                  "start_time": "14:00",
+                  "end_time": "18:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2637,
+                  "day": "Tuesday",
+                  "start_time": "11:00",
+                  "end_time": "13:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2638,
+                  "day": "Tuesday",
+                  "start_time": "14:00",
+                  "end_time": "18:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2639,
+                  "day": "Wednesday",
+                  "start_time": "11:00",
+                  "end_time": "13:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2640,
+                  "day": "Wednesday",
+                  "start_time": "14:00",
+                  "end_time": "18:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2641,
+                  "day": "Thursday",
+                  "start_time": "11:00",
+                  "end_time": "13:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2642,
+                  "day": "Thursday",
+                  "start_time": "14:00",
+                  "end_time": "18:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2643,
+                  "day": "Friday",
+                  "start_time": "11:00",
+                  "end_time": "13:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2644,
+                  "day": "Friday",
+                  "start_time": "14:00",
+                  "end_time": "18:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2645,
+                  "day": "Saturday",
+                  "start_time": "14:00",
+                  "end_time": "18:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2646,
+                  "day": "Saturday",
+                  "start_time": "18:00",
+                  "end_time": "20:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2647,
+                  "day": "Sunday",
+                  "start_time": "11:00",
+                  "end_time": "13:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 2648,
+                  "day": "Sunday",
+                  "start_time": "14:00",
+                  "end_time": "18:00",
+                  "is_mandatory": true
+                }
+              ]
+            },
+            "proficiency": "",
+            "mathPercent": "",
+            "sciencePercent": "",
+            "languageOfInstruction": "english",
+            "languageOfInstructionId": 1,
+            "tabletId": "T-1865228",
+            "isTabletLock": false
+          },
+          "tabletLock": "not_applicable",
+          "productSelectionType": "byjus_aakash_neo",
+          "studentName": "Shubham singh",
+          "studentId": "Shubham singh-1",
+          "academicDetails": {
+            "mathPercent": "",
+            "sciencePercent": "",
+            "fotTrackId": null,
+            "proficiency": "",
+            "schoolDetails": {
+              "id": null,
+              "name": "",
+              "address": "",
+              "pincode": null
+            },
+            "languageOfInstruction": "english",
+            "languageOfInstructionId": 1
+          }
+        }
+      ],
+      "products": [
+        {
+          "id": 9187,
+          "skuId": "FL08NA23",
+          "imageUrl": null,
+          "skuName": "Aakash Byjus 8th Grade Foundation Live 2023",
+          "status": "active",
+          "orgId": "ORG-2",
+          "city": null,
+          "basePrice": 20000,
+          "continuousPrice": 10000,
+          "hsnCode": "999293",
+          "programId": "ACOPKXSY0003",
+          "type": "service",
+          "subType": "live",
+          "category": "aakash_neo_classes",
+          "package": null,
+          "course": "K10",
+          "subCourse": null,
+          "grade": "8",
+          "subject": null,
+          "board": "CBSE",
+          "language": null,
+          "validityType": "year",
+          "validity": "2023",
+          "validityMonth": "MAY",
+          "brand": null,
+          "size": null,
+          "model": null,
+          "scheme": null,
+          "skuSet": 1,
+          "cohortId": 252,
+          "ohProductId": "1985733",
+          "productState": null,
+          "isValidSku": true,
+          "remarks": null,
+          "validatedAt": null,
+          "financeCode": "FL08NA",
+          "sprId": null,
+          "orgFormattedName": "aakash",
+          "createdBy": "ijaz.shaik@byjus.com",
+          "updatedBy": "amey.bhojane@byjus.com",
+          "createdAt": "2022-04-27T07:15:01.836Z",
+          "updatedAt": "2022-05-13T06:29:53.198Z",
+          "deletedAt": null,
+          "price": 20000,
+          "combinationType": "aakash_neo_classes",
+          "itemId": "8NcATC2trOTGIi0tHNNL6vf2",
+          "studentId": "Shubham singh-1",
+          "tabletId": "T-1865228-Shubham singh",
+          "name": "Aakash Byjus 8th Grade Foundation Live 2023",
+          "sku": "Aakash Byjus 8th Grade Foundation Live 2023",
+          "itemType": "live"
+        },
+        {
+          "id": 9211,
+          "skuId": "FD08NA23",
+          "imageUrl": null,
+          "skuName": "Aakash Byjus 8th Grade Foundation SD Card 2023",
+          "status": "active",
+          "orgId": "ORG-2",
+          "city": null,
+          "basePrice": 25000,
+          "continuousPrice": 20000,
+          "hsnCode": "85235100",
+          "programId": "BALAKXAS0001",
+          "type": "product",
+          "subType": "sd_card",
+          "category": "aakash",
+          "package": null,
+          "course": "K10",
+          "subCourse": null,
+          "grade": "8",
+          "subject": null,
+          "board": "CBSE",
+          "language": null,
+          "validityType": "year",
+          "validity": "2023",
+          "validityMonth": "MAY",
+          "brand": null,
+          "size": null,
+          "model": null,
+          "scheme": null,
+          "skuSet": 1,
+          "cohortId": 252,
+          "ohProductId": "1985756",
+          "productState": null,
+          "isValidSku": true,
+          "remarks": null,
+          "validatedAt": null,
+          "financeCode": "FD08NA",
+          "sprId": null,
+          "orgFormattedName": "aakash",
+          "createdBy": "ijaz.shaik@byjus.com",
+          "updatedBy": "amey.bhojane@byjus.com",
+          "createdAt": "2022-04-27T07:15:02.072Z",
+          "updatedAt": "2022-05-13T06:29:53.198Z",
+          "deletedAt": null,
+          "price": 25000,
+          "combinationType": "aakash",
+          "itemId": "EUe-Taf4fKzE_PFXfi-KcOuK",
+          "studentId": "Shubham singh-1",
+          "tabletId": "T-1865228-Shubham singh",
+          "name": "Aakash Byjus 8th Grade Foundation SD Card 2023",
+          "sku": "Aakash Byjus 8th Grade Foundation SD Card 2023",
+          "itemType": "sd_card"
+        },
+        {
+          "id": 3347,
+          "skuId": "TS8MZZ",
+          "imageUrl": null,
+          "skuName": "SAMSUNG Tablet (Add-on-BYJUS) (8 inch-4G)",
+          "status": "active",
+          "orgId": "ORG-1",
+          "city": null,
+          "basePrice": 10000,
+          "continuousPrice": 11000,
+          "hsnCode": "847130",
+          "programId": "TLP1UCHW0001",
+          "type": "product",
+          "subType": "tablet",
+          "category": "tablet",
+          "package": null,
+          "course": "",
+          "subCourse": null,
+          "grade": null,
+          "subject": null,
+          "board": null,
+          "language": null,
+          "validityType": "N/A",
+          "validity": null,
+          "validityMonth": null,
+          "brand": "samsung",
+          "size": null,
+          "model": null,
+          "scheme": null,
+          "skuSet": 1,
+          "cohortId": null,
+          "ohProductId": "1865228",
+          "productState": "new",
+          "isValidSku": true,
+          "remarks": null,
+          "validatedAt": "2021-11-09T14:37:51.302Z",
+          "financeCode": "TS8MZZ",
+          "sprId": null,
+          "orgFormattedName": "byjus",
+          "createdBy": "ayushi.bansal@byjus.com",
+          "updatedBy": "productState-update",
+          "createdAt": "2021-11-09T14:37:51.302Z",
+          "updatedAt": "2022-07-12T13:45:49.618Z",
+          "deletedAt": null,
+          "price": 10000,
+          "itemType": "tablet",
+          "itemId": "tFIGLd_mQ_m-rCiB3e-kfVOS",
+          "combinationType": "product",
+          "studentId": "Shubham singh-1",
+          "tabletId": "T-1865228-Shubham singh",
+          "name": "SAMSUNG Tablet (Add-on-BYJUS) (8 inch-4G)",
+          "sku": "SAMSUNG Tablet (Add-on-BYJUS) (8 inch-4G)"
+        }
+      ],
+      "finalPrice": 55000
+    },
+    "attachments": [
+      {
+        "_id": {
+          "oid": "6391cc96a314a9001b6adb6f"
+        },
+        "name": "cheque",
+        "url": "https://orderhive-payments.s3.ap-southeast-1.amazonaws.com/development/6391cb5ed1e75c001aa4cf3c/cheque/cheque-20221208_17077850.png"
+      }
+    ],
+    "cashbackDetails": {
+      "unutilizedCashbacks": []
+    },
+    "comments": [
+      {
+        "_id": {
+          "oid": "6391cc96a314a9001b6adb79"
+        },
+        "category": "product",
+        "type": "details",
+        "comment": "Student Details :  Course Details : undefined CBSE : 8 - 8 , Initial Validity : 2023 Sessions :\n                            Day : Monday\n                            Time : 11:00-13:00  Sessions :\n                            Day : Monday\n                            Time : 14:00-18:00  Sessions :\n                            Day : Tuesday\n                            Time : 11:00-13:00  Sessions :\n                            Day : Tuesday\n                            Time : 14:00-18:00  Sessions :\n                            Day : Wednesday\n                            Time : 11:00-13:00  Sessions :\n                            Day : Wednesday\n                            Time : 14:00-18:00  Sessions :\n                            Day : Thursday\n                            Time : 11:00-13:00  Sessions :\n                            Day : Thursday\n                            Time : 14:00-18:00  Sessions :\n                            Day : Friday\n                            Time : 11:00-13:00  Sessions :\n                            Day : Friday\n                            Time : 14:00-18:00  Sessions :\n                            Day : Saturday\n                            Time : 14:00-18:00  Sessions :\n                            Day : Saturday\n                            Time : 18:00-20:00  Sessions :\n                            Day : Sunday\n                            Time : 11:00-13:00  Sessions :\n                            Day : Sunday\n                            Time : 14:00-18:00",
+        "commentedBy": "system",
+        "commentedAt": {
+          "date": {
+            "numberLong": "1670499478913"
+          }
+        },
+        "source": "kart"
+      },
+      {
+        "_id": {
+          "oid": "6391cc96a314a9001b6adb7a"
+        },
+        "category": "price",
+        "type": "range",
+        "comment": "Price Range : 46000 - 55000\n Final Price : 55000",
+        "commentedBy": "system",
+        "commentedAt": {
+          "date": {
+            "numberLong": "1670499478913"
+          }
+        },
+        "source": "kart"
+      },
+      {
+        "_id": {
+          "oid": "6391cc96a314a9001b6adb7b"
+        },
+        "category": "payment",
+        "type": "refIds",
+        "comment": "Payment Details : , Method:CHEQUE Amount: 55000 ReferenceId:16704994772576-34534534523434",
+        "commentedBy": "system",
+        "commentedAt": {
+          "date": {
+            "numberLong": "1670499478913"
+          }
+        },
+        "source": "kart"
+      },
+      {
+        "_id": {
+          "oid": "6391cc96a314a9001b6adb7c"
+        },
+        "category": "salesDetails",
+        "type": "for_OH_order_reference",
+        "comment": "Direct Sales Conducted By is sanjay.karkera@byjus.com",
+        "commentedBy": "system",
+        "commentedAt": {
+          "date": {
+            "numberLong": "1670499478913"
+          }
+        },
+        "source": "kart"
+      },
+      {
+        "_id": {
+          "oid": "6391cca2a314a9001b6adb9e"
+        },
+        "comment": "praz@byjus.com opted to move this order to OMS. Reason - undefined",
+        "commentedBy": "praz@byjus.com",
+        "commentedAt": {
+          "date": {
+            "numberLong": "1670499490605"
+          }
+        },
+        "source": "kart"
+      }
+    ],
+    "orderPunchingType": "normal_order",
+    "orderPunchingCategory": "aakash_neo_classes",
+    "orderBatchId": "",
+    "status": "not_confirmed",
+    "leadDetails": {
+      "prospectId": "sdf667sudfh",
+      "accountNo": "24692",
+      "loggedInEmailId": "praz@byjus.com",
+      "leadCreatedBy": "",
+      "leadCreatedAt": null,
+      "leadMobileNo": "+91-8736576846",
+      "isLeadMobileUsed": true,
+      "leadLink": "https://run.leadsquared.com/LeadManagement/LeadDetails?LeadID=sdf667sudfh"
+    },
+    "contactDetails": {
+      "orderPunchingContact": "8736576846",
+      "cxProvidedContact": "8736576846",
+      "leadContact": "8736576846",
+      "gpContact": "",
+      "ngpContact": "",
+      "lpContact": ""
+    },
+    "createdAt": {
+      "date": {
+        "numberLong": "1670499490615"
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "numberLong": "1670500304327"
+      }
+    },
+    "studentDetails": [
+      {
+        "studentProfileDetails": {
+          "isExistingProfile": false,
+          "existingPremiumId": "",
+          "existingFamilyId": ""
+        },
+        "hlpDetails": {
+          "courseDetails": [],
+          "sessionDetails": []
+        },
+        "courseType": [
+          "K10"
+        ],
+        "electiveDetails": [],
+        "doubtClassDetails": [],
+        "workshops": [],
+        "items": [
+          {
+            "id": 9187,
+            "skuId": "FL08NA23",
+            "imageUrl": null,
+            "skuName": "Aakash Byjus 8th Grade Foundation Live 2023",
+            "status": "active",
+            "orgId": "ORG-2",
+            "city": null,
+            "basePrice": 20000,
+            "continuousPrice": 10000,
+            "hsnCode": "999293",
+            "programId": "ACOPKXSY0003",
+            "type": "service",
+            "subType": "live",
+            "category": "aakash_neo_classes",
+            "package": null,
+            "course": "K10",
+            "subCourse": null,
+            "grade": "8",
+            "subject": null,
+            "board": "CBSE",
+            "language": null,
+            "validityType": "year",
+            "validity": "2023",
+            "validityMonth": "MAY",
+            "brand": null,
+            "size": null,
+            "model": null,
+            "scheme": null,
+            "skuSet": 1,
+            "cohortId": 252,
+            "ohProductId": "1985733",
+            "productState": null,
+            "isValidSku": true,
+            "remarks": null,
+            "validatedAt": null,
+            "financeCode": "FL08NA",
+            "sprId": null,
+            "orgFormattedName": "aakash",
+            "createdBy": "ijaz.shaik@byjus.com",
+            "updatedBy": "amey.bhojane@byjus.com",
+            "createdAt": "2022-04-27T07:15:01.836Z",
+            "updatedAt": "2022-05-13T06:29:53.198Z",
+            "deletedAt": null,
+            "price": 20000,
+            "combinationType": "aakash_neo_classes",
+            "itemId": "8NcATC2trOTGIi0tHNNL6vf2",
+            "studentId": "Shubham singh-1",
+            "tabletId": "T-1865228-Shubham singh",
+            "name": "Aakash Byjus 8th Grade Foundation Live 2023",
+            "sku": "Aakash Byjus 8th Grade Foundation Live 2023",
+            "itemType": "live"
+          },
+          {
+            "id": 9211,
+            "skuId": "FD08NA23",
+            "imageUrl": null,
+            "skuName": "Aakash Byjus 8th Grade Foundation SD Card 2023",
+            "status": "active",
+            "orgId": "ORG-2",
+            "city": null,
+            "basePrice": 25000,
+            "continuousPrice": 20000,
+            "hsnCode": "85235100",
+            "programId": "BALAKXAS0001",
+            "type": "product",
+            "subType": "sd_card",
+            "category": "aakash",
+            "package": null,
+            "course": "K10",
+            "subCourse": null,
+            "grade": "8",
+            "subject": null,
+            "board": "CBSE",
+            "language": null,
+            "validityType": "year",
+            "validity": "2023",
+            "validityMonth": "MAY",
+            "brand": null,
+            "size": null,
+            "model": null,
+            "scheme": null,
+            "skuSet": 1,
+            "cohortId": 252,
+            "ohProductId": "1985756",
+            "productState": null,
+            "isValidSku": true,
+            "remarks": null,
+            "validatedAt": null,
+            "financeCode": "FD08NA",
+            "sprId": null,
+            "orgFormattedName": "aakash",
+            "createdBy": "ijaz.shaik@byjus.com",
+            "updatedBy": "amey.bhojane@byjus.com",
+            "createdAt": "2022-04-27T07:15:02.072Z",
+            "updatedAt": "2022-05-13T06:29:53.198Z",
+            "deletedAt": null,
+            "price": 25000,
+            "combinationType": "aakash",
+            "itemId": "EUe-Taf4fKzE_PFXfi-KcOuK",
+            "studentId": "Shubham singh-1",
+            "tabletId": "T-1865228-Shubham singh",
+            "name": "Aakash Byjus 8th Grade Foundation SD Card 2023",
+            "sku": "Aakash Byjus 8th Grade Foundation SD Card 2023",
+            "itemType": "sd_card"
+          },
+          {
+            "id": 3347,
+            "skuId": "TS8MZZ",
+            "imageUrl": null,
+            "skuName": "SAMSUNG Tablet (Add-on-BYJUS) (8 inch-4G)",
+            "status": "active",
+            "orgId": "ORG-1",
+            "city": null,
+            "basePrice": 10000,
+            "continuousPrice": 11000,
+            "hsnCode": "847130",
+            "programId": "TLP1UCHW0001",
+            "type": "product",
+            "subType": "tablet",
+            "category": "tablet",
+            "package": null,
+            "course": "",
+            "subCourse": null,
+            "grade": null,
+            "subject": null,
+            "board": null,
+            "language": null,
+            "validityType": "N/A",
+            "validity": null,
+            "validityMonth": null,
+            "brand": "samsung",
+            "size": null,
+            "model": null,
+            "scheme": null,
+            "skuSet": 1,
+            "cohortId": null,
+            "ohProductId": "1865228",
+            "productState": "new",
+            "isValidSku": true,
+            "remarks": null,
+            "validatedAt": "2021-11-09T14:37:51.302Z",
+            "financeCode": "TS8MZZ",
+            "sprId": null,
+            "orgFormattedName": "byjus",
+            "createdBy": "ayushi.bansal@byjus.com",
+            "updatedBy": "productState-update",
+            "createdAt": "2021-11-09T14:37:51.302Z",
+            "updatedAt": "2022-07-12T13:45:49.618Z",
+            "deletedAt": null,
+            "price": 10000,
+            "itemType": "tablet",
+            "itemId": "tFIGLd_mQ_m-rCiB3e-kfVOS",
+            "combinationType": "product",
+            "studentId": "Shubham singh-1",
+            "tabletId": "T-1865228-Shubham singh",
+            "name": "SAMSUNG Tablet (Add-on-BYJUS) (8 inch-4G)",
+            "sku": "SAMSUNG Tablet (Add-on-BYJUS) (8 inch-4G)"
+          }
+        ],
+        "addOnItems": [],
+        "mentoringDetails": [
+          {
+            "type": "neo",
+            "sessions": [
+              {
+                "day": "Monday",
+                "is_mandatory": true,
+                "time": "11:00-13:00"
+              },
+              {
+                "day": "Monday",
+                "is_mandatory": true,
+                "time": "14:00-18:00"
+              },
+              {
+                "day": "Tuesday",
+                "is_mandatory": true,
+                "time": "11:00-13:00"
+              },
+              {
+                "day": "Tuesday",
+                "is_mandatory": true,
+                "time": "14:00-18:00"
+              },
+              {
+                "day": "Wednesday",
+                "is_mandatory": true,
+                "time": "11:00-13:00"
+              },
+              {
+                "day": "Wednesday",
+                "is_mandatory": true,
+                "time": "14:00-18:00"
+              },
+              {
+                "day": "Thursday",
+                "is_mandatory": true,
+                "time": "11:00-13:00"
+              },
+              {
+                "day": "Thursday",
+                "is_mandatory": true,
+                "time": "14:00-18:00"
+              },
+              {
+                "day": "Friday",
+                "is_mandatory": true,
+                "time": "11:00-13:00"
+              },
+              {
+                "day": "Friday",
+                "is_mandatory": true,
+                "time": "14:00-18:00"
+              },
+              {
+                "day": "Saturday",
+                "is_mandatory": true,
+                "time": "14:00-18:00"
+              },
+              {
+                "day": "Saturday",
+                "is_mandatory": true,
+                "time": "18:00-20:00"
+              },
+              {
+                "day": "Sunday",
+                "is_mandatory": true,
+                "time": "11:00-13:00"
+              },
+              {
+                "day": "Sunday",
+                "is_mandatory": true,
+                "time": "14:00-18:00"
+              }
+            ]
+          }
+        ],
+        "bhlpCourseDetails": [
+          {
+            "id": 307,
+            "name": "sumit",
+            "is_active": true,
+            "live_on_kart": true,
+            "time_zone": "IST",
+            "batch_country": "India",
+            "batch_start_date": "2022-06-14",
+            "batch_end_date": "2022-07-07",
+            "mandatory_sessions_count": 14,
+            "optional_sessions_count": 0,
+            "course_id": 164,
+            "course_name": "10062022_foundation_08",
+            "course_fot_track_id": null,
+            "course_proficiency_id": null,
+            "medium_of_instruction": "english",
+            "course_batch": "12th",
+            "cohort_id": 252,
+            "course_type": "neo",
+            "course_tag": "classroom",
+            "slot_group_id": 237,
+            "tutor_language_enabled": true,
+            "slot_group_name": "10062022_foundation_08",
+            "batch_type": "regular",
+            "available_subjects": [],
+            "course_sub_tag": "Regular",
+            "slots": [
+              {
+                "id": 2635,
+                "day": "Monday",
+                "start_time": "11:00",
+                "end_time": "13:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 2636,
+                "day": "Monday",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 2637,
+                "day": "Tuesday",
+                "start_time": "11:00",
+                "end_time": "13:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 2638,
+                "day": "Tuesday",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 2639,
+                "day": "Wednesday",
+                "start_time": "11:00",
+                "end_time": "13:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 2640,
+                "day": "Wednesday",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 2641,
+                "day": "Thursday",
+                "start_time": "11:00",
+                "end_time": "13:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 2642,
+                "day": "Thursday",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 2643,
+                "day": "Friday",
+                "start_time": "11:00",
+                "end_time": "13:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 2644,
+                "day": "Friday",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 2645,
+                "day": "Saturday",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 2646,
+                "day": "Saturday",
+                "start_time": "18:00",
+                "end_time": "20:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 2647,
+                "day": "Sunday",
+                "start_time": "11:00",
+                "end_time": "13:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 2648,
+                "day": "Sunday",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "is_mandatory": true
+              }
+            ]
+          }
+        ],
+        "featureTag": [],
+        "_id": {
+          "oid": "6391cc6fa314a9001b6adb1a"
+        },
+        "board": "CBSE",
+        "initialClass": "8",
+        "finalClass": "8",
+        "validity": "2023",
+        "tablet": "1865228",
+        "formValues": {
+          "userProfile": "newProfile",
+          "productLearningType": "aakash_byjus_live",
+          "subType": "",
+          "board": "CBSE",
+          "initialClass": "8",
+          "finalClass": "8",
+          "duration": "",
+          "initialGradeProductLearningType": "",
+          "finalGradeProductLearningType": "",
+          "subCourse": "",
+          "validity": 2023,
+          "tablet": "1865228",
+          "mentoringDetails": [
+            {
+              "type": "neo",
+              "sessions": [
+                {
+                  "day": "Monday",
+                  "is_mandatory": true,
+                  "time": "11:00-13:00"
+                },
+                {
+                  "day": "Monday",
+                  "is_mandatory": true,
+                  "time": "14:00-18:00"
+                },
+                {
+                  "day": "Tuesday",
+                  "is_mandatory": true,
+                  "time": "11:00-13:00"
+                },
+                {
+                  "day": "Tuesday",
+                  "is_mandatory": true,
+                  "time": "14:00-18:00"
+                },
+                {
+                  "day": "Wednesday",
+                  "is_mandatory": true,
+                  "time": "11:00-13:00"
+                },
+                {
+                  "day": "Wednesday",
+                  "is_mandatory": true,
+                  "time": "14:00-18:00"
+                },
+                {
+                  "day": "Thursday",
+                  "is_mandatory": true,
+                  "time": "11:00-13:00"
+                },
+                {
+                  "day": "Thursday",
+                  "is_mandatory": true,
+                  "time": "14:00-18:00"
+                },
+                {
+                  "day": "Friday",
+                  "is_mandatory": true,
+                  "time": "11:00-13:00"
+                },
+                {
+                  "day": "Friday",
+                  "is_mandatory": true,
+                  "time": "14:00-18:00"
+                },
+                {
+                  "day": "Saturday",
+                  "is_mandatory": true,
+                  "time": "14:00-18:00"
+                },
+                {
+                  "day": "Saturday",
+                  "is_mandatory": true,
+                  "time": "18:00-20:00"
+                },
+                {
+                  "day": "Sunday",
+                  "is_mandatory": true,
+                  "time": "11:00-13:00"
+                },
+                {
+                  "day": "Sunday",
+                  "is_mandatory": true,
+                  "time": "14:00-18:00"
+                }
+              ]
+            }
+          ],
+          "bhlpCourseDetails": {
+            "id": 307,
+            "name": "sumit",
+            "is_active": true,
+            "live_on_kart": true,
+            "time_zone": "IST",
+            "batch_country": "India",
+            "batch_start_date": "2022-06-14",
+            "batch_end_date": "2022-07-07",
+            "mandatory_sessions_count": 14,
+            "optional_sessions_count": 0,
+            "course_id": 164,
+            "course_name": "10062022_foundation_08",
+            "course_fot_track_id": null,
+            "course_proficiency_id": null,
+            "medium_of_instruction": "english",
+            "course_batch": "12th",
+            "cohort_id": 252,
+            "course_type": "neo",
+            "course_tag": "classroom",
+            "slot_group_id": 237,
+            "tutor_language_enabled": true,
+            "slot_group_name": "10062022_foundation_08",
+            "batch_type": "regular",
+            "available_subjects": [],
+            "course_sub_tag": "Regular",
+            "slots": [
+              {
+                "id": 2635,
+                "day": "Monday",
+                "start_time": "11:00",
+                "end_time": "13:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 2636,
+                "day": "Monday",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 2637,
+                "day": "Tuesday",
+                "start_time": "11:00",
+                "end_time": "13:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 2638,
+                "day": "Tuesday",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 2639,
+                "day": "Wednesday",
+                "start_time": "11:00",
+                "end_time": "13:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 2640,
+                "day": "Wednesday",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 2641,
+                "day": "Thursday",
+                "start_time": "11:00",
+                "end_time": "13:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 2642,
+                "day": "Thursday",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 2643,
+                "day": "Friday",
+                "start_time": "11:00",
+                "end_time": "13:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 2644,
+                "day": "Friday",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 2645,
+                "day": "Saturday",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 2646,
+                "day": "Saturday",
+                "start_time": "18:00",
+                "end_time": "20:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 2647,
+                "day": "Sunday",
+                "start_time": "11:00",
+                "end_time": "13:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 2648,
+                "day": "Sunday",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "is_mandatory": true
+              }
+            ]
+          },
+          "proficiency": "",
+          "mathPercent": "",
+          "sciencePercent": "",
+          "languageOfInstruction": "english",
+          "languageOfInstructionId": 1,
+          "tabletId": "T-1865228",
+          "isTabletLock": false
+        },
+        "tabletLock": "not_applicable",
+        "productSelectionType": "byjus_aakash_neo",
+        "studentName": "Shubham singh",
+        "studentId": "Shubham singh-1",
+        "academicDetails": {
+          "mathPercent": "",
+          "sciencePercent": "",
+          "fotTrackId": null,
+          "proficiency": "",
+          "schoolDetails": {
+            "id": null,
+            "name": "",
+            "address": "",
+            "pincode": null
+          },
+          "languageOfInstruction": "english",
+          "languageOfInstructionId": 1
+        },
+        "premiumAccount": "1826329961"
+      }
+    ],
+    "actionDetails": {
+      "createdAt": {
+        "date": {
+          "numberLong": "1670499600514"
+        }
+      },
+      "createdBy": "praz@byjus.com",
+      "notConfirmedAt": {
+        "date": {
+          "numberLong": "1670499602544"
+        }
+      },
+      "notConfirmedBy": "system"
+    },
+    "type": "product",
+    "subType": "course",
+    "timestamps": {
+      "createdAt": {
+        "date": {
+          "numberLong": "1670499600514"
+        }
+      }
+    },
+    "sacCommand": "applicable",
+    "poaCommand": "applicable",
+    "revenueOrderValue": 55000,
+    "orderValue": 55000,
+    "voucherDetails": null,
+    "sourceDetails": null,
+    "assignmentCategory": "k10",
+    "smsDetails": {
+      "notConfirmedAt": {
+        "date": {
+          "numberLong": "1670499602534"
+        }
+      },
+      "notConfirmedBy": "draft_order_job"
+    }
+  }

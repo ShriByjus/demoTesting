@@ -1,0 +1,85 @@
+{
+  "uid" : "d7abbfea0edb2c19",
+  "name" : "btlp reveres workflow",
+  "fullName" : "btlp workflow.btlp reveres workflow",
+  "historyId" : "1f164f474be96f28a307e09b5907b301",
+  "time" : {
+    "start" : 1667563884198,
+    "stop" : 1667563991336,
+    "duration" : 107138
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Maximize the window",
+      "time" : {
+        "start" : 1667563884199,
+        "stop" : 0,
+        "duration" : -1667563884199
+      },
+      "status" : "unknown",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "btlp workflow"
+  }, {
+    "name" : "testClass",
+    "value" : "btlp workflow"
+  }, {
+    "name" : "testMethod",
+    "value" : "btlp reveres workflow"
+  }, {
+    "name" : "package",
+    "value" : "btlp workflow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.87"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d7abbfea0edb2c19.json",
+  "parameterValues" : [ "chrome-107.0.5304.87" ]
+}

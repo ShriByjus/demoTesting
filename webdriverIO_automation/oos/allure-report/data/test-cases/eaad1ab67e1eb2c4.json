@@ -1,0 +1,96 @@
+{
+  "uid" : "eaad1ab67e1eb2c4",
+  "name" : "Verifying the Sales order Id details",
+  "fullName" : "Validating grade 4 Single order.Verifying the Sales order Id details",
+  "historyId" : "684ca626300a718e1fb8443c4bb01a23",
+  "time" : {
+    "start" : 1671018715616,
+    "stop" : 1671018715777,
+    "duration" : 161
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "this.ordersTab.waitForClickable is not a function",
+  "statusTrace" : "TypeError: this.ordersTab.waitForClickable is not a function\n                    at verifyOmsOrderDetails.openSoIdVerifyDetails (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:257:30)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleClass6.js:43:37)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "this.ordersTab.waitForClickable is not a function",
+    "statusTrace" : "TypeError: this.ordersTab.waitForClickable is not a function\n                    at verifyOmsOrderDetails.openSoIdVerifyDetails (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:257:30)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleClass6.js:43:37)",
+    "steps" : [ {
+      "name" : "Verifying the Sales order Id details",
+      "time" : {
+        "start" : 1671018715616,
+        "stop" : 1671018715777,
+        "duration" : 161
+      },
+      "status" : "broken",
+      "statusMessage" : "TypeError: this.ordersTab.waitForClickable is not a function\n                    at verifyOmsOrderDetails.openSoIdVerifyDetails (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:257:30)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleClass6.js:43:37)",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "69f12c85b15582f",
+        "name" : "Screenshot",
+        "source" : "69f12c85b15582f.png",
+        "type" : "image/png",
+        "size" : 178721
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating grade 4 Single order"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating grade 4 Single order"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verifying the Sales order Id details"
+  }, {
+    "name" : "package",
+    "value" : "Validating grade 4 Single order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-108.0.5359.98"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eaad1ab67e1eb2c4.json",
+  "parameterValues" : [ "chrome-108.0.5359.98" ]
+}

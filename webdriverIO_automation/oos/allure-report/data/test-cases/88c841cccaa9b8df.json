@@ -1,0 +1,128 @@
+{
+  "uid" : "88c841cccaa9b8df",
+  "name" : "Verify the sum of sku values should match the sub total amount",
+  "fullName" : "Validating UKG Single order.Verify the sum of sku values should match the sub total amount",
+  "historyId" : "959d8fe8affb8b8dae0c57a5238a4248",
+  "time" : {
+    "start" : 1669551113070,
+    "stop" : 1669551113361,
+    "duration" : 291
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "payamentSubTotalAmount.replace is not a function",
+  "statusTrace" : "TypeError: payamentSubTotalAmount.replace is not a function\n                    at verifyOmsOrderDetails.verifySkuAmount (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:452:57)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:164:37)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "payamentSubTotalAmount.replace is not a function",
+    "statusTrace" : "TypeError: payamentSubTotalAmount.replace is not a function\n                    at verifyOmsOrderDetails.verifySkuAmount (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:452:57)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:164:37)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+    "steps" : [ {
+      "name" : "Wait for Toggle button to be Clickable",
+      "time" : {
+        "start" : 1669551113071,
+        "stop" : 1669551113361,
+        "duration" : 290
+      },
+      "status" : "broken",
+      "statusMessage" : "TypeError: payamentSubTotalAmount.replace is not a function\n                    at verifyOmsOrderDetails.verifySkuAmount (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:452:57)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:164:37)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+      "steps" : [ {
+        "name" : "Scroll to Toggle button",
+        "time" : {
+          "start" : 1669551113105,
+          "stop" : 1669551113361,
+          "duration" : 256
+        },
+        "status" : "broken",
+        "statusMessage" : "TypeError: payamentSubTotalAmount.replace is not a function\n                    at verifyOmsOrderDetails.verifySkuAmount (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:452:57)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:164:37)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+        "steps" : [ {
+          "name" : "Click on Toggle button",
+          "time" : {
+            "start" : 1669551113115,
+            "stop" : 1669551113361,
+            "duration" : 246
+          },
+          "status" : "broken",
+          "statusMessage" : "TypeError: payamentSubTotalAmount.replace is not a function\n                    at verifyOmsOrderDetails.verifySkuAmount (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:452:57)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:164:37)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "b525bb50476a2fe9",
+            "name" : "Screenshot",
+            "source" : "b525bb50476a2fe9.png",
+            "type" : "image/png",
+            "size" : 318100
+          } ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 1,
+          "shouldDisplayMessage" : true,
+          "hasContent" : true
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 2,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the sum of sku values should match the sub total amount"
+  }, {
+    "name" : "package",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.110"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "88c841cccaa9b8df.json",
+  "parameterValues" : [ "chrome-107.0.5304.110" ]
+}

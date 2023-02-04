@@ -1,0 +1,238 @@
+{
+  "uid" : "22cc650e5fc7a55e",
+  "name" : "Verify the Addon Items Skus",
+  "fullName" : "Validating UKG Single order.Verify the Addon Items Skus",
+  "historyId" : "f2a943798beb5c065768b443abafa5f1",
+  "time" : {
+    "start" : 1669122723712,
+    "stop" : 1669122733135,
+    "duration" : 9423
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "File does not exist. Check to make sure the file path to your csv is correct.",
+  "statusTrace" : "Error: File does not exist. Check to make sure the file path to your csv is correct.\n                    at /Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/node_modules/csvtojson/src/Converter.ts:52:28\n                    at suppressedCallback (node:fs:263:5)\n                    at FSReqCallback.oncomplete (node:fs:188:23)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "File does not exist. Check to make sure the file path to your csv is correct.",
+    "statusTrace" : "Error: File does not exist. Check to make sure the file path to your csv is correct.\n                    at /Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/node_modules/csvtojson/src/Converter.ts:52:28\n                    at suppressedCallback (node:fs:263:5)\n                    at FSReqCallback.oncomplete (node:fs:188:23)",
+    "steps" : [ {
+      "name" : "\"before each\" hook for Validating UKG Single order",
+      "time" : {
+        "start" : 1669122723712,
+        "stop" : 1669122733135,
+        "duration" : 9423
+      },
+      "status" : "broken",
+      "statusMessage" : "Error: File does not exist. Check to make sure the file path to your csv is correct.\n                    at /Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/node_modules/csvtojson/src/Converter.ts:52:28\n                    at suppressedCallback (node:fs:263:5)\n                    at FSReqCallback.oncomplete (node:fs:188:23)",
+      "steps" : [ {
+        "name" : "Maximize the window",
+        "time" : {
+          "start" : 1669122723712,
+          "stop" : 1669122733135,
+          "duration" : 9423
+        },
+        "status" : "broken",
+        "statusMessage" : "Error: File does not exist. Check to make sure the file path to your csv is correct.\n                    at /Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/node_modules/csvtojson/src/Converter.ts:52:28\n                    at suppressedCallback (node:fs:263:5)\n                    at FSReqCallback.oncomplete (node:fs:188:23)",
+        "steps" : [ {
+          "name" : "Open Byjus OMS page",
+          "time" : {
+            "start" : 1669122723819,
+            "stop" : 1669122724141,
+            "duration" : 322
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        }, {
+          "name" : "Login to the Home page",
+          "time" : {
+            "start" : 1669122724141,
+            "stop" : 1669122729179,
+            "duration" : 5038
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        }, {
+          "name" : "Wait for the orders tab to be clickable",
+          "time" : {
+            "start" : 1669122729179,
+            "stop" : 1669122733135,
+            "duration" : 3956
+          },
+          "status" : "broken",
+          "statusMessage" : "Error: File does not exist. Check to make sure the file path to your csv is correct.\n                    at /Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/node_modules/csvtojson/src/Converter.ts:52:28\n                    at suppressedCallback (node:fs:263:5)\n                    at FSReqCallback.oncomplete (node:fs:188:23)",
+          "steps" : [ {
+            "name" : "Click on orders tab",
+            "time" : {
+              "start" : 1669122729193,
+              "stop" : 1669122733135,
+              "duration" : 3942
+            },
+            "status" : "broken",
+            "statusMessage" : "Error: File does not exist. Check to make sure the file path to your csv is correct.\n                    at /Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/node_modules/csvtojson/src/Converter.ts:52:28\n                    at suppressedCallback (node:fs:263:5)\n                    at FSReqCallback.oncomplete (node:fs:188:23)",
+            "steps" : [ {
+              "name" : "Click on sales Orders Tab tab",
+              "time" : {
+                "start" : 1669122729226,
+                "stop" : 1669122733135,
+                "duration" : 3909
+              },
+              "status" : "broken",
+              "statusMessage" : "Error: File does not exist. Check to make sure the file path to your csv is correct.\n                    at /Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/node_modules/csvtojson/src/Converter.ts:52:28\n                    at suppressedCallback (node:fs:263:5)\n                    at FSReqCallback.oncomplete (node:fs:188:23)",
+              "steps" : [ {
+                "name" : "Enter the Sales order Id ins search barch",
+                "time" : {
+                  "start" : 1669122730790,
+                  "stop" : 1669122733135,
+                  "duration" : 2345
+                },
+                "status" : "broken",
+                "statusMessage" : "Error: File does not exist. Check to make sure the file path to your csv is correct.\n                    at /Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/node_modules/csvtojson/src/Converter.ts:52:28\n                    at suppressedCallback (node:fs:263:5)\n                    at FSReqCallback.oncomplete (node:fs:188:23)",
+                "steps" : [ {
+                  "name" : "Click on sales Orders Id",
+                  "time" : {
+                    "start" : 1669122732897,
+                    "stop" : 1669122733135,
+                    "duration" : 238
+                  },
+                  "status" : "broken",
+                  "statusMessage" : "Error: File does not exist. Check to make sure the file path to your csv is correct.\n                    at /Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/node_modules/csvtojson/src/Converter.ts:52:28\n                    at suppressedCallback (node:fs:263:5)\n                    at FSReqCallback.oncomplete (node:fs:188:23)",
+                  "steps" : [ {
+                    "name" : "Copy Add On Items skus from Csv file",
+                    "time" : {
+                      "start" : 1669122732941,
+                      "stop" : 1669122733135,
+                      "duration" : 194
+                    },
+                    "status" : "broken",
+                    "statusMessage" : "Error: File does not exist. Check to make sure the file path to your csv is correct.\n                    at /Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/node_modules/csvtojson/src/Converter.ts:52:28\n                    at suppressedCallback (node:fs:263:5)\n                    at FSReqCallback.oncomplete (node:fs:188:23)",
+                    "steps" : [ ],
+                    "attachments" : [ {
+                      "uid" : "d8f5fcffc08f6e22",
+                      "name" : "Screenshot",
+                      "source" : "d8f5fcffc08f6e22.png",
+                      "type" : "image/png",
+                      "size" : 142803
+                    } ],
+                    "parameters" : [ ],
+                    "stepsCount" : 0,
+                    "attachmentsCount" : 1,
+                    "shouldDisplayMessage" : true,
+                    "hasContent" : true
+                  } ],
+                  "attachments" : [ ],
+                  "parameters" : [ ],
+                  "stepsCount" : 1,
+                  "attachmentsCount" : 1,
+                  "shouldDisplayMessage" : false,
+                  "hasContent" : true
+                } ],
+                "attachments" : [ ],
+                "parameters" : [ ],
+                "stepsCount" : 2,
+                "attachmentsCount" : 1,
+                "shouldDisplayMessage" : false,
+                "hasContent" : true
+              } ],
+              "attachments" : [ ],
+              "parameters" : [ ],
+              "stepsCount" : 3,
+              "attachmentsCount" : 1,
+              "shouldDisplayMessage" : false,
+              "hasContent" : true
+            } ],
+            "attachments" : [ ],
+            "parameters" : [ ],
+            "stepsCount" : 4,
+            "attachmentsCount" : 1,
+            "shouldDisplayMessage" : false,
+            "hasContent" : true
+          } ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 5,
+          "attachmentsCount" : 1,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 8,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 9,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 10,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the Addon Items Skus"
+  }, {
+    "name" : "package",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.110"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "22cc650e5fc7a55e.json",
+  "parameterValues" : [ "chrome-107.0.5304.110" ]
+}

@@ -1,0 +1,1301 @@
+{
+    "salesSubOrderId" : "SSO1-2210101018010273",
+    "salesOrderId" : "SO-2210101018010273",
+    "orgFormattedName" : "byjus",
+    "orgId" : "ORG-1",
+    "currency" : "INR",
+    "orderType" : "SINGLE",
+    "courseType" : "K10",
+    "lineItems" : [ 
+        {
+            "basePrice" : 22000,
+            "continousPrice" : 17000,
+            "grade" : "4",
+            "name" : "4th Class Maths+Science (SD Card-Byjus) May-2023",
+            "productId" : "1147180",
+            "sku" : "4th Class Maths+Science (SD Card-Byjus) May-2023",
+            "validity" : "MAY 2023",
+            "course" : "Maths/Science",
+            "itemType" : "sd_card",
+            "createdAt" : "2019-09-03T07:17:23.680Z",
+            "internationalBasePrice" : {
+                "United Arab Emirates" : 2600,
+                "Oman" : 265,
+                "Kuwait" : 220,
+                "Saudi Arabia" : 2630,
+                "Qatar" : 2590
+            },
+            "internationalContinousPrice" : {
+                "United Arab Emirates" : 800,
+                "Oman" : 80,
+                "Kuwait" : 70,
+                "Saudi Arabia" : 800,
+                "Qatar" : 800
+            },
+            "priceDetails" : {
+                "united_arab_emirates" : {
+                    "basePrice" : 1175,
+                    "continousPrice" : 950
+                },
+                "oman" : {
+                    "basePrice" : 110,
+                    "continousPrice" : 85
+                },
+                "qatar" : {
+                    "basePrice" : 1050,
+                    "continousPrice" : 800
+                },
+                "saudi_arabia" : {
+                    "basePrice" : 1050,
+                    "continousPrice" : 800
+                },
+                "kuwait" : {
+                    "basePrice" : 90,
+                    "continousPrice" : 70
+                }
+            },
+            "skuSubType" : "SD Card",
+            "skuType" : "Product",
+            "__v" : 1,
+            "status" : "inactive",
+            "skuId" : "SD04NA23",
+            "isValidSku" : false,
+            "remarks" : "Duplicate product",
+            "validatedAt" : "2021-10-19T06:21:13.459Z",
+            "programId" : "BTLAKXAS0001",
+            "financeCode" : "SD04NA",
+            "hsnCode" : "85235100",
+            "itemId" : "ApTGXevtVZnqtjWM8NJSvFmV",
+            "studentId" : "Shubham singh-1",
+            "tabletId" : "T-934599-Shubham singh",
+            "orgId" : "byjus",
+            "salesSubOrderId" : "SSO1-2210101018010273",
+            "itemStatus" : "mapping_pending",
+            "invoicePrice" : "15000.00"
+        }, 
+        {
+            "sku" : "4th Grade BYJU'S Classes May 2023",
+            "course" : "Maths/Science",
+            "grade" : "4",
+            "board" : null,
+            "productType" : "course",
+            "productId" : "1404774",
+            "name" : "4th Grade BYJU'S Classes May 2023",
+            "validity" : "MAY 2023",
+            "continousPrice" : "8000",
+            "basePrice" : "13000",
+            "type" : "BYJUS_CLASSES_UPGRADE",
+            "skuId" : "UB04NA23",
+            "skuName" : "4th Grade BYJU'S Classes May 2023",
+            "itemType" : "byjus_premium",
+            "createdAt" : "2019-09-03T07:17:23.680Z",
+            "skuSubType" : "BYJU's Classes Upgrade",
+            "skuType" : "Service",
+            "priceDetails" : {
+                "united_arab_emirates" : {
+                    "basePrice" : 700,
+                    "continousPrice" : 450
+                },
+                "kuwait" : {
+                    "basePrice" : 50,
+                    "continousPrice" : 25
+                },
+                "oman" : {
+                    "basePrice" : 60,
+                    "continousPrice" : 35
+                },
+                "qatar" : {
+                    "basePrice" : 550,
+                    "continousPrice" : 300
+                },
+                "saudi_arabia" : {
+                    "basePrice" : 550,
+                    "continousPrice" : 300
+                }
+            },
+            "isValidSku" : true,
+            "remarks" : null,
+            "validatedAt" : "2021-10-19T06:33:27.251Z",
+            "programId" : "BCOPKXSY0002",
+            "financeCode" : "UB04NA",
+            "itemId" : "wmUVdrSgcwrlce_0RS7XfPmV",
+            "studentId" : "Shubham singh-1",
+            "tabletId" : "T-934599-Shubham singh",
+            "orgId" : "byjus",
+            "salesSubOrderId" : "SSO1-2210101018010273",
+            "itemStatus" : "mapping_pending",
+            "invoicePrice" : "15000.00"
+        }, 
+        {
+            "sku" : "K-12 Lenovo Tablet (Add-on - BYJUS) (7 inch)",
+            "course" : "",
+            "grade" : null,
+            "board" : null,
+            "productType" : "course",
+            "productId" : "934599",
+            "name" : "K-12 Lenovo Tablet (Add-on - BYJUS) (7 inch)",
+            "type" : "tablet",
+            "validity" : "MAY 2020",
+            "continousPrice" : "5000",
+            "basePrice" : "5000",
+            "size" : 7,
+            "skuId" : "TL7WZZ",
+            "skuName" : "Lenovo 7 inch Tablet Wifi",
+            "createdAt" : "2019-09-03T07:17:23.680Z",
+            "skuSubType" : "Tablet",
+            "skuType" : "Product",
+            "isValidSku" : true,
+            "remarks" : null,
+            "validatedAt" : "2021-11-12T13:42:12.460Z",
+            "price" : "5000",
+            "itemType" : "tablet",
+            "financeCode" : "TL7WZZ",
+            "hsnCode" : "84713010",
+            "programId" : "TLP1UCHW0001",
+            "itemId" : "OBDhhcierWGZeuYdEt5QJSa-",
+            "studentId" : "Shubham singh-1",
+            "tabletId" : "T-934599-Shubham singh",
+            "orgId" : "byjus",
+            "salesSubOrderId" : "SSO1-2210101018010273",
+            "itemStatus" : "mapping_pending",
+            "invoicePrice" : "5000.00",
+            "pgLineItemId" : 1477080
+        }
+    ],
+    "shipmentLineItems" : [ 
+        {
+            "skuId" : "TL7WZZKX",
+            "skuName" : "K12 Lenovo 7 inch Tablet Wifi",
+            "status" : "active",
+            "type" : "tablet",
+            "properties" : {
+                "grade" : null,
+                "course" : null,
+                "board" : null,
+                "color" : null,
+                "brand" : "lenovo",
+                "manufacturer" : "lenovo",
+                "warehouse" : [],
+                "sdCardMemory" : null,
+                "appVersion" : null,
+                "sdCardVersion" : null,
+                "apkRelease" : "2022-02-10T05:59:15.923Z",
+                "contentRelease" : "2022-02-10T05:59:15.923Z",
+                "location" : null,
+                "comboDetails" : [],
+                "userType" : null,
+                "programId" : "TLP1UCAS0001",
+                "size" : null,
+                "model" : null,
+                "skuSet" : null,
+                "subject" : null,
+                "language" : null,
+                "scheme" : null
+            },
+            "dimensions" : {
+                "length" : null,
+                "width" : null,
+                "height" : null,
+                "unit" : null
+            },
+            "weight" : {
+                "value" : null,
+                "unit" : null
+            },
+            "productionStrategy" : null,
+            "financeMaterialCode" : "TL7WZZKX",
+            "financeProductCode" : "TL7W",
+            "createdBy" : "system",
+            "updatedBy" : "system",
+            "createdAt" : "2022-02-10T05:59:15.923Z",
+            "updatedAt" : "2022-08-18T14:33:14.737Z",
+            "deletedAt" : null,
+            "productState" : null,
+            "activeSalesItems" : [ 
+                "TL7WZZ"
+            ],
+            "activeLineItemIds" : [ 
+                "OBDhhcierWGZeuYdEt5QJSa-"
+            ],
+            "price" : 5000,
+            "studentId" : "Shubham singh-1",
+            "students" : [ 
+                "Shubham singh-1"
+            ],
+            "tabletId" : "T-934599-Shubham singh",
+            "itemStatus" : "mapping_pending",
+            "pgShipmentLineItemId" : 13775429
+        }, 
+        {
+            "skuId" : "S2NA0404",
+            "properties" : {
+                "manufacturer" : null,
+                "brand" : null,
+                "color" : null,
+                "size" : null,
+                "unit" : null,
+                "board" : "NA",
+                "grade" : "04-04",
+                "course" : null,
+                "noOfCombos" : "1",
+                "sdCardMemory" : 32,
+                "appVersion" : "v5.1.1.10310",
+                "sdCardVersion" : "Version 1",
+                "apkRelease" : "2022-05-09T11:32:55.959Z",
+                "contentRelease" : "2022-05-09T11:32:55.959Z",
+                "inventoryRelease" : "2022-05-09T11:32:55.959Z",
+                "warehouse" : "IBC Knowledge Park, Lexington, Croma",
+                "location" : "FI Lex, FI Croma, FI IBC",
+                "comboDetails" : [ 
+                    {
+                        "initialClass" : 4,
+                        "finalClass" : 4,
+                        "grades" : "04-04"
+                    }
+                ],
+                "combinations" : [ 
+                    "04-04"
+                ],
+                "programId" : "BTLAKXAS0001"
+            },
+            "skuName" : "Grade 04 SD Card",
+            "type" : "sd_card",
+            "productState" : null,
+            "activeGrades" : [ 
+                4
+            ],
+            "activeSalesItems" : [ 
+                "SD04NA23", 
+                "UB04NA23"
+            ],
+            "activeLineItemIds" : [ 
+                "ApTGXevtVZnqtjWM8NJSvFmV", 
+                "wmUVdrSgcwrlce_0RS7XfPmV"
+            ],
+            "studentId" : "Shubham singh-1",
+            "tabletId" : "T-934599-Shubham singh",
+            "itemStatus" : "mapping_pending",
+            "pgShipmentLineItemId" : 13775430
+        }
+    ],
+    "returnLineItems" : [],
+    "salesDetails" : {
+        "typeOfSales" : "DS Sales",
+        "directSalesBy" : "sanjay.karkera@byjus.com",
+        "directSalesByCampaign" : "Livechat Calling",
+        "salesAppointmentBy" : null,
+        "salesAppointmentByCampaign" : "Hyderabad",
+        "incentiveDate" : "2022-10-10T10:20:02.970Z",
+        "salesAppointmentByRole" : null,
+        "directSalesByDept" : "business_development",
+        "salesAppointmentByDept" : "",
+        "salesIndex" : 175
+    },
+    "customerDetails" : {
+        "customerId" : "CX-2210101017553261",
+        "name" : "Rakesh",
+        "identifierDetails" : [],
+        "alternateName" : "Shubham singh",
+        "mobileNo" : "+91-8889990000",
+        "alternateMobileNo" : "+91-8889990000",
+        "email" : "8889990000@gmail.com",
+        "alternateEmail" : null,
+        "type" : null,
+        "communicationPreferences" : {},
+        "isBooksOpted" : true,
+        "billingCustomerId" : null
+    },
+    "billingCustomerDetails" : null,
+    "addressDetails" : {
+        "billing" : {
+            "zipcode" : "411057",
+            "addressLine1" : "Address Address AddressAddress",
+            "country" : "India",
+            "state" : "Maharashtra",
+            "city" : "Pune",
+            "addressLine2" : "Address ,",
+            "addressLine3" : "Infotech  Park (Hinjawadi) S.O",
+            "address" : "Address Address AddressAddress\n Address \n Infotech  Park (Hinjawadi) S.O",
+            "addressId" : "489597"
+        },
+        "shipping" : {
+            "zipcode" : "411057",
+            "addressLine1" : "Address Address AddressAddress",
+            "country" : "India",
+            "state" : "Maharashtra",
+            "city" : "Pune",
+            "addressLine2" : "Address ,",
+            "addressLine3" : "Infotech  Park (Hinjawadi) S.O",
+            "address" : "Address Address AddressAddress\n Address \n Infotech  Park (Hinjawadi) S.O",
+            "addressId" : "489598"
+        }
+    },
+    "attachments" : [],
+    "studentDetails" : [ 
+        {
+            "studentProfileDetails" : {
+                "isExistingProfile" : false,
+                "existingPremiumId" : "",
+                "existingFamilyId" : ""
+            },
+            "hlpDetails" : {
+                "courseDetails" : [ 
+                    {
+                        "id" : 12108,
+                        "name" : "mon 9.00",
+                        "is_active" : true,
+                        "time_zone" : "IST",
+                        "batch_country" : "India",
+                        "batch_start_date" : "2022-07-27",
+                        "batch_end_date" : "2022-12-02",
+                        "mandatory_sessions_count" : 3,
+                        "optional_sessions_count" : 0,
+                        "course_id" : 5165,
+                        "course_name" : "4th grade load balancer",
+                        "course_fot_track_id" : "cbse-4-292-275-lar",
+                        "course_proficiency_id" : 2,
+                        "medium_of_instruction" : "english",
+                        "course_batch" : null,
+                        "cohort_id" : 29,
+                        "course_type" : "neo",
+                        "course_tag" : "classroom",
+                        "slot_group_id" : 5587,
+                        "tutor_language_enabled" : true,
+                        "slot_group_name" : "Mo-We-Fr-9:00pm",
+                        "batch_type" : "regular",
+                        "available_subjects" : [ 
+                            "Mathematics", 
+                            "Science"
+                        ],
+                        "course_sub_tag" : "Regular",
+                        "clash" : false,
+                        "is_overloading" : false,
+                        "is_clashing" : false,
+                        "slots" : [ 
+                            {
+                                "id" : 28501,
+                                "day" : "Monday",
+                                "start_time" : "21:00",
+                                "end_time" : "22:00",
+                                "is_mandatory" : true
+                            }, 
+                            {
+                                "id" : 28502,
+                                "day" : "Wednesday",
+                                "start_time" : "21:00",
+                                "end_time" : "22:00",
+                                "is_mandatory" : true
+                            }, 
+                            {
+                                "id" : 28503,
+                                "day" : "Friday",
+                                "start_time" : "21:00",
+                                "end_time" : "22:00",
+                                "is_mandatory" : true
+                            }
+                        ]
+                    }
+                ],
+                "sessionDetails" : [ 
+                    {
+                        "sessions" : [ 
+                            {
+                                "day" : "Monday",
+                                "is_mandatory" : true,
+                                "time" : "21:00-22:00"
+                            }, 
+                            {
+                                "day" : "Wednesday",
+                                "is_mandatory" : true,
+                                "time" : "21:00-22:00"
+                            }, 
+                            {
+                                "day" : "Friday",
+                                "is_mandatory" : true,
+                                "time" : "21:00-22:00"
+                            }
+                        ],
+                        "_id" : "6343f1b482d99e001b93d2a5",
+                        "type" : "neo"
+                    }
+                ],
+                "initialClass" : "4",
+                "initialValidity" : "2023",
+                "batchCode" : "Hlp_09-10-2022"
+            },
+            "courseType" : [ 
+                "K10"
+            ],
+            "electiveDetails" : [ 
+                {
+                    "batch" : {
+                        "id" : 7525,
+                        "name" : "Course: 3990 - Batch 9(E)",
+                        "is_active" : true,
+                        "time_zone" : "IST",
+                        "batch_country" : "India",
+                        "batch_start_date" : "2022-04-24",
+                        "batch_end_date" : "2022-11-06",
+                        "mandatory_sessions_count" : 1,
+                        "optional_sessions_count" : 0,
+                        "course_id" : 3990,
+                        "course_name" : "Neo - Electives - STD IV",
+                        "course_fot_track_id" : null,
+                        "course_proficiency_id" : null,
+                        "medium_of_instruction" : "english",
+                        "course_batch" : null,
+                        "cohort_id" : 29,
+                        "course_type" : "neo",
+                        "course_tag" : "elective",
+                        "slot_group_id" : 6267,
+                        "tutor_language_enabled" : true,
+                        "slot_group_name" : "Sat-3:30PM",
+                        "batch_type" : "regular",
+                        "available_subjects" : [ 
+                            "English"
+                        ],
+                        "course_sub_tag" : "Regular",
+                        "clash" : false,
+                        "is_overloading" : false,
+                        "is_clashing" : false,
+                        "slots" : [ 
+                            {
+                                "id" : 30123,
+                                "day" : "Saturday",
+                                "start_time" : "15:30",
+                                "end_time" : "16:30",
+                                "is_mandatory" : true
+                            }
+                        ]
+                    },
+                    "subject" : "English",
+                    "slot" : [ 
+                        {
+                            "id" : 30123,
+                            "day" : "Saturday",
+                            "start_time" : "15:30",
+                            "end_time" : "16:30",
+                            "is_mandatory" : true
+                        }
+                    ]
+                }, 
+                {
+                    "batch" : {
+                        "id" : 10421,
+                        "name" : "asdasdasw2222",
+                        "is_active" : true,
+                        "time_zone" : "IST",
+                        "batch_country" : "India",
+                        "batch_start_date" : "2022-06-16",
+                        "batch_end_date" : "2022-11-06",
+                        "mandatory_sessions_count" : 1,
+                        "optional_sessions_count" : 0,
+                        "course_id" : 4072,
+                        "course_name" : "English - Grade 04 - Test",
+                        "course_fot_track_id" : null,
+                        "course_proficiency_id" : null,
+                        "medium_of_instruction" : "english",
+                        "course_batch" : null,
+                        "cohort_id" : 29,
+                        "course_type" : "neo",
+                        "course_tag" : "elective",
+                        "slot_group_id" : 6271,
+                        "tutor_language_enabled" : true,
+                        "slot_group_name" : "Tue-3:30PM",
+                        "batch_type" : "regular",
+                        "available_subjects" : [ 
+                            "Social Studies"
+                        ],
+                        "course_sub_tag" : "Regular",
+                        "clash" : false,
+                        "is_overloading" : false,
+                        "is_clashing" : false,
+                        "slots" : [ 
+                            {
+                                "id" : 30127,
+                                "day" : "Tuesday",
+                                "start_time" : "15:30",
+                                "end_time" : "16:30",
+                                "is_mandatory" : true
+                            }
+                        ]
+                    },
+                    "subject" : "Social Studies",
+                    "slot" : [ 
+                        {
+                            "id" : 30127,
+                            "day" : "Tuesday",
+                            "start_time" : "15:30",
+                            "end_time" : "16:30",
+                            "is_mandatory" : true
+                        }
+                    ]
+                }, 
+                {
+                    "batch" : {
+                        "id" : 13636,
+                        "name" : "Tue-4:30PM - Coding",
+                        "is_active" : true,
+                        "time_zone" : "IST",
+                        "batch_country" : "India",
+                        "batch_start_date" : "2022-09-05",
+                        "batch_end_date" : "2023-07-31",
+                        "mandatory_sessions_count" : 1,
+                        "optional_sessions_count" : 0,
+                        "course_id" : 4072,
+                        "course_name" : "English - Grade 04 - Test",
+                        "course_fot_track_id" : null,
+                        "course_proficiency_id" : null,
+                        "medium_of_instruction" : "english",
+                        "course_batch" : null,
+                        "cohort_id" : 29,
+                        "course_type" : "neo",
+                        "course_tag" : "elective",
+                        "slot_group_id" : 6277,
+                        "tutor_language_enabled" : true,
+                        "slot_group_name" : "Tue-4:30PM",
+                        "batch_type" : "regular",
+                        "available_subjects" : [ 
+                            "Coding"
+                        ],
+                        "course_sub_tag" : "Regular",
+                        "clash" : false,
+                        "is_overloading" : false,
+                        "is_clashing" : false,
+                        "slots" : [ 
+                            {
+                                "id" : 30133,
+                                "day" : "Tuesday",
+                                "start_time" : "16:30",
+                                "end_time" : "17:30",
+                                "is_mandatory" : true
+                            }
+                        ]
+                    },
+                    "subject" : "Coding",
+                    "slot" : [ 
+                        {
+                            "id" : 30133,
+                            "day" : "Tuesday",
+                            "start_time" : "16:30",
+                            "end_time" : "17:30",
+                            "is_mandatory" : true
+                        }
+                    ]
+                }
+            ],
+            "doubtClassDetails" : [ 
+                {
+                    "batch" : {
+                        "id" : 8294,
+                        "name" : "doubt-2",
+                        "is_active" : true,
+                        "time_zone" : "IST",
+                        "batch_country" : "India",
+                        "batch_start_date" : "2022-05-11",
+                        "batch_end_date" : "2022-11-06",
+                        "mandatory_sessions_count" : 1,
+                        "optional_sessions_count" : 0,
+                        "course_id" : 4323,
+                        "course_name" : "doubt-test-1",
+                        "course_fot_track_id" : null,
+                        "course_proficiency_id" : 1,
+                        "medium_of_instruction" : "english",
+                        "course_batch" : "12th",
+                        "cohort_id" : 29,
+                        "course_type" : "neo",
+                        "course_tag" : "doubt_resolution",
+                        "slot_group_id" : 6771,
+                        "tutor_language_enabled" : true,
+                        "slot_group_name" : "Wed 4:30",
+                        "batch_type" : "regular",
+                        "available_subjects" : [ 
+                            "Mathematics", 
+                            "Science"
+                        ],
+                        "course_sub_tag" : "Regular",
+                        "clash" : false,
+                        "is_overloading" : false,
+                        "is_clashing" : false,
+                        "slots" : [ 
+                            {
+                                "id" : 32255,
+                                "day" : "Wednesday",
+                                "start_time" : "16:30",
+                                "end_time" : "17:30",
+                                "is_mandatory" : true
+                            }
+                        ]
+                    },
+                    "subject" : "Mathematics",
+                    "slot" : [ 
+                        {
+                            "id" : 32255,
+                            "day" : "Wednesday",
+                            "start_time" : "16:30",
+                            "end_time" : "17:30",
+                            "is_mandatory" : true
+                        }
+                    ]
+                }
+            ],
+            "workshops" : [],
+            "items" : [ 
+                {
+                    "_id" : "5ae2b2508c5ba117698472e9",
+                    "basePrice" : 22000,
+                    "continousPrice" : 17000,
+                    "grade" : "4",
+                    "name" : "4th Class Maths+Science (SD Card-Byjus) May-2023",
+                    "productId" : "1147180",
+                    "sku" : "4th Class Maths+Science (SD Card-Byjus) May-2023",
+                    "validity" : "MAY 2023",
+                    "course" : "Maths/Science",
+                    "cohort_id" : 29,
+                    "isMultipleProfilesSupported" : true,
+                    "updatedAt" : "2021-05-10T10:42:25.380Z",
+                    "itemType" : "course",
+                    "updatedBy" : "Datafix_update_middle_east_pricing",
+                    "createdAt" : "2019-09-03T07:17:23.680Z",
+                    "internationalBasePrice" : {
+                        "United Arab Emirates" : 2600,
+                        "Oman" : 265,
+                        "Kuwait" : 220,
+                        "Saudi Arabia" : 2630,
+                        "Qatar" : 2590
+                    },
+                    "internationalContinousPrice" : {
+                        "United Arab Emirates" : 800,
+                        "Oman" : 80,
+                        "Kuwait" : 70,
+                        "Saudi Arabia" : 800,
+                        "Qatar" : 800
+                    },
+                    "priceDetails" : {
+                        "united_arab_emirates" : {
+                            "basePrice" : 1175,
+                            "continousPrice" : 950
+                        },
+                        "oman" : {
+                            "basePrice" : 110,
+                            "continousPrice" : 85
+                        },
+                        "qatar" : {
+                            "basePrice" : 1050,
+                            "continousPrice" : 800
+                        },
+                        "saudi_arabia" : {
+                            "basePrice" : 1050,
+                            "continousPrice" : 800
+                        },
+                        "kuwait" : {
+                            "basePrice" : 90,
+                            "continousPrice" : 70
+                        }
+                    },
+                    "skuSubType" : "SD Card",
+                    "skuType" : "Product",
+                    "__v" : 1,
+                    "auditLogs" : [],
+                    "status" : "inactive",
+                    "skuId" : "SD04NA23",
+                    "isValidSku" : false,
+                    "remarks" : "Duplicate product",
+                    "validatedAt" : "2021-10-19T06:21:13.459Z",
+                    "programId" : "BTLAKXAS0001",
+                    "financeCode" : "SD04NA",
+                    "hsnCode" : "85235100",
+                    "combinationType" : "tlp",
+                    "itemId" : "ApTGXevtVZnqtjWM8NJSvFmV",
+                    "studentId" : "Shubham singh-1",
+                    "tabletId" : "T-934599-Shubham singh",
+                    "orgId" : "byjus"
+                }, 
+                {
+                    "_id" : "5f0d5cc80b807b0012bf7106",
+                    "sku" : "4th Grade BYJU'S Classes May 2023",
+                    "course" : "Maths/Science",
+                    "grade" : "4",
+                    "board" : null,
+                    "city" : null,
+                    "productType" : "course",
+                    "productId" : "1404774",
+                    "name" : "4th Grade BYJU'S Classes May 2023",
+                    "validity" : "MAY 2023",
+                    "continousPrice" : "8000",
+                    "basePrice" : "13000",
+                    "type" : "BYJUS_CLASSES_UPGRADE",
+                    "updatedBy" : "Datafix_update_middle_east_pricing",
+                    "isVerified" : true,
+                    "skuId" : "UB04NA23",
+                    "skuName" : "4th Grade BYJU'S Classes May 2023",
+                    "itemType" : "course",
+                    "createdAt" : "2019-09-03T07:17:23.680Z",
+                    "skuSubType" : "BYJU's Classes Upgrade",
+                    "skuType" : "Service",
+                    "updatedAt" : "2022-06-08T03:58:31.702Z",
+                    "priceDetails" : {
+                        "united_arab_emirates" : {
+                            "basePrice" : 700,
+                            "continousPrice" : 450
+                        },
+                        "kuwait" : {
+                            "basePrice" : 50,
+                            "continousPrice" : 25
+                        },
+                        "oman" : {
+                            "basePrice" : 60,
+                            "continousPrice" : 35
+                        },
+                        "qatar" : {
+                            "basePrice" : 550,
+                            "continousPrice" : 300
+                        },
+                        "saudi_arabia" : {
+                            "basePrice" : 550,
+                            "continousPrice" : 300
+                        }
+                    },
+                    "cohort_id" : 29,
+                    "isValidSku" : true,
+                    "remarks" : null,
+                    "validatedAt" : "2021-10-19T06:33:27.251Z",
+                    "programId" : "BCOPKXSY0002",
+                    "financeCode" : "UB04NA",
+                    "combinationType" : "byjus_classes_upgrade",
+                    "itemId" : "wmUVdrSgcwrlce_0RS7XfPmV",
+                    "studentId" : "Shubham singh-1",
+                    "tabletId" : "T-934599-Shubham singh",
+                    "orgId" : "byjus"
+                }, 
+                {
+                    "_id" : "620637dee48c430c78e3ecc7",
+                    "sku" : "K-12 Lenovo Tablet (Add-on - BYJUS) (7 inch)",
+                    "course" : "",
+                    "grade" : null,
+                    "board" : null,
+                    "city" : null,
+                    "cohort_id" : null,
+                    "productType" : "course",
+                    "productId" : "934599",
+                    "name" : "K-12 Lenovo Tablet (Add-on - BYJUS) (7 inch)",
+                    "type" : "tablet",
+                    "validity" : "MAY 2020",
+                    "continousPrice" : "5000",
+                    "basePrice" : "5000",
+                    "updatedBy" : "finance_code_datafix_19-04-2022",
+                    "isVerified" : true,
+                    "size" : 7,
+                    "skuId" : "TL7WZZ",
+                    "skuName" : "Lenovo 7 inch Tablet Wifi",
+                    "createdAt" : "2019-09-03T07:17:23.680Z",
+                    "skuSubType" : "Tablet",
+                    "skuType" : "Product",
+                    "updatedAt" : "2021-05-10T14:27:47.185Z",
+                    "isValidSku" : true,
+                    "remarks" : null,
+                    "validatedAt" : "2021-11-12T13:42:12.460Z",
+                    "price" : "5000",
+                    "itemType" : "tablet",
+                    "financeCode" : "TL7WZZ",
+                    "hsnCode" : "84713010",
+                    "programId" : "TLP1UCHW0001",
+                    "itemId" : "OBDhhcierWGZeuYdEt5QJSa-",
+                    "studentId" : "Shubham singh-1",
+                    "tabletId" : "T-934599-Shubham singh",
+                    "orgId" : "byjus"
+                }
+            ],
+            "addOnItems" : [],
+            "mentoringDetails" : [ 
+                {
+                    "type" : "neo",
+                    "sessions" : [ 
+                        {
+                            "day" : "Monday",
+                            "is_mandatory" : true,
+                            "time" : "21:00-22:00"
+                        }, 
+                        {
+                            "day" : "Wednesday",
+                            "is_mandatory" : true,
+                            "time" : "21:00-22:00"
+                        }, 
+                        {
+                            "day" : "Friday",
+                            "is_mandatory" : true,
+                            "time" : "21:00-22:00"
+                        }
+                    ]
+                }
+            ],
+            "bhlpCourseDetails" : [ 
+                {
+                    "id" : 12108,
+                    "name" : "mon 9.00",
+                    "is_active" : true,
+                    "time_zone" : "IST",
+                    "batch_country" : "India",
+                    "batch_start_date" : "2022-07-27",
+                    "batch_end_date" : "2022-12-02",
+                    "mandatory_sessions_count" : 3,
+                    "optional_sessions_count" : 0,
+                    "course_id" : 5165,
+                    "course_name" : "4th grade load balancer",
+                    "course_fot_track_id" : "cbse-4-292-275-lar",
+                    "course_proficiency_id" : 2,
+                    "medium_of_instruction" : "english",
+                    "course_batch" : null,
+                    "cohort_id" : 29,
+                    "course_type" : "neo",
+                    "course_tag" : "classroom",
+                    "slot_group_id" : 5587,
+                    "tutor_language_enabled" : true,
+                    "slot_group_name" : "Mo-We-Fr-9:00pm",
+                    "batch_type" : "regular",
+                    "available_subjects" : [ 
+                        "Mathematics", 
+                        "Science"
+                    ],
+                    "course_sub_tag" : "Regular",
+                    "clash" : false,
+                    "is_overloading" : false,
+                    "is_clashing" : false,
+                    "slots" : [ 
+                        {
+                            "id" : 28501,
+                            "day" : "Monday",
+                            "start_time" : "21:00",
+                            "end_time" : "22:00",
+                            "is_mandatory" : true
+                        }, 
+                        {
+                            "id" : 28502,
+                            "day" : "Wednesday",
+                            "start_time" : "21:00",
+                            "end_time" : "22:00",
+                            "is_mandatory" : true
+                        }, 
+                        {
+                            "id" : 28503,
+                            "day" : "Friday",
+                            "start_time" : "21:00",
+                            "end_time" : "22:00",
+                            "is_mandatory" : true
+                        }
+                    ]
+                }
+            ],
+            "featureTag" : [],
+            "_id" : "6343f1b482d99e001b93d2a4",
+            "course" : "K10/K12",
+            "board" : "CBSE",
+            "validity" : "2023",
+            "initialClass" : "4",
+            "tablet" : "934599",
+            "deviceType" : "Tablet(Lenovo/Samsung)",
+            "formValues" : {
+                "course" : "K10/K12",
+                "courseType" : "regular",
+                "board" : "CBSE",
+                "subCourse" : "",
+                "yearSelection" : "2023",
+                "validity" : 2023,
+                "session" : "",
+                "initialClass" : "4",
+                "tablet" : "934599",
+                "selectD4SDCard" : false,
+                "userProfile" : "newProfile",
+                "tabletId" : "T-934599",
+                "deviceType" : "Tablet(Lenovo/Samsung)",
+                "featureTag" : [],
+                "mentoringDetails" : [ 
+                    {
+                        "type" : "neo",
+                        "sessions" : [ 
+                            {
+                                "day" : "Monday",
+                                "is_mandatory" : true,
+                                "time" : "21:00-22:00"
+                            }, 
+                            {
+                                "day" : "Wednesday",
+                                "is_mandatory" : true,
+                                "time" : "21:00-22:00"
+                            }, 
+                            {
+                                "day" : "Friday",
+                                "is_mandatory" : true,
+                                "time" : "21:00-22:00"
+                            }
+                        ]
+                    }
+                ],
+                "bhlpCourseDetails" : {
+                    "id" : 12108,
+                    "name" : "mon 9.00",
+                    "is_active" : true,
+                    "time_zone" : "IST",
+                    "batch_country" : "India",
+                    "batch_start_date" : "2022-07-27",
+                    "batch_end_date" : "2022-12-02",
+                    "mandatory_sessions_count" : 3,
+                    "optional_sessions_count" : 0,
+                    "course_id" : 5165,
+                    "course_name" : "4th grade load balancer",
+                    "course_fot_track_id" : "cbse-4-292-275-lar",
+                    "course_proficiency_id" : 2,
+                    "medium_of_instruction" : "english",
+                    "course_batch" : null,
+                    "cohort_id" : 29,
+                    "course_type" : "neo",
+                    "course_tag" : "classroom",
+                    "slot_group_id" : 5587,
+                    "tutor_language_enabled" : true,
+                    "slot_group_name" : "Mo-We-Fr-9:00pm",
+                    "batch_type" : "regular",
+                    "available_subjects" : [ 
+                        "Mathematics", 
+                        "Science"
+                    ],
+                    "course_sub_tag" : "Regular",
+                    "clash" : false,
+                    "is_overloading" : false,
+                    "is_clashing" : false,
+                    "slots" : [ 
+                        {
+                            "id" : 28501,
+                            "day" : "Monday",
+                            "start_time" : "21:00",
+                            "end_time" : "22:00",
+                            "is_mandatory" : true
+                        }, 
+                        {
+                            "id" : 28502,
+                            "day" : "Wednesday",
+                            "start_time" : "21:00",
+                            "end_time" : "22:00",
+                            "is_mandatory" : true
+                        }, 
+                        {
+                            "id" : 28503,
+                            "day" : "Friday",
+                            "start_time" : "21:00",
+                            "end_time" : "22:00",
+                            "is_mandatory" : true
+                        }
+                    ]
+                },
+                "electiveDetails" : [ 
+                    {
+                        "batch" : {
+                            "id" : 7525,
+                            "name" : "Course: 3990 - Batch 9(E)",
+                            "is_active" : true,
+                            "time_zone" : "IST",
+                            "batch_country" : "India",
+                            "batch_start_date" : "2022-04-24",
+                            "batch_end_date" : "2022-11-06",
+                            "mandatory_sessions_count" : 1,
+                            "optional_sessions_count" : 0,
+                            "course_id" : 3990,
+                            "course_name" : "Neo - Electives - STD IV",
+                            "course_fot_track_id" : null,
+                            "course_proficiency_id" : null,
+                            "medium_of_instruction" : "english",
+                            "course_batch" : null,
+                            "cohort_id" : 29,
+                            "course_type" : "neo",
+                            "course_tag" : "elective",
+                            "slot_group_id" : 6267,
+                            "tutor_language_enabled" : true,
+                            "slot_group_name" : "Sat-3:30PM",
+                            "batch_type" : "regular",
+                            "available_subjects" : [ 
+                                "English"
+                            ],
+                            "course_sub_tag" : "Regular",
+                            "clash" : false,
+                            "is_overloading" : false,
+                            "is_clashing" : false,
+                            "slots" : [ 
+                                {
+                                    "id" : 30123,
+                                    "day" : "Saturday",
+                                    "start_time" : "15:30",
+                                    "end_time" : "16:30",
+                                    "is_mandatory" : true
+                                }
+                            ]
+                        },
+                        "subject" : "English",
+                        "slot" : [ 
+                            {
+                                "id" : 30123,
+                                "day" : "Saturday",
+                                "start_time" : "15:30",
+                                "end_time" : "16:30",
+                                "is_mandatory" : true
+                            }
+                        ]
+                    }, 
+                    {
+                        "batch" : {
+                            "id" : 10421,
+                            "name" : "asdasdasw2222",
+                            "is_active" : true,
+                            "time_zone" : "IST",
+                            "batch_country" : "India",
+                            "batch_start_date" : "2022-06-16",
+                            "batch_end_date" : "2022-11-06",
+                            "mandatory_sessions_count" : 1,
+                            "optional_sessions_count" : 0,
+                            "course_id" : 4072,
+                            "course_name" : "English - Grade 04 - Test",
+                            "course_fot_track_id" : null,
+                            "course_proficiency_id" : null,
+                            "medium_of_instruction" : "english",
+                            "course_batch" : null,
+                            "cohort_id" : 29,
+                            "course_type" : "neo",
+                            "course_tag" : "elective",
+                            "slot_group_id" : 6271,
+                            "tutor_language_enabled" : true,
+                            "slot_group_name" : "Tue-3:30PM",
+                            "batch_type" : "regular",
+                            "available_subjects" : [ 
+                                "Social Studies"
+                            ],
+                            "course_sub_tag" : "Regular",
+                            "clash" : false,
+                            "is_overloading" : false,
+                            "is_clashing" : false,
+                            "slots" : [ 
+                                {
+                                    "id" : 30127,
+                                    "day" : "Tuesday",
+                                    "start_time" : "15:30",
+                                    "end_time" : "16:30",
+                                    "is_mandatory" : true
+                                }
+                            ]
+                        },
+                        "subject" : "Social Studies",
+                        "slot" : [ 
+                            {
+                                "id" : 30127,
+                                "day" : "Tuesday",
+                                "start_time" : "15:30",
+                                "end_time" : "16:30",
+                                "is_mandatory" : true
+                            }
+                        ]
+                    }, 
+                    {
+                        "batch" : {
+                            "id" : 13636,
+                            "name" : "Tue-4:30PM - Coding",
+                            "is_active" : true,
+                            "time_zone" : "IST",
+                            "batch_country" : "India",
+                            "batch_start_date" : "2022-09-05",
+                            "batch_end_date" : "2023-07-31",
+                            "mandatory_sessions_count" : 1,
+                            "optional_sessions_count" : 0,
+                            "course_id" : 4072,
+                            "course_name" : "English - Grade 04 - Test",
+                            "course_fot_track_id" : null,
+                            "course_proficiency_id" : null,
+                            "medium_of_instruction" : "english",
+                            "course_batch" : null,
+                            "cohort_id" : 29,
+                            "course_type" : "neo",
+                            "course_tag" : "elective",
+                            "slot_group_id" : 6277,
+                            "tutor_language_enabled" : true,
+                            "slot_group_name" : "Tue-4:30PM",
+                            "batch_type" : "regular",
+                            "available_subjects" : [ 
+                                "Coding"
+                            ],
+                            "course_sub_tag" : "Regular",
+                            "clash" : false,
+                            "is_overloading" : false,
+                            "is_clashing" : false,
+                            "slots" : [ 
+                                {
+                                    "id" : 30133,
+                                    "day" : "Tuesday",
+                                    "start_time" : "16:30",
+                                    "end_time" : "17:30",
+                                    "is_mandatory" : true
+                                }
+                            ]
+                        },
+                        "subject" : "Coding",
+                        "slot" : [ 
+                            {
+                                "id" : 30133,
+                                "day" : "Tuesday",
+                                "start_time" : "16:30",
+                                "end_time" : "17:30",
+                                "is_mandatory" : true
+                            }
+                        ]
+                    }
+                ],
+                "doubtClassDetails" : [ 
+                    {
+                        "batch" : {
+                            "id" : 8294,
+                            "name" : "doubt-2",
+                            "is_active" : true,
+                            "time_zone" : "IST",
+                            "batch_country" : "India",
+                            "batch_start_date" : "2022-05-11",
+                            "batch_end_date" : "2022-11-06",
+                            "mandatory_sessions_count" : 1,
+                            "optional_sessions_count" : 0,
+                            "course_id" : 4323,
+                            "course_name" : "doubt-test-1",
+                            "course_fot_track_id" : null,
+                            "course_proficiency_id" : 1,
+                            "medium_of_instruction" : "english",
+                            "course_batch" : "12th",
+                            "cohort_id" : 29,
+                            "course_type" : "neo",
+                            "course_tag" : "doubt_resolution",
+                            "slot_group_id" : 6771,
+                            "tutor_language_enabled" : true,
+                            "slot_group_name" : "Wed 4:30",
+                            "batch_type" : "regular",
+                            "available_subjects" : [ 
+                                "Mathematics", 
+                                "Science"
+                            ],
+                            "course_sub_tag" : "Regular",
+                            "clash" : false,
+                            "is_overloading" : false,
+                            "is_clashing" : false,
+                            "slots" : [ 
+                                {
+                                    "id" : 32255,
+                                    "day" : "Wednesday",
+                                    "start_time" : "16:30",
+                                    "end_time" : "17:30",
+                                    "is_mandatory" : true
+                                }
+                            ]
+                        },
+                        "subject" : "Mathematics",
+                        "slot" : [ 
+                            {
+                                "id" : 32255,
+                                "day" : "Wednesday",
+                                "start_time" : "16:30",
+                                "end_time" : "17:30",
+                                "is_mandatory" : true
+                            }
+                        ]
+                    }
+                ],
+                "languageOfInstruction" : "hindi",
+                "languageOfInstructionId" : 2,
+                "mathPercent" : "76",
+                "sciencePercent" : "76",
+                "proficiency" : "A2",
+                "schoolDetails" : {
+                    "schoolState" : "West Bengal",
+                    "city" : "Alipurduar",
+                    "schoolName" : "other",
+                    "otherSchoolName" : "Swami Vivekanad high school",
+                    "schoolAddress" : "3VGH+93R, Lower Parel, Friends Colony, Kurla West, Kurla, Mumbai, Maharashtra 400070, India",
+                    "schoolId" : "",
+                    "trackId" : "cbse-4-292-275-lar"
+                },
+                "isTabletLock" : false
+            },
+            "tabletLock" : "not_applicable",
+            "productSelectionType" : "byjus_classes",
+            "studentName" : "Shubham singh",
+            "studentId" : "Shubham singh-1",
+            "academicDetails" : {
+                "mathPercent" : "76",
+                "sciencePercent" : "76",
+                "fotTrackId" : "cbse-4-292-275-lar",
+                "proficiency" : "A2",
+                "schoolDetails" : {
+                    "id" : "",
+                    "name" : "Swami Vivekanad high school",
+                    "city" : "Alipurduar",
+                    "state" : "West Bengal",
+                    "address" : "3VGH+93R, Lower Parel, Friends Colony, Kurla West, Kurla, Mumbai, Maharashtra 400070, India",
+                    "pincode" : null
+                },
+                "languageOfInstruction" : "hindi",
+                "languageOfInstructionId" : 2
+            },
+            "premiumAccount" : "1942976956"
+        }
+    ],
+    "orderPunchingType" : "",
+    "orderPunchingCategory" : "byjus_classes",
+    "paymentDetails" : {
+        "payments" : [ 
+            {
+                "isPrepaid" : true,
+                "_id" : "6343f1cc82d99e001b93d2be",
+                "provider" : "PAYU",
+                "referenceId" : "BYJUS0002210107984",
+                "amount" : 35000,
+                "type" : "DOWN_PAYMENT",
+                "currency" : "",
+                "attachments" : [],
+                "isActive" : true
+            }
+        ],
+        "paymentMethod" : "GP",
+        "paymentStatus" : "PAID",
+        "paymentMode" : "PAYU",
+        "paymentAmountSplit" : "35000",
+        "totalAmount" : 35000
+    },
+    "leadDetails" : {
+        "prospectId" : "en8889990000qwe2",
+        "accountNo" : "24692",
+        "loggedInEmailId" : "praz@byjus.com",
+        "leadCreatedBy" : "",
+        "leadCreatedAt" : null,
+        "leadMobileNo" : "+91-8889990000",
+        "isLeadMobileUsed" : true,
+        "leadLink" : "https://run.leadsquared.com/LeadManagement/LeadDetails?LeadID=en8889990000qwe2"
+    },
+    "contactDetails" : {
+        "orderPunchingContact" : "8889990000",
+        "cxProvidedContact" : "8889990000",
+        "leadContact" : "8889990000",
+        "gpContact" : "",
+        "ngpContact" : "",
+        "lpContact" : ""
+    },
+    "type" : "product",
+    "subType" : "course",
+    "status" : "not_confirmed",
+    "category" : "sales",
+    "statusReason" : "AUTO_CONFIRMED",
+    "actionDetails" : {
+        "createdAt" : "2022-10-10T10:21:30.823Z",
+        "createdBy" : "praz@byjus.com",
+        "confirmedAt" : "2022-10-10T10:21:54.271Z",
+        "confirmedBy" : "system_draft_order_job",
+        "notConfirmedAt" : "2022-10-10T10:21:30.924Z",
+        "notConfirmedBy" : "draft_order_job"
+    },
+    "createdAt" : "2022-10-10T10:20:02.970Z",
+    "updatedat" : "2022-10-10T10:21:30.823Z",
+    "sourceDetails" : {},
+    "assignmentCategory" : "k5",
+    "updatedAt" : "2022-10-10T10:21:54.548Z",
+    "estimatedDispatchDate" : "2022-10-11T10:21:30.934Z",
+    "salesOrderStatus" : "not_confirmed"
+}

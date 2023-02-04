@@ -1,0 +1,158 @@
+{
+  "uid" : "397b7a92652e6a0b",
+  "name" : "E2E flow for SD card",
+  "fullName" : "Verify OMS test cases.E2E flow for SD card",
+  "historyId" : "fa8fada80924292011788cc49d410d1c",
+  "time" : {
+    "start" : 1668764678111,
+    "stop" : 1668764706302,
+    "duration" : 28191
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "_sdCardAndTabletOrder.default.openSSOIdandCopySkuIdByjusClasses is not a function",
+  "statusTrace" : "TypeError: _sdCardAndTabletOrder.default.openSSOIdandCopySkuIdByjusClasses is not a function\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/omse2eTest.js:18:52)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "_sdCardAndTabletOrder.default.openSSOIdandCopySkuIdByjusClasses is not a function",
+    "statusTrace" : "TypeError: _sdCardAndTabletOrder.default.openSSOIdandCopySkuIdByjusClasses is not a function\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/omse2eTest.js:18:52)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+    "steps" : [ {
+      "name" : "\"before each\" hook for Verify OMS test cases",
+      "time" : {
+        "start" : 1668764678111,
+        "stop" : 1668764706302,
+        "duration" : 28191
+      },
+      "status" : "broken",
+      "statusMessage" : "TypeError: _sdCardAndTabletOrder.default.openSSOIdandCopySkuIdByjusClasses is not a function\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/omse2eTest.js:18:52)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+      "steps" : [ {
+        "name" : "Maximize the window",
+        "time" : {
+          "start" : 1668764678111,
+          "stop" : 1668764706302,
+          "duration" : 28191
+        },
+        "status" : "broken",
+        "statusMessage" : "TypeError: _sdCardAndTabletOrder.default.openSSOIdandCopySkuIdByjusClasses is not a function\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/omse2eTest.js:18:52)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+        "steps" : [ {
+          "name" : "Open Byjus OMS page",
+          "time" : {
+            "start" : 1668764678219,
+            "stop" : 1668764682300,
+            "duration" : 4081
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        }, {
+          "name" : "Login to the Home page",
+          "time" : {
+            "start" : 1668764682300,
+            "stop" : 1668764706149,
+            "duration" : 23849
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        }, {
+          "name" : "Open SSO Id and copy Sku Id",
+          "time" : {
+            "start" : 1668764706149,
+            "stop" : 1668764706302,
+            "duration" : 153
+          },
+          "status" : "broken",
+          "statusMessage" : "TypeError: _sdCardAndTabletOrder.default.openSSOIdandCopySkuIdByjusClasses is not a function\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/omse2eTest.js:18:52)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "6da3963c7b51e5a4",
+            "name" : "Screenshot",
+            "source" : "6da3963c7b51e5a4.png",
+            "type" : "image/png",
+            "size" : 152712
+          } ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 1,
+          "shouldDisplayMessage" : true,
+          "hasContent" : true
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 3,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 4,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 5,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify OMS test cases"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify OMS test cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "E2E flow for SD card"
+  }, {
+    "name" : "package",
+    "value" : "Verify OMS test cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.110"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "397b7a92652e6a0b.json",
+  "parameterValues" : [ "chrome-107.0.5304.110" ]
+}

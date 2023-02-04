@@ -1,0 +1,590 @@
+
+{
+    "salesSubOrderId": "SSO1-2301021317530840",
+    "salesOrderId": "SO-2301021317530840",
+    "orgFormattedName": "byjus",
+    "orgId": "ORG-1",
+    "currency": "INR",
+    "orderType": "SPLIT_PARENT",
+    "courseType": "K10",
+    "lineItems": [
+      {
+        "lineItemId": 6155,
+        "skuId": "TSXMZ1",
+        "skuName": "Samsung 10 Inch Tablet (Mobile Data)",
+        "status": "active",
+        "type": "product",
+        "subType": "tablet",
+        "category": "tablet",
+        "basePrice": 18000,
+        "itemId": "wxoO506_EJ1ozOFv33T8mfdj",
+        "grade": null,
+        "hsnCode": "847130",
+        "price": "18000",
+        "invoicePrice": "18000",
+        "remainingAmount": "789654",
+        "studentId": "1487624642",
+        "draftOrderId": "",
+        "quotationId": "QO-2301021317530840",
+        "createdBy": "xyz@byjus.com",
+        "createdAt": {
+          "date": {
+            "numberLong": "1672645746500"
+          }
+        },
+        "ohProductId": "1114687",
+        "board": null,
+        "validity": null,
+        "validityMonth": null,
+        "scheme": null,
+        "programId": "TLP1UCHW0001",
+        "size": null,
+        "model": null,
+        "course": "",
+        "subCourse": null,
+        "cohortId": null,
+        "skuSet": 1,
+        "brand": "samsung",
+        "financeCode": "TSXMZ1",
+        "tabletId": "TSXMZ1",
+        "name": "Samsung 10 Inch Tablet (Mobile Data)",
+        "sku": "Samsung 10 Inch Tablet (Mobile Data)",
+        "itemType": "tablet",
+        "orgId": "byjus",
+        "salesSubOrderId": "SSO1-2301021317530840",
+        "itemStatus": "mapping_pending",
+        "pgLineItemId": 1551500
+      }
+    ],
+    "shipmentLineItems": [
+      {
+        "skuId": "TSXMZZKX",
+        "skuName": "K12 Samsung 10 inch Tablet Mobile Data",
+        "status": "active",
+        "type": "tablet",
+        "properties": {
+          "grade": null,
+          "course": null,
+          "board": null,
+          "color": null,
+          "brand": "Samsung",
+          "manufacturer": "Samsung",
+          "warehouse": [],
+          "sdCardMemory": null,
+          "appVersion": null,
+          "sdCardVersion": null,
+          "apkRelease": {
+            "date": {
+              "numberLong": "1642564121847"
+            }
+          },
+          "contentRelease": {
+            "date": {
+              "numberLong": "1642564121847"
+            }
+          },
+          "location": null,
+          "comboDetails": [],
+          "userType": null,
+          "programId": "TLP1UCAS0001",
+          "size": null,
+          "model": null,
+          "skuSet": null,
+          "subject": null,
+          "language": null,
+          "scheme": null
+        },
+        "dimensions": {
+          "length": null,
+          "width": null,
+          "height": null,
+          "unit": null
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "productionStrategy": null,
+        "financeMaterialCode": "TSXMZZKX",
+        "financeProductCode": "TSXM",
+        "createdBy": "dinesh.m@byjus.com",
+        "updatedBy": "system",
+        "createdAt": {
+          "date": {
+            "numberLong": "1596273625284"
+          }
+        },
+        "updatedAt": {
+          "date": {
+            "numberLong": "1660833194737"
+          }
+        },
+        "deletedAt": null,
+        "productState": null,
+        "activeSalesItems": [
+          "TSXMZ1"
+        ],
+        "activeLineItemIds": [
+          "wxoO506_EJ1ozOFv33T8mfdj"
+        ],
+        "price": 18000,
+        "studentId": "1487624642",
+        "students": [
+          "1487624642"
+        ],
+        "tabletId": "TSXMZ1",
+        "itemStatus": "mapping_pending",
+        "pgShipmentLineItemId": 18477027
+      }
+    ],
+    "returnLineItems": [],
+    "salesDetails": {
+      "typeOfSales": "Direct",
+      "directSalesBy": "mahima.p@byjus.com",
+      "directSalesByCampaign": null,
+      "salesAppointmentBy": null,
+      "salesAppointmentByCampaign": null,
+      "incentiveDate": {
+        "date": {
+          "numberLong": "1672654478662"
+        }
+      },
+      "salesAppointmentByRole": "team_manager",
+      "directSalesByDept": "business_development",
+      "salesAppointmentByDept": "business_development",
+      "salesIndex": 135
+    },
+    "customerDetails": {
+      "customerId": "CX-2301020743245018",
+      "name": "Testnull",
+      "identifierDetails": [],
+      "alternateName": "Shubham singh",
+      "mobileNo": "+91-8275200186",
+      "alternateMobileNo": "",
+      "email": "sonuthegreadskcxfvtest25@gmail.com",
+      "alternateEmail": null,
+      "type": null,
+      "communicationPreferences": null,
+      "isBooksOpted": true,
+      "billingCustomerId": null
+    },
+    "billingCustomerDetails": null,
+    "addressDetails": {
+      "billing": {
+        "addressId": 516237,
+        "country": "India",
+        "zipcode": "518501",
+        "state": "Andhra Pradesh",
+        "city": "Kurnool",
+        "address": "21-238, andhra pradesh",
+        "addressLine1": "21-238, andhra pradesh",
+        "addressLine2": "21-238, andhra pradesh",
+        "addressLine3": "21-238, andhra pradesh"
+      },
+      "shipping": {
+        "addressId": 516237,
+        "country": "India",
+        "zipcode": "518501",
+        "state": "Andhra Pradesh",
+        "city": "Kurnool",
+        "address": "21-238, andhra pradesh",
+        "addressLine1": "21-238, andhra pradesh",
+        "addressLine2": "21-238, andhra pradesh",
+        "addressLine3": "21-238, andhra pradesh"
+      }
+    },
+    "attachments": [],
+    "studentDetails": [
+      {
+        "centreDetails": {
+          "stateId": "1",
+          "state": "Andaman and Nicobar Islands",
+          "cityId": "334",
+          "city": "Port Blair",
+          "centreId": "541",
+          "centre": "HOME TUTION",
+          "requestedBatchId": "9059",
+          "requestId": "BR-2301021015000951",
+          "batchType": "weekday",
+          "courseAliasId": "671",
+          "cohortId": 15
+        },
+        "studentProfileDetails": {
+          "isExistingProfile": true,
+          "existingPremiumId": "1487624642"
+        },
+        "board": "CBSE",
+        "validity": "2023",
+        "initialClass": "9",
+        "finalClass": "9",
+        "course": "K10/K12",
+        "tablet": null,
+        "courseType": [
+          "K10"
+        ],
+        "bhlpCourseDetails": [
+          {
+            "batchId": "9059",
+            "batchName": "Standard_IX_15_CBSE_Port_Blair_HOME_TUTION_52_2022_7_29_c0ad",
+            "startDate": "2022-07-29T00:00:00.000Z",
+            "endDate": "2023-07-28T00:00:00.000Z",
+            "batchType": "weekday",
+            "centreId": "541",
+            "status": "active",
+            "cohortId": 15,
+            "commencementDate": null,
+            "productType": "HTP_BLC",
+            "blcCourse": {
+              "courseAliasId": "671",
+              "courseAliasName": "15_1_2022_7_19_549d"
+            },
+            "slots": [
+              {
+                "day": "Mon",
+                "startTime": "6:6:AM",
+                "endTime": "6:26:AM"
+              }
+            ],
+            "batchOffers": []
+          }
+        ],
+        "bhtSlotDetails": {},
+        "mentoringDetails": [
+          {
+            "sessions": [
+              {
+                "day": "Mon",
+                "startTime": "6:6:AM",
+                "endTime": "6:26:AM"
+              }
+            ],
+            "type": "blc"
+          }
+        ],
+        "items": [
+          {
+            "lineItemId": 6154,
+            "skuId": "BT00RGNA",
+            "skuName": "Hybrid Tuition Program at BYJU'S Tuition Centre Registration",
+            "status": "active",
+            "type": "service",
+            "subType": "crp",
+            "category": "btc_registration",
+            "basePrice": 5000,
+            "itemId": "LkkMUewmlq-p2OW0uXVngLM3",
+            "grade": null,
+            "hsnCode": "999293",
+            "price": "5000",
+            "invoicePrice": 9999,
+            "remainingAmount": "789654",
+            "studentId": "1487624642",
+            "draftOrderId": "",
+            "quotationId": "QO-2301021317530840",
+            "createdBy": "xyz@byjus.com",
+            "updatedBy": "xyz@byjus.com",
+            "createdAt": {
+              "date": {
+                "numberLong": "1672645746455"
+              }
+            },
+            "updatedAt": {
+              "date": {
+                "numberLong": "1672645746456"
+              }
+            },
+            "ohProductId": "1990860",
+            "board": null,
+            "validity": null,
+            "validityMonth": null,
+            "scheme": null,
+            "programId": "BCRPUCSY0001",
+            "size": null,
+            "model": null,
+            "course": "K10",
+            "subCourse": null,
+            "cohortId": null,
+            "skuSet": 1,
+            "brand": null,
+            "financeCode": "BT00RG",
+            "combinationType": "btc_registration",
+            "tabletId": "TSXMZ1",
+            "name": "Hybrid Tuition Program at BYJU'S Tuition Centre Registration",
+            "sku": "Hybrid Tuition Program at BYJU'S Tuition Centre Registration",
+            "itemType": "crp",
+            "orgId": "byjus"
+          },
+          {
+            "lineItemId": 6153,
+            "skuId": "UT09CB23",
+            "skuName": "9th Grade CBSE BTLP to Hybrid Tuition Program at BYJU'S Tuition Centre Upgrade May 2023",
+            "status": "active",
+            "type": "service",
+            "subType": "crp",
+            "category": "tlp_blc_upgrade",
+            "basePrice": 16000,
+            "itemId": "b6hbaEVWlXPh3putmkVSUWEx",
+            "grade": "9",
+            "hsnCode": "999293",
+            "price": "16000",
+            "invoicePrice": 9999,
+            "remainingAmount": "789654",
+            "studentId": "1487624642",
+            "draftOrderId": "",
+            "quotationId": "QO-2301021317530840",
+            "createdBy": "xyz@byjus.com",
+            "updatedBy": "xyz@byjus.com",
+            "createdAt": {
+              "date": {
+                "numberLong": "1672645746409"
+              }
+            },
+            "updatedAt": {
+              "date": {
+                "numberLong": "1672645746410"
+              }
+            },
+            "ohProductId": "1991252",
+            "board": "CBSE",
+            "validity": "2023",
+            "validityMonth": "MAY",
+            "scheme": null,
+            "programId": "BCRPUCSY0001",
+            "size": null,
+            "model": null,
+            "course": "K10",
+            "subCourse": null,
+            "cohortId": 15,
+            "skuSet": 1,
+            "brand": null,
+            "financeCode": "UT09CB",
+            "combinationType": "tlp_blc_upgrade",
+            "tabletId": "TSXMZ1",
+            "name": "9th Grade CBSE BTLP to Hybrid Tuition Program at BYJU'S Tuition Centre Upgrade May 2023",
+            "sku": "9th Grade CBSE BTLP to Hybrid Tuition Program at BYJU'S Tuition Centre Upgrade May 2023",
+            "itemType": "crp",
+            "orgId": "byjus"
+          },
+          {
+            "lineItemId": 6155,
+            "skuId": "TSXMZ1",
+            "skuName": "Samsung 10 Inch Tablet (Mobile Data)",
+            "status": "active",
+            "type": "product",
+            "subType": "tablet",
+            "category": "tablet",
+            "basePrice": 18000,
+            "itemId": "wxoO506_EJ1ozOFv33T8mfdj",
+            "grade": null,
+            "hsnCode": "847130",
+            "price": "18000",
+            "invoicePrice": 9999,
+            "remainingAmount": "789654",
+            "studentId": "1487624642",
+            "draftOrderId": "",
+            "quotationId": "QO-2301021317530840",
+            "createdBy": "xyz@byjus.com",
+            "updatedBy": "xyz@byjus.com",
+            "createdAt": {
+              "date": {
+                "numberLong": "1672645746500"
+              }
+            },
+            "updatedAt": {
+              "date": {
+                "numberLong": "1672645746500"
+              }
+            },
+            "ohProductId": "1114687",
+            "board": null,
+            "validity": null,
+            "validityMonth": null,
+            "scheme": null,
+            "programId": "TLP1UCHW0001",
+            "size": null,
+            "model": null,
+            "course": "",
+            "subCourse": null,
+            "cohortId": null,
+            "skuSet": 1,
+            "brand": "samsung",
+            "financeCode": "TSXMZ1",
+            "combinationType": "tablet",
+            "tabletId": "TSXMZ1",
+            "name": "Samsung 10 Inch Tablet (Mobile Data)",
+            "sku": "Samsung 10 Inch Tablet (Mobile Data)",
+            "itemType": "tablet",
+            "orgId": "byjus"
+          }
+        ],
+        "formValues": {
+          "board": "CBSE",
+          "addTlpCourse": false,
+          "tlpFinalGrade": "",
+          "validity": "2023",
+          "batchType": null,
+          "tablet": null,
+          "initialClass": "9",
+          "finalClass": "9",
+          "tabletId": null,
+          "course": "K10/K12",
+          "mentoringDetails": [
+            {
+              "sessions": [
+                {
+                  "day": "Mon",
+                  "startTime": "6:6:AM",
+                  "endTime": "6:26:AM"
+                }
+              ],
+              "type": "blc"
+            }
+          ],
+          "bhlpCourseDetails": [
+            {
+              "batchId": "9059",
+              "batchName": "Standard_IX_15_CBSE_Port_Blair_HOME_TUTION_52_2022_7_29_c0ad",
+              "startDate": "2022-07-29T00:00:00.000Z",
+              "endDate": "2023-07-28T00:00:00.000Z",
+              "batchType": "weekday",
+              "centreId": "541",
+              "status": "active",
+              "cohortId": 15,
+              "commencementDate": null,
+              "productType": "HTP_BLC",
+              "blcCourse": {
+                "courseAliasId": "671",
+                "courseAliasName": "15_1_2022_7_19_549d"
+              },
+              "slots": [
+                {
+                  "day": "Mon",
+                  "startTime": "6:6:AM",
+                  "endTime": "6:26:AM"
+                }
+              ],
+              "batchOffers": []
+            }
+          ],
+          "productSelectionType": "byjus_learning_centre",
+          "studentName": "Shubham singh",
+          "studentId": "1487624642",
+          "state": "1",
+          "city": "334",
+          "centre": "541",
+          "requestedBatchId": "9059",
+          "cohortId": 15,
+          "courseAliasId": "671",
+          "stateName": "Andaman and Nicobar Islands",
+          "cityName": "Port Blair",
+          "centreName": "HOME TUTION"
+        },
+        "productSelectionType": "byjus_learning_centre",
+        "studentName": "Shubham singh",
+        "studentId": "1487624642",
+        "academicDetails": {}
+      }
+    ],
+    "orderPunchingType": "UPGRADE",
+    "orderPunchingCategory": "blc",
+    "paymentDetails": {
+      "payments": [
+        {
+          "isPrepaid": true,
+          "_id": {
+            "oid": "63b2ae0103e0923d6883a97d"
+          },
+          "provider": "RAZORPAY",
+          "referenceId": "BRZR15110056356999",
+          "amount": 19000,
+          "type": "DOWN_PAYMENT",
+          "currency": "",
+          "attachments": [],
+          "isActive": true
+        }
+      ],
+      "paymentMethod": "LP_GP",
+      "paymentStatus": "PAID",
+      "paymentMode": "RAZORPAY",
+      "paymentAmountSplit": "19000",
+      "totalAmount": 19000
+    },
+    "leadDetails": {
+      "prospectId": "tlp86",
+      "accountNo": "24692",
+      "loggedInEmailId": null,
+      "leadCreatedBy": null,
+      "leadCreatedAt": {
+        "date": {
+          "numberLong": "1672645668776"
+        }
+      },
+      "leadMobileNo": "8275200186",
+      "isLeadMobileUsed": null,
+      "leadLink": "https://run.leadsquared.com/LeadManagement/LeadDetails?LeadID=tlp86"
+    },
+    "contactDetails": {
+      "orderPunchingContact": "8275200186",
+      "cxProvidedContact": "",
+      "leadContact": "8275200186",
+      "gpContact": "",
+      "ngpContact": "",
+      "lpContact": ""
+    },
+    "type": "product",
+    "subType": "course",
+    "status": "confirmed",
+    "category": "sales",
+    "statusReason": "AUTO_CONFIRMED",
+    "actionDetails": {
+      "createdAt": {
+        "date": {
+          "numberLong": "1672654500828"
+        }
+      },
+      "createdBy": "system",
+      "confirmedAt": {
+        "date": {
+          "numberLong": "1672749150627"
+        }
+      },
+      "confirmedBy": "system_nfoundation",
+      "notConfirmedAt": {
+        "date": {
+          "numberLong": "1672654501059"
+        }
+      },
+      "notConfirmedBy": "draft_order_job"
+    },
+    "createdAt": {
+      "date": {
+        "numberLong": "1672654478662"
+      }
+    },
+    "updatedat": {
+      "date": {
+        "numberLong": "1672654500829"
+      }
+    },
+    "sourceDetails": null,
+    "assignmentCategory": "k10",
+    "orderBatchId": "",
+    "updatedAt": {
+      "date": {
+        "numberLong": "1672749152714"
+      }
+    },
+    "salesOrderStatus": "confirmed",
+    "smsDetails": {
+      "confirmedAt": {
+        "date": {
+          "numberLong": "1672654503052"
+        }
+      },
+      "confirmedBy": "system_draft_order_job"
+    },
+    "estimatedDispatchDate": {
+      "date": {
+        "numberLong": "1672740903064"
+      }
+    }
+  }

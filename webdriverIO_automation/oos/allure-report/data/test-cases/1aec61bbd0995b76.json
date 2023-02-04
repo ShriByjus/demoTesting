@@ -1,0 +1,227 @@
+{
+  "uid" : "1aec61bbd0995b76",
+  "name" : "Verify the Addon Items Skus",
+  "fullName" : "Validating UKG Single order.Verify the Addon Items Skus",
+  "historyId" : "f2a943798beb5c065768b443abafa5f1",
+  "time" : {
+    "start" : 1669285710848,
+    "stop" : 1669285716172,
+    "duration" : 5324
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "_verifyOmsOrderDetails.default.ordersTab.waitForClickable is not a function",
+  "statusTrace" : "TypeError: _verifyOmsOrderDetails.default.ordersTab.waitForClickable is not a function\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderUkg.js:47:47)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 7,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "_verifyOmsOrderDetails.default.ordersTab.waitForClickable is not a function",
+    "statusTrace" : "TypeError: _verifyOmsOrderDetails.default.ordersTab.waitForClickable is not a function\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderUkg.js:47:47)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+    "steps" : [ {
+      "name" : "\"before each\" hook for Validating UKG Single order",
+      "time" : {
+        "start" : 1669285710848,
+        "stop" : 1669285716172,
+        "duration" : 5324
+      },
+      "status" : "broken",
+      "statusMessage" : "TypeError: _verifyOmsOrderDetails.default.ordersTab.waitForClickable is not a function\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderUkg.js:47:47)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+      "steps" : [ {
+        "name" : "Maximize the window",
+        "time" : {
+          "start" : 1669285710848,
+          "stop" : 1669285716172,
+          "duration" : 5324
+        },
+        "status" : "broken",
+        "statusMessage" : "TypeError: _verifyOmsOrderDetails.default.ordersTab.waitForClickable is not a function\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderUkg.js:47:47)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+        "steps" : [ {
+          "name" : "Open Byjus OMS page",
+          "time" : {
+            "start" : 1669285710954,
+            "stop" : 1669285710954,
+            "duration" : 0
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        }, {
+          "name" : "Login to the Home page",
+          "time" : {
+            "start" : 1669285710954,
+            "stop" : 1669285715992,
+            "duration" : 5038
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        }, {
+          "name" : "Wait for the orders tab to be clickable",
+          "time" : {
+            "start" : 1669285715992,
+            "stop" : 1669285716172,
+            "duration" : 180
+          },
+          "status" : "broken",
+          "statusMessage" : "TypeError: _verifyOmsOrderDetails.default.ordersTab.waitForClickable is not a function\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderUkg.js:47:47)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "e1aff60d9c39dd03",
+            "name" : "Screenshot",
+            "source" : "e1aff60d9c39dd03.png",
+            "type" : "image/png",
+            "size" : 212794
+          } ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 1,
+          "shouldDisplayMessage" : true,
+          "hasContent" : true
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 3,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 4,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 5,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the Addon Items Skus"
+  }, {
+    "name" : "package",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.110"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "628202be36b0b457",
+      "status" : "broken",
+      "statusDetails" : "File does not exist. Check to make sure the file path to your csv is correct.",
+      "time" : {
+        "start" : 1669123342296,
+        "stop" : 1669123349895,
+        "duration" : 7599
+      }
+    }, {
+      "uid" : "22cc650e5fc7a55e",
+      "status" : "broken",
+      "statusDetails" : "File does not exist. Check to make sure the file path to your csv is correct.",
+      "time" : {
+        "start" : 1669122723712,
+        "stop" : 1669122733135,
+        "duration" : 9423
+      }
+    }, {
+      "uid" : "c77948fb479129b5",
+      "status" : "broken",
+      "statusDetails" : "File does not exist. Check to make sure the file path to your csv is correct.",
+      "time" : {
+        "start" : 1669027549059,
+        "stop" : 1669027557042,
+        "duration" : 7983
+      }
+    }, {
+      "uid" : "cb5eea3ade7a4f9e",
+      "status" : "broken",
+      "statusDetails" : "File does not exist. Check to make sure the file path to your csv is correct.",
+      "time" : {
+        "start" : 1669023749400,
+        "stop" : 1669023756495,
+        "duration" : 7095
+      }
+    }, {
+      "uid" : "b1ed1fcc4ec87973",
+      "status" : "broken",
+      "statusDetails" : "File does not exist. Check to make sure the file path to your csv is correct.",
+      "time" : {
+        "start" : 1669023643788,
+        "stop" : 1669023651398,
+        "duration" : 7610
+      }
+    }, {
+      "uid" : "6dc1748f7c9e307d",
+      "status" : "broken",
+      "statusDetails" : "The \"path\" argument must be of type string. Received undefined",
+      "time" : {
+        "start" : 1669022371602,
+        "stop" : 1669022378696,
+        "duration" : 7094
+      }
+    }, {
+      "uid" : "ac3ccbc260282b80",
+      "status" : "broken",
+      "statusDetails" : "The \"path\" argument must be of type string. Received undefined",
+      "time" : {
+        "start" : 1668765012166,
+        "stop" : 1668765021260,
+        "duration" : 9094
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "1aec61bbd0995b76.json",
+  "parameterValues" : [ "chrome-107.0.5304.110" ]
+}

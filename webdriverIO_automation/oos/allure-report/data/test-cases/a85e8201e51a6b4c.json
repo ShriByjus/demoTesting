@@ -1,0 +1,96 @@
+{
+  "uid" : "a85e8201e51a6b4c",
+  "name" : "Verify raise priority option",
+  "fullName" : "Validating UKG Single order.Verify raise priority option",
+  "historyId" : "fef0418f8e8e8c46326652b0b6d6944d",
+  "time" : {
+    "start" : 1669296754937,
+    "stop" : 1669296783911,
+    "duration" : 28974
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "element click intercepted: Element <button type=\"button\" class=\"btn btn-success text-white\">...</button> is not clickable at point (535, 350). Other element would receive the click: <div class=\"Select-noresults\">...</div>\n                  (Session info: chrome=107.0.5304.110)",
+  "statusTrace" : "element click intercepted: element click intercepted: Element <button type=\"button\" class=\"btn btn-success text-white\">...</button> is not clickable at point (535, 350). Other element would receive the click: <div class=\"Select-noresults\">...</div>\n                  (Session info: chrome=107.0.5304.110)\n                    at runMicrotasks (<anonymous>)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at waitAndDoClick (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/utils/function.js:22:5)\n                    at verifyOmsOrderDetails.raisePriorityAndVerify (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:438:9)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:146:9)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "element click intercepted: Element <button type=\"button\" class=\"btn btn-success text-white\">...</button> is not clickable at point (535, 350). Other element would receive the click: <div class=\"Select-noresults\">...</div>\n                  (Session info: chrome=107.0.5304.110)",
+    "statusTrace" : "element click intercepted: element click intercepted: Element <button type=\"button\" class=\"btn btn-success text-white\">...</button> is not clickable at point (535, 350). Other element would receive the click: <div class=\"Select-noresults\">...</div>\n                  (Session info: chrome=107.0.5304.110)\n                    at runMicrotasks (<anonymous>)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at waitAndDoClick (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/utils/function.js:22:5)\n                    at verifyOmsOrderDetails.raisePriorityAndVerify (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:438:9)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:146:9)",
+    "steps" : [ {
+      "name" : "Verify raise priority option",
+      "time" : {
+        "start" : 1669296754938,
+        "stop" : 1669296783911,
+        "duration" : 28973
+      },
+      "status" : "broken",
+      "statusMessage" : "element click intercepted: element click intercepted: Element <button type=\"button\" class=\"btn btn-success text-white\">...</button> is not clickable at point (535, 350). Other element would receive the click: <div class=\"Select-noresults\">...</div>\n                  (Session info: chrome=107.0.5304.110)\n                    at runMicrotasks (<anonymous>)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at waitAndDoClick (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/utils/function.js:22:5)\n                    at verifyOmsOrderDetails.raisePriorityAndVerify (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:438:9)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:146:9)",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "a67f3cea4d1c989a",
+        "name" : "Screenshot",
+        "source" : "a67f3cea4d1c989a.png",
+        "type" : "image/png",
+        "size" : 232577
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify raise priority option"
+  }, {
+    "name" : "package",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.110"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a85e8201e51a6b4c.json",
+  "parameterValues" : [ "chrome-107.0.5304.110" ]
+}

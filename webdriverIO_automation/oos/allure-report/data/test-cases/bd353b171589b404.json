@@ -1,0 +1,96 @@
+{
+  "uid" : "bd353b171589b404",
+  "name" : "Verify the sum of sku values should match the sub total amount",
+  "fullName" : "Validating UKG Single order.Verify the sum of sku values should match the sub total amount",
+  "historyId" : "959d8fe8affb8b8dae0c57a5238a4248",
+  "time" : {
+    "start" : 1669380246840,
+    "stop" : 1669380277050,
+    "duration" : 30210
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "element (\"//button/i[@class='fa bjs-toggle fa-flip-horizontal']\") still not clickable after 30000ms",
+  "statusTrace" : "Error: element (\"//button/i[@class='fa bjs-toggle fa-flip-horizontal']\") still not clickable after 30000ms\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleClass1.js:146:9)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "element (\"//button/i[@class='fa bjs-toggle fa-flip-horizontal']\") still not clickable after 30000ms",
+    "statusTrace" : "Error: element (\"//button/i[@class='fa bjs-toggle fa-flip-horizontal']\") still not clickable after 30000ms\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleClass1.js:146:9)",
+    "steps" : [ {
+      "name" : "Wait for Toggle button to be Clickable",
+      "time" : {
+        "start" : 1669380246840,
+        "stop" : 1669380277050,
+        "duration" : 30210
+      },
+      "status" : "broken",
+      "statusMessage" : "Error: element (\"//button/i[@class='fa bjs-toggle fa-flip-horizontal']\") still not clickable after 30000ms\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleClass1.js:146:9)",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "9b05cefc34b862a1",
+        "name" : "Screenshot",
+        "source" : "9b05cefc34b862a1.png",
+        "type" : "image/png",
+        "size" : 347628
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the sum of sku values should match the sub total amount"
+  }, {
+    "name" : "package",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.110"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bd353b171589b404.json",
+  "parameterValues" : [ "chrome-107.0.5304.110" ]
+}

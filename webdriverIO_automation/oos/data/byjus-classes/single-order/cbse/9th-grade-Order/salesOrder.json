@@ -1,0 +1,2747 @@
+
+{
+    "draftOrderRefId": "6391bf54e472a2001af709d8",
+    "draftOrderId": "DO-2212081041240765",
+    "salesOrderId": "SO-2212081041240765",
+    "baseOrderId": "",
+    "orderType": "SPLIT",
+    "courseType": "K10",
+    "orgFormattedName": "byjus",
+    "orgId": "ORG-1",
+    "currency": "INR",
+    "salesSubOrderIds": [
+      "SSO1-2212081041240765",
+      "SSO2-2212081041240765"
+    ],
+    "customerDetails": {
+      "customerId": "CX-2210280625062228",
+      "name": "sanjay",
+      "identifierDetails": [],
+      "alternateName": "Shubham singh",
+      "mobileNo": "+91-8736576846",
+      "alternateMobileNo": "+91-8736576846",
+      "email": "sd56uysfgdf@gmail.com",
+      "alternateEmail": null,
+      "type": "individual",
+      "communicationPreferences": {},
+      "isBooksOpted": false,
+      "billingCustomerId": null
+    },
+    "billingCustomerDetails": null,
+    "lineItems": [
+      {
+        "id": 4786,
+        "skuId": "SD09CB23",
+        "imageUrl": null,
+        "skuName": "9th CBSE (SD Card-Byjus) May-2023",
+        "status": "active",
+        "orgId": "ORG-1",
+        "basePrice": 22000,
+        "continuousPrice": 17000,
+        "hsnCode": "852351",
+        "programId": "BTLAKXAS0001",
+        "type": "product",
+        "subType": "sd_card",
+        "category": "btlp",
+        "package": null,
+        "course": "K10",
+        "subCourse": null,
+        "grade": "9",
+        "subject": null,
+        "board": "CBSE",
+        "language": null,
+        "validityType": "year",
+        "validity": "2023",
+        "validityMonth": "MAY",
+        "brand": null,
+        "size": null,
+        "model": null,
+        "scheme": null,
+        "skuSet": 1,
+        "cohortId": 15,
+        "ohProductId": "1069258",
+        "productState": null,
+        "isValidSku": true,
+        "remarks": null,
+        "validatedAt": "2021-11-09T14:28:01.369Z",
+        "financeCode": "SD09CB",
+        "sprId": null,
+        "orgFormattedName": "byjus",
+        "createdBy": "ayushi.bansal@byjus.com",
+        "createdAt": "2021-11-09T14:28:01.369Z",
+        "deletedAt": null,
+        "continousPrice": 17000,
+        "skuSource": "SalesSkuMaster",
+        "itemType": "sd_card",
+        "itemId": "dLDQEr2HtZeAf2zt-F6j75aE",
+        "studentId": "Shubham singh-1",
+        "tabletId": "T-1729564-Shubham singh",
+        "pgItemId": 1538639,
+        "name": "9th CBSE (SD Card-Byjus) May-2023",
+        "sku": "9th CBSE (SD Card-Byjus) May-2023",
+        "salesSubOrderId": "SSO1-2212081041240765",
+        "itemStatus": "mapping_pending",
+        "invoicePrice": "17500.00"
+      },
+      {
+        "id": 3352,
+        "skuId": "TSXMZZ",
+        "imageUrl": null,
+        "skuName": "SAMSUNG Tablet (Add-on-BYJUS) (10 inch-4G)",
+        "status": "active",
+        "orgId": "ORG-1",
+        "basePrice": 18000,
+        "continuousPrice": 15000,
+        "hsnCode": "847130",
+        "programId": "TLP1UCHW0001",
+        "type": "product",
+        "subType": "tablet",
+        "category": "tablet",
+        "package": null,
+        "course": "",
+        "subCourse": null,
+        "grade": null,
+        "subject": null,
+        "board": null,
+        "language": null,
+        "validityType": "N/A",
+        "validity": null,
+        "validityMonth": null,
+        "brand": "samsung",
+        "size": null,
+        "model": null,
+        "scheme": null,
+        "skuSet": 1,
+        "cohortId": null,
+        "ohProductId": "1729564",
+        "productState": "new",
+        "isValidSku": true,
+        "remarks": null,
+        "validatedAt": "2021-11-09T14:33:54.829Z",
+        "financeCode": "TSXMZZ",
+        "sprId": null,
+        "orgFormattedName": "byjus",
+        "createdBy": "ayushi.bansal@byjus.com",
+        "createdAt": "2021-11-09T14:33:54.828Z",
+        "deletedAt": null,
+        "price": 18000,
+        "itemType": "tablet",
+        "skuSource": "SalesSkuMaster",
+        "itemId": "Ni0u4_EaPPeruDBV1oXPDTZB",
+        "studentId": "Shubham singh-1",
+        "tabletId": "T-1729564-Shubham singh",
+        "pgItemId": 1538640,
+        "name": "SAMSUNG Tablet (Add-on-BYJUS) (10 inch-4G)",
+        "sku": "SAMSUNG Tablet (Add-on-BYJUS) (10 inch-4G)",
+        "salesSubOrderId": "SSO1-2212081041240765",
+        "itemStatus": "mapping_pending",
+        "invoicePrice": "18000.00",
+        "pgLineItemId": 1538642
+      },
+      {
+        "id": 141,
+        "skuId": "UB09CB23",
+        "imageUrl": null,
+        "skuName": "9th Grade CBSE BYJU'S Classes May 2023",
+        "status": "active",
+        "orgId": "ORG-1",
+        "basePrice": 13000,
+        "continuousPrice": 13000,
+        "hsnCode": "999293",
+        "programId": "BCOPKXSY0002",
+        "type": "service",
+        "subType": "live",
+        "category": "byjus_classes_upgrade",
+        "package": null,
+        "course": "K10",
+        "subCourse": null,
+        "grade": "9",
+        "subject": null,
+        "board": "CBSE",
+        "language": null,
+        "validityType": "year",
+        "validity": "2023",
+        "validityMonth": "MAY",
+        "brand": null,
+        "size": null,
+        "model": null,
+        "scheme": null,
+        "skuSet": 1,
+        "cohortId": 15,
+        "ohProductId": "1817214",
+        "productState": null,
+        "isValidSku": true,
+        "remarks": null,
+        "validatedAt": "2021-11-09T14:38:52.224Z",
+        "financeCode": "UB09CB",
+        "sprId": null,
+        "orgFormattedName": "byjus",
+        "createdBy": "ayushi.bansal@byjus.com",
+        "createdAt": "2021-11-09T14:38:52.224Z",
+        "deletedAt": null,
+        "continousPrice": 13000,
+        "skuSource": "SalesSkuMaster",
+        "itemType": "byjus_premium",
+        "itemId": "PHVwXDRt21WzWaRXrJdF3aN_",
+        "studentId": "Shubham singh-1",
+        "tabletId": "T-1729564-Shubham singh",
+        "pgItemId": 1538641,
+        "name": "9th Grade CBSE BYJU'S Classes May 2023",
+        "sku": "9th Grade CBSE BYJU'S Classes May 2023",
+        "salesSubOrderId": "SSO2-2212081041240765",
+        "itemStatus": "mapping_pending",
+        "invoicePrice": "17500.00"
+      }
+    ],
+    "shipmentLineItems": [
+      {
+        "skuId": "TSXMZZKX",
+        "skuName": "K12 Samsung 10 inch Tablet Mobile Data",
+        "status": "active",
+        "type": "tablet",
+        "properties": {
+          "grade": null,
+          "course": null,
+          "board": null,
+          "color": null,
+          "brand": "Samsung",
+          "manufacturer": "Samsung",
+          "warehouse": [],
+          "sdCardMemory": null,
+          "appVersion": null,
+          "sdCardVersion": null,
+          "apkRelease": {
+            "date": {
+              "numberLong": "1642564121847"
+            }
+          },
+          "contentRelease": {
+            "date": {
+              "numberLong": "1642564121847"
+            }
+          },
+          "location": null,
+          "comboDetails": [],
+          "userType": null,
+          "programId": "TLP1UCAS0001",
+          "size": null,
+          "model": null,
+          "skuSet": null,
+          "subject": null,
+          "language": null,
+          "scheme": null
+        },
+        "dimensions": {
+          "length": null,
+          "width": null,
+          "height": null,
+          "unit": null
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "productionStrategy": null,
+        "financeMaterialCode": "TSXMZZKX",
+        "financeProductCode": "TSXM",
+        "createdBy": "dinesh.m@byjus.com",
+        "updatedBy": "system",
+        "createdAt": {
+          "date": {
+            "numberLong": "1596273625284"
+          }
+        },
+        "updatedAt": {
+          "date": {
+            "numberLong": "1660833194737"
+          }
+        },
+        "deletedAt": null,
+        "productState": "new",
+        "activeSalesItems": [
+          "TSXMZZ"
+        ],
+        "activeLineItemIds": [
+          "Ni0u4_EaPPeruDBV1oXPDTZB"
+        ],
+        "price": 18000,
+        "studentId": "Shubham singh-1",
+        "students": [
+          "Shubham singh-1"
+        ],
+        "tabletId": "T-1729564-Shubham singh",
+        "itemStatus": "mapping_pending",
+        "pgShipmentLineItemId": 17065976
+      },
+      {
+        "skuId": "S2CB0909",
+        "skuName": "Grade 09 CBSE SD Card",
+        "type": "sd_card",
+        "properties": {
+          "board": "CBSE",
+          "grade": "09-09",
+          "course": "NA",
+          "noOfCombos": "1",
+          "sdCardMemory": 32,
+          "appVersion": "NA",
+          "sdCardVersion": "NA",
+          "apkVersion": "NA",
+          "contentRelease": {
+            "date": {
+              "numberLong": "1652095977640"
+            }
+          },
+          "warehouse": [
+            "IBC",
+            "Lexington",
+            "Croma"
+          ],
+          "location": [
+            "FI IBC",
+            "FI Lex",
+            "FI CROMA"
+          ],
+          "comboDetails": [
+            {
+              "initialClass": 9,
+              "finalClass": 9,
+              "grades": "09-09"
+            }
+          ],
+          "combinations": [
+            "09-09"
+          ],
+          "programId": "BTLAKXAS0001",
+          "apkRelease": {
+            "date": {
+              "numberLong": "1652095977640"
+            }
+          },
+          "inventoryRelease": {
+            "date": {
+              "numberLong": "1652095977640"
+            }
+          }
+        },
+        "productState": null,
+        "activeGrades": [
+          9
+        ],
+        "activeSalesItems": [
+          "SD09CB23",
+          "UB09CB23"
+        ],
+        "activeLineItemIds": [
+          "dLDQEr2HtZeAf2zt-F6j75aE",
+          "PHVwXDRt21WzWaRXrJdF3aN_"
+        ],
+        "studentId": "Shubham singh-1",
+        "tabletId": "T-1729564-Shubham singh",
+        "itemStatus": "mapping_pending",
+        "pgShipmentLineItemId": 17065977
+      }
+    ],
+    "returnLineItems": [],
+    "addonLineItems": [],
+    "salesDetails": {
+      "typeOfSales": "DS Sales",
+      "directSalesBy": "sanjay.karkera@byjus.com",
+      "directSalesByCampaign": "Livechat Calling",
+      "salesAppointmentBy": null,
+      "salesAppointmentByCampaign": "Hyderabad",
+      "incentiveDate": {
+        "date": {
+          "numberLong": "1670371200000"
+        }
+      },
+      "salesAppointmentByRole": null,
+      "directSalesByDept": "business_development",
+      "salesAppointmentByDept": "",
+      "salesIndex": 175
+    },
+    "addressDetails": {
+      "billing": {
+        "zipcode": "600001",
+        "addressLine1": "Akshya Nagar 1st Block 1st Cro",
+        "country": "India",
+        "state": "Tamil Nadu",
+        "city": "Chennai",
+        "addressLine2": "Akshya Nagar 1st Block 1st Cro,",
+        "addressLine3": "Flower Bazaar",
+        "address": "Akshya Nagar 1st Block 1st Cro\n Akshya Nagar 1st Block 1st Cro\n Flower Bazaar",
+        "addressId": "496870"
+      },
+      "shipping": {
+        "zipcode": "600001",
+        "addressLine1": "Akshya Nagar 1st Block 1st Cro",
+        "country": "India",
+        "state": "Tamil Nadu",
+        "city": "Chennai",
+        "addressLine2": "Akshya Nagar 1st Block 1st Cro,",
+        "addressLine3": "Flower Bazaar",
+        "address": "Akshya Nagar 1st Block 1st Cro\n Akshya Nagar 1st Block 1st Cro\n Flower Bazaar",
+        "addressId": "496871"
+      }
+    },
+    "paymentDetails": {
+      "type": "NON_EMI",
+      "totalAmount": 53000,
+      "totalEmiAmount": 0,
+      "totalPrepaidAmount": 53000,
+      "totalPostpaidAmount": 0,
+      "paymentMethod": "NGP",
+      "payments": [
+        {
+          "isPrepaid": true,
+          "_id": {
+            "oid": "6391c099e472a2001af70a87"
+          },
+          "provider": "CHEQUE",
+          "referenceId": "16704964078751-345345345253000",
+          "amount": 53000,
+          "additionalDetails": {
+            "bank": "federal"
+          },
+          "attachments": [
+            {
+              "_id": {
+                "oid": "6391c099e472a2001af70a88"
+              },
+              "name": "cheque",
+              "url": "https://orderhive-payments.s3.ap-southeast-1.amazonaws.com/development/6391bf54e472a2001af709d8/cheque/cheque-20221208_16160820.png"
+            }
+          ],
+          "type": "DOWN_PAYMENT",
+          "currency": "",
+          "isActive": true
+        }
+      ],
+      "minDownPaymentDetails": {
+        "isMatched": true,
+        "minDownPaymentAmount": 0
+      },
+      "isRepunchedCase": false,
+      "paymentMode": "CHEQUE",
+      "paymentAmountSplit": "53000",
+      "subscriptionDetails": {}
+    },
+    "financeOrderId": "1ba4a29988464082bf2d7dfaa993a3ea",
+    "productDetails": {
+      "productType": "single",
+      "mentoringDetails": [
+        null
+      ],
+      "bhlpCourseDetails": [
+        {
+          "id": 13865,
+          "name": "Test Regular Batch",
+          "is_active": true,
+          "time_zone": "IST",
+          "batch_country": "India",
+          "batch_start_date": "2022-09-16",
+          "batch_end_date": "2023-05-31",
+          "mandatory_sessions_count": 4,
+          "optional_sessions_count": 0,
+          "course_id": 5537,
+          "course_name": "retest bulk update",
+          "course_fot_track_id": "cbse-9-1806-1776-lar",
+          "course_proficiency_id": 1,
+          "medium_of_instruction": "english",
+          "course_batch": "12th",
+          "cohort_id": 15,
+          "course_type": "neo",
+          "course_tag": "classroom",
+          "slot_group_id": 9916,
+          "tutor_language_enabled": true,
+          "slot_group_name": "Th-Th-Fri-Sat",
+          "batch_type": "regular",
+          "available_subjects": [
+            "Mathematics",
+            "Physics",
+            "Mathematics",
+            "Chemistry",
+            "Mathematics",
+            "Biology"
+          ],
+          "course_sub_tag": "Regular",
+          "clash": false,
+          "is_overloading": false,
+          "is_clashing": false,
+          "slots": [
+            {
+              "id": 38402,
+              "day": "Thursday",
+              "start_time": "16:00",
+              "end_time": "17:00",
+              "is_mandatory": true
+            },
+            {
+              "id": 38403,
+              "day": "Thursday",
+              "start_time": "18:00",
+              "end_time": "19:00",
+              "is_mandatory": true
+            },
+            {
+              "id": 38404,
+              "day": "Friday",
+              "start_time": "16:00",
+              "end_time": "17:00",
+              "is_mandatory": true
+            },
+            {
+              "id": 38405,
+              "day": "Saturday",
+              "start_time": "16:00",
+              "end_time": "17:00",
+              "is_mandatory": true
+            }
+          ]
+        }
+      ],
+      "paymentType": "NON_EMI",
+      "maxPrice": 53000,
+      "minPrice": 46000,
+      "discountedPrice": 0,
+      "students": [
+        {
+          "studentProfileDetails": {
+            "isExistingProfile": true,
+            "existingPremiumId": "1139099521",
+            "existingFamilyId": ""
+          },
+          "hlpDetails": {
+            "courseDetails": [
+              {
+                "id": 13865,
+                "name": "Test Regular Batch",
+                "is_active": true,
+                "time_zone": "IST",
+                "batch_country": "India",
+                "batch_start_date": "2022-09-16",
+                "batch_end_date": "2023-05-31",
+                "mandatory_sessions_count": 4,
+                "optional_sessions_count": 0,
+                "course_id": 5537,
+                "course_name": "retest bulk update",
+                "course_fot_track_id": "cbse-9-1806-1776-lar",
+                "course_proficiency_id": 1,
+                "medium_of_instruction": "english",
+                "course_batch": "12th",
+                "cohort_id": 15,
+                "course_type": "neo",
+                "course_tag": "classroom",
+                "slot_group_id": 9916,
+                "tutor_language_enabled": true,
+                "slot_group_name": "Th-Th-Fri-Sat",
+                "batch_type": "regular",
+                "available_subjects": [
+                  "Mathematics",
+                  "Physics",
+                  "Mathematics",
+                  "Chemistry",
+                  "Mathematics",
+                  "Biology"
+                ],
+                "course_sub_tag": "Regular",
+                "clash": false,
+                "is_overloading": false,
+                "is_clashing": false,
+                "slots": [
+                  {
+                    "id": 38402,
+                    "day": "Thursday",
+                    "start_time": "16:00",
+                    "end_time": "17:00",
+                    "is_mandatory": true
+                  },
+                  {
+                    "id": 38403,
+                    "day": "Thursday",
+                    "start_time": "18:00",
+                    "end_time": "19:00",
+                    "is_mandatory": true
+                  },
+                  {
+                    "id": 38404,
+                    "day": "Friday",
+                    "start_time": "16:00",
+                    "end_time": "17:00",
+                    "is_mandatory": true
+                  },
+                  {
+                    "id": 38405,
+                    "day": "Saturday",
+                    "start_time": "16:00",
+                    "end_time": "17:00",
+                    "is_mandatory": true
+                  }
+                ]
+              }
+            ],
+            "sessionDetails": [
+              {
+                "sessions": [
+                  {
+                    "day": "Thursday",
+                    "is_mandatory": true,
+                    "time": "16:00-17:00"
+                  },
+                  {
+                    "day": "Thursday",
+                    "is_mandatory": true,
+                    "time": "18:00-19:00"
+                  },
+                  {
+                    "day": "Friday",
+                    "is_mandatory": true,
+                    "time": "16:00-17:00"
+                  },
+                  {
+                    "day": "Saturday",
+                    "is_mandatory": true,
+                    "time": "16:00-17:00"
+                  }
+                ],
+                "_id": {
+                  "oid": "6391c06eac0e7e0020a6e4c9"
+                },
+                "type": "neo"
+              }
+            ],
+            "initialClass": "9",
+            "initialValidity": "2023",
+            "batchCode": "Hlp_07-12-2022"
+          },
+          "courseType": [
+            "K10"
+          ],
+          "electiveDetails": [
+            {
+              "batch": {
+                "id": 14392,
+                "name": "Test English",
+                "is_active": true,
+                "time_zone": "IST",
+                "batch_country": "India",
+                "batch_start_date": "2022-09-30",
+                "batch_end_date": "2023-01-31",
+                "mandatory_sessions_count": 1,
+                "optional_sessions_count": 0,
+                "course_id": 5556,
+                "course_name": "GRADE IX - Communication Course - Elective",
+                "course_fot_track_id": null,
+                "course_proficiency_id": null,
+                "medium_of_instruction": "english",
+                "course_batch": null,
+                "cohort_id": 15,
+                "course_type": "neo",
+                "course_tag": "elective",
+                "slot_group_id": 6280,
+                "tutor_language_enabled": true,
+                "slot_group_name": "Mon-7:00PM",
+                "batch_type": "regular",
+                "available_subjects": [
+                  "English"
+                ],
+                "course_sub_tag": "Regular",
+                "clash": false,
+                "is_overloading": false,
+                "is_clashing": false,
+                "slots": [
+                  {
+                    "id": 30136,
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "20:00",
+                    "is_mandatory": true
+                  }
+                ]
+              },
+              "subject": "English",
+              "slot": [
+                {
+                  "id": 30136,
+                  "day": "Monday",
+                  "start_time": "19:00",
+                  "end_time": "20:00",
+                  "is_mandatory": true
+                }
+              ]
+            },
+            {
+              "batch": {
+                "id": 13859,
+                "name": "Communication II",
+                "is_active": true,
+                "time_zone": "IST",
+                "batch_country": "India",
+                "batch_start_date": "2022-09-16",
+                "batch_end_date": "2023-05-31",
+                "mandatory_sessions_count": 1,
+                "optional_sessions_count": 0,
+                "course_id": 5556,
+                "course_name": "GRADE IX - Communication Course - Elective",
+                "course_fot_track_id": null,
+                "course_proficiency_id": null,
+                "medium_of_instruction": "english",
+                "course_batch": null,
+                "cohort_id": 15,
+                "course_type": "neo",
+                "course_tag": "elective",
+                "slot_group_id": 9926,
+                "tutor_language_enabled": true,
+                "slot_group_name": "Friday",
+                "batch_type": "regular",
+                "available_subjects": [
+                  "Social Studies"
+                ],
+                "course_sub_tag": "Regular",
+                "clash": false,
+                "is_overloading": false,
+                "is_clashing": false,
+                "slots": [
+                  {
+                    "id": 38415,
+                    "day": "Friday",
+                    "start_time": "17:00",
+                    "end_time": "18:00",
+                    "is_mandatory": true
+                  }
+                ]
+              },
+              "subject": "Social Studies",
+              "slot": [
+                {
+                  "id": 38415,
+                  "day": "Friday",
+                  "start_time": "17:00",
+                  "end_time": "18:00",
+                  "is_mandatory": true
+                }
+              ]
+            },
+            {
+              "batch": {
+                "id": 13067,
+                "name": "test slotclash2",
+                "is_active": true,
+                "time_zone": "IST",
+                "batch_country": "India",
+                "batch_start_date": "2022-08-29",
+                "batch_end_date": "2022-12-31",
+                "mandatory_sessions_count": 1,
+                "optional_sessions_count": 0,
+                "course_id": 4945,
+                "course_name": "9th CBSE Elective",
+                "course_fot_track_id": null,
+                "course_proficiency_id": null,
+                "medium_of_instruction": "english",
+                "course_batch": null,
+                "cohort_id": 15,
+                "course_type": "neo",
+                "course_tag": "elective",
+                "slot_group_id": 6270,
+                "tutor_language_enabled": true,
+                "slot_group_name": "Tue-8:00PM",
+                "batch_type": "regular",
+                "available_subjects": [
+                  "Coding"
+                ],
+                "course_sub_tag": "Regular",
+                "clash": false,
+                "is_overloading": false,
+                "is_clashing": false,
+                "slots": [
+                  {
+                    "id": 30126,
+                    "day": "Tuesday",
+                    "start_time": "20:00",
+                    "end_time": "21:00",
+                    "is_mandatory": true
+                  }
+                ]
+              },
+              "subject": "Coding",
+              "slot": [
+                {
+                  "id": 30126,
+                  "day": "Tuesday",
+                  "start_time": "20:00",
+                  "end_time": "21:00",
+                  "is_mandatory": true
+                }
+              ]
+            }
+          ],
+          "doubtClassDetails": [
+            {
+              "batch": {
+                "id": 13863,
+                "name": "DB 2",
+                "is_active": true,
+                "time_zone": "IST",
+                "batch_country": "India",
+                "batch_start_date": "2022-09-16",
+                "batch_end_date": "2023-05-31",
+                "mandatory_sessions_count": 1,
+                "optional_sessions_count": 0,
+                "course_id": 5557,
+                "course_name": "GRADE IX - Communication Course - Doubt Resolution",
+                "course_fot_track_id": null,
+                "course_proficiency_id": 2,
+                "medium_of_instruction": "english",
+                "course_batch": null,
+                "cohort_id": 15,
+                "course_type": "neo",
+                "course_tag": "doubt_resolution",
+                "slot_group_id": 9928,
+                "tutor_language_enabled": true,
+                "slot_group_name": "Friday",
+                "batch_type": "regular",
+                "available_subjects": [
+                  "Mathematics",
+                  "Science"
+                ],
+                "course_sub_tag": "Regular",
+                "clash": false,
+                "is_overloading": false,
+                "is_clashing": false,
+                "slots": [
+                  {
+                    "id": 38417,
+                    "day": "Friday",
+                    "start_time": "19:00",
+                    "end_time": "20:00",
+                    "is_mandatory": true
+                  }
+                ]
+              },
+              "subject": "Mathematics",
+              "slot": [
+                {
+                  "id": 38417,
+                  "day": "Friday",
+                  "start_time": "19:00",
+                  "end_time": "20:00",
+                  "is_mandatory": true
+                }
+              ]
+            }
+          ],
+          "workshops": [],
+          "items": [
+            {
+              "id": 4786,
+              "skuId": "SD09CB23",
+              "imageUrl": null,
+              "skuName": "9th CBSE (SD Card-Byjus) May-2023",
+              "status": "active",
+              "orgId": "ORG-1",
+              "city": null,
+              "basePrice": 22000,
+              "continuousPrice": 17000,
+              "hsnCode": "852351",
+              "programId": "BTLAKXAS0001",
+              "type": "product",
+              "subType": "sd_card",
+              "category": "btlp",
+              "package": null,
+              "course": "K10",
+              "subCourse": null,
+              "grade": "9",
+              "subject": null,
+              "board": "CBSE",
+              "language": null,
+              "validityType": "year",
+              "validity": "2023",
+              "validityMonth": "MAY",
+              "brand": null,
+              "size": null,
+              "model": null,
+              "scheme": null,
+              "skuSet": 1,
+              "cohortId": 15,
+              "ohProductId": "1069258",
+              "productState": null,
+              "isValidSku": true,
+              "remarks": null,
+              "validatedAt": "2021-11-09T14:28:01.369Z",
+              "financeCode": "SD09CB",
+              "sprId": null,
+              "orgFormattedName": "byjus",
+              "createdBy": "ayushi.bansal@byjus.com",
+              "updatedBy": "price_update_datafix",
+              "createdAt": "2021-11-09T14:28:01.369Z",
+              "updatedAt": "2022-09-23T10:32:38.848Z",
+              "deletedAt": null,
+              "continousPrice": 17000,
+              "skuSource": "SalesSkuMaster",
+              "itemType": "course",
+              "combinationType": "tlp",
+              "itemId": "dLDQEr2HtZeAf2zt-F6j75aE",
+              "studentId": "Shubham singh-1",
+              "tabletId": "T-1729564-Shubham singh",
+              "name": "9th CBSE (SD Card-Byjus) May-2023",
+              "sku": "9th CBSE (SD Card-Byjus) May-2023"
+            },
+            {
+              "id": 141,
+              "skuId": "UB09CB23",
+              "imageUrl": null,
+              "skuName": "9th Grade CBSE BYJU'S Classes May 2023",
+              "status": "active",
+              "orgId": "ORG-1",
+              "city": null,
+              "basePrice": 13000,
+              "continuousPrice": 13000,
+              "hsnCode": "999293",
+              "programId": "BCOPKXSY0002",
+              "type": "service",
+              "subType": "live",
+              "category": "byjus_classes_upgrade",
+              "package": null,
+              "course": "K10",
+              "subCourse": null,
+              "grade": "9",
+              "subject": null,
+              "board": "CBSE",
+              "language": null,
+              "validityType": "year",
+              "validity": "2023",
+              "validityMonth": "MAY",
+              "brand": null,
+              "size": null,
+              "model": null,
+              "scheme": null,
+              "skuSet": 1,
+              "cohortId": 15,
+              "ohProductId": "1817214",
+              "productState": null,
+              "isValidSku": true,
+              "remarks": null,
+              "validatedAt": "2021-11-09T14:38:52.224Z",
+              "financeCode": "UB09CB",
+              "sprId": null,
+              "orgFormattedName": "byjus",
+              "createdBy": "ayushi.bansal@byjus.com",
+              "updatedBy": "price_update_datafix",
+              "createdAt": "2021-11-09T14:38:52.224Z",
+              "updatedAt": "2022-06-09T05:05:37.058Z",
+              "deletedAt": null,
+              "continousPrice": 13000,
+              "skuSource": "SalesSkuMaster",
+              "itemType": "course",
+              "combinationType": "byjus_classes_upgrade",
+              "itemId": "PHVwXDRt21WzWaRXrJdF3aN_",
+              "studentId": "Shubham singh-1",
+              "tabletId": "T-1729564-Shubham singh",
+              "name": "9th Grade CBSE BYJU'S Classes May 2023",
+              "sku": "9th Grade CBSE BYJU'S Classes May 2023"
+            },
+            {
+              "id": 3352,
+              "skuId": "TSXMZZ",
+              "imageUrl": null,
+              "skuName": "SAMSUNG Tablet (Add-on-BYJUS) (10 inch-4G)",
+              "status": "active",
+              "orgId": "ORG-1",
+              "city": null,
+              "basePrice": 18000,
+              "continuousPrice": 15000,
+              "hsnCode": "847130",
+              "programId": "TLP1UCHW0001",
+              "type": "product",
+              "subType": "tablet",
+              "category": "tablet",
+              "package": null,
+              "course": "",
+              "subCourse": null,
+              "grade": null,
+              "subject": null,
+              "board": null,
+              "language": null,
+              "validityType": "N/A",
+              "validity": null,
+              "validityMonth": null,
+              "brand": "samsung",
+              "size": null,
+              "model": null,
+              "scheme": null,
+              "skuSet": 1,
+              "cohortId": null,
+              "ohProductId": "1729564",
+              "productState": "new",
+              "isValidSku": true,
+              "remarks": null,
+              "validatedAt": "2021-11-09T14:33:54.829Z",
+              "financeCode": "TSXMZZ",
+              "sprId": null,
+              "orgFormattedName": "byjus",
+              "createdBy": "ayushi.bansal@byjus.com",
+              "updatedBy": "price_update_datafix",
+              "createdAt": "2021-11-09T14:33:54.828Z",
+              "updatedAt": "2022-10-11T06:34:36.959Z",
+              "deletedAt": null,
+              "price": 18000,
+              "itemType": "tablet",
+              "skuSource": "SalesSkuMaster",
+              "itemId": "Ni0u4_EaPPeruDBV1oXPDTZB",
+              "studentId": "Shubham singh-1",
+              "tabletId": "T-1729564-Shubham singh",
+              "name": "SAMSUNG Tablet (Add-on-BYJUS) (10 inch-4G)",
+              "sku": "SAMSUNG Tablet (Add-on-BYJUS) (10 inch-4G)"
+            }
+          ],
+          "addOnItems": [],
+          "mentoringDetails": [
+            {
+              "type": "neo",
+              "sessions": [
+                {
+                  "day": "Thursday",
+                  "is_mandatory": true,
+                  "time": "16:00-17:00"
+                },
+                {
+                  "day": "Thursday",
+                  "is_mandatory": true,
+                  "time": "18:00-19:00"
+                },
+                {
+                  "day": "Friday",
+                  "is_mandatory": true,
+                  "time": "16:00-17:00"
+                },
+                {
+                  "day": "Saturday",
+                  "is_mandatory": true,
+                  "time": "16:00-17:00"
+                }
+              ]
+            }
+          ],
+          "bhlpCourseDetails": [
+            {
+              "id": 13865,
+              "name": "Test Regular Batch",
+              "is_active": true,
+              "time_zone": "IST",
+              "batch_country": "India",
+              "batch_start_date": "2022-09-16",
+              "batch_end_date": "2023-05-31",
+              "mandatory_sessions_count": 4,
+              "optional_sessions_count": 0,
+              "course_id": 5537,
+              "course_name": "retest bulk update",
+              "course_fot_track_id": "cbse-9-1806-1776-lar",
+              "course_proficiency_id": 1,
+              "medium_of_instruction": "english",
+              "course_batch": "12th",
+              "cohort_id": 15,
+              "course_type": "neo",
+              "course_tag": "classroom",
+              "slot_group_id": 9916,
+              "tutor_language_enabled": true,
+              "slot_group_name": "Th-Th-Fri-Sat",
+              "batch_type": "regular",
+              "available_subjects": [
+                "Mathematics",
+                "Physics",
+                "Mathematics",
+                "Chemistry",
+                "Mathematics",
+                "Biology"
+              ],
+              "course_sub_tag": "Regular",
+              "clash": false,
+              "is_overloading": false,
+              "is_clashing": false,
+              "slots": [
+                {
+                  "id": 38402,
+                  "day": "Thursday",
+                  "start_time": "16:00",
+                  "end_time": "17:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 38403,
+                  "day": "Thursday",
+                  "start_time": "18:00",
+                  "end_time": "19:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 38404,
+                  "day": "Friday",
+                  "start_time": "16:00",
+                  "end_time": "17:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 38405,
+                  "day": "Saturday",
+                  "start_time": "16:00",
+                  "end_time": "17:00",
+                  "is_mandatory": true
+                }
+              ]
+            }
+          ],
+          "featureTag": [],
+          "_id": {
+            "oid": "6391c06eac0e7e0020a6e4c8"
+          },
+          "course": "K10/K12",
+          "board": "CBSE",
+          "validity": "2023",
+          "initialClass": "9",
+          "tablet": "1729564",
+          "deviceType": "Tablet(Lenovo/Samsung)",
+          "formValues": {
+            "course": "K10/K12",
+            "courseType": "regular",
+            "board": "CBSE",
+            "subCourse": "",
+            "yearSelection": "2023",
+            "validity": 2023,
+            "session": "",
+            "initialClass": "9",
+            "tablet": "1729564",
+            "selectD4SDCard": false,
+            "userProfile": "1139099521",
+            "tabletId": "T-1729564",
+            "deviceType": "Tablet(Lenovo/Samsung)",
+            "featureTag": [],
+            "mentoringDetails": [
+              {
+                "type": "neo",
+                "sessions": [
+                  {
+                    "day": "Thursday",
+                    "is_mandatory": true,
+                    "time": "16:00-17:00"
+                  },
+                  {
+                    "day": "Thursday",
+                    "is_mandatory": true,
+                    "time": "18:00-19:00"
+                  },
+                  {
+                    "day": "Friday",
+                    "is_mandatory": true,
+                    "time": "16:00-17:00"
+                  },
+                  {
+                    "day": "Saturday",
+                    "is_mandatory": true,
+                    "time": "16:00-17:00"
+                  }
+                ]
+              }
+            ],
+            "bhlpCourseDetails": {
+              "id": 13865,
+              "name": "Test Regular Batch",
+              "is_active": true,
+              "time_zone": "IST",
+              "batch_country": "India",
+              "batch_start_date": "2022-09-16",
+              "batch_end_date": "2023-05-31",
+              "mandatory_sessions_count": 4,
+              "optional_sessions_count": 0,
+              "course_id": 5537,
+              "course_name": "retest bulk update",
+              "course_fot_track_id": "cbse-9-1806-1776-lar",
+              "course_proficiency_id": 1,
+              "medium_of_instruction": "english",
+              "course_batch": "12th",
+              "cohort_id": 15,
+              "course_type": "neo",
+              "course_tag": "classroom",
+              "slot_group_id": 9916,
+              "tutor_language_enabled": true,
+              "slot_group_name": "Th-Th-Fri-Sat",
+              "batch_type": "regular",
+              "available_subjects": [
+                "Mathematics",
+                "Physics",
+                "Mathematics",
+                "Chemistry",
+                "Mathematics",
+                "Biology"
+              ],
+              "course_sub_tag": "Regular",
+              "clash": false,
+              "is_overloading": false,
+              "is_clashing": false,
+              "slots": [
+                {
+                  "id": 38402,
+                  "day": "Thursday",
+                  "start_time": "16:00",
+                  "end_time": "17:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 38403,
+                  "day": "Thursday",
+                  "start_time": "18:00",
+                  "end_time": "19:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 38404,
+                  "day": "Friday",
+                  "start_time": "16:00",
+                  "end_time": "17:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 38405,
+                  "day": "Saturday",
+                  "start_time": "16:00",
+                  "end_time": "17:00",
+                  "is_mandatory": true
+                }
+              ]
+            },
+            "electiveDetails": [
+              {
+                "batch": {
+                  "id": 14392,
+                  "name": "Test English",
+                  "is_active": true,
+                  "time_zone": "IST",
+                  "batch_country": "India",
+                  "batch_start_date": "2022-09-30",
+                  "batch_end_date": "2023-01-31",
+                  "mandatory_sessions_count": 1,
+                  "optional_sessions_count": 0,
+                  "course_id": 5556,
+                  "course_name": "GRADE IX - Communication Course - Elective",
+                  "course_fot_track_id": null,
+                  "course_proficiency_id": null,
+                  "medium_of_instruction": "english",
+                  "course_batch": null,
+                  "cohort_id": 15,
+                  "course_type": "neo",
+                  "course_tag": "elective",
+                  "slot_group_id": 6280,
+                  "tutor_language_enabled": true,
+                  "slot_group_name": "Mon-7:00PM",
+                  "batch_type": "regular",
+                  "available_subjects": [
+                    "English"
+                  ],
+                  "course_sub_tag": "Regular",
+                  "clash": false,
+                  "is_overloading": false,
+                  "is_clashing": false,
+                  "slots": [
+                    {
+                      "id": 30136,
+                      "day": "Monday",
+                      "start_time": "19:00",
+                      "end_time": "20:00",
+                      "is_mandatory": true
+                    }
+                  ]
+                },
+                "subject": "English",
+                "slot": [
+                  {
+                    "id": 30136,
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "20:00",
+                    "is_mandatory": true
+                  }
+                ]
+              },
+              {
+                "batch": {
+                  "id": 13859,
+                  "name": "Communication II",
+                  "is_active": true,
+                  "time_zone": "IST",
+                  "batch_country": "India",
+                  "batch_start_date": "2022-09-16",
+                  "batch_end_date": "2023-05-31",
+                  "mandatory_sessions_count": 1,
+                  "optional_sessions_count": 0,
+                  "course_id": 5556,
+                  "course_name": "GRADE IX - Communication Course - Elective",
+                  "course_fot_track_id": null,
+                  "course_proficiency_id": null,
+                  "medium_of_instruction": "english",
+                  "course_batch": null,
+                  "cohort_id": 15,
+                  "course_type": "neo",
+                  "course_tag": "elective",
+                  "slot_group_id": 9926,
+                  "tutor_language_enabled": true,
+                  "slot_group_name": "Friday",
+                  "batch_type": "regular",
+                  "available_subjects": [
+                    "Social Studies"
+                  ],
+                  "course_sub_tag": "Regular",
+                  "clash": false,
+                  "is_overloading": false,
+                  "is_clashing": false,
+                  "slots": [
+                    {
+                      "id": 38415,
+                      "day": "Friday",
+                      "start_time": "17:00",
+                      "end_time": "18:00",
+                      "is_mandatory": true
+                    }
+                  ]
+                },
+                "subject": "Social Studies",
+                "slot": [
+                  {
+                    "id": 38415,
+                    "day": "Friday",
+                    "start_time": "17:00",
+                    "end_time": "18:00",
+                    "is_mandatory": true
+                  }
+                ]
+              },
+              {
+                "batch": {
+                  "id": 13067,
+                  "name": "test slotclash2",
+                  "is_active": true,
+                  "time_zone": "IST",
+                  "batch_country": "India",
+                  "batch_start_date": "2022-08-29",
+                  "batch_end_date": "2022-12-31",
+                  "mandatory_sessions_count": 1,
+                  "optional_sessions_count": 0,
+                  "course_id": 4945,
+                  "course_name": "9th CBSE Elective",
+                  "course_fot_track_id": null,
+                  "course_proficiency_id": null,
+                  "medium_of_instruction": "english",
+                  "course_batch": null,
+                  "cohort_id": 15,
+                  "course_type": "neo",
+                  "course_tag": "elective",
+                  "slot_group_id": 6270,
+                  "tutor_language_enabled": true,
+                  "slot_group_name": "Tue-8:00PM",
+                  "batch_type": "regular",
+                  "available_subjects": [
+                    "Coding"
+                  ],
+                  "course_sub_tag": "Regular",
+                  "clash": false,
+                  "is_overloading": false,
+                  "is_clashing": false,
+                  "slots": [
+                    {
+                      "id": 30126,
+                      "day": "Tuesday",
+                      "start_time": "20:00",
+                      "end_time": "21:00",
+                      "is_mandatory": true
+                    }
+                  ]
+                },
+                "subject": "Coding",
+                "slot": [
+                  {
+                    "id": 30126,
+                    "day": "Tuesday",
+                    "start_time": "20:00",
+                    "end_time": "21:00",
+                    "is_mandatory": true
+                  }
+                ]
+              }
+            ],
+            "doubtClassDetails": [
+              {
+                "batch": {
+                  "id": 13863,
+                  "name": "DB 2",
+                  "is_active": true,
+                  "time_zone": "IST",
+                  "batch_country": "India",
+                  "batch_start_date": "2022-09-16",
+                  "batch_end_date": "2023-05-31",
+                  "mandatory_sessions_count": 1,
+                  "optional_sessions_count": 0,
+                  "course_id": 5557,
+                  "course_name": "GRADE IX - Communication Course - Doubt Resolution",
+                  "course_fot_track_id": null,
+                  "course_proficiency_id": 2,
+                  "medium_of_instruction": "english",
+                  "course_batch": null,
+                  "cohort_id": 15,
+                  "course_type": "neo",
+                  "course_tag": "doubt_resolution",
+                  "slot_group_id": 9928,
+                  "tutor_language_enabled": true,
+                  "slot_group_name": "Friday",
+                  "batch_type": "regular",
+                  "available_subjects": [
+                    "Mathematics",
+                    "Science"
+                  ],
+                  "course_sub_tag": "Regular",
+                  "clash": false,
+                  "is_overloading": false,
+                  "is_clashing": false,
+                  "slots": [
+                    {
+                      "id": 38417,
+                      "day": "Friday",
+                      "start_time": "19:00",
+                      "end_time": "20:00",
+                      "is_mandatory": true
+                    }
+                  ]
+                },
+                "subject": "Mathematics",
+                "slot": [
+                  {
+                    "id": 38417,
+                    "day": "Friday",
+                    "start_time": "19:00",
+                    "end_time": "20:00",
+                    "is_mandatory": true
+                  }
+                ]
+              }
+            ],
+            "languageOfInstruction": "english",
+            "languageOfInstructionId": 1,
+            "mathPercent": "90",
+            "sciencePercent": "90",
+            "proficiency": "A1",
+            "schoolDetails": {
+              "schoolState": "Madhya Pradesh",
+              "city": "AgarMalwa",
+              "schoolAddress": "",
+              "newSchool": "test",
+              "schoolName": "other",
+              "otherSchoolName": "newSchool",
+              "schoolId": "",
+              "trackId": "cbse-9-1806-1776-lar"
+            },
+            "isTabletLock": false
+          },
+          "tabletLock": "not_applicable",
+          "productSelectionType": "byjus_classes",
+          "studentName": "Shubham singh",
+          "studentId": "Shubham singh-1",
+          "academicDetails": {
+            "mathPercent": "90",
+            "sciencePercent": "90",
+            "fotTrackId": "cbse-9-1806-1776-lar",
+            "proficiency": "A1",
+            "schoolDetails": {
+              "id": null,
+              "name": "test",
+              "city": "AgarMalwa",
+              "state": "Madhya Pradesh",
+              "address": "",
+              "pincode": null
+            },
+            "languageOfInstruction": "english",
+            "languageOfInstructionId": 1
+          }
+        }
+      ],
+      "products": [
+        {
+          "id": 4786,
+          "skuId": "SD09CB23",
+          "imageUrl": null,
+          "skuName": "9th CBSE (SD Card-Byjus) May-2023",
+          "status": "active",
+          "orgId": "ORG-1",
+          "city": null,
+          "basePrice": 22000,
+          "continuousPrice": 17000,
+          "hsnCode": "852351",
+          "programId": "BTLAKXAS0001",
+          "type": "product",
+          "subType": "sd_card",
+          "category": "btlp",
+          "package": null,
+          "course": "K10",
+          "subCourse": null,
+          "grade": "9",
+          "subject": null,
+          "board": "CBSE",
+          "language": null,
+          "validityType": "year",
+          "validity": "2023",
+          "validityMonth": "MAY",
+          "brand": null,
+          "size": null,
+          "model": null,
+          "scheme": null,
+          "skuSet": 1,
+          "cohortId": 15,
+          "ohProductId": "1069258",
+          "productState": null,
+          "isValidSku": true,
+          "remarks": null,
+          "validatedAt": "2021-11-09T14:28:01.369Z",
+          "financeCode": "SD09CB",
+          "sprId": null,
+          "orgFormattedName": "byjus",
+          "createdBy": "ayushi.bansal@byjus.com",
+          "updatedBy": "price_update_datafix",
+          "createdAt": "2021-11-09T14:28:01.369Z",
+          "updatedAt": "2022-09-23T10:32:38.848Z",
+          "deletedAt": null,
+          "continousPrice": 17000,
+          "skuSource": "SalesSkuMaster",
+          "itemType": "course",
+          "combinationType": "tlp",
+          "itemId": "dLDQEr2HtZeAf2zt-F6j75aE",
+          "studentId": "Shubham singh-1",
+          "tabletId": "T-1729564-Shubham singh",
+          "name": "9th CBSE (SD Card-Byjus) May-2023",
+          "sku": "9th CBSE (SD Card-Byjus) May-2023"
+        },
+        {
+          "id": 141,
+          "skuId": "UB09CB23",
+          "imageUrl": null,
+          "skuName": "9th Grade CBSE BYJU'S Classes May 2023",
+          "status": "active",
+          "orgId": "ORG-1",
+          "city": null,
+          "basePrice": 13000,
+          "continuousPrice": 13000,
+          "hsnCode": "999293",
+          "programId": "BCOPKXSY0002",
+          "type": "service",
+          "subType": "live",
+          "category": "byjus_classes_upgrade",
+          "package": null,
+          "course": "K10",
+          "subCourse": null,
+          "grade": "9",
+          "subject": null,
+          "board": "CBSE",
+          "language": null,
+          "validityType": "year",
+          "validity": "2023",
+          "validityMonth": "MAY",
+          "brand": null,
+          "size": null,
+          "model": null,
+          "scheme": null,
+          "skuSet": 1,
+          "cohortId": 15,
+          "ohProductId": "1817214",
+          "productState": null,
+          "isValidSku": true,
+          "remarks": null,
+          "validatedAt": "2021-11-09T14:38:52.224Z",
+          "financeCode": "UB09CB",
+          "sprId": null,
+          "orgFormattedName": "byjus",
+          "createdBy": "ayushi.bansal@byjus.com",
+          "updatedBy": "price_update_datafix",
+          "createdAt": "2021-11-09T14:38:52.224Z",
+          "updatedAt": "2022-06-09T05:05:37.058Z",
+          "deletedAt": null,
+          "continousPrice": 13000,
+          "skuSource": "SalesSkuMaster",
+          "itemType": "course",
+          "combinationType": "byjus_classes_upgrade",
+          "itemId": "PHVwXDRt21WzWaRXrJdF3aN_",
+          "studentId": "Shubham singh-1",
+          "tabletId": "T-1729564-Shubham singh",
+          "name": "9th Grade CBSE BYJU'S Classes May 2023",
+          "sku": "9th Grade CBSE BYJU'S Classes May 2023"
+        },
+        {
+          "id": 3352,
+          "skuId": "TSXMZZ",
+          "imageUrl": null,
+          "skuName": "SAMSUNG Tablet (Add-on-BYJUS) (10 inch-4G)",
+          "status": "active",
+          "orgId": "ORG-1",
+          "city": null,
+          "basePrice": 18000,
+          "continuousPrice": 15000,
+          "hsnCode": "847130",
+          "programId": "TLP1UCHW0001",
+          "type": "product",
+          "subType": "tablet",
+          "category": "tablet",
+          "package": null,
+          "course": "",
+          "subCourse": null,
+          "grade": null,
+          "subject": null,
+          "board": null,
+          "language": null,
+          "validityType": "N/A",
+          "validity": null,
+          "validityMonth": null,
+          "brand": "samsung",
+          "size": null,
+          "model": null,
+          "scheme": null,
+          "skuSet": 1,
+          "cohortId": null,
+          "ohProductId": "1729564",
+          "productState": "new",
+          "isValidSku": true,
+          "remarks": null,
+          "validatedAt": "2021-11-09T14:33:54.829Z",
+          "financeCode": "TSXMZZ",
+          "sprId": null,
+          "orgFormattedName": "byjus",
+          "createdBy": "ayushi.bansal@byjus.com",
+          "updatedBy": "price_update_datafix",
+          "createdAt": "2021-11-09T14:33:54.828Z",
+          "updatedAt": "2022-10-11T06:34:36.959Z",
+          "deletedAt": null,
+          "price": 18000,
+          "itemType": "tablet",
+          "skuSource": "SalesSkuMaster",
+          "itemId": "Ni0u4_EaPPeruDBV1oXPDTZB",
+          "studentId": "Shubham singh-1",
+          "tabletId": "T-1729564-Shubham singh",
+          "name": "SAMSUNG Tablet (Add-on-BYJUS) (10 inch-4G)",
+          "sku": "SAMSUNG Tablet (Add-on-BYJUS) (10 inch-4G)"
+        }
+      ],
+      "mentoring": {
+        "count": 0,
+        "items": [
+          null
+        ]
+      },
+      "finalPrice": 53000
+    },
+    "attachments": [
+      {
+        "_id": {
+          "oid": "6391c099e472a2001af70a86"
+        },
+        "name": "cheque",
+        "url": "https://orderhive-payments.s3.ap-southeast-1.amazonaws.com/development/6391bf54e472a2001af709d8/cheque/cheque-20221208_16160820.png"
+      }
+    ],
+    "cashbackDetails": {
+      "unutilizedCashbacks": []
+    },
+    "comments": [
+      {
+        "_id": {
+          "oid": "6391c099e472a2001af70a8e"
+        },
+        "category": "product",
+        "type": "details",
+        "comment": "Student Details :  Course Details : K10/K12 CBSE : 9 -  , Initial Validity : 2023 Sessions :\n                            Day : Thursday\n                            Time : 16:00-17:00  Sessions :\n                            Day : Thursday\n                            Time : 18:00-19:00  Sessions :\n                            Day : Friday\n                            Time : 16:00-17:00  Sessions :\n                            Day : Saturday\n                            Time : 16:00-17:00",
+        "commentedBy": "system",
+        "commentedAt": {
+          "date": {
+            "numberLong": "1670496409732"
+          }
+        },
+        "source": "kart"
+      },
+      {
+        "_id": {
+          "oid": "6391c099e472a2001af70a8f"
+        },
+        "category": "price",
+        "type": "range",
+        "comment": "Price Range : 46000 - 53000\n Final Price : 53000",
+        "commentedBy": "system",
+        "commentedAt": {
+          "date": {
+            "numberLong": "1670496409732"
+          }
+        },
+        "source": "kart"
+      },
+      {
+        "_id": {
+          "oid": "6391c099e472a2001af70a90"
+        },
+        "category": "payment",
+        "type": "refIds",
+        "comment": "Payment Details : , Method:CHEQUE Amount: 53000 ReferenceId:16704964078751-345345345253000",
+        "commentedBy": "system",
+        "commentedAt": {
+          "date": {
+            "numberLong": "1670496409732"
+          }
+        },
+        "source": "kart"
+      },
+      {
+        "_id": {
+          "oid": "6391c099e472a2001af70a91"
+        },
+        "category": "salesDetails",
+        "type": "for_OH_order_reference",
+        "comment": "Direct Sales Conducted By is sanjay.karkera@byjus.com",
+        "commentedBy": "system",
+        "commentedAt": {
+          "date": {
+            "numberLong": "1670496409732"
+          }
+        },
+        "source": "kart"
+      },
+      {
+        "_id": {
+          "oid": "6391c0abac0e7e0020a6e4e6"
+        },
+        "comment": "praz@byjus.com opted to move this order to OMS. Reason - undefined",
+        "commentedBy": "praz@byjus.com",
+        "commentedAt": {
+          "date": {
+            "numberLong": "1670496427627"
+          }
+        },
+        "source": "kart"
+      }
+    ],
+    "orderPunchingType": "NORMAL_ORDER",
+    "orderPunchingCategory": "byjus_classes",
+    "orderBatchId": "",
+    "status": "not_confirmed",
+    "leadDetails": {
+      "prospectId": "sdf667sudfh",
+      "accountNo": "24692",
+      "loggedInEmailId": "praz@byjus.com",
+      "leadCreatedBy": "",
+      "leadCreatedAt": null,
+      "leadMobileNo": "+91-8736576846",
+      "isLeadMobileUsed": true,
+      "leadLink": "https://run.leadsquared.com/LeadManagement/LeadDetails?LeadID=sdf667sudfh"
+    },
+    "contactDetails": {
+      "orderPunchingContact": "8736576846",
+      "cxProvidedContact": "8736576846",
+      "leadContact": "8736576846",
+      "gpContact": "",
+      "ngpContact": "",
+      "lpContact": ""
+    },
+    "createdAt": {
+      "date": {
+        "numberLong": "1670496427636"
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "numberLong": "1670496541974"
+      }
+    },
+    "studentDetails": [
+      {
+        "studentProfileDetails": {
+          "isExistingProfile": true,
+          "existingPremiumId": "1139099521",
+          "existingFamilyId": ""
+        },
+        "hlpDetails": {
+          "courseDetails": [
+            {
+              "id": 13865,
+              "name": "Test Regular Batch",
+              "is_active": true,
+              "time_zone": "IST",
+              "batch_country": "India",
+              "batch_start_date": "2022-09-16",
+              "batch_end_date": "2023-05-31",
+              "mandatory_sessions_count": 4,
+              "optional_sessions_count": 0,
+              "course_id": 5537,
+              "course_name": "retest bulk update",
+              "course_fot_track_id": "cbse-9-1806-1776-lar",
+              "course_proficiency_id": 1,
+              "medium_of_instruction": "english",
+              "course_batch": "12th",
+              "cohort_id": 15,
+              "course_type": "neo",
+              "course_tag": "classroom",
+              "slot_group_id": 9916,
+              "tutor_language_enabled": true,
+              "slot_group_name": "Th-Th-Fri-Sat",
+              "batch_type": "regular",
+              "available_subjects": [
+                "Mathematics",
+                "Physics",
+                "Mathematics",
+                "Chemistry",
+                "Mathematics",
+                "Biology"
+              ],
+              "course_sub_tag": "Regular",
+              "clash": false,
+              "is_overloading": false,
+              "is_clashing": false,
+              "slots": [
+                {
+                  "id": 38402,
+                  "day": "Thursday",
+                  "start_time": "16:00",
+                  "end_time": "17:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 38403,
+                  "day": "Thursday",
+                  "start_time": "18:00",
+                  "end_time": "19:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 38404,
+                  "day": "Friday",
+                  "start_time": "16:00",
+                  "end_time": "17:00",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 38405,
+                  "day": "Saturday",
+                  "start_time": "16:00",
+                  "end_time": "17:00",
+                  "is_mandatory": true
+                }
+              ]
+            }
+          ],
+          "sessionDetails": [
+            {
+              "sessions": [
+                {
+                  "day": "Thursday",
+                  "is_mandatory": true,
+                  "time": "16:00-17:00"
+                },
+                {
+                  "day": "Thursday",
+                  "is_mandatory": true,
+                  "time": "18:00-19:00"
+                },
+                {
+                  "day": "Friday",
+                  "is_mandatory": true,
+                  "time": "16:00-17:00"
+                },
+                {
+                  "day": "Saturday",
+                  "is_mandatory": true,
+                  "time": "16:00-17:00"
+                }
+              ],
+              "_id": {
+                "oid": "6391c06eac0e7e0020a6e4c9"
+              },
+              "type": "neo"
+            }
+          ],
+          "initialClass": "9",
+          "initialValidity": "2023",
+          "batchCode": "Hlp_07-12-2022"
+        },
+        "courseType": [
+          "K10"
+        ],
+        "electiveDetails": [
+          {
+            "batch": {
+              "id": 14392,
+              "name": "Test English",
+              "is_active": true,
+              "time_zone": "IST",
+              "batch_country": "India",
+              "batch_start_date": "2022-09-30",
+              "batch_end_date": "2023-01-31",
+              "mandatory_sessions_count": 1,
+              "optional_sessions_count": 0,
+              "course_id": 5556,
+              "course_name": "GRADE IX - Communication Course - Elective",
+              "course_fot_track_id": null,
+              "course_proficiency_id": null,
+              "medium_of_instruction": "english",
+              "course_batch": null,
+              "cohort_id": 15,
+              "course_type": "neo",
+              "course_tag": "elective",
+              "slot_group_id": 6280,
+              "tutor_language_enabled": true,
+              "slot_group_name": "Mon-7:00PM",
+              "batch_type": "regular",
+              "available_subjects": [
+                "English"
+              ],
+              "course_sub_tag": "Regular",
+              "clash": false,
+              "is_overloading": false,
+              "is_clashing": false,
+              "slots": [
+                {
+                  "id": 30136,
+                  "day": "Monday",
+                  "start_time": "19:00",
+                  "end_time": "20:00",
+                  "is_mandatory": true
+                }
+              ]
+            },
+            "subject": "English",
+            "slot": [
+              {
+                "id": 30136,
+                "day": "Monday",
+                "start_time": "19:00",
+                "end_time": "20:00",
+                "is_mandatory": true
+              }
+            ]
+          },
+          {
+            "batch": {
+              "id": 13859,
+              "name": "Communication II",
+              "is_active": true,
+              "time_zone": "IST",
+              "batch_country": "India",
+              "batch_start_date": "2022-09-16",
+              "batch_end_date": "2023-05-31",
+              "mandatory_sessions_count": 1,
+              "optional_sessions_count": 0,
+              "course_id": 5556,
+              "course_name": "GRADE IX - Communication Course - Elective",
+              "course_fot_track_id": null,
+              "course_proficiency_id": null,
+              "medium_of_instruction": "english",
+              "course_batch": null,
+              "cohort_id": 15,
+              "course_type": "neo",
+              "course_tag": "elective",
+              "slot_group_id": 9926,
+              "tutor_language_enabled": true,
+              "slot_group_name": "Friday",
+              "batch_type": "regular",
+              "available_subjects": [
+                "Social Studies"
+              ],
+              "course_sub_tag": "Regular",
+              "clash": false,
+              "is_overloading": false,
+              "is_clashing": false,
+              "slots": [
+                {
+                  "id": 38415,
+                  "day": "Friday",
+                  "start_time": "17:00",
+                  "end_time": "18:00",
+                  "is_mandatory": true
+                }
+              ]
+            },
+            "subject": "Social Studies",
+            "slot": [
+              {
+                "id": 38415,
+                "day": "Friday",
+                "start_time": "17:00",
+                "end_time": "18:00",
+                "is_mandatory": true
+              }
+            ]
+          },
+          {
+            "batch": {
+              "id": 13067,
+              "name": "test slotclash2",
+              "is_active": true,
+              "time_zone": "IST",
+              "batch_country": "India",
+              "batch_start_date": "2022-08-29",
+              "batch_end_date": "2022-12-31",
+              "mandatory_sessions_count": 1,
+              "optional_sessions_count": 0,
+              "course_id": 4945,
+              "course_name": "9th CBSE Elective",
+              "course_fot_track_id": null,
+              "course_proficiency_id": null,
+              "medium_of_instruction": "english",
+              "course_batch": null,
+              "cohort_id": 15,
+              "course_type": "neo",
+              "course_tag": "elective",
+              "slot_group_id": 6270,
+              "tutor_language_enabled": true,
+              "slot_group_name": "Tue-8:00PM",
+              "batch_type": "regular",
+              "available_subjects": [
+                "Coding"
+              ],
+              "course_sub_tag": "Regular",
+              "clash": false,
+              "is_overloading": false,
+              "is_clashing": false,
+              "slots": [
+                {
+                  "id": 30126,
+                  "day": "Tuesday",
+                  "start_time": "20:00",
+                  "end_time": "21:00",
+                  "is_mandatory": true
+                }
+              ]
+            },
+            "subject": "Coding",
+            "slot": [
+              {
+                "id": 30126,
+                "day": "Tuesday",
+                "start_time": "20:00",
+                "end_time": "21:00",
+                "is_mandatory": true
+              }
+            ]
+          }
+        ],
+        "doubtClassDetails": [
+          {
+            "batch": {
+              "id": 13863,
+              "name": "DB 2",
+              "is_active": true,
+              "time_zone": "IST",
+              "batch_country": "India",
+              "batch_start_date": "2022-09-16",
+              "batch_end_date": "2023-05-31",
+              "mandatory_sessions_count": 1,
+              "optional_sessions_count": 0,
+              "course_id": 5557,
+              "course_name": "GRADE IX - Communication Course - Doubt Resolution",
+              "course_fot_track_id": null,
+              "course_proficiency_id": 2,
+              "medium_of_instruction": "english",
+              "course_batch": null,
+              "cohort_id": 15,
+              "course_type": "neo",
+              "course_tag": "doubt_resolution",
+              "slot_group_id": 9928,
+              "tutor_language_enabled": true,
+              "slot_group_name": "Friday",
+              "batch_type": "regular",
+              "available_subjects": [
+                "Mathematics",
+                "Science"
+              ],
+              "course_sub_tag": "Regular",
+              "clash": false,
+              "is_overloading": false,
+              "is_clashing": false,
+              "slots": [
+                {
+                  "id": 38417,
+                  "day": "Friday",
+                  "start_time": "19:00",
+                  "end_time": "20:00",
+                  "is_mandatory": true
+                }
+              ]
+            },
+            "subject": "Mathematics",
+            "slot": [
+              {
+                "id": 38417,
+                "day": "Friday",
+                "start_time": "19:00",
+                "end_time": "20:00",
+                "is_mandatory": true
+              }
+            ]
+          }
+        ],
+        "workshops": [],
+        "items": [
+          {
+            "id": 4786,
+            "skuId": "SD09CB23",
+            "imageUrl": null,
+            "skuName": "9th CBSE (SD Card-Byjus) May-2023",
+            "status": "active",
+            "orgId": "ORG-1",
+            "city": null,
+            "basePrice": 22000,
+            "continuousPrice": 17000,
+            "hsnCode": "852351",
+            "programId": "BTLAKXAS0001",
+            "type": "product",
+            "subType": "sd_card",
+            "category": "btlp",
+            "package": null,
+            "course": "K10",
+            "subCourse": null,
+            "grade": "9",
+            "subject": null,
+            "board": "CBSE",
+            "language": null,
+            "validityType": "year",
+            "validity": "2023",
+            "validityMonth": "MAY",
+            "brand": null,
+            "size": null,
+            "model": null,
+            "scheme": null,
+            "skuSet": 1,
+            "cohortId": 15,
+            "ohProductId": "1069258",
+            "productState": null,
+            "isValidSku": true,
+            "remarks": null,
+            "validatedAt": "2021-11-09T14:28:01.369Z",
+            "financeCode": "SD09CB",
+            "sprId": null,
+            "orgFormattedName": "byjus",
+            "createdBy": "ayushi.bansal@byjus.com",
+            "updatedBy": "price_update_datafix",
+            "createdAt": "2021-11-09T14:28:01.369Z",
+            "updatedAt": "2022-09-23T10:32:38.848Z",
+            "deletedAt": null,
+            "continousPrice": 17000,
+            "skuSource": "SalesSkuMaster",
+            "itemType": "course",
+            "combinationType": "tlp",
+            "itemId": "dLDQEr2HtZeAf2zt-F6j75aE",
+            "studentId": "Shubham singh-1",
+            "tabletId": "T-1729564-Shubham singh",
+            "name": "9th CBSE (SD Card-Byjus) May-2023",
+            "sku": "9th CBSE (SD Card-Byjus) May-2023"
+          },
+          {
+            "id": 141,
+            "skuId": "UB09CB23",
+            "imageUrl": null,
+            "skuName": "9th Grade CBSE BYJU'S Classes May 2023",
+            "status": "active",
+            "orgId": "ORG-1",
+            "city": null,
+            "basePrice": 13000,
+            "continuousPrice": 13000,
+            "hsnCode": "999293",
+            "programId": "BCOPKXSY0002",
+            "type": "service",
+            "subType": "live",
+            "category": "byjus_classes_upgrade",
+            "package": null,
+            "course": "K10",
+            "subCourse": null,
+            "grade": "9",
+            "subject": null,
+            "board": "CBSE",
+            "language": null,
+            "validityType": "year",
+            "validity": "2023",
+            "validityMonth": "MAY",
+            "brand": null,
+            "size": null,
+            "model": null,
+            "scheme": null,
+            "skuSet": 1,
+            "cohortId": 15,
+            "ohProductId": "1817214",
+            "productState": null,
+            "isValidSku": true,
+            "remarks": null,
+            "validatedAt": "2021-11-09T14:38:52.224Z",
+            "financeCode": "UB09CB",
+            "sprId": null,
+            "orgFormattedName": "byjus",
+            "createdBy": "ayushi.bansal@byjus.com",
+            "updatedBy": "price_update_datafix",
+            "createdAt": "2021-11-09T14:38:52.224Z",
+            "updatedAt": "2022-06-09T05:05:37.058Z",
+            "deletedAt": null,
+            "continousPrice": 13000,
+            "skuSource": "SalesSkuMaster",
+            "itemType": "course",
+            "combinationType": "byjus_classes_upgrade",
+            "itemId": "PHVwXDRt21WzWaRXrJdF3aN_",
+            "studentId": "Shubham singh-1",
+            "tabletId": "T-1729564-Shubham singh",
+            "name": "9th Grade CBSE BYJU'S Classes May 2023",
+            "sku": "9th Grade CBSE BYJU'S Classes May 2023"
+          },
+          {
+            "id": 3352,
+            "skuId": "TSXMZZ",
+            "imageUrl": null,
+            "skuName": "SAMSUNG Tablet (Add-on-BYJUS) (10 inch-4G)",
+            "status": "active",
+            "orgId": "ORG-1",
+            "city": null,
+            "basePrice": 18000,
+            "continuousPrice": 15000,
+            "hsnCode": "847130",
+            "programId": "TLP1UCHW0001",
+            "type": "product",
+            "subType": "tablet",
+            "category": "tablet",
+            "package": null,
+            "course": "",
+            "subCourse": null,
+            "grade": null,
+            "subject": null,
+            "board": null,
+            "language": null,
+            "validityType": "N/A",
+            "validity": null,
+            "validityMonth": null,
+            "brand": "samsung",
+            "size": null,
+            "model": null,
+            "scheme": null,
+            "skuSet": 1,
+            "cohortId": null,
+            "ohProductId": "1729564",
+            "productState": "new",
+            "isValidSku": true,
+            "remarks": null,
+            "validatedAt": "2021-11-09T14:33:54.829Z",
+            "financeCode": "TSXMZZ",
+            "sprId": null,
+            "orgFormattedName": "byjus",
+            "createdBy": "ayushi.bansal@byjus.com",
+            "updatedBy": "price_update_datafix",
+            "createdAt": "2021-11-09T14:33:54.828Z",
+            "updatedAt": "2022-10-11T06:34:36.959Z",
+            "deletedAt": null,
+            "price": 18000,
+            "itemType": "tablet",
+            "skuSource": "SalesSkuMaster",
+            "itemId": "Ni0u4_EaPPeruDBV1oXPDTZB",
+            "studentId": "Shubham singh-1",
+            "tabletId": "T-1729564-Shubham singh",
+            "name": "SAMSUNG Tablet (Add-on-BYJUS) (10 inch-4G)",
+            "sku": "SAMSUNG Tablet (Add-on-BYJUS) (10 inch-4G)"
+          }
+        ],
+        "addOnItems": [],
+        "mentoringDetails": [
+          {
+            "type": "neo",
+            "sessions": [
+              {
+                "day": "Thursday",
+                "is_mandatory": true,
+                "time": "16:00-17:00"
+              },
+              {
+                "day": "Thursday",
+                "is_mandatory": true,
+                "time": "18:00-19:00"
+              },
+              {
+                "day": "Friday",
+                "is_mandatory": true,
+                "time": "16:00-17:00"
+              },
+              {
+                "day": "Saturday",
+                "is_mandatory": true,
+                "time": "16:00-17:00"
+              }
+            ]
+          }
+        ],
+        "bhlpCourseDetails": [
+          {
+            "id": 13865,
+            "name": "Test Regular Batch",
+            "is_active": true,
+            "time_zone": "IST",
+            "batch_country": "India",
+            "batch_start_date": "2022-09-16",
+            "batch_end_date": "2023-05-31",
+            "mandatory_sessions_count": 4,
+            "optional_sessions_count": 0,
+            "course_id": 5537,
+            "course_name": "retest bulk update",
+            "course_fot_track_id": "cbse-9-1806-1776-lar",
+            "course_proficiency_id": 1,
+            "medium_of_instruction": "english",
+            "course_batch": "12th",
+            "cohort_id": 15,
+            "course_type": "neo",
+            "course_tag": "classroom",
+            "slot_group_id": 9916,
+            "tutor_language_enabled": true,
+            "slot_group_name": "Th-Th-Fri-Sat",
+            "batch_type": "regular",
+            "available_subjects": [
+              "Mathematics",
+              "Physics",
+              "Mathematics",
+              "Chemistry",
+              "Mathematics",
+              "Biology"
+            ],
+            "course_sub_tag": "Regular",
+            "clash": false,
+            "is_overloading": false,
+            "is_clashing": false,
+            "slots": [
+              {
+                "id": 38402,
+                "day": "Thursday",
+                "start_time": "16:00",
+                "end_time": "17:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 38403,
+                "day": "Thursday",
+                "start_time": "18:00",
+                "end_time": "19:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 38404,
+                "day": "Friday",
+                "start_time": "16:00",
+                "end_time": "17:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 38405,
+                "day": "Saturday",
+                "start_time": "16:00",
+                "end_time": "17:00",
+                "is_mandatory": true
+              }
+            ]
+          }
+        ],
+        "featureTag": [],
+        "_id": {
+          "oid": "6391c06eac0e7e0020a6e4c8"
+        },
+        "course": "K10/K12",
+        "board": "CBSE",
+        "validity": "2023",
+        "initialClass": "9",
+        "tablet": "1729564",
+        "deviceType": "Tablet(Lenovo/Samsung)",
+        "formValues": {
+          "course": "K10/K12",
+          "courseType": "regular",
+          "board": "CBSE",
+          "subCourse": "",
+          "yearSelection": "2023",
+          "validity": 2023,
+          "session": "",
+          "initialClass": "9",
+          "tablet": "1729564",
+          "selectD4SDCard": false,
+          "userProfile": "1139099521",
+          "tabletId": "T-1729564",
+          "deviceType": "Tablet(Lenovo/Samsung)",
+          "featureTag": [],
+          "mentoringDetails": [
+            {
+              "type": "neo",
+              "sessions": [
+                {
+                  "day": "Thursday",
+                  "is_mandatory": true,
+                  "time": "16:00-17:00"
+                },
+                {
+                  "day": "Thursday",
+                  "is_mandatory": true,
+                  "time": "18:00-19:00"
+                },
+                {
+                  "day": "Friday",
+                  "is_mandatory": true,
+                  "time": "16:00-17:00"
+                },
+                {
+                  "day": "Saturday",
+                  "is_mandatory": true,
+                  "time": "16:00-17:00"
+                }
+              ]
+            }
+          ],
+          "bhlpCourseDetails": {
+            "id": 13865,
+            "name": "Test Regular Batch",
+            "is_active": true,
+            "time_zone": "IST",
+            "batch_country": "India",
+            "batch_start_date": "2022-09-16",
+            "batch_end_date": "2023-05-31",
+            "mandatory_sessions_count": 4,
+            "optional_sessions_count": 0,
+            "course_id": 5537,
+            "course_name": "retest bulk update",
+            "course_fot_track_id": "cbse-9-1806-1776-lar",
+            "course_proficiency_id": 1,
+            "medium_of_instruction": "english",
+            "course_batch": "12th",
+            "cohort_id": 15,
+            "course_type": "neo",
+            "course_tag": "classroom",
+            "slot_group_id": 9916,
+            "tutor_language_enabled": true,
+            "slot_group_name": "Th-Th-Fri-Sat",
+            "batch_type": "regular",
+            "available_subjects": [
+              "Mathematics",
+              "Physics",
+              "Mathematics",
+              "Chemistry",
+              "Mathematics",
+              "Biology"
+            ],
+            "course_sub_tag": "Regular",
+            "clash": false,
+            "is_overloading": false,
+            "is_clashing": false,
+            "slots": [
+              {
+                "id": 38402,
+                "day": "Thursday",
+                "start_time": "16:00",
+                "end_time": "17:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 38403,
+                "day": "Thursday",
+                "start_time": "18:00",
+                "end_time": "19:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 38404,
+                "day": "Friday",
+                "start_time": "16:00",
+                "end_time": "17:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 38405,
+                "day": "Saturday",
+                "start_time": "16:00",
+                "end_time": "17:00",
+                "is_mandatory": true
+              }
+            ]
+          },
+          "electiveDetails": [
+            {
+              "batch": {
+                "id": 14392,
+                "name": "Test English",
+                "is_active": true,
+                "time_zone": "IST",
+                "batch_country": "India",
+                "batch_start_date": "2022-09-30",
+                "batch_end_date": "2023-01-31",
+                "mandatory_sessions_count": 1,
+                "optional_sessions_count": 0,
+                "course_id": 5556,
+                "course_name": "GRADE IX - Communication Course - Elective",
+                "course_fot_track_id": null,
+                "course_proficiency_id": null,
+                "medium_of_instruction": "english",
+                "course_batch": null,
+                "cohort_id": 15,
+                "course_type": "neo",
+                "course_tag": "elective",
+                "slot_group_id": 6280,
+                "tutor_language_enabled": true,
+                "slot_group_name": "Mon-7:00PM",
+                "batch_type": "regular",
+                "available_subjects": [
+                  "English"
+                ],
+                "course_sub_tag": "Regular",
+                "clash": false,
+                "is_overloading": false,
+                "is_clashing": false,
+                "slots": [
+                  {
+                    "id": 30136,
+                    "day": "Monday",
+                    "start_time": "19:00",
+                    "end_time": "20:00",
+                    "is_mandatory": true
+                  }
+                ]
+              },
+              "subject": "English",
+              "slot": [
+                {
+                  "id": 30136,
+                  "day": "Monday",
+                  "start_time": "19:00",
+                  "end_time": "20:00",
+                  "is_mandatory": true
+                }
+              ]
+            },
+            {
+              "batch": {
+                "id": 13859,
+                "name": "Communication II",
+                "is_active": true,
+                "time_zone": "IST",
+                "batch_country": "India",
+                "batch_start_date": "2022-09-16",
+                "batch_end_date": "2023-05-31",
+                "mandatory_sessions_count": 1,
+                "optional_sessions_count": 0,
+                "course_id": 5556,
+                "course_name": "GRADE IX - Communication Course - Elective",
+                "course_fot_track_id": null,
+                "course_proficiency_id": null,
+                "medium_of_instruction": "english",
+                "course_batch": null,
+                "cohort_id": 15,
+                "course_type": "neo",
+                "course_tag": "elective",
+                "slot_group_id": 9926,
+                "tutor_language_enabled": true,
+                "slot_group_name": "Friday",
+                "batch_type": "regular",
+                "available_subjects": [
+                  "Social Studies"
+                ],
+                "course_sub_tag": "Regular",
+                "clash": false,
+                "is_overloading": false,
+                "is_clashing": false,
+                "slots": [
+                  {
+                    "id": 38415,
+                    "day": "Friday",
+                    "start_time": "17:00",
+                    "end_time": "18:00",
+                    "is_mandatory": true
+                  }
+                ]
+              },
+              "subject": "Social Studies",
+              "slot": [
+                {
+                  "id": 38415,
+                  "day": "Friday",
+                  "start_time": "17:00",
+                  "end_time": "18:00",
+                  "is_mandatory": true
+                }
+              ]
+            },
+            {
+              "batch": {
+                "id": 13067,
+                "name": "test slotclash2",
+                "is_active": true,
+                "time_zone": "IST",
+                "batch_country": "India",
+                "batch_start_date": "2022-08-29",
+                "batch_end_date": "2022-12-31",
+                "mandatory_sessions_count": 1,
+                "optional_sessions_count": 0,
+                "course_id": 4945,
+                "course_name": "9th CBSE Elective",
+                "course_fot_track_id": null,
+                "course_proficiency_id": null,
+                "medium_of_instruction": "english",
+                "course_batch": null,
+                "cohort_id": 15,
+                "course_type": "neo",
+                "course_tag": "elective",
+                "slot_group_id": 6270,
+                "tutor_language_enabled": true,
+                "slot_group_name": "Tue-8:00PM",
+                "batch_type": "regular",
+                "available_subjects": [
+                  "Coding"
+                ],
+                "course_sub_tag": "Regular",
+                "clash": false,
+                "is_overloading": false,
+                "is_clashing": false,
+                "slots": [
+                  {
+                    "id": 30126,
+                    "day": "Tuesday",
+                    "start_time": "20:00",
+                    "end_time": "21:00",
+                    "is_mandatory": true
+                  }
+                ]
+              },
+              "subject": "Coding",
+              "slot": [
+                {
+                  "id": 30126,
+                  "day": "Tuesday",
+                  "start_time": "20:00",
+                  "end_time": "21:00",
+                  "is_mandatory": true
+                }
+              ]
+            }
+          ],
+          "doubtClassDetails": [
+            {
+              "batch": {
+                "id": 13863,
+                "name": "DB 2",
+                "is_active": true,
+                "time_zone": "IST",
+                "batch_country": "India",
+                "batch_start_date": "2022-09-16",
+                "batch_end_date": "2023-05-31",
+                "mandatory_sessions_count": 1,
+                "optional_sessions_count": 0,
+                "course_id": 5557,
+                "course_name": "GRADE IX - Communication Course - Doubt Resolution",
+                "course_fot_track_id": null,
+                "course_proficiency_id": 2,
+                "medium_of_instruction": "english",
+                "course_batch": null,
+                "cohort_id": 15,
+                "course_type": "neo",
+                "course_tag": "doubt_resolution",
+                "slot_group_id": 9928,
+                "tutor_language_enabled": true,
+                "slot_group_name": "Friday",
+                "batch_type": "regular",
+                "available_subjects": [
+                  "Mathematics",
+                  "Science"
+                ],
+                "course_sub_tag": "Regular",
+                "clash": false,
+                "is_overloading": false,
+                "is_clashing": false,
+                "slots": [
+                  {
+                    "id": 38417,
+                    "day": "Friday",
+                    "start_time": "19:00",
+                    "end_time": "20:00",
+                    "is_mandatory": true
+                  }
+                ]
+              },
+              "subject": "Mathematics",
+              "slot": [
+                {
+                  "id": 38417,
+                  "day": "Friday",
+                  "start_time": "19:00",
+                  "end_time": "20:00",
+                  "is_mandatory": true
+                }
+              ]
+            }
+          ],
+          "languageOfInstruction": "english",
+          "languageOfInstructionId": 1,
+          "mathPercent": "90",
+          "sciencePercent": "90",
+          "proficiency": "A1",
+          "schoolDetails": {
+            "schoolState": "Madhya Pradesh",
+            "city": "AgarMalwa",
+            "schoolAddress": "",
+            "newSchool": "test",
+            "schoolName": "other",
+            "otherSchoolName": "newSchool",
+            "schoolId": "",
+            "trackId": "cbse-9-1806-1776-lar"
+          },
+          "isTabletLock": false
+        },
+        "tabletLock": "not_applicable",
+        "productSelectionType": "byjus_classes",
+        "studentName": "Shubham singh",
+        "studentId": "Shubham singh-1",
+        "academicDetails": {
+          "mathPercent": "90",
+          "sciencePercent": "90",
+          "fotTrackId": "cbse-9-1806-1776-lar",
+          "proficiency": "A1",
+          "schoolDetails": {
+            "id": null,
+            "name": "test",
+            "city": "AgarMalwa",
+            "state": "Madhya Pradesh",
+            "address": "",
+            "pincode": null
+          },
+          "languageOfInstruction": "english",
+          "languageOfInstructionId": 1
+        },
+        "premiumAccount": "1139099521"
+      }
+    ],
+    "actionDetails": {
+      "createdAt": {
+        "date": {
+          "numberLong": "1670496540308"
+        }
+      },
+      "createdBy": "praz@byjus.com",
+      "notConfirmedAt": {
+        "date": {
+          "numberLong": "1670496541951"
+        }
+      },
+      "notConfirmedBy": "system"
+    },
+    "type": "product",
+    "subType": "course",
+    "timestamps": {
+      "createdAt": {
+        "date": {
+          "numberLong": "1670496540308"
+        }
+      }
+    },
+    "sacCommand": "applicable",
+    "poaCommand": "applicable",
+    "revenueOrderValue": 53000,
+    "orderValue": 53000,
+    "voucherDetails": null,
+    "sourceDetails": {},
+    "assignmentCategory": "k10",
+    "smsDetails": {
+      "notConfirmedAt": {
+        "date": {
+          "numberLong": "1670496541943"
+        }
+      },
+      "notConfirmedBy": "draft_order_job"
+    }
+  }

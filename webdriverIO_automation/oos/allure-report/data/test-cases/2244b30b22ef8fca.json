@@ -1,0 +1,62 @@
+{
+  "uid" : "2244b30b22ef8fca",
+  "name" : "Verify the shipment skus and skus name",
+  "fullName" : "Validating UKG Single order.Verify the shipment skus and skus name",
+  "historyId" : "daef4c0a44fb5d32f3429539b2485cf5",
+  "time" : {
+    "start" : 1669702919234,
+    "stop" : 1669702919241,
+    "duration" : 7
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "no such window: target window already closed\n                from unknown error: web view not found\n                  (Session info: chrome=107.0.5304.121)",
+  "statusTrace" : "no such window: no such window: target window already closed\n                from unknown error: web view not found\n                  (Session info: chrome=107.0.5304.121)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleClass1.js:69:9)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the shipment skus and skus name"
+  }, {
+    "name" : "package",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.121"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2244b30b22ef8fca.json",
+  "parameterValues" : [ "chrome-107.0.5304.121" ]
+}

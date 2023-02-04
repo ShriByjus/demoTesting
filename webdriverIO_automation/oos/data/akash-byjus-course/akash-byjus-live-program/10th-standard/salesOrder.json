@@ -1,0 +1,2509 @@
+
+{
+    "draftOrderRefId": "6391cd42d1e75c001aa4d204",
+    "draftOrderId": "DO-2212081140500086",
+    "salesOrderId": "SO-2212081140500086",
+    "baseOrderId": "",
+    "orderType": "SPLIT",
+    "courseType": "K10",
+    "orgFormattedName": "aakash",
+    "orgId": "ORG-2",
+    "currency": "INR",
+    "salesSubOrderIds": [
+      "SSO1-2212081140500086",
+      "SSO2-2212081140500086"
+    ],
+    "customerDetails": {
+      "customerId": "CX-2210280625062228",
+      "name": "sanjay",
+      "identifierDetails": [],
+      "alternateName": "Shubham singh",
+      "mobileNo": "+91-8736576846",
+      "alternateMobileNo": "+91-8736576846",
+      "email": "sd56uysfgdf@gmail.com",
+      "alternateEmail": null,
+      "type": "individual",
+      "communicationPreferences": {},
+      "isBooksOpted": true,
+      "billingCustomerId": null
+    },
+    "billingCustomerDetails": null,
+    "lineItems": [
+      {
+        "id": 15893,
+        "skuId": "SCXMGJ",
+        "imageUrl": "",
+        "skuName": "BYJU'S LearnStation Junior 10inch Mobile Data Grey Tablet",
+        "status": "active",
+        "orgId": "ORG-1",
+        "basePrice": 16000,
+        "continuousPrice": 16000,
+        "hsnCode": "84713010",
+        "programId": "TLP2UCHW0001",
+        "type": "product",
+        "subType": "tablet",
+        "category": "tablet",
+        "package": null,
+        "course": "",
+        "subCourse": "",
+        "grade": "",
+        "subject": "",
+        "board": "",
+        "language": "",
+        "validityType": "N/A",
+        "validity": "May 2023",
+        "validityMonth": "",
+        "brand": "",
+        "size": "",
+        "model": "",
+        "scheme": "",
+        "skuSet": 1,
+        "cohortId": null,
+        "ohProductId": "1993793",
+        "productState": "new",
+        "isValidSku": true,
+        "remarks": "",
+        "validatedAt": "2022-10-11T07:42:00.121Z",
+        "financeCode": "SBXMGJ",
+        "sprId": null,
+        "orgFormattedName": "byjus",
+        "createdBy": "system",
+        "createdAt": "2022-10-11T07:42:00.182Z",
+        "deletedAt": null,
+        "price": 16000,
+        "itemType": "tablet",
+        "itemId": "Nl3S0OXfh4NZGv5KP5wBo-CL",
+        "studentId": "Shubham singh-1",
+        "tabletId": "T-SCXMGJ-Shubham singh",
+        "name": "BYJU'S LearnStation Junior 10inch Mobile Data Grey Tablet",
+        "sku": "BYJU'S LearnStation Junior 10inch Mobile Data Grey Tablet",
+        "salesSubOrderId": "SSO1-2212081140500086",
+        "itemStatus": "mapping_pending",
+        "invoicePrice": "16000.00",
+        "pgLineItemId": 1538668
+      },
+      {
+        "id": 9213,
+        "skuId": "FD10NA23",
+        "imageUrl": null,
+        "skuName": "Aakash Byjus 10th Grade Foundation SD Card 2023",
+        "status": "active",
+        "orgId": "ORG-2",
+        "basePrice": 25000,
+        "continuousPrice": 20000,
+        "hsnCode": "85235100",
+        "programId": "BALAKXAS0001",
+        "type": "product",
+        "subType": "sd_card",
+        "category": "aakash",
+        "package": null,
+        "course": "K10",
+        "subCourse": null,
+        "grade": "10",
+        "subject": null,
+        "board": "CBSE",
+        "language": null,
+        "validityType": "year",
+        "validity": "2023",
+        "validityMonth": "MAY",
+        "brand": null,
+        "size": null,
+        "model": null,
+        "scheme": null,
+        "skuSet": 1,
+        "cohortId": 231,
+        "ohProductId": "1985758",
+        "productState": null,
+        "isValidSku": true,
+        "remarks": null,
+        "validatedAt": null,
+        "financeCode": "FD10NA",
+        "sprId": null,
+        "orgFormattedName": "aakash",
+        "createdBy": "ijaz.shaik@byjus.com",
+        "createdAt": "2022-04-27T07:15:02.090Z",
+        "deletedAt": null,
+        "price": 25000,
+        "itemId": "LJq8OEBTpV7sL0fpKUgtS_8W",
+        "studentId": "Shubham singh-1",
+        "tabletId": "T-SCXMGJ-Shubham singh",
+        "name": "Aakash Byjus 10th Grade Foundation SD Card 2023",
+        "sku": "Aakash Byjus 10th Grade Foundation SD Card 2023",
+        "itemType": "sd_card",
+        "salesSubOrderId": "SSO1-2212081140500086",
+        "itemStatus": "mapping_pending",
+        "invoicePrice": "22500.00",
+        "pgLineItemId": 1538669
+      },
+      {
+        "id": 9189,
+        "skuId": "FL10NA23",
+        "imageUrl": null,
+        "skuName": "Aakash Byjus 10th Grade Foundation Live 2023",
+        "status": "active",
+        "orgId": "ORG-2",
+        "basePrice": 20000,
+        "continuousPrice": 10000,
+        "hsnCode": "999293",
+        "programId": "ACOPKXSY0003",
+        "type": "service",
+        "subType": "live",
+        "category": "aakash_neo_classes",
+        "package": null,
+        "course": "K10",
+        "subCourse": null,
+        "grade": "10",
+        "subject": null,
+        "board": "CBSE",
+        "language": null,
+        "validityType": "year",
+        "validity": "2023",
+        "validityMonth": "MAY",
+        "brand": null,
+        "size": null,
+        "model": null,
+        "scheme": null,
+        "skuSet": 1,
+        "cohortId": 231,
+        "ohProductId": "1985735",
+        "productState": null,
+        "isValidSku": true,
+        "remarks": null,
+        "validatedAt": null,
+        "financeCode": "FL10NA",
+        "sprId": null,
+        "orgFormattedName": "aakash",
+        "createdBy": "ijaz.shaik@byjus.com",
+        "createdAt": "2022-04-27T07:15:01.874Z",
+        "deletedAt": null,
+        "price": 20000,
+        "itemId": "eZZ98pKhzT0iw28CXSg3-Awe",
+        "studentId": "Shubham singh-1",
+        "tabletId": "T-SCXMGJ-Shubham singh",
+        "name": "Aakash Byjus 10th Grade Foundation Live 2023",
+        "sku": "Aakash Byjus 10th Grade Foundation Live 2023",
+        "itemType": "byjus_premium",
+        "salesSubOrderId": "SSO2-2212081140500086",
+        "itemStatus": "mapping_pending",
+        "invoicePrice": "22500.00",
+        "pgLineItemId": 1538670
+      }
+    ],
+    "shipmentLineItems": [
+      {
+        "skuId": "SCXMGZUC",
+        "skuName": "BYJU'S LearnStation Junior 10inch Mobile Data Grey Tablet",
+        "status": "active",
+        "type": "tablet",
+        "properties": {
+          "grade": null,
+          "course": null,
+          "board": null,
+          "color": "Grey",
+          "brand": null,
+          "manufacturer": null,
+          "warehouse": [],
+          "sdCardMemory": null,
+          "appVersion": null,
+          "sdCardVersion": null,
+          "apkRelease": {
+            "date": {
+              "numberLong": "1666076591681"
+            }
+          },
+          "contentRelease": {
+            "date": {
+              "numberLong": "1666076591681"
+            }
+          },
+          "location": null,
+          "comboDetails": [],
+          "userType": null,
+          "programId": null,
+          "size": null,
+          "model": null,
+          "skuSet": 1,
+          "subject": null,
+          "language": null,
+          "scheme": null
+        },
+        "dimensions": {
+          "length": null,
+          "width": null,
+          "height": null,
+          "unit": null
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "productionStrategy": "learnstation",
+        "financeMaterialCode": "SCXMGZUC",
+        "financeProductCode": null,
+        "createdBy": "system",
+        "updatedBy": "jamsheer.a@byjus.com",
+        "createdAt": {
+          "date": {
+            "numberLong": "1666076591637"
+          }
+        },
+        "updatedAt": {
+          "date": {
+            "numberLong": "1666076591682"
+          }
+        },
+        "deletedAt": null,
+        "productState": "new",
+        "activeSalesItems": [
+          "SCXMGJ"
+        ],
+        "activeLineItemIds": [
+          "Nl3S0OXfh4NZGv5KP5wBo-CL"
+        ],
+        "price": 16000,
+        "studentId": "Shubham singh-1",
+        "students": [
+          "Shubham singh-1"
+        ],
+        "tabletId": "T-SCXMGJ-Shubham singh",
+        "itemStatus": "mapping_pending",
+        "pgShipmentLineItemId": 17069232
+      },
+      {
+        "skuId": "F5CB1010",
+        "properties": {
+          "grade": "10-10",
+          "appVersion:": "NA",
+          "board": "CBSE",
+          "brand": "null",
+          "color": "null",
+          "course": "null",
+          "inventoryRelease": {
+            "date": {
+              "numberLong": "1652095976174"
+            }
+          },
+          "location": "NA",
+          "manufacturer": "",
+          "noOfCombos": "0",
+          "part": 1,
+          "sdCardMemory": 256,
+          "sdCardVersion": "NA",
+          "size": "null",
+          "unit": "null",
+          "comboDetails": [
+            {
+              "finalClass": 10,
+              "grades": "10-10",
+              "initialClass": 10
+            }
+          ],
+          "combinations": [
+            "10-10"
+          ],
+          "programId": "BALAKXAS0001",
+          "apkRelease": {
+            "date": {
+              "numberLong": "1652095976174"
+            }
+          },
+          "contentRelease": {
+            "date": {
+              "numberLong": "1652095976174"
+            }
+          }
+        },
+        "skuName": "Grade 10 Aakash Byju's Live Foundation SD Card",
+        "type": "sd_card",
+        "productState": null,
+        "activeGrades": [
+          10
+        ],
+        "activeSalesItems": [
+          "FD10NA23",
+          "FL10NA23"
+        ],
+        "activeLineItemIds": [
+          "LJq8OEBTpV7sL0fpKUgtS_8W",
+          "eZZ98pKhzT0iw28CXSg3-Awe"
+        ],
+        "studentId": "Shubham singh-1",
+        "tabletId": "T-SCXMGJ-Shubham singh",
+        "itemStatus": "mapping_pending",
+        "pgShipmentLineItemId": 17069233
+      }
+    ],
+    "returnLineItems": [],
+    "addonLineItems": [
+      {
+        "skuName": "Textbook Class 10 Foundation Course Test Prep - Aakash Byju's",
+        "type": "product",
+        "subType": "book",
+        "skuId": "BK10FCTP",
+        "ohProductId": "1990753",
+        "course": "K10",
+        "grade": "10",
+        "board": "CBSE",
+        "subject": null,
+        "programId": "BALAKXAS0001",
+        "skuSet": 1,
+        "basePrice": 1000,
+        "language": null,
+        "studentId": "Shubham singh-1",
+        "price": 1000,
+        "validity": "2023",
+        "scheduledYear": 2023,
+        "invoicePrice": "0.00"
+      }
+    ],
+    "salesDetails": {
+      "typeOfSales": "DS Sales",
+      "directSalesBy": "sanjay.karkera@byjus.com",
+      "directSalesByCampaign": "Livechat Calling",
+      "salesAppointmentBy": null,
+      "salesAppointmentByCampaign": "Hyderabad",
+      "incentiveDate": {
+        "date": {
+          "numberLong": "1670371200000"
+        }
+      },
+      "salesAppointmentByRole": null,
+      "directSalesByDept": "business_development",
+      "salesAppointmentByDept": "",
+      "salesIndex": 175
+    },
+    "addressDetails": {
+      "billing": {
+        "zipcode": "600001",
+        "addressLine1": "Akshya Nagar 1st Block 1st Cro",
+        "country": "India",
+        "state": "Tamil Nadu",
+        "city": "Chennai",
+        "addressLine2": "Akshya Nagar 1st Block 1st Cro,",
+        "addressLine3": "Mannady S.O (Chennai)",
+        "address": "Akshya Nagar 1st Block 1st Cro\n Akshya Nagar 1st Block 1st Cro\n Mannady S.O (Chennai)",
+        "addressId": "496870"
+      },
+      "shipping": {
+        "zipcode": "600001",
+        "addressLine1": "Akshya Nagar 1st Block 1st Cro",
+        "country": "India",
+        "state": "Tamil Nadu",
+        "city": "Chennai",
+        "addressLine2": "Akshya Nagar 1st Block 1st Cro,",
+        "addressLine3": "Mannady S.O (Chennai)",
+        "address": "Akshya Nagar 1st Block 1st Cro\n Akshya Nagar 1st Block 1st Cro\n Mannady S.O (Chennai)",
+        "addressId": "496871"
+      }
+    },
+    "paymentDetails": {
+      "type": "NON_EMI",
+      "totalAmount": 61000,
+      "totalEmiAmount": 0,
+      "totalPrepaidAmount": 61000,
+      "totalPostpaidAmount": 0,
+      "paymentMethod": "NGP",
+      "payments": [
+        {
+          "isPrepaid": true,
+          "_id": {
+            "oid": "6391cd9bd1e75c001aa4d2d9"
+          },
+          "provider": "CHEQUE",
+          "referenceId": "16704997380094-345345345261000",
+          "amount": 61000,
+          "additionalDetails": {
+            "bank": "city"
+          },
+          "attachments": [
+            {
+              "_id": {
+                "oid": "6391cd9bd1e75c001aa4d2da"
+              },
+              "name": "cheque",
+              "url": "https://orderhive-payments.s3.ap-southeast-1.amazonaws.com/development/6391cd42d1e75c001aa4d204/cheque/cheque-20221208_17128560.png"
+            }
+          ],
+          "type": "DOWN_PAYMENT",
+          "currency": "",
+          "isActive": true
+        }
+      ],
+      "minDownPaymentDetails": {
+        "isMatched": true,
+        "minDownPaymentAmount": 0
+      },
+      "isRepunchedCase": false,
+      "paymentMode": "CHEQUE",
+      "paymentAmountSplit": "61000",
+      "subscriptionDetails": {}
+    },
+    "financeOrderId": "1d34bd41f1c64a52834f266b34782eff",
+    "productDetails": {
+      "productType": "combo",
+      "mentoringDetails": [
+        null
+      ],
+      "bhlpCourseDetails": [
+        {
+          "id": 193,
+          "name": "Testing Batch 1",
+          "is_active": true,
+          "live_on_kart": true,
+          "time_zone": "IST",
+          "batch_country": "India",
+          "batch_start_date": "2022-04-25",
+          "batch_end_date": "2022-07-30",
+          "mandatory_sessions_count": 20,
+          "optional_sessions_count": 0,
+          "course_id": 103,
+          "course_name": "Grade 10 Foundation Testing",
+          "course_fot_track_id": null,
+          "course_proficiency_id": null,
+          "medium_of_instruction": "english",
+          "course_batch": null,
+          "cohort_id": 231,
+          "course_type": "neo",
+          "course_tag": "classroom",
+          "slot_group_id": 170,
+          "tutor_language_enabled": true,
+          "slot_group_name": "Slot 1",
+          "batch_type": "regular",
+          "available_subjects": [],
+          "course_sub_tag": "Regular",
+          "slots": [
+            {
+              "id": 1705,
+              "day": "Monday",
+              "start_time": "15:15",
+              "end_time": "17:05",
+              "is_mandatory": true
+            },
+            {
+              "id": 1706,
+              "day": "Monday",
+              "start_time": "17:15",
+              "end_time": "18:35",
+              "is_mandatory": true
+            },
+            {
+              "id": 1707,
+              "day": "Monday",
+              "start_time": "19:15",
+              "end_time": "20:35",
+              "is_mandatory": true
+            },
+            {
+              "id": 1708,
+              "day": "Monday",
+              "start_time": "20:45",
+              "end_time": "22:05",
+              "is_mandatory": true
+            },
+            {
+              "id": 1709,
+              "day": "Tuesday",
+              "start_time": "15:15",
+              "end_time": "17:05",
+              "is_mandatory": true
+            },
+            {
+              "id": 1710,
+              "day": "Tuesday",
+              "start_time": "17:15",
+              "end_time": "18:35",
+              "is_mandatory": true
+            },
+            {
+              "id": 1711,
+              "day": "Tuesday",
+              "start_time": "19:15",
+              "end_time": "20:35",
+              "is_mandatory": true
+            },
+            {
+              "id": 1712,
+              "day": "Tuesday",
+              "start_time": "20:45",
+              "end_time": "22:05",
+              "is_mandatory": true
+            },
+            {
+              "id": 1713,
+              "day": "Thursday",
+              "start_time": "15:15",
+              "end_time": "17:05",
+              "is_mandatory": true
+            },
+            {
+              "id": 1714,
+              "day": "Thursday",
+              "start_time": "17:15",
+              "end_time": "18:35",
+              "is_mandatory": true
+            },
+            {
+              "id": 1715,
+              "day": "Thursday",
+              "start_time": "19:15",
+              "end_time": "20:35",
+              "is_mandatory": true
+            },
+            {
+              "id": 1716,
+              "day": "Thursday",
+              "start_time": "20:45",
+              "end_time": "22:05",
+              "is_mandatory": true
+            },
+            {
+              "id": 1717,
+              "day": "Friday",
+              "start_time": "15:15",
+              "end_time": "17:05",
+              "is_mandatory": true
+            },
+            {
+              "id": 1718,
+              "day": "Friday",
+              "start_time": "17:15",
+              "end_time": "18:35",
+              "is_mandatory": true
+            },
+            {
+              "id": 1719,
+              "day": "Friday",
+              "start_time": "19:15",
+              "end_time": "20:35",
+              "is_mandatory": true
+            },
+            {
+              "id": 1720,
+              "day": "Friday",
+              "start_time": "20:45",
+              "end_time": "22:05",
+              "is_mandatory": true
+            },
+            {
+              "id": 1721,
+              "day": "Saturday",
+              "start_time": "15:15",
+              "end_time": "17:05",
+              "is_mandatory": true
+            },
+            {
+              "id": 1722,
+              "day": "Saturday",
+              "start_time": "17:15",
+              "end_time": "18:35",
+              "is_mandatory": true
+            },
+            {
+              "id": 1723,
+              "day": "Saturday",
+              "start_time": "19:15",
+              "end_time": "20:35",
+              "is_mandatory": true
+            },
+            {
+              "id": 1724,
+              "day": "Saturday",
+              "start_time": "20:45",
+              "end_time": "22:05",
+              "is_mandatory": true
+            }
+          ]
+        }
+      ],
+      "paymentType": "NON_EMI",
+      "maxPrice": 61000,
+      "minPrice": 52000,
+      "discountedPrice": 0,
+      "students": [
+        {
+          "studentProfileDetails": {
+            "isExistingProfile": false,
+            "existingPremiumId": "",
+            "existingFamilyId": ""
+          },
+          "hlpDetails": {
+            "courseDetails": [],
+            "sessionDetails": []
+          },
+          "courseType": [
+            "K10"
+          ],
+          "electiveDetails": [],
+          "doubtClassDetails": [],
+          "workshops": [],
+          "items": [
+            {
+              "id": 9189,
+              "skuId": "FL10NA23",
+              "imageUrl": null,
+              "skuName": "Aakash Byjus 10th Grade Foundation Live 2023",
+              "status": "active",
+              "orgId": "ORG-2",
+              "city": null,
+              "basePrice": 20000,
+              "continuousPrice": 10000,
+              "hsnCode": "999293",
+              "programId": "ACOPKXSY0003",
+              "type": "service",
+              "subType": "live",
+              "category": "aakash_neo_classes",
+              "package": null,
+              "course": "K10",
+              "subCourse": null,
+              "grade": "10",
+              "subject": null,
+              "board": "CBSE",
+              "language": null,
+              "validityType": "year",
+              "validity": "2023",
+              "validityMonth": "MAY",
+              "brand": null,
+              "size": null,
+              "model": null,
+              "scheme": null,
+              "skuSet": 1,
+              "cohortId": 231,
+              "ohProductId": "1985735",
+              "productState": null,
+              "isValidSku": true,
+              "remarks": null,
+              "validatedAt": null,
+              "financeCode": "FL10NA",
+              "sprId": null,
+              "orgFormattedName": "aakash",
+              "createdBy": "ijaz.shaik@byjus.com",
+              "updatedBy": "amey.bhojane@byjus.com",
+              "createdAt": "2022-04-27T07:15:01.874Z",
+              "updatedAt": "2022-05-13T06:29:53.198Z",
+              "deletedAt": null,
+              "price": 20000,
+              "combinationType": "aakash_neo_classes",
+              "itemId": "eZZ98pKhzT0iw28CXSg3-Awe",
+              "studentId": "Shubham singh-1",
+              "tabletId": "T-SCXMGJ-Shubham singh",
+              "name": "Aakash Byjus 10th Grade Foundation Live 2023",
+              "sku": "Aakash Byjus 10th Grade Foundation Live 2023",
+              "itemType": "live"
+            },
+            {
+              "id": 9213,
+              "skuId": "FD10NA23",
+              "imageUrl": null,
+              "skuName": "Aakash Byjus 10th Grade Foundation SD Card 2023",
+              "status": "active",
+              "orgId": "ORG-2",
+              "city": null,
+              "basePrice": 25000,
+              "continuousPrice": 20000,
+              "hsnCode": "85235100",
+              "programId": "BALAKXAS0001",
+              "type": "product",
+              "subType": "sd_card",
+              "category": "aakash",
+              "package": null,
+              "course": "K10",
+              "subCourse": null,
+              "grade": "10",
+              "subject": null,
+              "board": "CBSE",
+              "language": null,
+              "validityType": "year",
+              "validity": "2023",
+              "validityMonth": "MAY",
+              "brand": null,
+              "size": null,
+              "model": null,
+              "scheme": null,
+              "skuSet": 1,
+              "cohortId": 231,
+              "ohProductId": "1985758",
+              "productState": null,
+              "isValidSku": true,
+              "remarks": null,
+              "validatedAt": null,
+              "financeCode": "FD10NA",
+              "sprId": null,
+              "orgFormattedName": "aakash",
+              "createdBy": "ijaz.shaik@byjus.com",
+              "updatedBy": "amey.bhojane@byjus.com",
+              "createdAt": "2022-04-27T07:15:02.090Z",
+              "updatedAt": "2022-05-13T06:29:53.198Z",
+              "deletedAt": null,
+              "price": 25000,
+              "combinationType": "aakash",
+              "itemId": "LJq8OEBTpV7sL0fpKUgtS_8W",
+              "studentId": "Shubham singh-1",
+              "tabletId": "T-SCXMGJ-Shubham singh",
+              "name": "Aakash Byjus 10th Grade Foundation SD Card 2023",
+              "sku": "Aakash Byjus 10th Grade Foundation SD Card 2023",
+              "itemType": "sd_card"
+            },
+            {
+              "id": 15893,
+              "skuId": "SCXMGJ",
+              "imageUrl": "",
+              "skuName": "BYJU'S LearnStation Junior 10inch Mobile Data Grey Tablet",
+              "status": "active",
+              "orgId": "ORG-1",
+              "city": "",
+              "basePrice": 16000,
+              "continuousPrice": 16000,
+              "hsnCode": "84713010",
+              "programId": "TLP2UCHW0001",
+              "type": "product",
+              "subType": "tablet",
+              "category": "tablet",
+              "package": null,
+              "course": "",
+              "subCourse": "",
+              "grade": "",
+              "subject": "",
+              "board": "",
+              "language": "",
+              "validityType": "N/A",
+              "validity": "May 2023",
+              "validityMonth": "",
+              "brand": "",
+              "size": "",
+              "model": "",
+              "scheme": "",
+              "skuSet": 1,
+              "cohortId": null,
+              "ohProductId": "1993793",
+              "productState": "new",
+              "isValidSku": true,
+              "remarks": "",
+              "validatedAt": "2022-10-11T07:42:00.121Z",
+              "financeCode": "SBXMGJ",
+              "sprId": null,
+              "orgFormattedName": "byjus",
+              "createdBy": "system",
+              "updatedBy": "datafix",
+              "createdAt": "2022-10-11T07:42:00.182Z",
+              "updatedAt": "2022-10-20T09:13:45.479Z",
+              "deletedAt": null,
+              "price": 16000,
+              "itemType": "tablet",
+              "itemId": "Nl3S0OXfh4NZGv5KP5wBo-CL",
+              "combinationType": "product",
+              "studentId": "Shubham singh-1",
+              "tabletId": "T-SCXMGJ-Shubham singh",
+              "name": "BYJU'S LearnStation Junior 10inch Mobile Data Grey Tablet",
+              "sku": "BYJU'S LearnStation Junior 10inch Mobile Data Grey Tablet"
+            }
+          ],
+          "addOnItems": [],
+          "mentoringDetails": [
+            {
+              "type": "neo",
+              "sessions": [
+                {
+                  "day": "Monday",
+                  "is_mandatory": true,
+                  "time": "15:15-17:05"
+                },
+                {
+                  "day": "Monday",
+                  "is_mandatory": true,
+                  "time": "17:15-18:35"
+                },
+                {
+                  "day": "Monday",
+                  "is_mandatory": true,
+                  "time": "19:15-20:35"
+                },
+                {
+                  "day": "Monday",
+                  "is_mandatory": true,
+                  "time": "20:45-22:05"
+                },
+                {
+                  "day": "Tuesday",
+                  "is_mandatory": true,
+                  "time": "15:15-17:05"
+                },
+                {
+                  "day": "Tuesday",
+                  "is_mandatory": true,
+                  "time": "17:15-18:35"
+                },
+                {
+                  "day": "Tuesday",
+                  "is_mandatory": true,
+                  "time": "19:15-20:35"
+                },
+                {
+                  "day": "Tuesday",
+                  "is_mandatory": true,
+                  "time": "20:45-22:05"
+                },
+                {
+                  "day": "Thursday",
+                  "is_mandatory": true,
+                  "time": "15:15-17:05"
+                },
+                {
+                  "day": "Thursday",
+                  "is_mandatory": true,
+                  "time": "17:15-18:35"
+                },
+                {
+                  "day": "Thursday",
+                  "is_mandatory": true,
+                  "time": "19:15-20:35"
+                },
+                {
+                  "day": "Thursday",
+                  "is_mandatory": true,
+                  "time": "20:45-22:05"
+                },
+                {
+                  "day": "Friday",
+                  "is_mandatory": true,
+                  "time": "15:15-17:05"
+                },
+                {
+                  "day": "Friday",
+                  "is_mandatory": true,
+                  "time": "17:15-18:35"
+                },
+                {
+                  "day": "Friday",
+                  "is_mandatory": true,
+                  "time": "19:15-20:35"
+                },
+                {
+                  "day": "Friday",
+                  "is_mandatory": true,
+                  "time": "20:45-22:05"
+                },
+                {
+                  "day": "Saturday",
+                  "is_mandatory": true,
+                  "time": "15:15-17:05"
+                },
+                {
+                  "day": "Saturday",
+                  "is_mandatory": true,
+                  "time": "17:15-18:35"
+                },
+                {
+                  "day": "Saturday",
+                  "is_mandatory": true,
+                  "time": "19:15-20:35"
+                },
+                {
+                  "day": "Saturday",
+                  "is_mandatory": true,
+                  "time": "20:45-22:05"
+                }
+              ]
+            }
+          ],
+          "bhlpCourseDetails": [
+            {
+              "id": 193,
+              "name": "Testing Batch 1",
+              "is_active": true,
+              "live_on_kart": true,
+              "time_zone": "IST",
+              "batch_country": "India",
+              "batch_start_date": "2022-04-25",
+              "batch_end_date": "2022-07-30",
+              "mandatory_sessions_count": 20,
+              "optional_sessions_count": 0,
+              "course_id": 103,
+              "course_name": "Grade 10 Foundation Testing",
+              "course_fot_track_id": null,
+              "course_proficiency_id": null,
+              "medium_of_instruction": "english",
+              "course_batch": null,
+              "cohort_id": 231,
+              "course_type": "neo",
+              "course_tag": "classroom",
+              "slot_group_id": 170,
+              "tutor_language_enabled": true,
+              "slot_group_name": "Slot 1",
+              "batch_type": "regular",
+              "available_subjects": [],
+              "course_sub_tag": "Regular",
+              "slots": [
+                {
+                  "id": 1705,
+                  "day": "Monday",
+                  "start_time": "15:15",
+                  "end_time": "17:05",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 1706,
+                  "day": "Monday",
+                  "start_time": "17:15",
+                  "end_time": "18:35",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 1707,
+                  "day": "Monday",
+                  "start_time": "19:15",
+                  "end_time": "20:35",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 1708,
+                  "day": "Monday",
+                  "start_time": "20:45",
+                  "end_time": "22:05",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 1709,
+                  "day": "Tuesday",
+                  "start_time": "15:15",
+                  "end_time": "17:05",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 1710,
+                  "day": "Tuesday",
+                  "start_time": "17:15",
+                  "end_time": "18:35",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 1711,
+                  "day": "Tuesday",
+                  "start_time": "19:15",
+                  "end_time": "20:35",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 1712,
+                  "day": "Tuesday",
+                  "start_time": "20:45",
+                  "end_time": "22:05",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 1713,
+                  "day": "Thursday",
+                  "start_time": "15:15",
+                  "end_time": "17:05",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 1714,
+                  "day": "Thursday",
+                  "start_time": "17:15",
+                  "end_time": "18:35",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 1715,
+                  "day": "Thursday",
+                  "start_time": "19:15",
+                  "end_time": "20:35",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 1716,
+                  "day": "Thursday",
+                  "start_time": "20:45",
+                  "end_time": "22:05",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 1717,
+                  "day": "Friday",
+                  "start_time": "15:15",
+                  "end_time": "17:05",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 1718,
+                  "day": "Friday",
+                  "start_time": "17:15",
+                  "end_time": "18:35",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 1719,
+                  "day": "Friday",
+                  "start_time": "19:15",
+                  "end_time": "20:35",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 1720,
+                  "day": "Friday",
+                  "start_time": "20:45",
+                  "end_time": "22:05",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 1721,
+                  "day": "Saturday",
+                  "start_time": "15:15",
+                  "end_time": "17:05",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 1722,
+                  "day": "Saturday",
+                  "start_time": "17:15",
+                  "end_time": "18:35",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 1723,
+                  "day": "Saturday",
+                  "start_time": "19:15",
+                  "end_time": "20:35",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 1724,
+                  "day": "Saturday",
+                  "start_time": "20:45",
+                  "end_time": "22:05",
+                  "is_mandatory": true
+                }
+              ]
+            }
+          ],
+          "featureTag": [],
+          "_id": {
+            "oid": "6391cd79d1e75c001aa4d279"
+          },
+          "board": "CBSE",
+          "initialClass": "10",
+          "finalClass": "10",
+          "validity": "2023",
+          "tablet": "SCXMGJ",
+          "formValues": {
+            "userProfile": "newProfile",
+            "productLearningType": "aakash_byjus_live",
+            "subType": "",
+            "board": "CBSE",
+            "initialClass": "10",
+            "finalClass": "10",
+            "duration": "",
+            "initialGradeProductLearningType": "",
+            "finalGradeProductLearningType": "",
+            "subCourse": "",
+            "validity": 2023,
+            "tablet": "SCXMGJ",
+            "mentoringDetails": [
+              {
+                "type": "neo",
+                "sessions": [
+                  {
+                    "day": "Monday",
+                    "is_mandatory": true,
+                    "time": "15:15-17:05"
+                  },
+                  {
+                    "day": "Monday",
+                    "is_mandatory": true,
+                    "time": "17:15-18:35"
+                  },
+                  {
+                    "day": "Monday",
+                    "is_mandatory": true,
+                    "time": "19:15-20:35"
+                  },
+                  {
+                    "day": "Monday",
+                    "is_mandatory": true,
+                    "time": "20:45-22:05"
+                  },
+                  {
+                    "day": "Tuesday",
+                    "is_mandatory": true,
+                    "time": "15:15-17:05"
+                  },
+                  {
+                    "day": "Tuesday",
+                    "is_mandatory": true,
+                    "time": "17:15-18:35"
+                  },
+                  {
+                    "day": "Tuesday",
+                    "is_mandatory": true,
+                    "time": "19:15-20:35"
+                  },
+                  {
+                    "day": "Tuesday",
+                    "is_mandatory": true,
+                    "time": "20:45-22:05"
+                  },
+                  {
+                    "day": "Thursday",
+                    "is_mandatory": true,
+                    "time": "15:15-17:05"
+                  },
+                  {
+                    "day": "Thursday",
+                    "is_mandatory": true,
+                    "time": "17:15-18:35"
+                  },
+                  {
+                    "day": "Thursday",
+                    "is_mandatory": true,
+                    "time": "19:15-20:35"
+                  },
+                  {
+                    "day": "Thursday",
+                    "is_mandatory": true,
+                    "time": "20:45-22:05"
+                  },
+                  {
+                    "day": "Friday",
+                    "is_mandatory": true,
+                    "time": "15:15-17:05"
+                  },
+                  {
+                    "day": "Friday",
+                    "is_mandatory": true,
+                    "time": "17:15-18:35"
+                  },
+                  {
+                    "day": "Friday",
+                    "is_mandatory": true,
+                    "time": "19:15-20:35"
+                  },
+                  {
+                    "day": "Friday",
+                    "is_mandatory": true,
+                    "time": "20:45-22:05"
+                  },
+                  {
+                    "day": "Saturday",
+                    "is_mandatory": true,
+                    "time": "15:15-17:05"
+                  },
+                  {
+                    "day": "Saturday",
+                    "is_mandatory": true,
+                    "time": "17:15-18:35"
+                  },
+                  {
+                    "day": "Saturday",
+                    "is_mandatory": true,
+                    "time": "19:15-20:35"
+                  },
+                  {
+                    "day": "Saturday",
+                    "is_mandatory": true,
+                    "time": "20:45-22:05"
+                  }
+                ]
+              }
+            ],
+            "bhlpCourseDetails": {
+              "id": 193,
+              "name": "Testing Batch 1",
+              "is_active": true,
+              "live_on_kart": true,
+              "time_zone": "IST",
+              "batch_country": "India",
+              "batch_start_date": "2022-04-25",
+              "batch_end_date": "2022-07-30",
+              "mandatory_sessions_count": 20,
+              "optional_sessions_count": 0,
+              "course_id": 103,
+              "course_name": "Grade 10 Foundation Testing",
+              "course_fot_track_id": null,
+              "course_proficiency_id": null,
+              "medium_of_instruction": "english",
+              "course_batch": null,
+              "cohort_id": 231,
+              "course_type": "neo",
+              "course_tag": "classroom",
+              "slot_group_id": 170,
+              "tutor_language_enabled": true,
+              "slot_group_name": "Slot 1",
+              "batch_type": "regular",
+              "available_subjects": [],
+              "course_sub_tag": "Regular",
+              "slots": [
+                {
+                  "id": 1705,
+                  "day": "Monday",
+                  "start_time": "15:15",
+                  "end_time": "17:05",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 1706,
+                  "day": "Monday",
+                  "start_time": "17:15",
+                  "end_time": "18:35",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 1707,
+                  "day": "Monday",
+                  "start_time": "19:15",
+                  "end_time": "20:35",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 1708,
+                  "day": "Monday",
+                  "start_time": "20:45",
+                  "end_time": "22:05",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 1709,
+                  "day": "Tuesday",
+                  "start_time": "15:15",
+                  "end_time": "17:05",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 1710,
+                  "day": "Tuesday",
+                  "start_time": "17:15",
+                  "end_time": "18:35",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 1711,
+                  "day": "Tuesday",
+                  "start_time": "19:15",
+                  "end_time": "20:35",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 1712,
+                  "day": "Tuesday",
+                  "start_time": "20:45",
+                  "end_time": "22:05",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 1713,
+                  "day": "Thursday",
+                  "start_time": "15:15",
+                  "end_time": "17:05",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 1714,
+                  "day": "Thursday",
+                  "start_time": "17:15",
+                  "end_time": "18:35",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 1715,
+                  "day": "Thursday",
+                  "start_time": "19:15",
+                  "end_time": "20:35",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 1716,
+                  "day": "Thursday",
+                  "start_time": "20:45",
+                  "end_time": "22:05",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 1717,
+                  "day": "Friday",
+                  "start_time": "15:15",
+                  "end_time": "17:05",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 1718,
+                  "day": "Friday",
+                  "start_time": "17:15",
+                  "end_time": "18:35",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 1719,
+                  "day": "Friday",
+                  "start_time": "19:15",
+                  "end_time": "20:35",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 1720,
+                  "day": "Friday",
+                  "start_time": "20:45",
+                  "end_time": "22:05",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 1721,
+                  "day": "Saturday",
+                  "start_time": "15:15",
+                  "end_time": "17:05",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 1722,
+                  "day": "Saturday",
+                  "start_time": "17:15",
+                  "end_time": "18:35",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 1723,
+                  "day": "Saturday",
+                  "start_time": "19:15",
+                  "end_time": "20:35",
+                  "is_mandatory": true
+                },
+                {
+                  "id": 1724,
+                  "day": "Saturday",
+                  "start_time": "20:45",
+                  "end_time": "22:05",
+                  "is_mandatory": true
+                }
+              ]
+            },
+            "proficiency": "",
+            "mathPercent": "",
+            "sciencePercent": "",
+            "languageOfInstruction": "english",
+            "languageOfInstructionId": 1,
+            "tabletId": "T-SCXMGJ",
+            "isTabletLock": false
+          },
+          "tabletLock": "not_applicable",
+          "productSelectionType": "byjus_aakash_neo",
+          "studentName": "Shubham singh",
+          "studentId": "Shubham singh-1",
+          "academicDetails": {
+            "mathPercent": "",
+            "sciencePercent": "",
+            "fotTrackId": null,
+            "proficiency": "",
+            "schoolDetails": {
+              "id": null,
+              "name": "",
+              "address": "",
+              "pincode": null
+            },
+            "languageOfInstruction": "english",
+            "languageOfInstructionId": 1
+          }
+        }
+      ],
+      "products": [
+        {
+          "id": 9189,
+          "skuId": "FL10NA23",
+          "imageUrl": null,
+          "skuName": "Aakash Byjus 10th Grade Foundation Live 2023",
+          "status": "active",
+          "orgId": "ORG-2",
+          "city": null,
+          "basePrice": 20000,
+          "continuousPrice": 10000,
+          "hsnCode": "999293",
+          "programId": "ACOPKXSY0003",
+          "type": "service",
+          "subType": "live",
+          "category": "aakash_neo_classes",
+          "package": null,
+          "course": "K10",
+          "subCourse": null,
+          "grade": "10",
+          "subject": null,
+          "board": "CBSE",
+          "language": null,
+          "validityType": "year",
+          "validity": "2023",
+          "validityMonth": "MAY",
+          "brand": null,
+          "size": null,
+          "model": null,
+          "scheme": null,
+          "skuSet": 1,
+          "cohortId": 231,
+          "ohProductId": "1985735",
+          "productState": null,
+          "isValidSku": true,
+          "remarks": null,
+          "validatedAt": null,
+          "financeCode": "FL10NA",
+          "sprId": null,
+          "orgFormattedName": "aakash",
+          "createdBy": "ijaz.shaik@byjus.com",
+          "updatedBy": "amey.bhojane@byjus.com",
+          "createdAt": "2022-04-27T07:15:01.874Z",
+          "updatedAt": "2022-05-13T06:29:53.198Z",
+          "deletedAt": null,
+          "price": 20000,
+          "combinationType": "aakash_neo_classes",
+          "itemId": "eZZ98pKhzT0iw28CXSg3-Awe",
+          "studentId": "Shubham singh-1",
+          "tabletId": "T-SCXMGJ-Shubham singh",
+          "name": "Aakash Byjus 10th Grade Foundation Live 2023",
+          "sku": "Aakash Byjus 10th Grade Foundation Live 2023",
+          "itemType": "live"
+        },
+        {
+          "id": 9213,
+          "skuId": "FD10NA23",
+          "imageUrl": null,
+          "skuName": "Aakash Byjus 10th Grade Foundation SD Card 2023",
+          "status": "active",
+          "orgId": "ORG-2",
+          "city": null,
+          "basePrice": 25000,
+          "continuousPrice": 20000,
+          "hsnCode": "85235100",
+          "programId": "BALAKXAS0001",
+          "type": "product",
+          "subType": "sd_card",
+          "category": "aakash",
+          "package": null,
+          "course": "K10",
+          "subCourse": null,
+          "grade": "10",
+          "subject": null,
+          "board": "CBSE",
+          "language": null,
+          "validityType": "year",
+          "validity": "2023",
+          "validityMonth": "MAY",
+          "brand": null,
+          "size": null,
+          "model": null,
+          "scheme": null,
+          "skuSet": 1,
+          "cohortId": 231,
+          "ohProductId": "1985758",
+          "productState": null,
+          "isValidSku": true,
+          "remarks": null,
+          "validatedAt": null,
+          "financeCode": "FD10NA",
+          "sprId": null,
+          "orgFormattedName": "aakash",
+          "createdBy": "ijaz.shaik@byjus.com",
+          "updatedBy": "amey.bhojane@byjus.com",
+          "createdAt": "2022-04-27T07:15:02.090Z",
+          "updatedAt": "2022-05-13T06:29:53.198Z",
+          "deletedAt": null,
+          "price": 25000,
+          "combinationType": "aakash",
+          "itemId": "LJq8OEBTpV7sL0fpKUgtS_8W",
+          "studentId": "Shubham singh-1",
+          "tabletId": "T-SCXMGJ-Shubham singh",
+          "name": "Aakash Byjus 10th Grade Foundation SD Card 2023",
+          "sku": "Aakash Byjus 10th Grade Foundation SD Card 2023",
+          "itemType": "sd_card"
+        },
+        {
+          "id": 15893,
+          "skuId": "SCXMGJ",
+          "imageUrl": "",
+          "skuName": "BYJU'S LearnStation Junior 10inch Mobile Data Grey Tablet",
+          "status": "active",
+          "orgId": "ORG-1",
+          "city": "",
+          "basePrice": 16000,
+          "continuousPrice": 16000,
+          "hsnCode": "84713010",
+          "programId": "TLP2UCHW0001",
+          "type": "product",
+          "subType": "tablet",
+          "category": "tablet",
+          "package": null,
+          "course": "",
+          "subCourse": "",
+          "grade": "",
+          "subject": "",
+          "board": "",
+          "language": "",
+          "validityType": "N/A",
+          "validity": "May 2023",
+          "validityMonth": "",
+          "brand": "",
+          "size": "",
+          "model": "",
+          "scheme": "",
+          "skuSet": 1,
+          "cohortId": null,
+          "ohProductId": "1993793",
+          "productState": "new",
+          "isValidSku": true,
+          "remarks": "",
+          "validatedAt": "2022-10-11T07:42:00.121Z",
+          "financeCode": "SBXMGJ",
+          "sprId": null,
+          "orgFormattedName": "byjus",
+          "createdBy": "system",
+          "updatedBy": "datafix",
+          "createdAt": "2022-10-11T07:42:00.182Z",
+          "updatedAt": "2022-10-20T09:13:45.479Z",
+          "deletedAt": null,
+          "price": 16000,
+          "itemType": "tablet",
+          "itemId": "Nl3S0OXfh4NZGv5KP5wBo-CL",
+          "combinationType": "product",
+          "studentId": "Shubham singh-1",
+          "tabletId": "T-SCXMGJ-Shubham singh",
+          "name": "BYJU'S LearnStation Junior 10inch Mobile Data Grey Tablet",
+          "sku": "BYJU'S LearnStation Junior 10inch Mobile Data Grey Tablet"
+        }
+      ],
+      "finalPrice": 61000
+    },
+    "attachments": [
+      {
+        "_id": {
+          "oid": "6391cd9bd1e75c001aa4d2d8"
+        },
+        "name": "cheque",
+        "url": "https://orderhive-payments.s3.ap-southeast-1.amazonaws.com/development/6391cd42d1e75c001aa4d204/cheque/cheque-20221208_17128560.png"
+      }
+    ],
+    "cashbackDetails": {
+      "unutilizedCashbacks": []
+    },
+    "comments": [
+      {
+        "_id": {
+          "oid": "6391cd9cd1e75c001aa4d2e0"
+        },
+        "category": "product",
+        "type": "details",
+        "comment": "Student Details :  Course Details : undefined CBSE : 10 - 10 , Initial Validity : 2023 Sessions :\n                            Day : Monday\n                            Time : 15:15-17:05  Sessions :\n                            Day : Monday\n                            Time : 17:15-18:35  Sessions :\n                            Day : Monday\n                            Time : 19:15-20:35  Sessions :\n                            Day : Monday\n                            Time : 20:45-22:05  Sessions :\n                            Day : Tuesday\n                            Time : 15:15-17:05  Sessions :\n                            Day : Tuesday\n                            Time : 17:15-18:35  Sessions :\n                            Day : Tuesday\n                            Time : 19:15-20:35  Sessions :\n                            Day : Tuesday\n                            Time : 20:45-22:05  Sessions :\n                            Day : Thursday\n                            Time : 15:15-17:05  Sessions :\n                            Day : Thursday\n                            Time : 17:15-18:35  Sessions :\n                            Day : Thursday\n                            Time : 19:15-20:35  Sessions :\n                            Day : Thursday\n                            Time : 20:45-22:05  Sessions :\n                            Day : Friday\n                            Time : 15:15-17:05  Sessions :\n                            Day : Friday\n                            Time : 17:15-18:35  Sessions :\n                            Day : Friday\n                            Time : 19:15-20:35  Sessions :\n                            Day : Friday\n                            Time : 20:45-22:05  Sessions :\n                            Day : Saturday\n                            Time : 15:15-17:05  Sessions :\n                            Day : Saturday\n                            Time : 17:15-18:35  Sessions :\n                            Day : Saturday\n                            Time : 19:15-20:35  Sessions :\n                            Day : Saturday\n                            Time : 20:45-22:05",
+        "commentedBy": "system",
+        "commentedAt": {
+          "date": {
+            "numberLong": "1670499740258"
+          }
+        },
+        "source": "kart"
+      },
+      {
+        "_id": {
+          "oid": "6391cd9cd1e75c001aa4d2e1"
+        },
+        "category": "price",
+        "type": "range",
+        "comment": "Price Range : 52000 - 61000\n Final Price : 61000",
+        "commentedBy": "system",
+        "commentedAt": {
+          "date": {
+            "numberLong": "1670499740258"
+          }
+        },
+        "source": "kart"
+      },
+      {
+        "_id": {
+          "oid": "6391cd9cd1e75c001aa4d2e2"
+        },
+        "category": "payment",
+        "type": "refIds",
+        "comment": "Payment Details : , Method:CHEQUE Amount: 61000 ReferenceId:16704997380094-345345345261000",
+        "commentedBy": "system",
+        "commentedAt": {
+          "date": {
+            "numberLong": "1670499740259"
+          }
+        },
+        "source": "kart"
+      },
+      {
+        "_id": {
+          "oid": "6391cd9cd1e75c001aa4d2e3"
+        },
+        "category": "salesDetails",
+        "type": "for_OH_order_reference",
+        "comment": "Direct Sales Conducted By is sanjay.karkera@byjus.com",
+        "commentedBy": "system",
+        "commentedAt": {
+          "date": {
+            "numberLong": "1670499740259"
+          }
+        },
+        "source": "kart"
+      },
+      {
+        "_id": {
+          "oid": "6391cda3d1e75c001aa4d2ef"
+        },
+        "comment": "praz@byjus.com opted to move this order to OMS. Reason - undefined",
+        "commentedBy": "praz@byjus.com",
+        "commentedAt": {
+          "date": {
+            "numberLong": "1670499747963"
+          }
+        },
+        "source": "kart"
+      }
+    ],
+    "orderPunchingType": "normal_order",
+    "orderPunchingCategory": "aakash_neo_classes",
+    "orderBatchId": "",
+    "status": "not_confirmed",
+    "leadDetails": {
+      "prospectId": "sdf667sudfh",
+      "accountNo": "24692",
+      "loggedInEmailId": "praz@byjus.com",
+      "leadCreatedBy": "",
+      "leadCreatedAt": null,
+      "leadMobileNo": "+91-8736576846",
+      "isLeadMobileUsed": true,
+      "leadLink": "https://run.leadsquared.com/LeadManagement/LeadDetails?LeadID=sdf667sudfh"
+    },
+    "contactDetails": {
+      "orderPunchingContact": "8736576846",
+      "cxProvidedContact": "8736576846",
+      "leadContact": "8736576846",
+      "gpContact": "",
+      "ngpContact": "",
+      "lpContact": ""
+    },
+    "createdAt": {
+      "date": {
+        "numberLong": "1670499747972"
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "numberLong": "1670499841970"
+      }
+    },
+    "studentDetails": [
+      {
+        "studentProfileDetails": {
+          "isExistingProfile": false,
+          "existingPremiumId": "",
+          "existingFamilyId": ""
+        },
+        "hlpDetails": {
+          "courseDetails": [],
+          "sessionDetails": []
+        },
+        "courseType": [
+          "K10"
+        ],
+        "electiveDetails": [],
+        "doubtClassDetails": [],
+        "workshops": [],
+        "items": [
+          {
+            "id": 9189,
+            "skuId": "FL10NA23",
+            "imageUrl": null,
+            "skuName": "Aakash Byjus 10th Grade Foundation Live 2023",
+            "status": "active",
+            "orgId": "ORG-2",
+            "city": null,
+            "basePrice": 20000,
+            "continuousPrice": 10000,
+            "hsnCode": "999293",
+            "programId": "ACOPKXSY0003",
+            "type": "service",
+            "subType": "live",
+            "category": "aakash_neo_classes",
+            "package": null,
+            "course": "K10",
+            "subCourse": null,
+            "grade": "10",
+            "subject": null,
+            "board": "CBSE",
+            "language": null,
+            "validityType": "year",
+            "validity": "2023",
+            "validityMonth": "MAY",
+            "brand": null,
+            "size": null,
+            "model": null,
+            "scheme": null,
+            "skuSet": 1,
+            "cohortId": 231,
+            "ohProductId": "1985735",
+            "productState": null,
+            "isValidSku": true,
+            "remarks": null,
+            "validatedAt": null,
+            "financeCode": "FL10NA",
+            "sprId": null,
+            "orgFormattedName": "aakash",
+            "createdBy": "ijaz.shaik@byjus.com",
+            "updatedBy": "amey.bhojane@byjus.com",
+            "createdAt": "2022-04-27T07:15:01.874Z",
+            "updatedAt": "2022-05-13T06:29:53.198Z",
+            "deletedAt": null,
+            "price": 20000,
+            "combinationType": "aakash_neo_classes",
+            "itemId": "eZZ98pKhzT0iw28CXSg3-Awe",
+            "studentId": "Shubham singh-1",
+            "tabletId": "T-SCXMGJ-Shubham singh",
+            "name": "Aakash Byjus 10th Grade Foundation Live 2023",
+            "sku": "Aakash Byjus 10th Grade Foundation Live 2023",
+            "itemType": "live"
+          },
+          {
+            "id": 9213,
+            "skuId": "FD10NA23",
+            "imageUrl": null,
+            "skuName": "Aakash Byjus 10th Grade Foundation SD Card 2023",
+            "status": "active",
+            "orgId": "ORG-2",
+            "city": null,
+            "basePrice": 25000,
+            "continuousPrice": 20000,
+            "hsnCode": "85235100",
+            "programId": "BALAKXAS0001",
+            "type": "product",
+            "subType": "sd_card",
+            "category": "aakash",
+            "package": null,
+            "course": "K10",
+            "subCourse": null,
+            "grade": "10",
+            "subject": null,
+            "board": "CBSE",
+            "language": null,
+            "validityType": "year",
+            "validity": "2023",
+            "validityMonth": "MAY",
+            "brand": null,
+            "size": null,
+            "model": null,
+            "scheme": null,
+            "skuSet": 1,
+            "cohortId": 231,
+            "ohProductId": "1985758",
+            "productState": null,
+            "isValidSku": true,
+            "remarks": null,
+            "validatedAt": null,
+            "financeCode": "FD10NA",
+            "sprId": null,
+            "orgFormattedName": "aakash",
+            "createdBy": "ijaz.shaik@byjus.com",
+            "updatedBy": "amey.bhojane@byjus.com",
+            "createdAt": "2022-04-27T07:15:02.090Z",
+            "updatedAt": "2022-05-13T06:29:53.198Z",
+            "deletedAt": null,
+            "price": 25000,
+            "combinationType": "aakash",
+            "itemId": "LJq8OEBTpV7sL0fpKUgtS_8W",
+            "studentId": "Shubham singh-1",
+            "tabletId": "T-SCXMGJ-Shubham singh",
+            "name": "Aakash Byjus 10th Grade Foundation SD Card 2023",
+            "sku": "Aakash Byjus 10th Grade Foundation SD Card 2023",
+            "itemType": "sd_card"
+          },
+          {
+            "id": 15893,
+            "skuId": "SCXMGJ",
+            "imageUrl": "",
+            "skuName": "BYJU'S LearnStation Junior 10inch Mobile Data Grey Tablet",
+            "status": "active",
+            "orgId": "ORG-1",
+            "city": "",
+            "basePrice": 16000,
+            "continuousPrice": 16000,
+            "hsnCode": "84713010",
+            "programId": "TLP2UCHW0001",
+            "type": "product",
+            "subType": "tablet",
+            "category": "tablet",
+            "package": null,
+            "course": "",
+            "subCourse": "",
+            "grade": "",
+            "subject": "",
+            "board": "",
+            "language": "",
+            "validityType": "N/A",
+            "validity": "May 2023",
+            "validityMonth": "",
+            "brand": "",
+            "size": "",
+            "model": "",
+            "scheme": "",
+            "skuSet": 1,
+            "cohortId": null,
+            "ohProductId": "1993793",
+            "productState": "new",
+            "isValidSku": true,
+            "remarks": "",
+            "validatedAt": "2022-10-11T07:42:00.121Z",
+            "financeCode": "SBXMGJ",
+            "sprId": null,
+            "orgFormattedName": "byjus",
+            "createdBy": "system",
+            "updatedBy": "datafix",
+            "createdAt": "2022-10-11T07:42:00.182Z",
+            "updatedAt": "2022-10-20T09:13:45.479Z",
+            "deletedAt": null,
+            "price": 16000,
+            "itemType": "tablet",
+            "itemId": "Nl3S0OXfh4NZGv5KP5wBo-CL",
+            "combinationType": "product",
+            "studentId": "Shubham singh-1",
+            "tabletId": "T-SCXMGJ-Shubham singh",
+            "name": "BYJU'S LearnStation Junior 10inch Mobile Data Grey Tablet",
+            "sku": "BYJU'S LearnStation Junior 10inch Mobile Data Grey Tablet"
+          }
+        ],
+        "addOnItems": [],
+        "mentoringDetails": [
+          {
+            "type": "neo",
+            "sessions": [
+              {
+                "day": "Monday",
+                "is_mandatory": true,
+                "time": "15:15-17:05"
+              },
+              {
+                "day": "Monday",
+                "is_mandatory": true,
+                "time": "17:15-18:35"
+              },
+              {
+                "day": "Monday",
+                "is_mandatory": true,
+                "time": "19:15-20:35"
+              },
+              {
+                "day": "Monday",
+                "is_mandatory": true,
+                "time": "20:45-22:05"
+              },
+              {
+                "day": "Tuesday",
+                "is_mandatory": true,
+                "time": "15:15-17:05"
+              },
+              {
+                "day": "Tuesday",
+                "is_mandatory": true,
+                "time": "17:15-18:35"
+              },
+              {
+                "day": "Tuesday",
+                "is_mandatory": true,
+                "time": "19:15-20:35"
+              },
+              {
+                "day": "Tuesday",
+                "is_mandatory": true,
+                "time": "20:45-22:05"
+              },
+              {
+                "day": "Thursday",
+                "is_mandatory": true,
+                "time": "15:15-17:05"
+              },
+              {
+                "day": "Thursday",
+                "is_mandatory": true,
+                "time": "17:15-18:35"
+              },
+              {
+                "day": "Thursday",
+                "is_mandatory": true,
+                "time": "19:15-20:35"
+              },
+              {
+                "day": "Thursday",
+                "is_mandatory": true,
+                "time": "20:45-22:05"
+              },
+              {
+                "day": "Friday",
+                "is_mandatory": true,
+                "time": "15:15-17:05"
+              },
+              {
+                "day": "Friday",
+                "is_mandatory": true,
+                "time": "17:15-18:35"
+              },
+              {
+                "day": "Friday",
+                "is_mandatory": true,
+                "time": "19:15-20:35"
+              },
+              {
+                "day": "Friday",
+                "is_mandatory": true,
+                "time": "20:45-22:05"
+              },
+              {
+                "day": "Saturday",
+                "is_mandatory": true,
+                "time": "15:15-17:05"
+              },
+              {
+                "day": "Saturday",
+                "is_mandatory": true,
+                "time": "17:15-18:35"
+              },
+              {
+                "day": "Saturday",
+                "is_mandatory": true,
+                "time": "19:15-20:35"
+              },
+              {
+                "day": "Saturday",
+                "is_mandatory": true,
+                "time": "20:45-22:05"
+              }
+            ]
+          }
+        ],
+        "bhlpCourseDetails": [
+          {
+            "id": 193,
+            "name": "Testing Batch 1",
+            "is_active": true,
+            "live_on_kart": true,
+            "time_zone": "IST",
+            "batch_country": "India",
+            "batch_start_date": "2022-04-25",
+            "batch_end_date": "2022-07-30",
+            "mandatory_sessions_count": 20,
+            "optional_sessions_count": 0,
+            "course_id": 103,
+            "course_name": "Grade 10 Foundation Testing",
+            "course_fot_track_id": null,
+            "course_proficiency_id": null,
+            "medium_of_instruction": "english",
+            "course_batch": null,
+            "cohort_id": 231,
+            "course_type": "neo",
+            "course_tag": "classroom",
+            "slot_group_id": 170,
+            "tutor_language_enabled": true,
+            "slot_group_name": "Slot 1",
+            "batch_type": "regular",
+            "available_subjects": [],
+            "course_sub_tag": "Regular",
+            "slots": [
+              {
+                "id": 1705,
+                "day": "Monday",
+                "start_time": "15:15",
+                "end_time": "17:05",
+                "is_mandatory": true
+              },
+              {
+                "id": 1706,
+                "day": "Monday",
+                "start_time": "17:15",
+                "end_time": "18:35",
+                "is_mandatory": true
+              },
+              {
+                "id": 1707,
+                "day": "Monday",
+                "start_time": "19:15",
+                "end_time": "20:35",
+                "is_mandatory": true
+              },
+              {
+                "id": 1708,
+                "day": "Monday",
+                "start_time": "20:45",
+                "end_time": "22:05",
+                "is_mandatory": true
+              },
+              {
+                "id": 1709,
+                "day": "Tuesday",
+                "start_time": "15:15",
+                "end_time": "17:05",
+                "is_mandatory": true
+              },
+              {
+                "id": 1710,
+                "day": "Tuesday",
+                "start_time": "17:15",
+                "end_time": "18:35",
+                "is_mandatory": true
+              },
+              {
+                "id": 1711,
+                "day": "Tuesday",
+                "start_time": "19:15",
+                "end_time": "20:35",
+                "is_mandatory": true
+              },
+              {
+                "id": 1712,
+                "day": "Tuesday",
+                "start_time": "20:45",
+                "end_time": "22:05",
+                "is_mandatory": true
+              },
+              {
+                "id": 1713,
+                "day": "Thursday",
+                "start_time": "15:15",
+                "end_time": "17:05",
+                "is_mandatory": true
+              },
+              {
+                "id": 1714,
+                "day": "Thursday",
+                "start_time": "17:15",
+                "end_time": "18:35",
+                "is_mandatory": true
+              },
+              {
+                "id": 1715,
+                "day": "Thursday",
+                "start_time": "19:15",
+                "end_time": "20:35",
+                "is_mandatory": true
+              },
+              {
+                "id": 1716,
+                "day": "Thursday",
+                "start_time": "20:45",
+                "end_time": "22:05",
+                "is_mandatory": true
+              },
+              {
+                "id": 1717,
+                "day": "Friday",
+                "start_time": "15:15",
+                "end_time": "17:05",
+                "is_mandatory": true
+              },
+              {
+                "id": 1718,
+                "day": "Friday",
+                "start_time": "17:15",
+                "end_time": "18:35",
+                "is_mandatory": true
+              },
+              {
+                "id": 1719,
+                "day": "Friday",
+                "start_time": "19:15",
+                "end_time": "20:35",
+                "is_mandatory": true
+              },
+              {
+                "id": 1720,
+                "day": "Friday",
+                "start_time": "20:45",
+                "end_time": "22:05",
+                "is_mandatory": true
+              },
+              {
+                "id": 1721,
+                "day": "Saturday",
+                "start_time": "15:15",
+                "end_time": "17:05",
+                "is_mandatory": true
+              },
+              {
+                "id": 1722,
+                "day": "Saturday",
+                "start_time": "17:15",
+                "end_time": "18:35",
+                "is_mandatory": true
+              },
+              {
+                "id": 1723,
+                "day": "Saturday",
+                "start_time": "19:15",
+                "end_time": "20:35",
+                "is_mandatory": true
+              },
+              {
+                "id": 1724,
+                "day": "Saturday",
+                "start_time": "20:45",
+                "end_time": "22:05",
+                "is_mandatory": true
+              }
+            ]
+          }
+        ],
+        "featureTag": [],
+        "_id": {
+          "oid": "6391cd79d1e75c001aa4d279"
+        },
+        "board": "CBSE",
+        "initialClass": "10",
+        "finalClass": "10",
+        "validity": "2023",
+        "tablet": "SCXMGJ",
+        "formValues": {
+          "userProfile": "newProfile",
+          "productLearningType": "aakash_byjus_live",
+          "subType": "",
+          "board": "CBSE",
+          "initialClass": "10",
+          "finalClass": "10",
+          "duration": "",
+          "initialGradeProductLearningType": "",
+          "finalGradeProductLearningType": "",
+          "subCourse": "",
+          "validity": 2023,
+          "tablet": "SCXMGJ",
+          "mentoringDetails": [
+            {
+              "type": "neo",
+              "sessions": [
+                {
+                  "day": "Monday",
+                  "is_mandatory": true,
+                  "time": "15:15-17:05"
+                },
+                {
+                  "day": "Monday",
+                  "is_mandatory": true,
+                  "time": "17:15-18:35"
+                },
+                {
+                  "day": "Monday",
+                  "is_mandatory": true,
+                  "time": "19:15-20:35"
+                },
+                {
+                  "day": "Monday",
+                  "is_mandatory": true,
+                  "time": "20:45-22:05"
+                },
+                {
+                  "day": "Tuesday",
+                  "is_mandatory": true,
+                  "time": "15:15-17:05"
+                },
+                {
+                  "day": "Tuesday",
+                  "is_mandatory": true,
+                  "time": "17:15-18:35"
+                },
+                {
+                  "day": "Tuesday",
+                  "is_mandatory": true,
+                  "time": "19:15-20:35"
+                },
+                {
+                  "day": "Tuesday",
+                  "is_mandatory": true,
+                  "time": "20:45-22:05"
+                },
+                {
+                  "day": "Thursday",
+                  "is_mandatory": true,
+                  "time": "15:15-17:05"
+                },
+                {
+                  "day": "Thursday",
+                  "is_mandatory": true,
+                  "time": "17:15-18:35"
+                },
+                {
+                  "day": "Thursday",
+                  "is_mandatory": true,
+                  "time": "19:15-20:35"
+                },
+                {
+                  "day": "Thursday",
+                  "is_mandatory": true,
+                  "time": "20:45-22:05"
+                },
+                {
+                  "day": "Friday",
+                  "is_mandatory": true,
+                  "time": "15:15-17:05"
+                },
+                {
+                  "day": "Friday",
+                  "is_mandatory": true,
+                  "time": "17:15-18:35"
+                },
+                {
+                  "day": "Friday",
+                  "is_mandatory": true,
+                  "time": "19:15-20:35"
+                },
+                {
+                  "day": "Friday",
+                  "is_mandatory": true,
+                  "time": "20:45-22:05"
+                },
+                {
+                  "day": "Saturday",
+                  "is_mandatory": true,
+                  "time": "15:15-17:05"
+                },
+                {
+                  "day": "Saturday",
+                  "is_mandatory": true,
+                  "time": "17:15-18:35"
+                },
+                {
+                  "day": "Saturday",
+                  "is_mandatory": true,
+                  "time": "19:15-20:35"
+                },
+                {
+                  "day": "Saturday",
+                  "is_mandatory": true,
+                  "time": "20:45-22:05"
+                }
+              ]
+            }
+          ],
+          "bhlpCourseDetails": {
+            "id": 193,
+            "name": "Testing Batch 1",
+            "is_active": true,
+            "live_on_kart": true,
+            "time_zone": "IST",
+            "batch_country": "India",
+            "batch_start_date": "2022-04-25",
+            "batch_end_date": "2022-07-30",
+            "mandatory_sessions_count": 20,
+            "optional_sessions_count": 0,
+            "course_id": 103,
+            "course_name": "Grade 10 Foundation Testing",
+            "course_fot_track_id": null,
+            "course_proficiency_id": null,
+            "medium_of_instruction": "english",
+            "course_batch": null,
+            "cohort_id": 231,
+            "course_type": "neo",
+            "course_tag": "classroom",
+            "slot_group_id": 170,
+            "tutor_language_enabled": true,
+            "slot_group_name": "Slot 1",
+            "batch_type": "regular",
+            "available_subjects": [],
+            "course_sub_tag": "Regular",
+            "slots": [
+              {
+                "id": 1705,
+                "day": "Monday",
+                "start_time": "15:15",
+                "end_time": "17:05",
+                "is_mandatory": true
+              },
+              {
+                "id": 1706,
+                "day": "Monday",
+                "start_time": "17:15",
+                "end_time": "18:35",
+                "is_mandatory": true
+              },
+              {
+                "id": 1707,
+                "day": "Monday",
+                "start_time": "19:15",
+                "end_time": "20:35",
+                "is_mandatory": true
+              },
+              {
+                "id": 1708,
+                "day": "Monday",
+                "start_time": "20:45",
+                "end_time": "22:05",
+                "is_mandatory": true
+              },
+              {
+                "id": 1709,
+                "day": "Tuesday",
+                "start_time": "15:15",
+                "end_time": "17:05",
+                "is_mandatory": true
+              },
+              {
+                "id": 1710,
+                "day": "Tuesday",
+                "start_time": "17:15",
+                "end_time": "18:35",
+                "is_mandatory": true
+              },
+              {
+                "id": 1711,
+                "day": "Tuesday",
+                "start_time": "19:15",
+                "end_time": "20:35",
+                "is_mandatory": true
+              },
+              {
+                "id": 1712,
+                "day": "Tuesday",
+                "start_time": "20:45",
+                "end_time": "22:05",
+                "is_mandatory": true
+              },
+              {
+                "id": 1713,
+                "day": "Thursday",
+                "start_time": "15:15",
+                "end_time": "17:05",
+                "is_mandatory": true
+              },
+              {
+                "id": 1714,
+                "day": "Thursday",
+                "start_time": "17:15",
+                "end_time": "18:35",
+                "is_mandatory": true
+              },
+              {
+                "id": 1715,
+                "day": "Thursday",
+                "start_time": "19:15",
+                "end_time": "20:35",
+                "is_mandatory": true
+              },
+              {
+                "id": 1716,
+                "day": "Thursday",
+                "start_time": "20:45",
+                "end_time": "22:05",
+                "is_mandatory": true
+              },
+              {
+                "id": 1717,
+                "day": "Friday",
+                "start_time": "15:15",
+                "end_time": "17:05",
+                "is_mandatory": true
+              },
+              {
+                "id": 1718,
+                "day": "Friday",
+                "start_time": "17:15",
+                "end_time": "18:35",
+                "is_mandatory": true
+              },
+              {
+                "id": 1719,
+                "day": "Friday",
+                "start_time": "19:15",
+                "end_time": "20:35",
+                "is_mandatory": true
+              },
+              {
+                "id": 1720,
+                "day": "Friday",
+                "start_time": "20:45",
+                "end_time": "22:05",
+                "is_mandatory": true
+              },
+              {
+                "id": 1721,
+                "day": "Saturday",
+                "start_time": "15:15",
+                "end_time": "17:05",
+                "is_mandatory": true
+              },
+              {
+                "id": 1722,
+                "day": "Saturday",
+                "start_time": "17:15",
+                "end_time": "18:35",
+                "is_mandatory": true
+              },
+              {
+                "id": 1723,
+                "day": "Saturday",
+                "start_time": "19:15",
+                "end_time": "20:35",
+                "is_mandatory": true
+              },
+              {
+                "id": 1724,
+                "day": "Saturday",
+                "start_time": "20:45",
+                "end_time": "22:05",
+                "is_mandatory": true
+              }
+            ]
+          },
+          "proficiency": "",
+          "mathPercent": "",
+          "sciencePercent": "",
+          "languageOfInstruction": "english",
+          "languageOfInstructionId": 1,
+          "tabletId": "T-SCXMGJ",
+          "isTabletLock": false
+        },
+        "tabletLock": "not_applicable",
+        "productSelectionType": "byjus_aakash_neo",
+        "studentName": "Shubham singh",
+        "studentId": "Shubham singh-1",
+        "academicDetails": {
+          "mathPercent": "",
+          "sciencePercent": "",
+          "fotTrackId": null,
+          "proficiency": "",
+          "schoolDetails": {
+            "id": null,
+            "name": "",
+            "address": "",
+            "pincode": null
+          },
+          "languageOfInstruction": "english",
+          "languageOfInstructionId": 1
+        },
+        "premiumAccount": "1295471417"
+      }
+    ],
+    "actionDetails": {
+      "createdAt": {
+        "date": {
+          "numberLong": "1670499840222"
+        }
+      },
+      "createdBy": "praz@byjus.com",
+      "notConfirmedAt": {
+        "date": {
+          "numberLong": "1670499841949"
+        }
+      },
+      "notConfirmedBy": "system"
+    },
+    "type": "product",
+    "subType": "course",
+    "timestamps": {
+      "createdAt": {
+        "date": {
+          "numberLong": "1670499840222"
+        }
+      }
+    },
+    "sacCommand": "applicable",
+    "poaCommand": "applicable",
+    "revenueOrderValue": 61000,
+    "orderValue": 61000,
+    "voucherDetails": null,
+    "sourceDetails": null,
+    "assignmentCategory": "k10",
+    "smsDetails": {
+      "notConfirmedAt": {
+        "date": {
+          "numberLong": "1670499841940"
+        }
+      },
+      "notConfirmedBy": "draft_order_job"
+    }
+  }

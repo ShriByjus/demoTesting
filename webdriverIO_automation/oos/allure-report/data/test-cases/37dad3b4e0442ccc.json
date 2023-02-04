@@ -1,0 +1,120 @@
+{
+  "uid" : "37dad3b4e0442ccc",
+  "name" : "Verifying changing the status to Confirmed and Verify the order status history",
+  "fullName" : "Validating grade 4 Single order.Verifying changing the status to Confirmed and Verify the order status history",
+  "historyId" : "73662c420b0f75cd4f46e611285dee54",
+  "time" : {
+    "start" : 1671023672912,
+    "stop" : 1671023685815,
+    "duration" : 12903
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 4,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Verify change status to Confirmed and verify order status history",
+      "time" : {
+        "start" : 1671023672912,
+        "stop" : 1671023685814,
+        "duration" : 12902
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating grade 4 Single order"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating grade 4 Single order"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verifying changing the status to Confirmed and Verify the order status history"
+  }, {
+    "name" : "package",
+    "value" : "Validating grade 4 Single order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-108.0.5359.98"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "de6a04f1468bf59e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671020698952,
+        "stop" : 1671020713631,
+        "duration" : 14679
+      }
+    }, {
+      "uid" : "a3d8ddf0c51db396",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671019743377,
+        "stop" : 1671019756298,
+        "duration" : 12921
+      }
+    }, {
+      "uid" : "8be38f46dbe42085",
+      "status" : "passed",
+      "time" : {
+        "start" : 1671018823752,
+        "stop" : 1671018836448,
+        "duration" : 12696
+      }
+    }, {
+      "uid" : "4fba78de47d5c774",
+      "status" : "broken",
+      "statusDetails" : "this.ordersTab.waitForDisplayed is not a function",
+      "time" : {
+        "start" : 1671018722887,
+        "stop" : 1671018723077,
+        "duration" : 190
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "37dad3b4e0442ccc.json",
+  "parameterValues" : [ "chrome-108.0.5359.98" ]
+}

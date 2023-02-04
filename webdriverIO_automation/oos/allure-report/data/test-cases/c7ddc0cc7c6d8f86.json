@@ -1,0 +1,175 @@
+{
+  "uid" : "c7ddc0cc7c6d8f86",
+  "name" : "Adding json to collections for generating the Order Id",
+  "fullName" : "Validating UKG Single order.Adding json to collections for generating the Order Id",
+  "historyId" : "90b26d033c9306d9bf111f155d91fa07",
+  "time" : {
+    "start" : 1669121524683,
+    "stop" : 1669121562912,
+    "duration" : 38229
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "\"before each\" hook for Validating UKG Single order",
+      "time" : {
+        "start" : 1669121524683,
+        "stop" : 0,
+        "duration" : -1669121524683
+      },
+      "status" : "unknown",
+      "steps" : [ {
+        "name" : "Maximize the window",
+        "time" : {
+          "start" : 1669121524683,
+          "stop" : 0,
+          "duration" : -1669121524683
+        },
+        "status" : "unknown",
+        "steps" : [ {
+          "name" : "Open Byjus OMS page",
+          "time" : {
+            "start" : 1669121524792,
+            "stop" : 1669121528866,
+            "duration" : 4074
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        }, {
+          "name" : "Login to the Home page",
+          "time" : {
+            "start" : 1669121528866,
+            "stop" : 1669121556124,
+            "duration" : 27258
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        }, {
+          "name" : "Adding order to Sales order Collection",
+          "time" : {
+            "start" : 1669121556124,
+            "stop" : 0,
+            "duration" : -1669121556124
+          },
+          "status" : "unknown",
+          "steps" : [ {
+            "name" : "Adding order to Sales Sub order Collection",
+            "time" : {
+              "start" : 1669121558393,
+              "stop" : 0,
+              "duration" : -1669121558393
+            },
+            "status" : "unknown",
+            "steps" : [ {
+              "name" : "Adding order to draft order Collection",
+              "time" : {
+                "start" : 1669121560167,
+                "stop" : 1669121562910,
+                "duration" : 2743
+              },
+              "status" : "passed",
+              "steps" : [ ],
+              "attachments" : [ ],
+              "parameters" : [ ],
+              "stepsCount" : 0,
+              "attachmentsCount" : 0,
+              "shouldDisplayMessage" : false,
+              "hasContent" : false
+            } ],
+            "attachments" : [ ],
+            "parameters" : [ ],
+            "stepsCount" : 1,
+            "attachmentsCount" : 0,
+            "shouldDisplayMessage" : false,
+            "hasContent" : true
+          } ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 2,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 5,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 6,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 7,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testMethod",
+    "value" : "Adding json to collections for generating the Order Id"
+  }, {
+    "name" : "package",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.110"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c7ddc0cc7c6d8f86.json",
+  "parameterValues" : [ "chrome-107.0.5304.110" ]
+}

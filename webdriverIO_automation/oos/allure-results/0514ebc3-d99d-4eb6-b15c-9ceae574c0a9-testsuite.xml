@@ -1,0 +1,28 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1674129532994' stop='1674129598260'>
+    <name>btlp workflow</name>
+    <title>btlp workflow</title>
+    <test-cases>
+        <test-case start='1674129532994' status='broken' stop='1674129598259'>
+            <name>byjusPay</name>
+            <title>byjusPay</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-109.0.5414.87'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='aaa2e599-8477-4fb1-8788-dd5c634e0ebd-attachment.png' type='image/png' size='240977'/>
+            </attachments>
+            <failure>
+                <message>number or type of arguments don't agree with newWindow command</message>
+                <stack-trace>Error: number or type of arguments don't agree with newWindow command
+                    at Context.&lt;anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/test.js:46:7)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

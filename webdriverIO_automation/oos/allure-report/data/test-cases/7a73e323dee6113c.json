@@ -1,0 +1,96 @@
+{
+  "uid" : "7a73e323dee6113c",
+  "name" : "Verify PID is generated",
+  "fullName" : "Validating UKG Single order.Verify PID is generated",
+  "historyId" : "232a8438099b5cb2211fd84cd48c27e2",
+  "time" : {
+    "start" : 1669273227552,
+    "stop" : 1669273227712,
+    "duration" : 160
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "_verifyOmsOrderDetails.default.verifyPid.scrollIntoView is not a function",
+  "statusTrace" : "TypeError: _verifyOmsOrderDetails.default.verifyPid.scrollIntoView is not a function\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:58:47)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "_verifyOmsOrderDetails.default.verifyPid.scrollIntoView is not a function",
+    "statusTrace" : "TypeError: _verifyOmsOrderDetails.default.verifyPid.scrollIntoView is not a function\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:58:47)",
+    "steps" : [ {
+      "name" : "Scroll to PID button",
+      "time" : {
+        "start" : 1669273227553,
+        "stop" : 1669273227712,
+        "duration" : 159
+      },
+      "status" : "broken",
+      "statusMessage" : "TypeError: _verifyOmsOrderDetails.default.verifyPid.scrollIntoView is not a function\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:58:47)",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "6ce1452f5ed66519",
+        "name" : "Screenshot",
+        "source" : "6ce1452f5ed66519.png",
+        "type" : "image/png",
+        "size" : 178722
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify PID is generated"
+  }, {
+    "name" : "package",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.110"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7a73e323dee6113c.json",
+  "parameterValues" : [ "chrome-107.0.5304.110" ]
+}

@@ -1,0 +1,106 @@
+{
+  "uid" : "f28f851941c75944",
+  "name" : "btlp forward workflow",
+  "fullName" : "btlp workflow.btlp forward workflow",
+  "historyId" : "aac9783a421c0f425ef01db9f4b3c75c",
+  "time" : {
+    "start" : 1668412001892,
+    "stop" : 1668412002671,
+    "duration" : 779
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "socket hang up",
+  "statusTrace" : "RequestError: socket hang up\n                    at ClientRequest.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/node_modules/got/dist/source/core/index.js:970:111)\n                    at Object.onceWrapper (node:events:642:26)\n                    at ClientRequest.emit (node:events:539:35)\n                    at ClientRequest.emit (node:domain:475:12)\n                    at ClientRequest.origin.emit (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)\n                    at Socket.socketOnEnd (node:_http_client:478:9)\n                    at Socket.emit (node:events:539:35)\n                    at Socket.emit (node:domain:475:12)\n                    at endReadableNT (node:internal/streams/readable:1345:12)\n                    at connResetException (node:internal/errors:692:14)\n                    at Socket.socketOnEnd (node:_http_client:478:23)\n                    at Socket.emit (node:events:539:35)\n                    at Socket.emit (node:domain:475:12)\n                    at endReadableNT (node:internal/streams/readable:1345:12)\n                    at processTicksAndRejections (node:internal/process/task_queues:83:21)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "socket hang up",
+    "statusTrace" : "RequestError: socket hang up\n                    at ClientRequest.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/node_modules/got/dist/source/core/index.js:970:111)\n                    at Object.onceWrapper (node:events:642:26)\n                    at ClientRequest.emit (node:events:539:35)\n                    at ClientRequest.emit (node:domain:475:12)\n                    at ClientRequest.origin.emit (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)\n                    at Socket.socketOnEnd (node:_http_client:478:9)\n                    at Socket.emit (node:events:539:35)\n                    at Socket.emit (node:domain:475:12)\n                    at endReadableNT (node:internal/streams/readable:1345:12)\n                    at connResetException (node:internal/errors:692:14)\n                    at Socket.socketOnEnd (node:_http_client:478:23)\n                    at Socket.emit (node:events:539:35)\n                    at Socket.emit (node:domain:475:12)\n                    at endReadableNT (node:internal/streams/readable:1345:12)\n                    at processTicksAndRejections (node:internal/process/task_queues:83:21)",
+    "steps" : [ {
+      "name" : "Maximize the window",
+      "time" : {
+        "start" : 1668412001892,
+        "stop" : 1668412002671,
+        "duration" : 779
+      },
+      "status" : "broken",
+      "statusMessage" : "RequestError: socket hang up\n                    at ClientRequest.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/node_modules/got/dist/source/core/index.js:970:111)\n                    at Object.onceWrapper (node:events:642:26)\n                    at ClientRequest.emit (node:events:539:35)\n                    at ClientRequest.emit (node:domain:475:12)\n                    at ClientRequest.origin.emit (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)\n                    at Socket.socketOnEnd (node:_http_client:478:9)\n                    at Socket.emit (node:events:539:35)\n                    at Socket.emit (node:domain:475:12)\n                    at endReadableNT (node:internal/streams/readable:1345:12)\n                    at connResetException (node:internal/errors:692:14)\n                    at Socket.socketOnEnd (node:_http_client:478:23)\n                    at Socket.emit (node:events:539:35)\n                    at Socket.emit (node:domain:475:12)\n                    at endReadableNT (node:internal/streams/readable:1345:12)\n                    at processTicksAndRejections (node:internal/process/task_queues:83:21)",
+      "steps" : [ {
+        "name" : "Open Byjus OMS page",
+        "time" : {
+          "start" : 1668412002152,
+          "stop" : 1668412002671,
+          "duration" : 519
+        },
+        "status" : "broken",
+        "statusMessage" : "RequestError: socket hang up\n                    at ClientRequest.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/node_modules/got/dist/source/core/index.js:970:111)\n                    at Object.onceWrapper (node:events:642:26)\n                    at ClientRequest.emit (node:events:539:35)\n                    at ClientRequest.emit (node:domain:475:12)\n                    at ClientRequest.origin.emit (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/node_modules/@szmarczak/http-timer/dist/source/index.js:43:20)\n                    at Socket.socketOnEnd (node:_http_client:478:9)\n                    at Socket.emit (node:events:539:35)\n                    at Socket.emit (node:domain:475:12)\n                    at endReadableNT (node:internal/streams/readable:1345:12)\n                    at connResetException (node:internal/errors:692:14)\n                    at Socket.socketOnEnd (node:_http_client:478:23)\n                    at Socket.emit (node:events:539:35)\n                    at Socket.emit (node:domain:475:12)\n                    at endReadableNT (node:internal/streams/readable:1345:12)\n                    at processTicksAndRejections (node:internal/process/task_queues:83:21)",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : true,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "btlp workflow"
+  }, {
+    "name" : "testClass",
+    "value" : "btlp workflow"
+  }, {
+    "name" : "testMethod",
+    "value" : "btlp forward workflow"
+  }, {
+    "name" : "package",
+    "value" : "btlp workflow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.110"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f28f851941c75944.json",
+  "parameterValues" : [ "chrome-107.0.5304.110" ]
+}

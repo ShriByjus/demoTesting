@@ -1,0 +1,206 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1669123299374' stop='1669123349895'>
+    <name>Validating UKG Single order</name>
+    <title>Validating UKG Single order</title>
+    <test-cases>
+        <test-case start='1669123299375' status='passed' stop='1669123331855'>
+            <name>Adding json to collections for generating the Order Id</name>
+            <title>Adding json to collections for generating the Order Id</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-107.0.5304.110'/>
+            </parameters>
+            <steps>
+                <step start='1669123299375' status='undefined'>
+                    <name>"before each" hook for Validating UKG Single order</name>
+                    <title>"before each" hook for Validating UKG Single order</title>
+                    <attachments/>
+                    <steps>
+                        <step start='1669123299375' status='undefined'>
+                            <name>Maximize the window</name>
+                            <title>Maximize the window</title>
+                            <attachments/>
+                            <steps>
+                                <step start='1669123299483' status='passed' stop='1669123302475'>
+                                    <name>Open Byjus OMS page</name>
+                                    <title>Open Byjus OMS page</title>
+                                    <attachments/>
+                                    <steps/>
+                                </step>
+                                <step start='1669123302475' status='passed' stop='1669123325828'>
+                                    <name>Login to the Home page</name>
+                                    <title>Login to the Home page</title>
+                                    <attachments/>
+                                    <steps/>
+                                </step>
+                                <step start='1669123325829' status='undefined'>
+                                    <name>Adding order to Sales order Collection</name>
+                                    <title>Adding order to Sales order Collection</title>
+                                    <attachments/>
+                                    <steps>
+                                        <step start='1669123328377' status='undefined'>
+                                            <name>Adding order to Sales Sub order Collection</name>
+                                            <title>Adding order to Sales Sub order Collection</title>
+                                            <attachments/>
+                                            <steps>
+                                                <step start='1669123330059' status='passed' stop='1669123331853'>
+                                                    <name>Adding order to draft order Collection</name>
+                                                    <title>Adding order to draft order Collection</title>
+                                                    <attachments/>
+                                                    <steps/>
+                                                </step>
+                                            </steps>
+                                        </step>
+                                    </steps>
+                                </step>
+                            </steps>
+                        </step>
+                    </steps>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1669123331856' status='passed' stop='1669123342296'>
+            <name>Verifying the Sales order Id details</name>
+            <title>Verifying the Sales order Id details</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-107.0.5304.110'/>
+            </parameters>
+            <steps>
+                <step start='1669123331856' status='undefined'>
+                    <name>"before each" hook for Validating UKG Single order</name>
+                    <title>"before each" hook for Validating UKG Single order</title>
+                    <attachments/>
+                    <steps>
+                        <step start='1669123331856' status='undefined'>
+                            <name>Maximize the window</name>
+                            <title>Maximize the window</title>
+                            <attachments/>
+                            <steps>
+                                <step start='1669123331967' status='passed' stop='1669123332359'>
+                                    <name>Open Byjus OMS page</name>
+                                    <title>Open Byjus OMS page</title>
+                                    <attachments/>
+                                    <steps/>
+                                </step>
+                                <step start='1669123332359' status='passed' stop='1669123337398'>
+                                    <name>Login to the Home page</name>
+                                    <title>Login to the Home page</title>
+                                    <attachments/>
+                                    <steps/>
+                                </step>
+                                <step start='1669123337398' status='passed' stop='1669123342295'>
+                                    <name>Verifying the Sales order Id details</name>
+                                    <title>Verifying the Sales order Id details</title>
+                                    <attachments/>
+                                    <steps/>
+                                </step>
+                            </steps>
+                        </step>
+                    </steps>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1669123342296' status='broken' stop='1669123349895'>
+            <name>Verify the Addon Items Skus</name>
+            <title>Verify the Addon Items Skus</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-107.0.5304.110'/>
+            </parameters>
+            <steps>
+                <step start='1669123342296' status='broken' stop='1669123349895'>
+                    <name>"before each" hook for Validating UKG Single order</name>
+                    <title>"before each" hook for Validating UKG Single order</title>
+                    <attachments/>
+                    <steps>
+                        <step start='1669123342296' status='broken' stop='1669123349895'>
+                            <name>Maximize the window</name>
+                            <title>Maximize the window</title>
+                            <attachments/>
+                            <steps>
+                                <step start='1669123342402' status='passed' stop='1669123342402'>
+                                    <name>Open Byjus OMS page</name>
+                                    <title>Open Byjus OMS page</title>
+                                    <attachments/>
+                                    <steps/>
+                                </step>
+                                <step start='1669123342402' status='passed' stop='1669123347433'>
+                                    <name>Login to the Home page</name>
+                                    <title>Login to the Home page</title>
+                                    <attachments/>
+                                    <steps/>
+                                </step>
+                                <step start='1669123347433' status='broken' stop='1669123349895'>
+                                    <name>Wait for the orders tab to be clickable</name>
+                                    <title>Wait for the orders tab to be clickable</title>
+                                    <attachments/>
+                                    <steps>
+                                        <step start='1669123347445' status='broken' stop='1669123349895'>
+                                            <name>Click on orders tab</name>
+                                            <title>Click on orders tab</title>
+                                            <attachments/>
+                                            <steps>
+                                                <step start='1669123347496' status='broken' stop='1669123349895'>
+                                                    <name>Click on sales Orders Tab tab</name>
+                                                    <title>Click on sales Orders Tab tab</title>
+                                                    <attachments/>
+                                                    <steps>
+                                                        <step start='1669123347526' status='broken' stop='1669123349895'>
+                                                            <name>Enter the Sales order Id ins search barch</name>
+                                                            <title>Enter the Sales order Id ins search barch</title>
+                                                            <attachments/>
+                                                            <steps>
+                                                                <step start='1669123349649' status='broken' stop='1669123349895'>
+                                                                    <name>Click on sales Orders Id</name>
+                                                                    <title>Click on sales Orders Id</title>
+                                                                    <attachments/>
+                                                                    <steps>
+                                                                        <step start='1669123349711' status='broken' stop='1669123349895'>
+                                                                            <name>Copy Add On Items skus from Csv file</name>
+                                                                            <title>Copy Add On Items skus from Csv file</title>
+                                                                            <attachments>
+                                                                                <attachment title='Screenshot' source='181d0b8d-4533-4191-afd5-f2740673c06e-attachment.png' type='image/png' size='237663'/>
+                                                                            </attachments>
+                                                                            <steps/>
+                                                                        </step>
+                                                                    </steps>
+                                                                </step>
+                                                            </steps>
+                                                        </step>
+                                                    </steps>
+                                                </step>
+                                            </steps>
+                                        </step>
+                                    </steps>
+                                </step>
+                            </steps>
+                        </step>
+                    </steps>
+                </step>
+            </steps>
+            <attachments/>
+            <failure>
+                <message>File does not exist. Check to make sure the file path to your csv is correct.</message>
+                <stack-trace>Error: File does not exist. Check to make sure the file path to your csv is correct.
+                    at /Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/node_modules/csvtojson/src/Converter.ts:52:28
+                    at suppressedCallback (node:fs:263:5)
+                    at FSReqCallback.oncomplete (node:fs:188:23)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

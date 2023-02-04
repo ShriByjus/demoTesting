@@ -1,0 +1,29 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1674127807654' stop='1674127861362'>
+    <name>btlp workflow</name>
+    <title>btlp workflow</title>
+    <test-cases>
+        <test-case start='1674127807654' status='broken' stop='1674127861360'>
+            <name>byjusPay</name>
+            <title>byjusPay</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-109.0.5414.87'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='b38913d9-820f-4834-b882-a47777241d21-attachment.png' type='image/png' size='142629'/>
+            </attachments>
+            <failure>
+                <message>this.razorpayUrl.waitForDisplayed is not a function</message>
+                <stack-trace>TypeError: this.razorpayUrl.waitForDisplayed is not a function
+                    at verifyOmsOrderDetails.switchToPaymentUrl (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:627:32)
+                    at Context.&lt;anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/test.js:43:32)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

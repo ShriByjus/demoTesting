@@ -1,0 +1,478 @@
+
+{
+    "salesSubOrderId": "SSO1-2301021747110934",
+    "salesOrderId": "SO-2301021747110934",
+    "orgFormattedName": "byjus",
+    "orgId": "ORG-1",
+    "currency": "INR",
+    "orderType": "SINGLE",
+    "courseType": "K12",
+    "lineItems": [
+      {
+        "skuId": "LA1CJM25",
+        "ohProductId": "1985129",
+        "skuName": "Aakash BYJU'S 11+12 Grade PCM_JEE Live May 2025",
+        "grade": "11+12",
+        "board": null,
+        "validity": "2025",
+        "validityMonth": "MAY",
+        "hsnCode": "999293",
+        "programId": "ACOPKXSY0003",
+        "type": "service",
+        "subType": "live",
+        "category": "aakash_neo_classes",
+        "size": null,
+        "model": null,
+        "course": "",
+        "subCourse": "JEE",
+        "cohortId": 209,
+        "financeCode": "LA1CJM",
+        "studentId": "rakshitha-1",
+        "itemId": "LA1CJM252301021747160908",
+        "price": 1,
+        "name": "Aakash BYJU'S 11+12 Grade PCM_JEE Live May 2025",
+        "sku": "Aakash BYJU'S 11+12 Grade PCM_JEE Live May 2025",
+        "itemType": "byjus_premium",
+        "orgId": "byjus",
+        "salesSubOrderId": "SSO1-2301021747110934",
+        "itemStatus": "mapping_pending",
+        "invoicePrice": "1.00",
+        "pgLineItemId": 1023326
+      }
+    ],
+    "shipmentLineItems": [],
+    "returnLineItems": [],
+    "salesDetails": {
+      "typeOfSales": "Direct",
+      "directSalesBy": "mohnish@thinkandlearn.in",
+      "directSalesByCampaign": null,
+      "salesAppointmentBy": "mohnish@thinkandlearn.in",
+      "salesAppointmentByCampaign": null,
+      "incentiveDate": {
+        "date": {
+          "numberLong": "1672661837276"
+        }
+      },
+      "salesAppointmentByRole": null,
+      "directSalesByDept": null,
+      "salesAppointmentByDept": null,
+      "salesIndex": 0
+    },
+    "customerDetails": {
+      "customerId": "CX-2209071456384401",
+      "name": "rakshitha",
+      "identifierDetails": [],
+      "alternateName": "rakshitha",
+      "mobileNo": "+91-8254554554",
+      "alternateMobileNo": "",
+      "email": "moon@byjus.com",
+      "alternateEmail": null,
+      "type": "individual",
+      "communicationPreferences": {},
+      "isBooksOpted": true,
+      "billingCustomerId": null
+    },
+    "billingCustomerDetails": {
+      "name": "Auto  Test Parent Name",
+      "mobileNo": "+91-9908721020",
+      "email": "9908721020@gmail.com",
+      "gstNo": null,
+      "panNo": null,
+      "tanNo": null,
+      "alternateMobileNo": "",
+      "type": "individual",
+      "customerId": "CX-2205301105269442"
+    },
+    "addressDetails": {
+      "billing": {
+        "country": "India",
+        "zipcode": "456001",
+        "state": "Madhya Pradesh",
+        "city": "Ujjain",
+        "address": "IBC KP",
+        "addressLine1": "IBC KP",
+        "addressLine2": "IBC KP",
+        "addressLine3": "IBC KP"
+      },
+      "shipping": {
+        "country": "India",
+        "zipcode": "570002",
+        "state": "karnataka",
+        "city": "Mysore",
+        "address": "Mysore",
+        "addressLine1": "Mysore",
+        "addressLine2": "Mysore",
+        "addressLine3": "Mysore",
+        "addressId": "286712"
+      }
+    },
+    "attachments": [],
+    "studentDetails": [
+      {
+        "studentProfileDetails": {
+          "isExistingProfile": true,
+          "existingPremiumId": "1102918145",
+          "existingFamilyId": ""
+        },
+        "hlpDetails": {
+          "courseDetails": [],
+          "sessionDetails": []
+        },
+        "courseType": [
+          "K12"
+        ],
+        "electiveDetails": [],
+        "doubtClassDetails": [],
+        "workshops": [],
+        "items": [
+          {
+            "skuId": "LA1CJM25",
+            "ohProductId": "1985129",
+            "skuName": "Aakash BYJU'S 11+12 Grade PCM_JEE Live May 2025",
+            "grade": "11+12",
+            "board": null,
+            "validity": "2025",
+            "validityMonth": "MAY",
+            "hsnCode": "999293",
+            "programId": "ACOPKXSY0003",
+            "type": "service",
+            "subType": "live",
+            "category": "aakash_neo_classes",
+            "size": null,
+            "model": null,
+            "course": "",
+            "subCourse": "JEE",
+            "cohortId": 209,
+            "financeCode": "LA1CJM",
+            "studentId": "rakshitha-1",
+            "itemId": "LA1CJM252301021747160908",
+            "price": 1,
+            "name": "Aakash BYJU'S 11+12 Grade PCM_JEE Live May 2025",
+            "sku": "Aakash BYJU'S 11+12 Grade PCM_JEE Live May 2025",
+            "itemType": "live",
+            "orgId": "byjus"
+          }
+        ],
+        "addOnItems": [],
+        "mentoringDetails": [],
+        "bhlpCourseDetails": [
+          {
+            "id": 422,
+            "name": "NITI_AAYOG_Paid_Testing_Standard_XI_JEE_English",
+            "is_active": true,
+            "live_on_kart": false,
+            "time_zone": "IST",
+            "batch_country": "India",
+            "batch_start_date": "2022-08-22",
+            "batch_end_date": "2022-10-31",
+            "mandatory_sessions_count": 10,
+            "optional_sessions_count": 0,
+            "course_id": 194,
+            "course_name": "Dummy1234",
+            "course_fot_track_id": null,
+            "course_proficiency_id": null,
+            "medium_of_instruction": "english",
+            "course_batch": "11th",
+            "cohort_id": 209,
+            "course_type": "neo",
+            "course_tag": "classroom",
+            "slot_group_id": 286,
+            "tutor_language_enabled": true,
+            "slot_group_name": "jhzxjc",
+            "batch_type": "regular",
+            "available_subjects": [],
+            "course_sub_tag": "Regular",
+            "slots": [
+              {
+                "id": 2946,
+                "day": "Monday",
+                "start_time": "18:00",
+                "end_time": "19:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 2947,
+                "day": "Monday",
+                "start_time": "19:00",
+                "end_time": "20:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 2948,
+                "day": "Tuesday",
+                "start_time": "18:00",
+                "end_time": "19:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 2949,
+                "day": "Tuesday",
+                "start_time": "19:00",
+                "end_time": "20:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 2950,
+                "day": "Thursday",
+                "start_time": "18:00",
+                "end_time": "19:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 2951,
+                "day": "Thursday",
+                "start_time": "19:00",
+                "end_time": "20:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 2952,
+                "day": "Friday",
+                "start_time": "18:00",
+                "end_time": "19:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 2953,
+                "day": "Friday",
+                "start_time": "19:00",
+                "end_time": "20:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 2954,
+                "day": "Saturday",
+                "start_time": "18:00",
+                "end_time": "19:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 2955,
+                "day": "Saturday",
+                "start_time": "19:00",
+                "end_time": "20:00",
+                "is_mandatory": true
+              }
+            ]
+          }
+        ],
+        "featureTag": [],
+        "_id": {
+          "oid": "63b2cb4d735adbab0469bedc"
+        },
+        "course": "K12",
+        "board": "true",
+        "validity": "2024",
+        "initialClass": "11",
+        "finalClass": "12",
+        "tablet": null,
+        "formValues": {
+          "course": "K12",
+          "board": true,
+          "subCourse": "JEE",
+          "validity": "2024",
+          "initialClass": "11",
+          "finalClass": "12",
+          "tablet": null,
+          "mentoringDetails": [],
+          "bhlpCourseDetails": {
+            "id": 422,
+            "name": "NITI_AAYOG_Paid_Testing_Standard_XI_JEE_English",
+            "is_active": true,
+            "live_on_kart": false,
+            "time_zone": "IST",
+            "batch_country": "India",
+            "batch_start_date": "2022-08-22",
+            "batch_end_date": "2022-10-31",
+            "mandatory_sessions_count": 10,
+            "optional_sessions_count": 0,
+            "course_id": 194,
+            "course_name": "Dummy1234",
+            "course_fot_track_id": null,
+            "course_proficiency_id": null,
+            "medium_of_instruction": "english",
+            "course_batch": "11th",
+            "cohort_id": 209,
+            "course_type": "neo",
+            "course_tag": "classroom",
+            "slot_group_id": 286,
+            "tutor_language_enabled": true,
+            "slot_group_name": "jhzxjc",
+            "batch_type": "regular",
+            "available_subjects": [],
+            "course_sub_tag": "Regular",
+            "slots": [
+              {
+                "id": 2946,
+                "day": "Monday",
+                "start_time": "18:00",
+                "end_time": "19:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 2947,
+                "day": "Monday",
+                "start_time": "19:00",
+                "end_time": "20:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 2948,
+                "day": "Tuesday",
+                "start_time": "18:00",
+                "end_time": "19:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 2949,
+                "day": "Tuesday",
+                "start_time": "19:00",
+                "end_time": "20:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 2950,
+                "day": "Thursday",
+                "start_time": "18:00",
+                "end_time": "19:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 2951,
+                "day": "Thursday",
+                "start_time": "19:00",
+                "end_time": "20:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 2952,
+                "day": "Friday",
+                "start_time": "18:00",
+                "end_time": "19:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 2953,
+                "day": "Friday",
+                "start_time": "19:00",
+                "end_time": "20:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 2954,
+                "day": "Saturday",
+                "start_time": "18:00",
+                "end_time": "19:00",
+                "is_mandatory": true
+              },
+              {
+                "id": 2955,
+                "day": "Saturday",
+                "start_time": "19:00",
+                "end_time": "20:00",
+                "is_mandatory": true
+              }
+            ]
+          },
+          "state": false
+        },
+        "productSelectionType": "aakash_neo_classes",
+        "studentName": "rakshitha",
+        "studentId": "rakshitha-1"
+      }
+    ],
+    "orderPunchingType": "complementary_order",
+    "orderPunchingCategory": "aakash_neo_classes",
+    "paymentDetails": {
+      "payments": [
+        {
+          "isPrepaid": true,
+          "_id": {
+            "oid": "63b2cb4d735adbab0469bedd"
+          },
+          "provider": "FOC",
+          "referenceId": "1672661831477",
+          "amount": 1,
+          "type": "DOWN_PAYMENT",
+          "attachments": [],
+          "isActive": true
+        }
+      ],
+      "paymentMethod": "",
+      "paymentStatus": "PAID",
+      "paymentMode": "FOC",
+      "paymentAmountSplit": "1",
+      "totalAmount": 1
+    },
+    "leadDetails": {
+      "prospectId": "complementary_order-1672661831753-0339",
+      "accountNo": null,
+      "loggedInEmailId": null,
+      "leadCreatedBy": null,
+      "leadCreatedAt": null,
+      "leadMobileNo": null,
+      "isLeadMobileUsed": null,
+      "leadLink": "https://run.leadsquared.com/LeadManagement/LeadDetails?LeadID=complementary_order-1672661831753-0339"
+    },
+    "contactDetails": {
+      "orderPunchingContact": "8254554554",
+      "cxProvidedContact": "",
+      "leadContact": "",
+      "gpContact": "",
+      "ngpContact": "",
+      "lpContact": ""
+    },
+    "type": "service",
+    "subType": "online_activation",
+    "status": "not_confirmed",
+    "category": "cso_dispatch",
+    "statusReason": "AUTO_CONFIRMED",
+    "actionDetails": {
+      "createdAt": {
+        "date": {
+          "numberLong": "1672662187804"
+        }
+      },
+      "createdBy": "system",
+      "confirmedAt": {
+        "date": {
+          "numberLong": "1672662196447"
+        }
+      },
+      "confirmedBy": "system_nfoundation",
+      "activationDoneAt": {
+        "date": {
+          "numberLong": "1672662196511"
+        }
+      },
+      "activationDoneBy": "system_nfoundation"
+    },
+    "createdAt": {
+      "date": {
+        "numberLong": "1672661837276"
+      }
+    },
+    "updatedat": {
+      "date": {
+        "numberLong": "1672662187806"
+      }
+    },
+    "sourceDetails": null,
+    "assignmentCategory": "k12",
+    "orderBatchId": "OB-2301021631020332",
+    "salesOrderStatus": "delivered",
+    "updatedAt": {
+      "date": {
+        "numberLong": "1672662198986"
+      }
+    },
+    "updatedBy": "system",
+    "smsDetails": {
+      "activationDoneAt": {
+        "date": {
+          "numberLong": "1672662198329"
+        }
+      },
+      "activationDoneBy": "system_nfoundation"
+    }
+  }

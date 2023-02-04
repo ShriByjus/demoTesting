@@ -1,0 +1,85 @@
+{
+  "uid" : "d88b28db21a06b62",
+  "name" : "Verifying changing the status to Confirmed and Verify the order status history",
+  "fullName" : "Validating Byjus classes single order for 6th standard.Verifying changing the status to Confirmed and Verify the order status history",
+  "historyId" : "46aa51a0e68f9e99cc0aa4dc76ca88b5",
+  "time" : {
+    "start" : 1670573420271,
+    "stop" : 1670573431495,
+    "duration" : 11224
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Verify change status to Confirmed and verify order status history",
+      "time" : {
+        "start" : 1670573420272,
+        "stop" : 1670573431495,
+        "duration" : 11223
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Byjus classes single order for 6th standard"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Byjus classes single order for 6th standard"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verifying changing the status to Confirmed and Verify the order status history"
+  }, {
+    "name" : "package",
+    "value" : "Validating Byjus classes single order for 6th standard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-108.0.5359.98"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d88b28db21a06b62.json",
+  "parameterValues" : [ "chrome-108.0.5359.98" ]
+}

@@ -1,0 +1,173 @@
+{
+  "uid" : "e256163110ea9c83",
+  "name" : "log in into oms",
+  "fullName" : "Validating UKG Single order.log in into oms",
+  "historyId" : "2a252e58e3f5664f40723b8bf881e4b9",
+  "time" : {
+    "start" : 1669883005558,
+    "stop" : 1669883034506,
+    "duration" : 28948
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 7,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Maximize the window",
+      "time" : {
+        "start" : 1669883005558,
+        "stop" : 0,
+        "duration" : -1669883005558
+      },
+      "status" : "unknown",
+      "steps" : [ {
+        "name" : "Open Byjus OMS page",
+        "time" : {
+          "start" : 1669883005696,
+          "stop" : 1669883013181,
+          "duration" : 7485
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "Login to the Home page",
+        "time" : {
+          "start" : 1669883013181,
+          "stop" : 0,
+          "duration" : -1669883013181
+        },
+        "status" : "unknown",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 2,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testMethod",
+    "value" : "log in into oms"
+  }, {
+    "name" : "package",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.121"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "22d699d7df32d9fa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669789650097,
+        "stop" : 1669789673788,
+        "duration" : 23691
+      }
+    }, {
+      "uid" : "f1fd092ecb9eac64",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669789543783,
+        "stop" : 1669789568132,
+        "duration" : 24349
+      }
+    }, {
+      "uid" : "dfcc22d3a3f5412c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669789255505,
+        "stop" : 1669789279580,
+        "duration" : 24075
+      }
+    }, {
+      "uid" : "c0e33b30b4d173b7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669788354146,
+        "stop" : 1669788378452,
+        "duration" : 24306
+      }
+    }, {
+      "uid" : "24661d1c0cb1911a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669786618180,
+        "stop" : 1669786642326,
+        "duration" : 24146
+      }
+    }, {
+      "uid" : "64bbc7d48dd05ec6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669784207470,
+        "stop" : 1669784232527,
+        "duration" : 25057
+      }
+    }, {
+      "uid" : "a89a73eaee77968c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669702882072,
+        "stop" : 1669702909159,
+        "duration" : 27087
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e256163110ea9c83.json",
+  "parameterValues" : [ "chrome-107.0.5304.121" ]
+}

@@ -1,0 +1,96 @@
+{
+  "uid" : "e7da87870ac4b187",
+  "name" : "Verify raise priority option",
+  "fullName" : "Validating UKG Single order.Verify raise priority option",
+  "historyId" : "fef0418f8e8e8c46326652b0b6d6944d",
+  "time" : {
+    "start" : 1669274103145,
+    "stop" : 1669274103290,
+    "duration" : 145
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "element.waitForExist is not a function",
+  "statusTrace" : "TypeError: element.waitForExist is not a function\n                    at waitAndDoClick (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/utils/function.js:21:19)\n                    at verifyOmsOrderDetails.raisePriorityAndVerify (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:417:29)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:146:37)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "element.waitForExist is not a function",
+    "statusTrace" : "TypeError: element.waitForExist is not a function\n                    at waitAndDoClick (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/utils/function.js:21:19)\n                    at verifyOmsOrderDetails.raisePriorityAndVerify (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:417:29)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:146:37)",
+    "steps" : [ {
+      "name" : "Verify raise priority option",
+      "time" : {
+        "start" : 1669274103146,
+        "stop" : 1669274103290,
+        "duration" : 144
+      },
+      "status" : "broken",
+      "statusMessage" : "TypeError: element.waitForExist is not a function\n                    at waitAndDoClick (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/utils/function.js:21:19)\n                    at verifyOmsOrderDetails.raisePriorityAndVerify (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:417:29)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleOrderLkg.js:146:37)",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "ab69a9ec66699229",
+        "name" : "Screenshot",
+        "source" : "ab69a9ec66699229.png",
+        "type" : "image/png",
+        "size" : 178722
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify raise priority option"
+  }, {
+    "name" : "package",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.110"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e7da87870ac4b187.json",
+  "parameterValues" : [ "chrome-107.0.5304.110" ]
+}

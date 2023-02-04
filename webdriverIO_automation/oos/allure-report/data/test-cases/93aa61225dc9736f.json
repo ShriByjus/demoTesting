@@ -1,0 +1,96 @@
+{
+  "uid" : "93aa61225dc9736f",
+  "name" : "Verify PID is generated",
+  "fullName" : "Validating UKG Single order.Verify PID is generated",
+  "historyId" : "e37ecb922eefec8fdae3d45ea61658b6",
+  "time" : {
+    "start" : 1669788381402,
+    "stop" : 1669788431630,
+    "duration" : 50228
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Can't call scrollIntoView on element with selector \"//td[@class='align-middle text-uppercase']//a\" because element wasn't found",
+  "statusTrace" : "Error: Can't call scrollIntoView on element with selector \"//td[@class='align-middle text-uppercase']//a\" because element wasn't found\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleClass4.js:58:9)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "Can't call scrollIntoView on element with selector \"//td[@class='align-middle text-uppercase']//a\" because element wasn't found",
+    "statusTrace" : "Error: Can't call scrollIntoView on element with selector \"//td[@class='align-middle text-uppercase']//a\" because element wasn't found\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleClass4.js:58:9)",
+    "steps" : [ {
+      "name" : "Scroll to PID button",
+      "time" : {
+        "start" : 1669788381402,
+        "stop" : 1669788431630,
+        "duration" : 50228
+      },
+      "status" : "broken",
+      "statusMessage" : "Error: Can't call scrollIntoView on element with selector \"//td[@class='align-middle text-uppercase']//a\" because element wasn't found\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleClass4.js:58:9)",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "974c8536eb9866a9",
+        "name" : "Screenshot",
+        "source" : "974c8536eb9866a9.png",
+        "type" : "image/png",
+        "size" : 297670
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify PID is generated"
+  }, {
+    "name" : "package",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.121"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "93aa61225dc9736f.json",
+  "parameterValues" : [ "chrome-107.0.5304.121" ]
+}

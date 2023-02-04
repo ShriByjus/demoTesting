@@ -1,0 +1,155 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1667561976391' stop='1667562156611'>
+    <name>btlp workflow</name>
+    <title>btlp workflow</title>
+    <test-cases>
+        <test-case start='1667561976391' status='passed' stop='1667561982133'>
+            <name>Adding json to collections for generating the Order Id</name>
+            <title>Adding json to collections for generating the Order Id</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-107.0.5304.87'/>
+            </parameters>
+            <steps>
+                <step start='1667561976416' status='undefined'>
+                    <name>Adding order to Sales order Collection</name>
+                    <title>Adding order to Sales order Collection</title>
+                    <attachments/>
+                    <steps>
+                        <step start='1667561980323' status='passed' stop='1667561982132'>
+                            <name>Adding order to Sales Sub order Collection</name>
+                            <title>Adding order to Sales Sub order Collection</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                    </steps>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1667561982133' status='broken' stop='1667562138185'>
+            <name>btlp forward workflow</name>
+            <title>btlp forward workflow</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-107.0.5304.87'/>
+            </parameters>
+            <steps>
+                <step start='1667561982134' status='broken' stop='1667562138185'>
+                    <name>Maximize the window</name>
+                    <title>Maximize the window</title>
+                    <attachments/>
+                    <steps>
+                        <step start='1667561982270' status='passed' stop='1667561985989'>
+                            <name>Open Byjus OMS page</name>
+                            <title>Open Byjus OMS page</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1667561985989' status='broken' stop='1667562138185'>
+                            <name>Login to the Home page</name>
+                            <title>Login to the Home page</title>
+                            <attachments/>
+                            <steps>
+                                <step start='1667562014780' status='broken' stop='1667562138185'>
+                                    <name>Open SSO Id</name>
+                                    <title>Open SSO Id</title>
+                                    <attachments/>
+                                    <steps>
+                                        <step start='1667562026449' status='broken' stop='1667562138185'>
+                                            <name>adding present owner</name>
+                                            <title>adding present owner</title>
+                                            <attachments/>
+                                            <steps>
+                                                <step start='1667562038703' status='broken' stop='1667562138185'>
+                                                    <name>impersonating set up user</name>
+                                                    <title>impersonating set up user</title>
+                                                    <attachments/>
+                                                    <steps>
+                                                        <step start='1667562053703' status='broken' stop='1667562138185'>
+                                                            <name>impersonating is done</name>
+                                                            <title>impersonating is done</title>
+                                                            <attachments/>
+                                                            <steps>
+                                                                <step start='1667562057100' status='broken' stop='1667562138185'>
+                                                                    <name>Open SSO Id and mapping inventory &amp; packaging</name>
+                                                                    <title>Open SSO Id and mapping inventory &amp; packaging</title>
+                                                                    <attachments/>
+                                                                    <steps>
+                                                                        <step start='1667562133500' status='broken' stop='1667562138185'>
+                                                                            <name>shipment creation</name>
+                                                                            <title>shipment creation</title>
+                                                                            <attachments/>
+                                                                            <steps>
+                                                                                <step start='1667562138009' status='broken' stop='1667562138185'>
+                                                                                    <name>Get AWB no from DB</name>
+                                                                                    <title>Get AWB no from DB</title>
+                                                                                    <attachments>
+                                                                                        <attachment title='Screenshot' source='2fb5fb21-7765-4f4c-a785-5a2f3bb12cc3-attachment.png' type='image/png' size='263405'/>
+                                                                                    </attachments>
+                                                                                    <steps/>
+                                                                                </step>
+                                                                            </steps>
+                                                                        </step>
+                                                                    </steps>
+                                                                </step>
+                                                            </steps>
+                                                        </step>
+                                                    </steps>
+                                                </step>
+                                            </steps>
+                                        </step>
+                                    </steps>
+                                </step>
+                            </steps>
+                        </step>
+                    </steps>
+                </step>
+            </steps>
+            <attachments/>
+            <failure>
+                <message>_mongoconnect.default.getShipmentAWBNumberFromDB is not a function</message>
+                <stack-trace>TypeError: _mongoconnect.default.getShipmentAWBNumberFromDB is not a function
+                    at Context.&lt;anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/Btlp_Smoke_Testings/forwardAndReveresFlow.js:65:44)
+                    at processTicksAndRejections (node:internal/process/task_queues:96:5)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1667562138186' status='broken' stop='1667562156611'>
+            <name>btlp reveres workflow</name>
+            <title>btlp reveres workflow</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-107.0.5304.87'/>
+            </parameters>
+            <steps>
+                <step start='1667562138187' status='broken' stop='1667562156611'>
+                    <name>Maximize the window</name>
+                    <title>Maximize the window</title>
+                    <attachments>
+                        <attachment title='Screenshot' source='bd30a1d0-b17e-4903-8d6c-1790ae0bfa64-attachment.png' type='image/png' size='175470'/>
+                    </attachments>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <failure>
+                <message>element ("(//button[@type='button'][normalize-space()='Previous'])[1]") still not displayed after 5000ms</message>
+                <stack-trace>Error: element ("(//button[@type='button'][normalize-space()='Previous'])[1]") still not displayed after 5000ms
+                    at OMShomepages.goAndClickOnSalesReturn (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/omsSmokeData.js:1161:8)
+                    at Context.&lt;anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/Btlp_Smoke_Testings/forwardAndReveresFlow.js:77:9)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

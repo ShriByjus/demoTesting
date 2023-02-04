@@ -1,0 +1,438 @@
+{
+  "uid" : "48a244e13c03ed5f",
+  "name" : "Verify the sales skus and skus names",
+  "fullName" : "Validating UKG Single order.Verify the sales skus and skus names",
+  "historyId" : "2797444268a0bd1b3a4dcb5d8312d687",
+  "time" : {
+    "start" : 1669625313920,
+    "stop" : 1669625320113,
+    "duration" : 6193
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 37,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Validate the sales sku's",
+      "time" : {
+        "start" : 1669625317010,
+        "stop" : 0,
+        "duration" : -1669625317010
+      },
+      "status" : "unknown",
+      "steps" : [ {
+        "name" : "Validatation done for sales sku's",
+        "time" : {
+          "start" : 1669625317011,
+          "stop" : 0,
+          "duration" : -1669625317011
+        },
+        "status" : "unknown",
+        "steps" : [ {
+          "name" : "Validate the shipment sku's names",
+          "time" : {
+            "start" : 1669625317011,
+            "stop" : 0,
+            "duration" : -1669625317011
+          },
+          "status" : "unknown",
+          "steps" : [ {
+            "name" : "Validatation done for shipment sku's names",
+            "time" : {
+              "start" : 1669625320113,
+              "stop" : 1669625320113,
+              "duration" : 0
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ ],
+            "parameters" : [ ],
+            "stepsCount" : 0,
+            "attachmentsCount" : 0,
+            "shouldDisplayMessage" : false,
+            "hasContent" : false
+          } ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 1,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 2,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 3,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the sales skus and skus names"
+  }, {
+    "name" : "package",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.110"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1772e20d0d58fa3f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669618453173,
+        "stop" : 1669618459673,
+        "duration" : 6500
+      }
+    }, {
+      "uid" : "ad81fe29cc8407ff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669615924587,
+        "stop" : 1669615931055,
+        "duration" : 6468
+      }
+    }, {
+      "uid" : "1867c5f8f6ae980a",
+      "status" : "failed",
+      "statusDetails" : "expect(received).toEqual(expected) // deep equality\n                \n                Expected: \"DDLKNA23\"\n                Received: \"DD01NA23DM\"",
+      "time" : {
+        "start" : 1669611346167,
+        "stop" : 1669611349460,
+        "duration" : 3293
+      }
+    }, {
+      "uid" : "ae3782c73bc847b4",
+      "status" : "failed",
+      "statusDetails" : "expect(received).toEqual(expected) // deep equality\n                \n                Expected: \"DDLKNA23\"\n                Received: \"DD01NA23DM\"",
+      "time" : {
+        "start" : 1669611015957,
+        "stop" : 1669611019152,
+        "duration" : 3195
+      }
+    }, {
+      "uid" : "b0b5db3868f8ada",
+      "status" : "failed",
+      "statusDetails" : "expect(received).toEqual(expected) // deep equality\n                \n                Expected: \"DDLKNA23\"\n                Received: \"DD01NA23DM\"",
+      "time" : {
+        "start" : 1669610736603,
+        "stop" : 1669610740130,
+        "duration" : 3527
+      }
+    }, {
+      "uid" : "884a1b745317af37",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669610529179,
+        "stop" : 1669610535356,
+        "duration" : 6177
+      }
+    }, {
+      "uid" : "b765272ba0d16a44",
+      "status" : "failed",
+      "statusDetails" : "expect(received).toEqual(expected) // deep equality\n                \n                Expected: \"DDLKNA23\"\n                Received: \"SD02DM04\"",
+      "time" : {
+        "start" : 1669609454692,
+        "stop" : 1669609457836,
+        "duration" : 3144
+      }
+    }, {
+      "uid" : "9e4511e3cfb15b9",
+      "status" : "failed",
+      "statusDetails" : "expect(received).toEqual(expected) // deep equality\n                \n                Expected: \"DDLKNA23\"\n                Received: \"SD02DM04\"",
+      "time" : {
+        "start" : 1669609295210,
+        "stop" : 1669609298484,
+        "duration" : 3274
+      }
+    }, {
+      "uid" : "33c93d21ef040515",
+      "status" : "failed",
+      "statusDetails" : "expect(received).toEqual(expected) // deep equality\n                \n                Expected: \"DDLKNA23\"\n                Received: \"SD02DM04\"",
+      "time" : {
+        "start" : 1669609071116,
+        "stop" : 1669609074641,
+        "duration" : 3525
+      }
+    }, {
+      "uid" : "69f0b6919c2bd678",
+      "status" : "failed",
+      "statusDetails" : "expect(received).toEqual(expected) // deep equality\n                \n                Expected: \"DDLKNA23\"\n                Received: \"SD02DM04\"",
+      "time" : {
+        "start" : 1669608894797,
+        "stop" : 1669608898347,
+        "duration" : 3550
+      }
+    }, {
+      "uid" : "6f274c4ce3efa40b",
+      "status" : "failed",
+      "statusDetails" : "expect(received).toEqual(expected) // deep equality\n                \n                Expected: \"DDLKNA23\"\n                Received: \"SD02DM04\"",
+      "time" : {
+        "start" : 1669608685133,
+        "stop" : 1669608688470,
+        "duration" : 3337
+      }
+    }, {
+      "uid" : "b20b43bfaadfe7c7",
+      "status" : "failed",
+      "statusDetails" : "expect(received).toEqual(expected) // deep equality\n                \n                Expected: \"DDLKNA23\"\n                Received: \"DD01NA23DM\"",
+      "time" : {
+        "start" : 1669380221187,
+        "stop" : 1669380224115,
+        "duration" : 2928
+      }
+    }, {
+      "uid" : "afe8a04e748963b3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669299205224,
+        "stop" : 1669299218907,
+        "duration" : 13683
+      }
+    }, {
+      "uid" : "7ff612fe6b1d709c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669274092857,
+        "stop" : 1669274098498,
+        "duration" : 5641
+      }
+    }, {
+      "uid" : "ba66439944cf3c24",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669273970994,
+        "stop" : 1669273977660,
+        "duration" : 6666
+      }
+    }, {
+      "uid" : "a234c1648aaca309",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669273227853,
+        "stop" : 1669273233585,
+        "duration" : 5732
+      }
+    }, {
+      "uid" : "d148318dafc3e59f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669273135762,
+        "stop" : 1669273141390,
+        "duration" : 5628
+      }
+    }, {
+      "uid" : "55c95aa93b256ead",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669272977801,
+        "stop" : 1669272984777,
+        "duration" : 6976
+      }
+    }, {
+      "uid" : "1c4f6c11448fa459",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669272925666,
+        "stop" : 1669272931922,
+        "duration" : 6256
+      }
+    }, {
+      "uid" : "c995e4fb6c4bb3ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669271556027,
+        "stop" : 1669271561884,
+        "duration" : 5857
+      }
+    }, {
+      "uid" : "8c7a701fa0416c7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669271417900,
+        "stop" : 1669271424016,
+        "duration" : 6116
+      }
+    }, {
+      "uid" : "1801cab1d46deae3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669270803117,
+        "stop" : 1669270809132,
+        "duration" : 6015
+      }
+    }, {
+      "uid" : "92aa1c2d6493d43b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669270238824,
+        "stop" : 1669270244598,
+        "duration" : 5774
+      }
+    }, {
+      "uid" : "c19e7ad8515facec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669269214724,
+        "stop" : 1669269220698,
+        "duration" : 5974
+      }
+    }, {
+      "uid" : "8105551ea82bebc3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669269079852,
+        "stop" : 1669269085792,
+        "duration" : 5940
+      }
+    }, {
+      "uid" : "2a540b08f4517d5c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669268703699,
+        "stop" : 1669268709290,
+        "duration" : 5591
+      }
+    }, {
+      "uid" : "7df689c0ab94816e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669266828766,
+        "stop" : 1669266834880,
+        "duration" : 6114
+      }
+    }, {
+      "uid" : "21578980208e36f0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669266721514,
+        "stop" : 1669266728037,
+        "duration" : 6523
+      }
+    }, {
+      "uid" : "4681efa742a15875",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669266206394,
+        "stop" : 1669266212045,
+        "duration" : 5651
+      }
+    }, {
+      "uid" : "e7ac65dc593db4b2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669266015112,
+        "stop" : 1669266020860,
+        "duration" : 5748
+      }
+    }, {
+      "uid" : "74a036e5f96101b0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669211306124,
+        "stop" : 1669211321186,
+        "duration" : 15062
+      }
+    }, {
+      "uid" : "7776b1f3a56c92",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669209775635,
+        "stop" : 1669209781300,
+        "duration" : 5665
+      }
+    }, {
+      "uid" : "adac02a8f20ef422",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669209553151,
+        "stop" : 1669209559304,
+        "duration" : 6153
+      }
+    }, {
+      "uid" : "992b429da880485a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669208802513,
+        "stop" : 1669208809457,
+        "duration" : 6944
+      }
+    }, {
+      "uid" : "741f3cfe0c1b98ed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669208104066,
+        "stop" : 1669208110055,
+        "duration" : 5989
+      }
+    }, {
+      "uid" : "20736930d5d24cde",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669206713227,
+        "stop" : 1669206719080,
+        "duration" : 5853
+      }
+    }, {
+      "uid" : "544c106a56f9afb4",
+      "status" : "failed",
+      "statusDetails" : "expect(received).toEqual(expected) // deep equality\n                \n                Expected: \"LKG Grade D4 SD Card May 2023\"\n                Received: \"BYJU'S LearnStation Junior 10inch Mobile Data Grey Tablet\"",
+      "time" : {
+        "start" : 1669206525166,
+        "stop" : 1669206531052,
+        "duration" : 5886
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "48a244e13c03ed5f.json",
+  "parameterValues" : [ "chrome-107.0.5304.110" ]
+}

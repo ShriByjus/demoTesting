@@ -1,0 +1,145 @@
+{
+  "uid" : "b676731da6bbeb08",
+  "name" : "Verify sales and customer details",
+  "fullName" : "Validating UKG Single order.Verify sales and customer details",
+  "historyId" : "6509a081a72bbf16de9948c87f0bdc92",
+  "time" : {
+    "start" : 1669608716542,
+    "stop" : 1669608722626,
+    "duration" : 6084
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Get address details from draft order Id collection",
+      "time" : {
+        "start" : 1669608716542,
+        "stop" : 0,
+        "duration" : -1669608716542
+      },
+      "status" : "unknown",
+      "steps" : [ {
+        "name" : "Get customer details from draft order Id collection",
+        "time" : {
+          "start" : 1669608718152,
+          "stop" : 0,
+          "duration" : -1669608718152
+        },
+        "status" : "unknown",
+        "steps" : [ {
+          "name" : "Copy sales and customer details from UI",
+          "time" : {
+            "start" : 1669608721355,
+            "stop" : 0,
+            "duration" : -1669608721355
+          },
+          "status" : "unknown",
+          "steps" : [ {
+            "name" : "Validate the address details from UI matches with details from draft order collection",
+            "time" : {
+              "start" : 1669608722626,
+              "stop" : 0,
+              "duration" : -1669608722626
+            },
+            "status" : "unknown",
+            "steps" : [ {
+              "name" : "Validate the customer details from UI matches with details from draft order collection",
+              "time" : {
+                "start" : 1669608722626,
+                "stop" : 1669608722626,
+                "duration" : 0
+              },
+              "status" : "passed",
+              "steps" : [ ],
+              "attachments" : [ ],
+              "parameters" : [ ],
+              "stepsCount" : 0,
+              "attachmentsCount" : 0,
+              "shouldDisplayMessage" : false,
+              "hasContent" : false
+            } ],
+            "attachments" : [ ],
+            "parameters" : [ ],
+            "stepsCount" : 1,
+            "attachmentsCount" : 0,
+            "shouldDisplayMessage" : false,
+            "hasContent" : true
+          } ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 2,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 3,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 4,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 5,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify sales and customer details"
+  }, {
+    "name" : "package",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.110"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b676731da6bbeb08.json",
+  "parameterValues" : [ "chrome-107.0.5304.110" ]
+}

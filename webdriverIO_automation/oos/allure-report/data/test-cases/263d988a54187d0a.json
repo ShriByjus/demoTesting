@@ -1,0 +1,117 @@
+{
+  "uid" : "263d988a54187d0a",
+  "name" : "log in into oms",
+  "fullName" : "Validating grade 2 Single order.log in into oms",
+  "historyId" : "88ab1db90b4abed65e6f2b2c0e1e5925",
+  "time" : {
+    "start" : 1669884229365,
+    "stop" : 1669884259010,
+    "duration" : 29645
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Maximize the window",
+      "time" : {
+        "start" : 1669884229365,
+        "stop" : 0,
+        "duration" : -1669884229365
+      },
+      "status" : "unknown",
+      "steps" : [ {
+        "name" : "Open Byjus OMS page",
+        "time" : {
+          "start" : 1669884229499,
+          "stop" : 1669884232772,
+          "duration" : 3273
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "Login to the Home page",
+        "time" : {
+          "start" : 1669884232772,
+          "stop" : 0,
+          "duration" : -1669884232772
+        },
+        "status" : "unknown",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 2,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Validating grade 2 Single order"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating grade 2 Single order"
+  }, {
+    "name" : "testMethod",
+    "value" : "log in into oms"
+  }, {
+    "name" : "package",
+    "value" : "Validating grade 2 Single order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.121"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "263d988a54187d0a.json",
+  "parameterValues" : [ "chrome-107.0.5304.121" ]
+}

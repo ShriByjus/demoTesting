@@ -1,0 +1,128 @@
+{
+  "uid" : "8e4d498d3370aaf1",
+  "name" : "Verify sales and customer details",
+  "fullName" : "Validating grade 4 Single order.Verify sales and customer details",
+  "historyId" : "7b062375555c1d4ee16ebce416a1c88c",
+  "time" : {
+    "start" : 1671018723224,
+    "stop" : 1671018726943,
+    "duration" : 3719
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "this.btnSalesAndCustomerDetails.waitForClickable is not a function",
+  "statusTrace" : "TypeError: this.btnSalesAndCustomerDetails.waitForClickable is not a function\n                    at verifyOmsOrderDetails.verifySalesAndCustomerDetails (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:363:47)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleClass6.js:136:49)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "this.btnSalesAndCustomerDetails.waitForClickable is not a function",
+    "statusTrace" : "TypeError: this.btnSalesAndCustomerDetails.waitForClickable is not a function\n                    at verifyOmsOrderDetails.verifySalesAndCustomerDetails (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:363:47)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleClass6.js:136:49)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+    "steps" : [ {
+      "name" : "Get address details from draft order Id collection",
+      "time" : {
+        "start" : 1671018723224,
+        "stop" : 1671018726943,
+        "duration" : 3719
+      },
+      "status" : "broken",
+      "statusMessage" : "TypeError: this.btnSalesAndCustomerDetails.waitForClickable is not a function\n                    at verifyOmsOrderDetails.verifySalesAndCustomerDetails (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:363:47)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleClass6.js:136:49)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+      "steps" : [ {
+        "name" : "Get customer details from draft order Id collection",
+        "time" : {
+          "start" : 1671018724875,
+          "stop" : 1671018726943,
+          "duration" : 2068
+        },
+        "status" : "broken",
+        "statusMessage" : "TypeError: this.btnSalesAndCustomerDetails.waitForClickable is not a function\n                    at verifyOmsOrderDetails.verifySalesAndCustomerDetails (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:363:47)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleClass6.js:136:49)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+        "steps" : [ {
+          "name" : "Copy sales and customer details from UI",
+          "time" : {
+            "start" : 1671018726751,
+            "stop" : 1671018726943,
+            "duration" : 192
+          },
+          "status" : "broken",
+          "statusMessage" : "TypeError: this.btnSalesAndCustomerDetails.waitForClickable is not a function\n                    at verifyOmsOrderDetails.verifySalesAndCustomerDetails (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/pages/verifyOmsOrderDetails.js:363:47)\n                    at Context.<anonymous> (/Users/shrinathmotappamirashi/Documents/seenu/qa-automation-oms/oms/oos/test/tlp-orders/single-order/ukg-order/cbse/testTlpSingleClass6.js:136:49)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "a30c9bd0cb4c918",
+            "name" : "Screenshot",
+            "source" : "a30c9bd0cb4c918.png",
+            "type" : "image/png",
+            "size" : 178721
+          } ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 1,
+          "shouldDisplayMessage" : true,
+          "hasContent" : true
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 2,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating grade 4 Single order"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating grade 4 Single order"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify sales and customer details"
+  }, {
+    "name" : "package",
+    "value" : "Validating grade 4 Single order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-108.0.5359.98"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8e4d498d3370aaf1.json",
+  "parameterValues" : [ "chrome-108.0.5359.98" ]
+}

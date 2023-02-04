@@ -1,0 +1,649 @@
+{
+    "customerDetails" : {
+        "duplicateReason" : null,
+        "isBooksOpted" : true,
+        "parentName" : "Rakesh",
+        "studentName" : "Shubham singh",
+        "parentMobileNo" : "+91-8889996709",
+        "alternateMobileNo" : [ 
+            {
+                "_id" : "63317d76b1f2250025dab94f",
+                "mobile" : "+91-8889996709",
+                "relation" : "self"
+            }
+        ],
+        "email" : "8889996709@gmail.com",
+        "studentMobileNo" : "+91-8889996709",
+        "customerId" : "CX-2209261022397372",
+        "customerType" : "existing",
+        "identifierDetails" : [],
+        "gstDetails" : {
+            "isGstIn" : false
+        }
+    },
+    "lineItems" : {
+        "parentLineItems" : [ 
+            {
+                "_id" : "623c6dd8e48c434244935b17",
+                "productId" : "1313894",
+                "__v" : 1,
+                "basePrice" : 22000,
+                "continousPrice" : 17000,
+                "course" : "Maths",
+                "grade" : "Streaming 4",
+                "name" : "4th (Streaming) May-2023",
+                "sku" : "4th (Streaming) May-2023",
+                "type" : "Streaming",
+                "validity" : "MAY 2023",
+                "cohort_id" : 29,
+                "itemType" : "course",
+                "updatedBy" : "Datafix_update_middle_east_pricing",
+                "createdAt" : "2019-09-03T07:17:23.680Z",
+                "priceDetails" : {
+                    "united_arab_emirates" : {
+                        "basePrice" : 1175,
+                        "continousPrice" : 950
+                    },
+                    "kuwait" : {
+                        "basePrice" : 90,
+                        "continousPrice" : 70
+                    },
+                    "oman" : {
+                        "basePrice" : 110,
+                        "continousPrice" : 85
+                    },
+                    "saudi_arabia" : {
+                        "basePrice" : 1050,
+                        "continousPrice" : 800
+                    }
+                },
+                "updatedAt" : "2021-05-10T10:42:25.456Z",
+                "hsnCode" : "999293",
+                "skuSubType" : "Streaming",
+                "skuType" : "Service",
+                "auditLogs" : [],
+                "status" : "active",
+                "skuId" : "ST04CB23",
+                "isValidSku" : false,
+                "remarks" : "",
+                "validatedAt" : "2021-10-19T06:24:04.073Z",
+                "programId" : "BTLAKXAS0001",
+                "financeCode" : "ST04CB",
+                "price" : 22000,
+                "itemId" : "9EJPCSxYdIbFJ1NT6G9qcG0I",
+                "combinationType" : "tlp",
+                "studentId" : "Shubham singh-1",
+                "tabletId" : "",
+                "pgItemId" : 1200085
+            }, 
+            {
+                "_id" : "623093f53302daecbaaf20ed",
+                "productId" : "1404774",
+                "basePrice" : 22000,
+                "continousPrice" : 17000,
+                "course" : "Maths",
+                "grade" : "Streaming 5",
+                "name" : "5th (Streaming) May-2024",
+                "sku" : "5th (Streaming) May-2024",
+                "type" : "Streaming",
+                "validity" : "MAY 2024",
+                "cohort_id" : 30,
+                "createdAt" : "2019-09-03T07:17:23.680Z",
+                "priceDetails" : {
+                    "united_arab_emirates" : {
+                        "basePrice" : 1175,
+                        "countinousPrice" : 800,
+                        "continousPrice" : 950
+                    },
+                    "kuwait" : {
+                        "basePrice" : 90,
+                        "continousPrice" : 70
+                    },
+                    "oman" : {
+                        "basePrice" : 110,
+                        "continousPrice" : 85
+                    },
+                    "saudi_arabia" : {
+                        "basePrice" : 1050,
+                        "continousPrice" : 800
+                    }
+                },
+                "updatedAt" : "2021-05-10T14:27:47.260Z",
+                "updatedBy" : "Datafix_update_middle_east_pricing",
+                "skuSubType" : "Streaming",
+                "skuType" : "Service",
+                "skuId" : "ST05CB24",
+                "isValidSku" : true,
+                "remarks" : null,
+                "validatedAt" : "2021-11-08T15:15:44.818Z",
+                "programId" : "BTLAKXAS0001",
+                "itemType" : "course",
+                "price" : 17000,
+                "itemId" : "hpPDe8gLeSYfMVatSqJ93mHY",
+                "combinationType" : "tlp",
+                "financeCode" : "ST05CB",
+                "status" : "active",
+                "studentId" : "Shubham singh-1",
+                "tabletId" : "",
+                "pgItemId" : 1200086
+            }
+        ],
+        "childLineItems" : []
+    },
+    "productDetails" : {
+        "productType" : "streaming",
+        "mentoringDetails" : [ 
+            null
+        ],
+        "bhlpCourseDetails" : [],
+        "paymentType" : "NON_EMI",
+        "maxPrice" : 39000,
+        "minPrice" : 31000,
+        "discountedPrice" : 0,
+        "students" : [ 
+            {
+                "studentProfileDetails" : {
+                    "isExistingProfile" : false,
+                    "existingPremiumId" : "",
+                    "existingFamilyId" : ""
+                },
+                "hlpDetails" : {
+                    "courseDetails" : [],
+                    "sessionDetails" : []
+                },
+                "courseType" : [ 
+                    "K10"
+                ],
+                "electiveDetails" : [],
+                "doubtClassDetails" : [],
+                "workshops" : [],
+                "items" : [ 
+                    {
+                        "_id" : "623c6dd8e48c434244935b17",
+                        "productId" : "1313894",
+                        "__v" : 1,
+                        "basePrice" : 22000,
+                        "continousPrice" : 17000,
+                        "course" : "Maths",
+                        "grade" : "Streaming 4",
+                        "name" : "4th (Streaming) May-2023",
+                        "sku" : "4th (Streaming) May-2023",
+                        "type" : "Streaming",
+                        "validity" : "MAY 2023",
+                        "cohort_id" : 29,
+                        "itemType" : "course",
+                        "updatedBy" : "Datafix_update_middle_east_pricing",
+                        "createdAt" : "2019-09-03T07:17:23.680Z",
+                        "priceDetails" : {
+                            "united_arab_emirates" : {
+                                "basePrice" : 1175,
+                                "continousPrice" : 950
+                            },
+                            "kuwait" : {
+                                "basePrice" : 90,
+                                "continousPrice" : 70
+                            },
+                            "oman" : {
+                                "basePrice" : 110,
+                                "continousPrice" : 85
+                            },
+                            "saudi_arabia" : {
+                                "basePrice" : 1050,
+                                "continousPrice" : 800
+                            }
+                        },
+                        "updatedAt" : "2021-05-10T10:42:25.456Z",
+                        "hsnCode" : "999293",
+                        "skuSubType" : "Streaming",
+                        "skuType" : "Service",
+                        "auditLogs" : [],
+                        "status" : "active",
+                        "skuId" : "ST04CB23",
+                        "isValidSku" : false,
+                        "remarks" : "",
+                        "validatedAt" : "2021-10-19T06:24:04.073Z",
+                        "programId" : "BTLAKXAS0001",
+                        "financeCode" : "ST04CB",
+                        "price" : 22000,
+                        "itemId" : "9EJPCSxYdIbFJ1NT6G9qcG0I",
+                        "combinationType" : "tlp",
+                        "studentId" : "Shubham singh-1",
+                        "tabletId" : ""
+                    }, 
+                    {
+                        "_id" : "623093f53302daecbaaf20ed",
+                        "productId" : "1404774",
+                        "basePrice" : 22000,
+                        "continousPrice" : 17000,
+                        "course" : "Maths",
+                        "grade" : "Streaming 5",
+                        "name" : "5th (Streaming) May-2024",
+                        "sku" : "5th (Streaming) May-2024",
+                        "type" : "Streaming",
+                        "validity" : "MAY 2024",
+                        "cohort_id" : 30,
+                        "createdAt" : "2019-09-03T07:17:23.680Z",
+                        "priceDetails" : {
+                            "united_arab_emirates" : {
+                                "basePrice" : 1175,
+                                "countinousPrice" : 800,
+                                "continousPrice" : 950
+                            },
+                            "kuwait" : {
+                                "basePrice" : 90,
+                                "continousPrice" : 70
+                            },
+                            "oman" : {
+                                "basePrice" : 110,
+                                "continousPrice" : 85
+                            },
+                            "saudi_arabia" : {
+                                "basePrice" : 1050,
+                                "continousPrice" : 800
+                            }
+                        },
+                        "updatedAt" : "2021-05-10T14:27:47.260Z",
+                        "updatedBy" : "Datafix_update_middle_east_pricing",
+                        "skuSubType" : "Streaming",
+                        "skuType" : "Service",
+                        "skuId" : "ST05CB24",
+                        "isValidSku" : true,
+                        "remarks" : null,
+                        "validatedAt" : "2021-11-08T15:15:44.818Z",
+                        "programId" : "BTLAKXAS0001",
+                        "itemType" : "course",
+                        "price" : 17000,
+                        "itemId" : "hpPDe8gLeSYfMVatSqJ93mHY",
+                        "combinationType" : "tlp",
+                        "financeCode" : "ST05CB",
+                        "status" : "active",
+                        "studentId" : "Shubham singh-1",
+                        "tabletId" : ""
+                    }
+                ],
+                "addOnItems" : [],
+                "mentoringDetails" : [],
+                "bhlpCourseDetails" : [],
+                "featureTag" : [],
+                "_id" : "633181d4b1f2250025daba55",
+                "initialClass" : "4",
+                "finalClass" : "5",
+                "validity" : "2023",
+                "course" : "K10/K12",
+                "deviceType" : "Streaming",
+                "formValues" : {
+                    "initialClass" : "4",
+                    "finalClass" : "5",
+                    "byjusClassFinalGrade" : "",
+                    "subCourse" : "",
+                    "validity" : 2023,
+                    "course" : "K10/K12",
+                    "deviceType" : "Streaming",
+                    "isTableLock" : false
+                },
+                "tabletLock" : "not_applicable",
+                "productSelectionType" : "byjus_tlp",
+                "studentName" : "Shubham singh",
+                "studentId" : "Shubham singh-1",
+                "academicDetails" : {
+                    "mathPercent" : null,
+                    "sciencePercent" : null,
+                    "fotTrackId" : null,
+                    "proficiency" : null,
+                    "schoolDetails" : {
+                        "id" : null,
+                        "name" : "",
+                        "address" : "",
+                        "pincode" : null
+                    },
+                    "languageOfInstruction" : null,
+                    "languageOfInstructionId" : null
+                }
+            }
+        ],
+        "products" : [ 
+            {
+                "_id" : "623c6dd8e48c434244935b17",
+                "productId" : "1313894",
+                "__v" : 1,
+                "basePrice" : 22000,
+                "continousPrice" : 17000,
+                "course" : "Maths",
+                "grade" : "Streaming 4",
+                "name" : "4th (Streaming) May-2023",
+                "sku" : "4th (Streaming) May-2023",
+                "type" : "Streaming",
+                "validity" : "MAY 2023",
+                "cohort_id" : 29,
+                "itemType" : "course",
+                "updatedBy" : "Datafix_update_middle_east_pricing",
+                "createdAt" : "2019-09-03T07:17:23.680Z",
+                "priceDetails" : {
+                    "united_arab_emirates" : {
+                        "basePrice" : 1175,
+                        "continousPrice" : 950
+                    },
+                    "kuwait" : {
+                        "basePrice" : 90,
+                        "continousPrice" : 70
+                    },
+                    "oman" : {
+                        "basePrice" : 110,
+                        "continousPrice" : 85
+                    },
+                    "saudi_arabia" : {
+                        "basePrice" : 1050,
+                        "continousPrice" : 800
+                    }
+                },
+                "updatedAt" : "2021-05-10T10:42:25.456Z",
+                "hsnCode" : "999293",
+                "skuSubType" : "Streaming",
+                "skuType" : "Service",
+                "auditLogs" : [],
+                "status" : "active",
+                "skuId" : "ST04CB23",
+                "isValidSku" : false,
+                "remarks" : "",
+                "validatedAt" : "2021-10-19T06:24:04.073Z",
+                "programId" : "BTLAKXAS0001",
+                "financeCode" : "ST04CB",
+                "price" : 22000,
+                "itemId" : "9EJPCSxYdIbFJ1NT6G9qcG0I",
+                "combinationType" : "tlp",
+                "studentId" : "Shubham singh-1",
+                "tabletId" : ""
+            }, 
+            {
+                "_id" : "623093f53302daecbaaf20ed",
+                "productId" : "1404774",
+                "basePrice" : 22000,
+                "continousPrice" : 17000,
+                "course" : "Maths",
+                "grade" : "Streaming 5",
+                "name" : "5th (Streaming) May-2024",
+                "sku" : "5th (Streaming) May-2024",
+                "type" : "Streaming",
+                "validity" : "MAY 2024",
+                "cohort_id" : 30,
+                "createdAt" : "2019-09-03T07:17:23.680Z",
+                "priceDetails" : {
+                    "united_arab_emirates" : {
+                        "basePrice" : 1175,
+                        "countinousPrice" : 800,
+                        "continousPrice" : 950
+                    },
+                    "kuwait" : {
+                        "basePrice" : 90,
+                        "continousPrice" : 70
+                    },
+                    "oman" : {
+                        "basePrice" : 110,
+                        "continousPrice" : 85
+                    },
+                    "saudi_arabia" : {
+                        "basePrice" : 1050,
+                        "continousPrice" : 800
+                    }
+                },
+                "updatedAt" : "2021-05-10T14:27:47.260Z",
+                "updatedBy" : "Datafix_update_middle_east_pricing",
+                "skuSubType" : "Streaming",
+                "skuType" : "Service",
+                "skuId" : "ST05CB24",
+                "isValidSku" : true,
+                "remarks" : null,
+                "validatedAt" : "2021-11-08T15:15:44.818Z",
+                "programId" : "BTLAKXAS0001",
+                "itemType" : "course",
+                "price" : 17000,
+                "itemId" : "hpPDe8gLeSYfMVatSqJ93mHY",
+                "combinationType" : "tlp",
+                "financeCode" : "ST05CB",
+                "status" : "active",
+                "studentId" : "Shubham singh-1",
+                "tabletId" : ""
+            }
+        ],
+        "mentoring" : {
+            "count" : 0,
+            "items" : [ 
+                null
+            ]
+        },
+        "finalPrice" : 35000
+    },
+    "paymentDetails" : {
+        "type" : "NON_EMI",
+        "totalAmount" : 35000,
+        "totalEmiAmount" : 0,
+        "totalPrepaidAmount" : 35000,
+        "totalPostpaidAmount" : 0,
+        "paymentMethod" : "Non EMI Prepaid",
+        "payments" : [ 
+            {
+                "isPrepaid" : true,
+                "_id" : "633182c1b1f2250025dabad7",
+                "provider" : "PAYU",
+                "referenceId" : "BYJUS0002209264875",
+                "amount" : 35000,
+                "type" : "DOWN_PAYMENT",
+                "currency" : "",
+                "attachments" : []
+            }
+        ],
+        "minDownPaymentDetails" : {
+            "isMatched" : true,
+            "minDownPaymentAmount" : 0
+        },
+        "isRepunchedCase" : false
+    },
+    "cashbackDetails" : {
+        "unutilizedCashbacks" : []
+    },
+    "bonusPointsDetails" : {
+        "bonusPoints" : 0,
+        "conversionFactor" : 0,
+        "amount" : 0,
+        "transactionId" : ""
+    },
+    "approvalDetails" : {
+        "isPaymentVerified" : false,
+        "isOrderVerified" : false,
+        "isCustomerVerified" : false
+    },
+    "inventoryDetails" : [],
+    "isImmediateDelivery" : false,
+    "orderPunchingCategory" : "byjus_tlp",
+    "childStatus" : "soft_approved",
+    "isFOCOrder" : false,
+    "salesSubOrderIds" : [ 
+        "SSO1-2209261022460312"
+    ],
+    "isTestOrder" : true,
+    "upgradedOrders" : [],
+    "addOnLineItems" : [],
+    "bookInvoicing" : "not_applicable",
+    "orderApproval" : "not_applicable",
+    "poaCommand" : "applicable",
+    "sacCommand" : "applicable",
+    "isOmsOrder" : true,
+    "leadDetails" : {
+        "directSalesBy" : "",
+        "appointmentBookedBy" : "Meghana Negi",
+        "studentName" : "Shubham singh",
+        "studentEmail" : "8889996709@gmail.com",
+        "studentMobile" : "+91-8889996709",
+        "accessKey" : "u$r345dfdff0767605294d91b80ac914f62",
+        "secretKey" : "b56b69cd8b4c4be11fbac035bb5b17f4198059f0",
+        "accountNumber" : "24692",
+        "prospectId" : "en8889996709qwe2",
+        "typeOfSales" : "DS Sales",
+        "SourceCampaign" : "",
+        "SourceOfLead" : "",
+        "LeadSource" : "",
+        "SourceMedium" : "",
+        "SourceCampaignId" : "",
+        "UTMSource" : "",
+        "CampaignName" : "",
+        "homeAddress" : "",
+        "userEmail" : "praz@byjus.com",
+        "loggedInEmailId" : "praz@byjus.com",
+        "createdByEmailId" : "",
+        "leadCreatedAt" : null,
+        "leadId" : "",
+        "isLeadMobileUsed" : true,
+        "isEligibleForEvalution" : true,
+        "loggedInRole" : null
+    },
+    "salesDetails" : {
+        "typeOfSales" : "DS Sales",
+        "directSalesBy" : "sanjay.karkera@byjus.com",
+        "directSalesById" : "sanjay.karkera@byjus.com",
+        "directSalesByCampaign" : "Livechat Calling",
+        "salesAppointmentByCampaign" : "Hyderabad",
+        "directSalesByRole" : "bda",
+        "directSalesByDept" : "business_development",
+        "directSalesByCountry" : "india",
+        "directSalesByTeamManager" : "",
+        "directSalesBySeniorManager" : "archa.br@byjus.com",
+        "salesAppointmentByRole" : null,
+        "salesAppointmentByDept" : "",
+        "isOmsOrderEligible" : true
+    },
+    "status" : "order_created",
+    "draftOrderId" : "DO-2209261022460312",
+    "actionDetails" : {
+        "detailsSavedAt" : "2022-09-26T10:22:46.521Z",
+        "detailsSavedBy" : "praz@byjus.com",
+        "productSavedAt" : "2022-09-26T10:41:24.126Z",
+        "productSavedBy" : "praz@byjus.com",
+        "addressSavedAt" : "2022-09-26T10:42:14.364Z",
+        "addressSavedBy" : "praz@byjus.com",
+        "paymentSavedAt" : "2022-09-26T10:45:21.454Z",
+        "paymentSavedBy" : "praz@byjus.com",
+        "softApprovedAt" : "2022-09-26T10:45:28.487Z",
+        "softApprovedBy" : "system"
+    },
+    "orderPunchingType" : "NORMAL_ORDER",
+    "orgFormattedName" : "byjus",
+    "contactDetails" : [ 
+        {
+            "contacts" : [],
+            "_id" : "63317d76b1f2250025dab950",
+            "source" : "ls_17139"
+        }, 
+        {
+            "contacts" : [],
+            "_id" : "63317d76b1f2250025dab951",
+            "source" : "ls_24692"
+        }, 
+        {
+            "contacts" : [ 
+                "+91-8889996709"
+            ],
+            "_id" : "63317d76b1f2250025dab952",
+            "source" : "middleware"
+        }
+    ],
+    "source" : "kart",
+    "attachments" : [],
+    "comments" : [ 
+        {
+            "_id" : "633182c1b1f2250025dabadd",
+            "category" : "product",
+            "type" : "details",
+            "comment" : "Student Details :  Course Details : K10/K12  : 4 - 5 , Initial Validity : 2023",
+            "commentedBy" : "system",
+            "commentedAt" : "2022-09-26T10:45:21.826Z",
+            "source" : "kart"
+        }, 
+        {
+            "_id" : "633182c1b1f2250025dabade",
+            "category" : "price",
+            "type" : "range",
+            "comment" : "Price Range : 31000 - 39000\n Final Price : 35000",
+            "commentedBy" : "system",
+            "commentedAt" : "2022-09-26T10:45:21.826Z",
+            "source" : "kart"
+        }, 
+        {
+            "_id" : "633182c1b1f2250025dabadf",
+            "category" : "payment",
+            "type" : "refIds",
+            "comment" : "Payment Details : , Method:PAYU Amount: 35000 ReferenceId:BYJUS0002209264875",
+            "commentedBy" : "system",
+            "commentedAt" : "2022-09-26T10:45:21.826Z",
+            "source" : "kart"
+        }, 
+        {
+            "_id" : "633182c8b1f2250025dabaeb",
+            "comment" : "praz@byjus.com opted to move this order to OMS. Reason - undefined",
+            "commentedBy" : "praz@byjus.com",
+            "commentedAt" : "2022-09-26T10:45:28.480Z",
+            "source" : "kart"
+        }
+    ],
+    "cloneOrderDetails" : [],
+    "createdAt" : "2022-09-26T10:22:46.531Z",
+    "updatedAt" : "2022-09-26T10:46:01.104Z",
+    "__v" : 0,
+    "finalPrice" : 35000,
+    "sourceDetails" : {},
+    "addressDetails" : {
+        "billing" : {
+            "zipcode" : "411057",
+            "addressLine1" : "Address Address AddressAddress",
+            "country" : "India",
+            "state" : "Maharashtra",
+            "city" : "Pune",
+            "addressLine2" : "Address ,",
+            "addressLine3" : "Infotech  Park (Hinjawadi) S.O",
+            "address" : "Address Address AddressAddress\n Address \n \n Infotech  Park (Hinjawadi) S.O",
+            "addressId" : "310952"
+        },
+        "shipping" : {
+            "zipcode" : "411057",
+            "addressLine1" : "Address Address AddressAddress",
+            "country" : "India",
+            "state" : "Maharashtra",
+            "city" : "Pune",
+            "addressLine2" : "Address ,",
+            "addressLine3" : "Infotech  Park (Hinjawadi) S.O",
+            "address" : "Address Address AddressAddress\n Address \n \n Infotech  Park (Hinjawadi) S.O",
+            "addressId" : "310953"
+        }
+    },
+    "currency" : "",
+    "isRepunchedCase" : false,
+    "repunchDetails" : {},
+    "repunchOrderDetails" : {
+        "paymentDetails" : {}
+    },
+    "subscriptionDetails" : {},
+    "userComment" : null,
+    "assignmentCategory" : "k5",
+    "orderType" : "SINGLE",
+    "orderPlatformDetails" : {
+        "platform" : "oms",
+        "smsNotification" : true,
+        "remark" : null,
+        "ohOpReason" : null,
+        "ohOpTeam" : null,
+        "updatedBy" : "praz@byjus.com",
+        "updatedAt" : "2022-09-26T10:45:28.480Z"
+    },
+    "orderProcessedAt" : "2022-09-26T10:45:28.487Z",
+    "draftOrderWorkerId" : "1",
+    "processingAt" : "2022-09-26T10:46:00.026Z",
+    "orderReferenceId" : "633182e864ac580013184f72",
+    "financeOrderId" : "7f1295ac38c741b0b4900d756361c2be",
+    "salesOrderId" : "SO-2209261022460312",
+    "orderId" : "SSO1-2209261022460312",
+    "orderStatus" : "delivered",
+    "orderValue" : 35000,
+    "statusMessage" : "Order created Successfully",
+    "timestamps" : {
+        "deliveredAt" : "2022-09-26T10:46:01.958Z"
+    }
+}

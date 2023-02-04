@@ -1,0 +1,293 @@
+{
+  "uid" : "711d95c1a06ff179",
+  "name" : "Verify PID is generated",
+  "fullName" : "Validating UKG Single order.Verify PID is generated",
+  "historyId" : "232a8438099b5cb2211fd84cd48c27e2",
+  "time" : {
+    "start" : 1669625306736,
+    "stop" : 1669625307794,
+    "duration" : 1058
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 23,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Scroll to PID button",
+      "time" : {
+        "start" : 1669625306736,
+        "stop" : 0,
+        "duration" : -1669625306736
+      },
+      "status" : "unknown",
+      "steps" : [ {
+        "name" : "Verify the PID is displayed",
+        "time" : {
+          "start" : 1669625307781,
+          "stop" : 1669625307794,
+          "duration" : 13
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify PID is generated"
+  }, {
+    "name" : "package",
+    "value" : "Validating UKG Single order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-107.0.5304.110"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "22ca80b648ed8656",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669618445585,
+        "stop" : 1669618446121,
+        "duration" : 536
+      }
+    }, {
+      "uid" : "19107241558a5d6d",
+      "status" : "broken",
+      "statusDetails" : "Can't call scrollIntoView on element with selector \"//td[@class='align-middle text-uppercase']//a\" because element wasn't found",
+      "time" : {
+        "start" : 1669615867082,
+        "stop" : 1669615917302,
+        "duration" : 50220
+      }
+    }, {
+      "uid" : "b0ac0f67cb21ee21",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669611341680,
+        "stop" : 1669611342727,
+        "duration" : 1047
+      }
+    }, {
+      "uid" : "20ba7cc9b8d1ab0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669611012129,
+        "stop" : 1669611012696,
+        "duration" : 567
+      }
+    }, {
+      "uid" : "6877fd179e9fdea6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669610732944,
+        "stop" : 1669610733486,
+        "duration" : 542
+      }
+    }, {
+      "uid" : "f89ae658e5543fa5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669610521151,
+        "stop" : 1669610522711,
+        "duration" : 1560
+      }
+    }, {
+      "uid" : "96b81e4629c129c5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669609451029,
+        "stop" : 1669609451586,
+        "duration" : 557
+      }
+    }, {
+      "uid" : "3ac77ee04fe495a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669609291288,
+        "stop" : 1669609291841,
+        "duration" : 553
+      }
+    }, {
+      "uid" : "b54876c8cf91a0de",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669609066879,
+        "stop" : 1669609067413,
+        "duration" : 534
+      }
+    }, {
+      "uid" : "e6b8a4dd702a417e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669608890497,
+        "stop" : 1669608891562,
+        "duration" : 1065
+      }
+    }, {
+      "uid" : "f41e0ab627f41655",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669608681213,
+        "stop" : 1669608681764,
+        "duration" : 551
+      }
+    }, {
+      "uid" : "56a23db3be9b3914",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669380217538,
+        "stop" : 1669380218092,
+        "duration" : 554
+      }
+    }, {
+      "uid" : "770f7e33c47c1105",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669299194018,
+        "stop" : 1669299195059,
+        "duration" : 1041
+      }
+    }, {
+      "uid" : "1e1db4cb3efd8e65",
+      "status" : "broken",
+      "statusDetails" : "_verifyOmsOrderDetails.default.verifyPid.scrollIntoView is not a function",
+      "time" : {
+        "start" : 1669274092558,
+        "stop" : 1669274092706,
+        "duration" : 148
+      }
+    }, {
+      "uid" : "2d23c9f3397f6375",
+      "status" : "broken",
+      "statusDetails" : "_verifyOmsOrderDetails.default.verifyPid.scrollIntoView is not a function",
+      "time" : {
+        "start" : 1669273970692,
+        "stop" : 1669273970841,
+        "duration" : 149
+      }
+    }, {
+      "uid" : "7a73e323dee6113c",
+      "status" : "broken",
+      "statusDetails" : "_verifyOmsOrderDetails.default.verifyPid.scrollIntoView is not a function",
+      "time" : {
+        "start" : 1669273227552,
+        "stop" : 1669273227712,
+        "duration" : 160
+      }
+    }, {
+      "uid" : "ce9e1b5a94aeb792",
+      "status" : "broken",
+      "statusDetails" : "_verifyOmsOrderDetails.default.verifyPid.scrollIntoView is not a function",
+      "time" : {
+        "start" : 1669273135493,
+        "stop" : 1669273135627,
+        "duration" : 134
+      }
+    }, {
+      "uid" : "d05c66368662dc1d",
+      "status" : "broken",
+      "statusDetails" : "_verifyOmsOrderDetails.default.verifyPid.scrollIntoView is not a function",
+      "time" : {
+        "start" : 1669272977435,
+        "stop" : 1669272977630,
+        "duration" : 195
+      }
+    }, {
+      "uid" : "d0b4f9256790ae59",
+      "status" : "broken",
+      "statusDetails" : "_verifyOmsOrderDetails.default.verifyPid.scrollIntoView is not a function",
+      "time" : {
+        "start" : 1669272925395,
+        "stop" : 1669272925530,
+        "duration" : 135
+      }
+    }, {
+      "uid" : "93218993a2d1ea83",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669271549382,
+        "stop" : 1669271549929,
+        "duration" : 547
+      }
+    }, {
+      "uid" : "16baaee28beb8db9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669271406261,
+        "stop" : 1669271406825,
+        "duration" : 564
+      }
+    }, {
+      "uid" : "5bd20d01397bbc08",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669270796623,
+        "stop" : 1669270797170,
+        "duration" : 547
+      }
+    }, {
+      "uid" : "1d3f0567e690348a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669270232131,
+        "stop" : 1669270232679,
+        "duration" : 548
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "711d95c1a06ff179.json",
+  "parameterValues" : [ "chrome-107.0.5304.110" ]
+}
